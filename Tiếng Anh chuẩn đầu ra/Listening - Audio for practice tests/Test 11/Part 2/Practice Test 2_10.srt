@@ -1,0 +1,175 @@
+﻿1
+00:00:00,256 --> 00:00:06,400
+<font color="#f0f0f0">Now you will hear longer talks or conversations each talk or conversation will be followed by</font>
+
+2
+00:00:06,656 --> 00:00:08,192
+<font color="#fcfcfc">Three or more questions</font>
+
+3
+00:00:08,448 --> 00:00:14,592
+<font color="#fcfcfc">Choose the best answer to each question and mark the letter of the correct answer on your answer sheet</font>
+
+4
+00:00:14,848 --> 00:00:18,688
+<font color="#f4f4f4">You will hear each talk or conversation only one time</font>
+
+5
+00:00:19,712 --> 00:00:21,760
+<font color="#fcfcfc">Questions 10 through 13</font>
+
+6
+00:00:22,016 --> 00:00:25,344
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+7
+00:00:26,368 --> 00:00:29,184
+<font color="#fcfcfc">April I need to talk to you for a moment</font>
+
+8
+00:00:29,440 --> 00:00:31,488
+<font color="#d4d4d4">Sure Tom what is it</font>
+
+9
+00:00:32,000 --> 00:00:35,840
+<font color="#fcfcfc">I heard you're interested in joining the school newspaper as a reporter</font>
+
+10
+00:00:36,352 --> 00:00:37,120
+<font color="#fcfcfc">Is that true</font>
+
+11
+00:00:37,632 --> 00:00:39,424
+<font color="#f9f9f9">Do you want to be a member of the staff</font>
+
+12
+00:00:39,936 --> 00:00:46,080
+<font color="#fcfcfc">Sure I'd love to do that my sister is a reporter for the local paper and</font>
+
+13
+00:00:46,336 --> 00:00:52,480
+<font color="#bababa">She tells me all kinds of stories about her job it sounds fun so I want to try</font>
+
+14
+00:00:52,736 --> 00:00:53,248
+<font color="#d4d4d4">Hyatt</font>
+
+15
+00:00:53,504 --> 00:00:55,808
+<font color="#fcfcfc">You know I'm the editor of the paper right</font>
+
+16
+00:00:56,320 --> 00:01:02,208
+<font color="#dbdbdb">Yes I'm aware is that that means you have the power to give me a job doesn't it</font>
+
+17
+00:01:02,720 --> 00:01:03,744
+<font color="#f4f4f4">It sure does</font>
+
+18
+00:01:04,000 --> 00:01:06,560
+<font color="#fcfcfc">And to be honest we need some reporters</font>
+
+19
+00:01:06,816 --> 00:01:09,888
+<font color="#f3f3f3">Susan was a member of the staff until three days ago</font>
+
+20
+00:01:10,144 --> 00:01:12,192
+<font color="#d8d8d8">But she had to quit for some reason</font>
+
+21
+00:01:12,704 --> 00:01:14,240
+<font color="#fcfcfc">Ever since she quit</font>
+
+22
+00:01:14,496 --> 00:01:16,544
+<font color="#fcfcfc">I've been looking for someone to replace her</font>
+
+23
+00:01:16,800 --> 00:01:18,848
+<font color="#b3b3b3">I'd like to give it a shot</font>
+
+24
+00:01:19,104 --> 00:01:24,480
+<font color="#e7e7e7">Great I know you can write because I've seen your work before you have</font>
+
+25
+00:01:24,736 --> 00:01:26,528
+<font color="#fcfcfc">When did you do that</font>
+
+26
+00:01:26,784 --> 00:01:31,904
+<font color="#fbfbfb">Remember a couple of years ago when we had to do that group project in English class</font>
+
+27
+00:01:32,160 --> 00:01:33,696
+<font color="#fcfcfc">You and I were in the same group</font>
+
+28
+00:01:33,952 --> 00:01:36,000
+<font color="#fcfcfc">And I read the paper that you wrote</font>
+
+29
+00:01:36,256 --> 00:01:39,584
+<font color="#fcfcfc">Wow I can't believe you remember it</font>
+
+30
+00:01:40,096 --> 00:01:42,912
+<font color="#fcfcfc">It seems like that happened so long ago</font>
+
+31
+00:01:43,168 --> 00:01:43,936
+<font color="#fcfcfc">Anyway</font>
+
+32
+00:01:44,192 --> 00:01:47,264
+<font color="#fcfcfc">What do you want me to do for my first assignment</font>
+
+33
+00:01:47,520 --> 00:01:51,104
+<font color="#fcfcfc">Do you want me to interview the new social studies teacher</font>
+
+34
+00:01:51,616 --> 00:01:52,128
+<font color="#cecece">No</font>
+
+35
+00:01:52,384 --> 00:01:55,968
+<font color="#f4f4f4">Don't worry about that I've already assigned that duty to Jim</font>
+
+36
+00:01:56,480 --> 00:01:56,992
+<font color="#fcfcfc">Instead</font>
+
+37
+00:01:57,248 --> 00:01:59,552
+<font color="#fcfcfc">I want you to cover tonight's football game</font>
+
+38
+00:01:59,808 --> 00:02:03,648
+<font color="#fcfcfc">It starts at 7:30 and it should last for a couple of hours</font>
+
+39
+00:02:04,160 --> 00:02:06,720
+<font color="#fcfcfc">See if you can get some interviews after the game</font>
+
+40
+00:02:06,976 --> 00:02:08,512
+<font color="#fcfcfc">Especially if we win</font>
+
+41
+00:02:08,768 --> 00:02:12,352
+<font color="#fcfcfc">No problem I look forward to doing that</font>
+
+42
+00:02:14,400 --> 00:02:16,448
+<font color="#c4c4c4">Now answer the questions</font>
+
+43
+00:02:17,472 --> 00:02:18,496
+<font color="#f6f6f6">Number 10</font>
+
+44
+00:02:18,752 --> 00:02:21,824
+<font color="#cacaca">What is the Boys Roll on the student newspaper</font>

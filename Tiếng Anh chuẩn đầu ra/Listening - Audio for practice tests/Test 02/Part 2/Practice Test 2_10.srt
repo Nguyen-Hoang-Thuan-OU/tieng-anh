@@ -1,0 +1,139 @@
+﻿1
+00:00:00,256 --> 00:00:02,816
+<font color="#e1e1e1">Now you will hear longer talks or conversations</font>
+
+2
+00:00:03,072 --> 00:00:06,912
+<font color="#c4c4c4">Each talk or conversation will be followed by three or more questions</font>
+
+3
+00:00:07,424 --> 00:00:12,800
+<font color="#fcfcfc">Choose the best answer to each question and mark the letter of the correct answer on your answer sheet</font>
+
+4
+00:00:13,312 --> 00:00:16,896
+<font color="#eaeaea">You will hear each talk or conversation only one time</font>
+
+5
+00:00:17,920 --> 00:00:19,712
+<font color="#fcfcfc">Questions 10 through 13</font>
+
+6
+00:00:20,224 --> 00:00:23,552
+<font color="#f4f4f4">Listen to a conversation between a student and a principal</font>
+
+7
+00:00:24,576 --> 00:00:25,856
+<font color="#fdfdfd">Good morning Molly</font>
+
+8
+00:00:26,112 --> 00:00:27,904
+<font color="#fcfcfc">Please have a seat in this chair</font>
+
+9
+00:00:28,160 --> 00:00:33,280
+<font color="#fcfcfc">As the principal of this school I'd like to be the first person to welcome you here</font>
+
+10
+00:00:33,792 --> 00:00:38,144
+<font color="#fafafa">Thank you sir I'm very glad to be a new student at Briarwood</font>
+
+11
+00:00:38,400 --> 00:00:39,936
+<font color="#fcfcfc">I'm happy to hear that</font>
+
+12
+00:00:40,192 --> 00:00:44,032
+<font color="#a1a1a1">Milk before you attend your first class do you have any questions for me</font>
+
+13
+00:00:44,288 --> 00:00:50,432
+<font color="#fbfbfb">Not right now sir I'm sure I'll have some questions later but</font>
+
+14
+00:00:50,688 --> 00:00:54,784
+<font color="#fcfcfc">I guess I don't really know what to ask at the moment</font>
+
+15
+00:00:55,040 --> 00:00:56,064
+<font color="#9a9a9a">Alright</font>
+
+16
+00:00:56,320 --> 00:01:00,672
+<font color="#fafafa">In that case let me tell you a little bit about what we expect from you at this school</font>
+
+17
+00:01:00,928 --> 00:01:01,952
+<font color="#fcfcfc">Sure</font>
+
+18
+00:01:02,208 --> 00:01:08,352
+<font color="#fcfcfc">First of all here at Briarwood we take the honor code very seriously so there is to be no cheating</font>
+
+19
+00:01:09,120 --> 00:01:13,728
+<font color="#f4f4f4">That means no cheating on homework test presentations or other assignments</font>
+
+20
+00:01:14,240 --> 00:01:16,800
+<font color="#f1f1f1">In addition we frown upon lying here</font>
+
+21
+00:01:17,056 --> 00:01:18,336
+<font color="#fcfcfc">I understand</font>
+
+22
+00:01:18,848 --> 00:01:22,432
+<font color="#c0c0c0">Good student who cheat or lie are severely punished</font>
+
+23
+00:01:22,688 --> 00:01:24,736
+<font color="#fcfcfc">Do it twice and we will kick you out</font>
+
+24
+00:01:25,248 --> 00:01:29,600
+<font color="#ebebeb">But you seem like a nice young lady so I'm sure we won't have any problems like that with you</font>
+
+25
+00:01:30,112 --> 00:01:33,184
+<font color="#fcfcfc">I hope not sir is there anything else</font>
+
+26
+00:01:33,440 --> 00:01:36,768
+<font color="#f2f2f2">Yes there's one more thing before you go to class</font>
+
+27
+00:01:37,280 --> 00:01:41,376
+<font color="#fcfcfc">Please understand that you can talk to me anytime you have questions or problems</font>
+
+28
+00:01:41,888 --> 00:01:45,728
+<font color="#f6f6f6">I know it's not easy being a transfer student in the middle of the semester</font>
+
+29
+00:01:45,984 --> 00:01:48,288
+<font color="#dddddd">It might take you a while to adjust here</font>
+
+30
+00:01:48,544 --> 00:01:50,336
+<font color="#fcfcfc">But I want to see you succeed</font>
+
+31
+00:01:50,592 --> 00:01:53,920
+<font color="#fcfcfc">So please come to my office if there is anything bothering you</font>
+
+32
+00:01:54,176 --> 00:01:59,040
+<font color="#fcfcfc">Okay if I have any problems I'll be sure to talk to you about them</font>
+
+33
+00:02:00,832 --> 00:02:02,624
+<font color="#fcfcfc">Now answer the questions</font>
+
+34
+00:02:03,648 --> 00:02:04,416
+<font color="#f6f6f6">Number 10</font>
+
+35
+00:02:04,672 --> 00:02:06,464
+<font color="#efefef">What is the principal explaining</font>

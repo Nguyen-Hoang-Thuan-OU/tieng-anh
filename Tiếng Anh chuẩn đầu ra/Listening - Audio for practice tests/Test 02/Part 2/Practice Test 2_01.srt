@@ -1,0 +1,31 @@
+﻿1
+00:00:00,256 --> 00:00:03,072
+<font color="#ebebeb">Practice Test 2</font>
+
+2
+00:00:04,864 --> 00:00:08,960
+<font color="#d9d9d9">Number one listened to a conversation between two friends</font>
+
+3
+00:00:09,728 --> 00:00:14,336
+<font color="#f2f2f2">I love looking at all of the paintings here they are so well done</font>
+
+4
+00:00:14,592 --> 00:00:20,736
+<font color="#fcfcfc">I'm amazed I've never been here before you should come back in the future there are different</font>
+
+5
+00:00:20,992 --> 00:00:23,040
+<font color="#f7f7f7">Paintings on display every month</font>
+
+6
+00:00:23,296 --> 00:00:29,440
+<font color="#e6e6e6">I had no idea let me know the next time you decide to return here sure I can do</font>
+
+7
+00:00:29,696 --> 00:00:30,208
+<font color="#f1f1f1">Do that</font>
+
+8
+00:00:30,976 --> 00:00:33,536
+<font color="#fcfcfc">What is probably true about the speakers</font>

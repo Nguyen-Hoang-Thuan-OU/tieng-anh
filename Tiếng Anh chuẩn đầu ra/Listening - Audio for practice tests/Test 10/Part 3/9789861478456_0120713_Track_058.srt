@@ -1,0 +1,35 @@
+﻿1
+00:00:01,024 --> 00:00:02,048
+<font color="#e5e5e5">Number three</font>
+
+2
+00:00:02,816 --> 00:00:05,888
+<font color="#dbdbdb">Look at the picture Mark number 3 in your textbook</font>
+
+3
+00:00:08,960 --> 00:00:11,520
+<font color="#f9f9f9">The manager is leading a staff meeting</font>
+
+4
+00:00:12,032 --> 00:00:12,800
+<font color="#666666">Be</font>
+
+5
+00:00:13,312 --> 00:00:16,128
+<font color="#fcfcfc">The woman is angry with a colleague</font>
+
+6
+00:00:16,384 --> 00:00:17,408
+<font color="#cdcdcd">See</font>
+
+7
+00:00:17,920 --> 00:00:20,736
+<font color="#fcfcfc">The woman is talking on the phone</font>
+
+8
+00:00:20,992 --> 00:00:22,016
+<font color="#dcdcdc">D</font>
+
+9
+00:00:22,528 --> 00:00:25,088
+<font color="#fcfcfc">The woman is repairing a computer</font>

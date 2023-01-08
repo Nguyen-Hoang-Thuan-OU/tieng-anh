@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#fcfcfc">Number for listen to a conversation between two friends</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#e7e7e7">Jenny I've been looking all over for you do you happen to know Brian's phone number</font>
+
+3
+00:00:12,288 --> 00:00:18,432
+<font color="#9a9a9a">It's 9531 202 what do you need to talk to him about</font>
+
+4
+00:00:18,688 --> 00:00:24,832
+<font color="#f7f7f7">He's one of my partners on that group project and Mister Jacobs class I need to talk to him</font>
+
+5
+00:00:25,088 --> 00:00:29,184
+<font color="#d7d7d7">I'm about it immediately thanks for the number I'll talk to you later</font>
+
+6
+00:00:30,208 --> 00:00:32,768
+<font color="#fcfcfc">What will the boy probably do next</font>

@@ -1,0 +1,3 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#c1c1c1">Number 16 what does the boy say about his parents</font>

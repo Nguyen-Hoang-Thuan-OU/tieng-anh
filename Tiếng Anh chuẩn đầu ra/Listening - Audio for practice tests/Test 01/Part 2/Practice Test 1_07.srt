@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:01,024
+<font color="#d5d5d5">Number 7</font>
+
+2
+00:00:01,536 --> 00:00:04,096
+<font color="#fcfcfc">Listen to a teacher making an announcement</font>
+
+3
+00:00:04,864 --> 00:00:11,008
+<font color="#f2f2f2">Class I would like to talk to you about the science fair it's going to be held from November 3rd</font>
+
+4
+00:00:11,264 --> 00:00:17,408
+<font color="#a8a8a8">To the 5th that's six weeks from now everyone needs to participate in the science fair this year</font>
+
+5
+00:00:17,664 --> 00:00:23,808
+<font color="#ededed">I'd like you all to choose your Topics by next week if you need any help just ask I can help you select</font>
+
+6
+00:00:24,064 --> 00:00:28,160
+<font color="#f2f2f2">Like something what is the purpose of the announcement</font>

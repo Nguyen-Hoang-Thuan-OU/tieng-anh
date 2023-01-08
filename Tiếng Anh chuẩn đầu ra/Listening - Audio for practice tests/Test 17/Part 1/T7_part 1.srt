@@ -1,0 +1,531 @@
+﻿1
+00:00:00,768 --> 00:00:02,560
+<font color="#cbcbcb">Question 1</font>
+
+2
+00:00:03,584 --> 00:00:05,376
+<font color="#fcfcfc">Listen to this news item</font>
+
+3
+00:00:06,400 --> 00:00:08,192
+<font color="#fcfcfc">The firemen rescued</font>
+
+4
+00:00:09,472 --> 00:00:10,496
+<font color="#bababa">Three children</font>
+
+5
+00:00:11,264 --> 00:00:12,032
+<font color="#696969">Be</font>
+
+6
+00:00:12,544 --> 00:00:14,336
+<font color="#dbdbdb">Mrs. Janet Sherwood</font>
+
+7
+00:00:15,360 --> 00:00:16,128
+<font color="#c2c2c2">See</font>
+
+8
+00:00:16,384 --> 00:00:18,432
+<font color="#d4d4d4">Patience from All Saints Hospital</font>
+
+9
+00:00:20,480 --> 00:00:26,624
+<font color="#d4d4d4">Three children aged 64 and 18 months were rescued</font>
+
+10
+00:00:26,880 --> 00:00:28,928
+<font color="#e2e2e2">From the Blazing home by 5 in last night</font>
+
+11
+00:00:29,440 --> 00:00:35,584
+<font color="#d0d0d0">Apartment related by the children's Mother message electric heater in the children's bedrooms at 5</font>
+
+12
+00:00:35,840 --> 00:00:36,864
+<font color="#d3d3d3">The upstairs at the house</font>
+
+13
+00:00:37,632 --> 00:00:42,752
+<font color="#a1a1a1">The children were not had better being kept overnight at nearby All Saints hospital for observation</font>
+
+14
+00:00:47,104 --> 00:00:53,248
+<font color="#d3d3d3">Three children aged 64 and 18 months were rescued</font>
+
+15
+00:00:53,504 --> 00:00:55,552
+<font color="#e8e8e8">From the Blazing home by 5 tonight</font>
+
+16
+00:00:56,064 --> 00:01:02,208
+<font color="#aaaaaa">Apartment related by the children's Mother message electrocuted in the children's bedroom sets</font>
+
+17
+00:01:02,464 --> 00:01:03,488
+<font color="#d0d0d0">The upstairs at the house</font>
+
+18
+00:01:04,256 --> 00:01:09,376
+<font color="#a9a9a9">But it being kept overnight at nearby All Saints hospital for observation</font>
+
+19
+00:01:12,448 --> 00:01:13,728
+<font color="#c6c6c6">Question 2</font>
+
+20
+00:01:15,008 --> 00:01:17,056
+<font color="#fcfcfc">Listen to these instructions</font>
+
+21
+00:01:18,080 --> 00:01:20,384
+<font color="#f9f9f9">You should let tea Brew for</font>
+
+22
+00:01:21,664 --> 00:01:22,688
+<font color="#f6f6f6">2 minutes</font>
+
+23
+00:01:23,456 --> 00:01:24,224
+<font color="#5f5f5f">Be</font>
+
+24
+00:01:24,480 --> 00:01:25,504
+<font color="#f9f9f9">3 minutes</font>
+
+25
+00:01:26,272 --> 00:01:27,040
+<font color="#cdcdcd">See</font>
+
+26
+00:01:27,296 --> 00:01:28,064
+<font color="#eeeeee">One minute</font>
+
+27
+00:01:35,232 --> 00:01:41,376
+<font color="#e8e8e8">So how do you make a really good cup of tea</font>
+
+28
+00:01:43,424 --> 00:01:48,800
+<font color="#b6b6b6">Use the steam from the devil to roam the inside of a teapot</font>
+
+29
+00:01:49,056 --> 00:01:55,200
+<font color="#878787">Use 1001 to deport good tea</font>
+
+30
+00:01:55,456 --> 00:02:01,344
+<font color="#d9d9d9">Control the boiling water for 3 minutes</font>
+
+31
+00:02:01,856 --> 00:02:08,000
+<font color="#b9b9b9">Only can do cups add milk and sugar to taste</font>
+
+32
+00:02:18,496 --> 00:02:24,640
+<font color="#b7b7b7">So how do you make a really good cup of tea</font>
+
+33
+00:02:26,688 --> 00:02:30,528
+<font color="#d4d4d4">Use the steam from the kettle to warm the inside of a teapot</font>
+
+34
+00:02:30,784 --> 00:02:32,064
+<font color="#d2d2d2">Apathy</font>
+
+35
+00:02:32,320 --> 00:02:38,464
+<font color="#a5a5a5">Use 1001 to default to use good tea</font>
+
+36
+00:02:38,720 --> 00:02:44,864
+<font color="#999999">Do the boiling water for 3 minutes</font>
+
+37
+00:02:45,120 --> 00:02:51,264
+<font color="#e5e5e5">Only Thing 2 cups add milk and sugar to taste</font>
+
+38
+00:02:54,592 --> 00:02:55,872
+<font color="#c8c8c8">Question three</font>
+
+39
+00:02:57,152 --> 00:02:58,944
+<font color="#fcfcfc">Listen to this conversation</font>
+
+40
+00:02:59,712 --> 00:03:03,040
+<font color="#e2e2e2">Danny intends to contact local companies by</font>
+
+41
+00:03:04,320 --> 00:03:05,344
+<font color="#eeeeee">Winningham</font>
+
+42
+00:03:05,856 --> 00:03:07,648
+<font color="#fcfcfc">Be writing to them</font>
+
+43
+00:03:08,160 --> 00:03:08,928
+<font color="#cdcdcd">See</font>
+
+44
+00:03:09,184 --> 00:03:10,464
+<font color="#9e9e9e">Cooling round</font>
+
+45
+00:03:13,024 --> 00:03:19,168
+<font color="#fcfcfc">I've lost my job</font>
+
+46
+00:03:19,424 --> 00:03:25,568
+<font color="#969696">What companies are used to do with what you can do</font>
+
+47
+00:03:25,824 --> 00:03:29,664
+<font color="#b0b0b0">Around most of them are local and like to make a better impression button</font>
+
+48
+00:03:34,528 --> 00:03:40,672
+<font color="#f1f1f1">I've lost my job</font>
+
+49
+00:03:40,928 --> 00:03:47,072
+<font color="#d3d3d3">Companies 8 to deal with</font>
+
+50
+00:03:47,328 --> 00:03:51,168
+<font color="#cecece">Around most of them are local am I can make a better impression than button</font>
+
+51
+00:03:53,472 --> 00:03:54,752
+<font color="#c6c6c6">Question for</font>
+
+52
+00:03:55,520 --> 00:03:57,568
+<font color="#fcfcfc">Listen to this transaction</font>
+
+53
+00:03:58,080 --> 00:04:00,640
+<font color="#d6d6d6">Where does the exchange take place</font>
+
+54
+00:04:02,176 --> 00:04:03,200
+<font color="#dfdfdf">Shop</font>
+
+55
+00:04:04,736 --> 00:04:05,504
+<font color="#fcfcfc">In a bank</font>
+
+56
+00:04:06,272 --> 00:04:08,064
+<font color="#8e8e8e">Sienna texting</font>
+
+57
+00:04:10,368 --> 00:04:16,512
+<font color="#aeaeae">Batman Day 2019</font>
+
+58
+00:04:16,768 --> 00:04:18,559
+<font color="#fcfcfc">494</font>
+
+59
+00:04:18,815 --> 00:04:24,959
+<font color="#dadada">Oh I don't think I have that exactly</font>
+
+60
+00:04:25,215 --> 00:04:30,847
+<font color="#f2f2f2">No problem. Okay give me that</font>
+
+61
+00:04:31,359 --> 00:04:37,503
+<font color="#fcfcfc">I think so</font>
+
+62
+00:04:43,903 --> 00:04:50,047
+<font color="#808080">Making beats 2019</font>
+
+63
+00:04:50,303 --> 00:04:52,095
+<font color="#e6e6e6">494</font>
+
+64
+00:04:52,351 --> 00:04:58,495
+<font color="#c9c9c9">I don't think I'm not exactly</font>
+
+65
+00:04:58,751 --> 00:05:04,383
+<font color="#e9e9e9">No problem.</font>
+
+66
+00:05:04,895 --> 00:05:06,175
+<font color="#fcfcfc">I think so</font>
+
+67
+00:05:06,431 --> 00:05:08,735
+<font color="#d7d7d7">Two pence pieces</font>
+
+68
+00:05:08,991 --> 00:05:11,807
+<font color="#ececec">15010 Pence change thank you very much</font>
+
+69
+00:05:14,367 --> 00:05:15,647
+<font color="#e3e3e3">Question 5</font>
+
+70
+00:05:16,671 --> 00:05:19,487
+<font color="#fafafa">Listen to this announcement on board an aircraft</font>
+
+71
+00:05:20,255 --> 00:05:24,607
+<font color="#fcfcfc">The purpose of the announcement is to inform passengers</font>
+
+72
+00:05:26,655 --> 00:05:29,215
+<font color="#a0a0a0">B of the entertainment available</font>
+
+73
+00:05:29,983 --> 00:05:30,751
+<font color="#cdcdcd">See</font>
+
+74
+00:05:31,007 --> 00:05:32,543
+<font color="#d4d4d4">The latest news</font>
+
+75
+00:05:34,591 --> 00:05:40,735
+<font color="#c2c2c2">Welcome aboard a transatlantic flight 465 to Miami</font>
+
+76
+00:05:40,991 --> 00:05:47,135
+<font color="#a5a5a5">We are sorry to announce about half an hour to take off time this is due to Industrial action</font>
+
+77
+00:05:47,391 --> 00:05:53,535
+<font color="#909090">Inconvenience you while we are waiting for the cabins.</font>
+
+78
+00:05:53,791 --> 00:05:59,167
+<font color="#e8e8e8">Complimentary drinks in magazines in the meantime please remain seated</font>
+
+79
+00:05:59,423 --> 00:06:02,495
+<font color="#f2f2f2">We do hope you enjoy transatlantic hospitality</font>
+
+80
+00:06:07,103 --> 00:06:13,247
+<font color="#cdcdcd">Welcome aboard a transatlantic flight 465 to Miami</font>
+
+81
+00:06:13,503 --> 00:06:19,647
+<font color="#e2e2e2">We are sorry to announce there's a delay of about half an hour to take off time this is due to Industrial action</font>
+
+82
+00:06:19,903 --> 00:06:26,047
+<font color="#a3a3a3">Play went inconvenience you while we are waiting for the cabins.</font>
+
+83
+00:06:26,303 --> 00:06:32,447
+<font color="#d4d4d4">Complimentary drinks in magazines in the meantime please remain seated</font>
+
+84
+00:06:32,703 --> 00:06:35,263
+<font color="#d5d5d5">Do hope you enjoy transatlantic hospitality</font>
+
+85
+00:06:38,335 --> 00:06:39,871
+<font color="#c6c6c6">Question 6</font>
+
+86
+00:06:40,639 --> 00:06:43,455
+<font color="#fcfcfc">Listen to this recorded telephone message</font>
+
+87
+00:06:44,223 --> 00:06:45,503
+<font color="#f7f7f7">You have phoned</font>
+
+88
+00:06:45,759 --> 00:06:46,271
+<font color="#9e9e9e">Hey</font>
+
+89
+00:06:46,527 --> 00:06:47,551
+<font color="#efefef">A library</font>
+
+90
+00:06:48,319 --> 00:06:50,879
+<font color="#e0e0e0">Be a telephone ordering service</font>
+
+91
+00:06:51,903 --> 00:06:53,951
+<font color="#eeeeee">See a post office</font>
+
+92
+00:06:56,255 --> 00:07:02,399
+<font color="#bebebe">Thank you for calling the bargain Traders or denying your cord is being queued while please make sure you have the</font>
+
+93
+00:07:02,655 --> 00:07:08,799
+<font color="#dbdbdb">The following information available to order quickly and accurately</font>
+
+94
+00:07:09,055 --> 00:07:14,431
+<font color="#dddddd">Credit card type it's number and its expiry date second-order</font>
+
+95
+00:07:14,687 --> 00:07:20,831
+<font color="#a1a1a1">Which item you wish to order please tell us the item code the color the sign and the quantity required</font>
+
+96
+00:07:21,087 --> 00:07:24,671
+<font color="#d6d6d6">Your order will be sent today please allow one week for postal delivery</font>
+
+97
+00:07:29,535 --> 00:07:35,679
+<font color="#b7b7b7">Thank you for calling the bug and traitors or denying your call is being queued meanwhile please make sure you have</font>
+
+98
+00:07:35,935 --> 00:07:40,287
+<font color="#e7e7e7">The following information available to order quickly and accurately</font>
+
+99
+00:07:40,543 --> 00:07:45,151
+<font color="#e0e0e0">First we will need your credit card type it's number and its expiry date</font>
+
+100
+00:07:45,407 --> 00:07:47,711
+<font color="#7b7b7b">Second only details of the order</font>
+
+101
+00:07:47,967 --> 00:07:53,855
+<font color="#d2d2d2">Which item you wish to order please tell us the item code the color the sign on the quantity required</font>
+
+102
+00:07:54,111 --> 00:07:57,951
+<font color="#c0c0c0">The order will be sent today but please allow one week for postal delivery</font>
+
+103
+00:08:01,279 --> 00:08:02,559
+<font color="#bfbfbf">Question 7</font>
+
+104
+00:08:03,839 --> 00:08:06,143
+<font color="#ededed">Listen to the end of the speak</font>
+
+105
+00:08:06,911 --> 00:08:09,215
+<font color="#cdcdcd">The speech takes place at</font>
+
+106
+00:08:10,495 --> 00:08:11,519
+<font color="#fcfcfc">Grafton</font>
+
+107
+00:08:12,031 --> 00:08:12,799
+<font color="#646464">Be</font>
+
+108
+00:08:13,055 --> 00:08:13,823
+<font color="#fcfcfc">Christening</font>
+
+109
+00:08:14,847 --> 00:08:15,615
+<font color="#cdcdcd">See</font>
+
+110
+00:08:15,871 --> 00:08:16,895
+<font color="#e1e1e1">Wedding</font>
+
+111
+00:08:18,431 --> 00:08:24,575
+<font color="#b6b6b6">About Joe Louis</font>
+
+112
+00:08:24,831 --> 00:08:28,415
+<font color="#ababab">Many years of happiness and every best wishes for the future</font>
+
+113
+00:08:29,183 --> 00:08:31,231
+<font color="#9b9b9b">Goodnight one last present your teeth</font>
+
+114
+00:08:31,487 --> 00:08:32,767
+<font color="#fafafa">If you offend your glasses</font>
+
+115
+00:08:33,279 --> 00:08:38,143
+<font color="#eaeaea">And that is to ask you to raise your glasses for a toast to the health of the Bridesmaids</font>
+
+116
+00:08:38,399 --> 00:08:39,679
+<font color="#fdfdfd">Ladies and gentlemen</font>
+
+117
+00:08:39,935 --> 00:08:41,215
+<font color="#e5e5e5">The Bridesmaids</font>
+
+118
+00:08:52,735 --> 00:08:56,319
+<font color="#aeaeae">Happy couple many years of happiness and every best wishes for the future</font>
+
+119
+00:08:57,087 --> 00:08:59,135
+<font color="#c7c7c7">Goodnight one last Pleasant UT</font>
+
+120
+00:08:59,391 --> 00:09:00,671
+<font color="#cecece">If you offend your glasses</font>
+
+121
+00:09:01,183 --> 00:09:06,047
+<font color="#ededed">And that is to ask you to raise your glasses for a toast to the health of the Bridesmaids</font>
+
+122
+00:09:06,303 --> 00:09:07,583
+<font color="#fdfdfd">Ladies and gentlemen</font>
+
+123
+00:09:07,839 --> 00:09:09,119
+<font color="#e8e8e8">The Bridesmaids</font>
+
+124
+00:09:12,703 --> 00:09:13,727
+<font color="#bababa">Question 8</font>
+
+125
+00:09:15,007 --> 00:09:18,847
+<font color="#fafafa">Listen to this conversation which takes place in a dress shop</font>
+
+126
+00:09:19,615 --> 00:09:21,919
+<font color="#f5f5f5">Brenda thinks the red dress</font>
+
+127
+00:09:22,431 --> 00:09:24,479
+<font color="#ababab">Hey is too long</font>
+
+128
+00:09:25,247 --> 00:09:27,039
+<font color="#7e7e7e">Bedone suta</font>
+
+129
+00:09:27,807 --> 00:09:30,111
+<font color="#afafaf">C make her look short</font>
+
+130
+00:09:38,815 --> 00:09:44,447
+<font color="#999999">Probably ain't made you look taller</font>
+
+131
+00:09:46,239 --> 00:09:48,031
+<font color="#9c9c9c">Can you try the blue one on again</font>
+
+132
+00:09:59,295 --> 00:10:04,927
+<font color="#a5a5a5">Probably make it look taller</font>
+
+133
+00:10:06,719 --> 00:10:08,511
+<font color="#d0d0d0">Who played the blue one on again</font>

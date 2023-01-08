@@ -1,0 +1,59 @@
+﻿1
+00:00:00,256 --> 00:00:05,632
+<font color="#e4e4e4">Questions 74 through 76 refer to the following weather report</font>
+
+2
+00:00:06,400 --> 00:00:09,984
+<font color="#d6d6d6">Good morning and welcome to another cold grade A</font>
+
+3
+00:00:10,240 --> 00:00:14,592
+<font color="#fcfcfc">That's right folks it looks like yesterday's weather will be with us again today</font>
+
+4
+00:00:15,104 --> 00:00:19,712
+<font color="#dbdbdb">Will have more freezing rain all day with a chance of snow later on this evening</font>
+
+5
+00:00:19,968 --> 00:00:26,112
+<font color="#f4f4f4">This dreary weather will likely be with us for a few more days though the weekend forecast is looking up</font>
+
+6
+00:00:26,624 --> 00:00:30,464
+<font color="#e5e5e5">The low-pressure system should be moving out of our area by late Friday</font>
+
+7
+00:00:30,720 --> 00:00:36,864
+<font color="#ededed">Then we can expect sunny skies all weekend with a high temperature of around 11 degrees Celsius</font>
+
+8
+00:00:37,120 --> 00:00:38,400
+<font color="#fcfcfc">So don't despair</font>
+
+9
+00:00:38,656 --> 00:00:44,544
+<font color="#e7e7e7">Better weather is just around the corner TuneIn again at noon for an updated report on today's weather</font>
+
+10
+00:00:46,080 --> 00:00:47,616
+<font color="#fcfcfc">Number 74</font>
+
+11
+00:00:48,128 --> 00:00:50,176
+<font color="#fcfcfc">What was the weather yesterday</font>
+
+12
+00:00:57,856 --> 00:00:59,392
+<font color="#fcfcfc">Number 75</font>
+
+13
+00:00:59,904 --> 00:01:01,440
+<font color="#fcfcfc">When might it snow</font>
+
+14
+00:01:09,120 --> 00:01:10,656
+<font color="#fcfcfc">Number 76</font>
+
+15
+00:01:10,912 --> 00:01:13,216
+<font color="#fcfcfc">What will the weekend temperature be</font>

@@ -1,0 +1,55 @@
+﻿1
+00:00:00,768 --> 00:00:06,400
+<font color="#e2e2e2">Questions 92 through 94 refer to the following excerpt from a meeting and directory</font>
+
+2
+00:00:08,192 --> 00:00:14,336
+<font color="#f6f6f6">I know I gave out the new staff phone directory only last week but there have been some changes since</font>
+
+3
+00:00:15,360 --> 00:00:18,176
+<font color="#e3e3e3">We'll start this week's meeting by talking about those</font>
+
+4
+00:00:18,432 --> 00:00:24,320
+<font color="#bbbbbb">Unfortunately Barbara Clements who has been a kostmart employee for over 10 years</font>
+
+5
+00:00:24,576 --> 00:00:30,720
+<font color="#fcfcfc">Found out this week that she will need to undergo a course of medical treatment which is going to prevent her from working</font>
+
+6
+00:00:30,976 --> 00:00:37,120
+<font color="#b5b5b5">Hoping she'll be able to return in a few months but no one knows yet for now we're asked</font>
+
+7
+00:00:37,376 --> 00:00:43,520
+<font color="#afafaf">Taking Luke Graham to step in as temporary manager looking for Barbara</font>
+
+8
+00:00:44,032 --> 00:00:50,176
+<font color="#fcfcfc">Barbara is a very private person but I'm sure she'd appreciate some texts and emails wishing her well</font>
+
+9
+00:00:51,712 --> 00:00:53,248
+<font color="#fcfcfc">Number 92</font>
+
+10
+00:00:53,504 --> 00:00:55,808
+<font color="#fcfcfc">Where is this meeting taking place</font>
+
+11
+00:01:03,744 --> 00:01:05,280
+<font color="#fcfcfc">Number 93</font>
+
+12
+00:01:05,536 --> 00:01:08,352
+<font color="#d1d1d1">What is true of Luke G new position</font>
+
+13
+00:01:15,520 --> 00:01:17,056
+<font color="#fcfcfc">Number 94</font>
+
+14
+00:01:17,312 --> 00:01:23,456
+<font color="#fcfcfc">Look at the graphic according to the speaker which department is going to see a change in manager</font>

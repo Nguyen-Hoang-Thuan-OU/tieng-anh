@@ -1,0 +1,47 @@
+﻿1
+00:00:00,512 --> 00:00:04,864
+<font color="#c6c6c6">Question 74 through 76 refer to the following announcement</font>
+
+2
+00:00:06,912 --> 00:00:13,056
+<font color="#f8f8f8">Recently it has come to my attention that people have been taking office supplies home and this is against come</font>
+
+3
+00:00:13,312 --> 00:00:19,456
+<font color="#f3f3f3">Company policy items like staplers copy paper and even toilet paper from the restroom storage</font>
+
+4
+00:00:19,712 --> 00:00:25,856
+<font color="#c2c2c2">Words have come up missing during the monthly inventory I want to remind everyone that these items are company property</font>
+
+5
+00:00:26,112 --> 00:00:32,256
+<font color="#f8f8f8">And if you are caught taking them you will be fired while these items are freely available for use</font>
+
+6
+00:00:32,512 --> 00:00:38,144
+<font color="#f2f2f2">At work that is the only place where you can take advantage of them consider this a warning</font>
+
+7
+00:00:39,680 --> 00:00:41,216
+<font color="#fcfcfc">Number 74</font>
+
+8
+00:00:41,472 --> 00:00:44,288
+<font color="#fcfcfc">Who is most likely making this announcement</font>
+
+9
+00:00:51,456 --> 00:00:52,992
+<font color="#fcfcfc">Number 75</font>
+
+10
+00:00:53,248 --> 00:00:57,600
+<font color="#fcfcfc">How often does the company take inventory of its supplies</font>
+
+11
+00:01:04,512 --> 00:01:06,048
+<font color="#fcfcfc">Number 76</font>
+
+12
+00:01:06,304 --> 00:01:10,144
+<font color="#fcfcfc">What will happen to someone who takes home toilet paper</font>

@@ -1,0 +1,539 @@
+﻿1
+00:00:00,256 --> 00:00:01,536
+<font color="#bebebe">Part 1</font>
+
+2
+00:00:02,560 --> 00:00:06,400
+<font color="#f7f7f7">Now open your question paper and look at part 1</font>
+
+3
+00:00:07,168 --> 00:00:10,752
+<font color="#b8b8b8">You hear people talking in eight different situations</font>
+
+4
+00:00:11,520 --> 00:00:13,056
+<font color="#f3f3f3">The questions 128</font>
+
+5
+00:00:13,312 --> 00:00:15,872
+<font color="#f4f4f4">Choose the best answer a</font>
+
+6
+00:00:16,128 --> 00:00:17,920
+<font color="#d5d5d5">B o c</font>
+
+7
+00:00:20,224 --> 00:00:20,992
+<font color="#fcfcfc">1</font>
+
+8
+00:00:22,272 --> 00:00:25,088
+<font color="#f9f9f9">Listen to this conversation and opticians</font>
+
+9
+00:00:25,600 --> 00:00:28,416
+<font color="#f7f7f7">What does the man need his glasses for</font>
+
+10
+00:00:30,208 --> 00:00:30,976
+<font color="#fcfcfc">Reading</font>
+
+11
+00:00:31,488 --> 00:00:32,512
+<font color="#666666">Be</font>
+
+12
+00:00:32,768 --> 00:00:33,536
+<font color="#fcfcfc">Driving</font>
+
+13
+00:00:34,304 --> 00:00:36,608
+<font color="#a0a0a0">Sea urchin TV</font>
+
+14
+00:00:44,288 --> 00:00:50,432
+<font color="#efefef">Okay so tell me when you're driving and you start to read something for example the map was</font>
+
+15
+00:00:50,688 --> 00:00:56,832
+<font color="#f3f3f3">Directions would you need to take your clothes off</font>
+
+16
+00:00:57,088 --> 00:01:03,232
+<font color="#bdbdbd">They hurt my eyes if I'll try to focus close up with them on</font>
+
+17
+00:01:03,488 --> 00:01:09,376
+<font color="#f4f4f4">I wear them only when I think it would be dangerous not to wear them in the car you know</font>
+
+18
+00:01:13,728 --> 00:01:19,872
+<font color="#f2f2f2">Okay so tell me when you're driving and you start to read something for example the map with</font>
+
+19
+00:01:20,128 --> 00:01:26,272
+<font color="#f8f8f8">Directions would you need to take your glasses off</font>
+
+20
+00:01:26,528 --> 00:01:32,672
+<font color="#d0d0d0">They hurt my eyes if I'll try to focus close up with them on TV</font>
+
+21
+00:01:32,928 --> 00:01:38,816
+<font color="#ebebeb">I wear them only when I think it would be dangerous not to wear them in the car you know</font>
+
+22
+00:01:40,608 --> 00:01:41,376
+<font color="#e8e8e8">2</font>
+
+23
+00:01:42,144 --> 00:01:44,960
+<font color="#fcfcfc">You will hear a woman talking to a group of people</font>
+
+24
+00:01:45,728 --> 00:01:46,752
+<font color="#fcfcfc">Where are they</font>
+
+25
+00:01:47,520 --> 00:01:49,312
+<font color="#b0b0b0">A museum</font>
+
+26
+00:01:50,080 --> 00:01:52,640
+<font color="#dadada">Be a historic house</font>
+
+27
+00:01:53,408 --> 00:01:55,456
+<font color="#d3d3d3">See a Botanic Garden</font>
+
+28
+00:02:02,624 --> 00:02:08,768
+<font color="#dadada">Many famous artists</font>
+
+29
+00:02:09,024 --> 00:02:15,168
+<font color="#cfcfcf">Landscapes to ceiling with done by Monday knee in the early 1700s</font>
+
+30
+00:02:15,424 --> 00:02:21,568
+<font color="#e6e6e6">Which is the details such as these Exquisite flowers and how The Rustic Furniture fits in with landscape</font>
+
+31
+00:02:21,824 --> 00:02:22,848
+<font color="#9e9e9e">Garden theme</font>
+
+32
+00:02:27,200 --> 00:02:33,344
+<font color="#cfcfcf">Many famous artists as you'll see as we move along these wonderful</font>
+
+33
+00:02:33,600 --> 00:02:39,744
+<font color="#aeaeae">Landscapes in the early 1700s</font>
+
+34
+00:02:40,000 --> 00:02:46,144
+<font color="#d8d8d8">Which is the details such as these Exquisite flowers and how The Rustic Furniture landscape</font>
+
+35
+00:02:46,400 --> 00:02:47,424
+<font color="#727272">Gordon theme</font>
+
+36
+00:02:49,728 --> 00:02:50,496
+<font color="#fafafa">3</font>
+
+37
+00:02:51,264 --> 00:02:54,592
+<font color="#e9e9e9">You will hear a conversation between a woman and her doctor</font>
+
+38
+00:02:55,360 --> 00:02:57,408
+<font color="#d7d7d7">Who does he advise her to see</font>
+
+39
+00:02:58,688 --> 00:03:00,736
+<font color="#ededed">A psychologist</font>
+
+40
+00:03:01,248 --> 00:03:03,552
+<font color="#eeeeee">Be a heart specialist</font>
+
+41
+00:03:04,064 --> 00:03:05,856
+<font color="#f3f3f3">See an optician</font>
+
+42
+00:03:13,280 --> 00:03:19,424
+<font color="#bdbdbd">When it snows this doctor has been having headaches and always been seeing things again</font>
+
+43
+00:03:19,680 --> 00:03:25,824
+<font color="#d2d2d2">What do you mean mrs. Messi</font>
+
+44
+00:03:26,080 --> 00:03:32,224
+<font color="#cccccc">And my heart beats too quickly I just know there's something wrong</font>
+
+45
+00:03:32,480 --> 00:03:38,624
+<font color="#a9a9a9">How do you change your glasses recently when a long time years or more</font>
+
+46
+00:03:38,880 --> 00:03:45,024
+<font color="#c7c7c7">In any case we'll have to give you a Honda Quick Check and do your blood pressure as well</font>
+
+47
+00:03:49,632 --> 00:03:55,776
+<font color="#dadada">When it snows this doctor has been having headaches and always been seeing things again</font>
+
+48
+00:03:56,032 --> 00:04:02,176
+<font color="#e4e4e4">What do you mean mrs. Murphy</font>
+
+49
+00:04:02,432 --> 00:04:08,576
+<font color="#d0d0d0">Giving me mad and my heart beats too quickly I just know there's something wrong</font>
+
+50
+00:04:08,832 --> 00:04:14,976
+<font color="#afafaf">Have you changed your glasses recently a long time years or more</font>
+
+51
+00:04:15,232 --> 00:04:21,375
+<font color="#cacaca">In any case we'll have to give you a heart attack Quick Check and blood pressure</font>
+
+52
+00:04:24,191 --> 00:04:24,959
+<font color="#e3e3e3">4</font>
+
+53
+00:04:25,471 --> 00:04:28,543
+<font color="#efefef">Listen to this man talking about healthy eating</font>
+
+54
+00:04:29,311 --> 00:04:31,103
+<font color="#fafafa">What does he suggest</font>
+
+55
+00:04:31,615 --> 00:04:34,175
+<font color="#a2a2a2">Hey he's a large breakfast</font>
+
+56
+00:04:35,711 --> 00:04:37,247
+<font color="#e8e8e8">Eat a large lunch</font>
+
+57
+00:04:38,015 --> 00:04:40,319
+<font color="#f3f3f3">See he's a large dinner</font>
+
+58
+00:04:47,743 --> 00:04:53,887
+<font color="#f1f1f1">I don't know you young people never seem to be properly these days a cup of coffee in the morning sandwich</font>
+
+59
+00:04:54,143 --> 00:05:00,287
+<font color="#b3b3b3">Then you'll beat me in the evening it's just not right your poor buddies can't cope</font>
+
+60
+00:05:00,799 --> 00:05:06,943
+<font color="#898989">Trying to digest the food you've just eaten what's a waste of energy</font>
+
+61
+00:05:07,199 --> 00:05:13,343
+<font color="#c3c3c3">We were always told breakfast like a king that way it sets you up for the rest of the day and start you off right</font>
+
+62
+00:05:17,695 --> 00:05:23,839
+<font color="#f5f5f5">I don't know you young people never seem to be properly these days a cup of coffee in the morning sandwich</font>
+
+63
+00:05:24,095 --> 00:05:30,239
+<font color="#bfbfbf">Lunch and then you'll beat me in the evening it's just not right your poor buddies can't cope</font>
+
+64
+00:05:30,751 --> 00:05:36,895
+<font color="#bcbcbc">Have to work all night trying to digest the food you've just eaten what a waste of energy</font>
+
+65
+00:05:37,151 --> 00:05:43,295
+<font color="#c0c0c0">We were always told breakfast like a king that we had set you up for the rest of the day and start you off right</font>
+
+66
+00:05:45,599 --> 00:05:46,623
+<font color="#f8f8f8">5</font>
+
+67
+00:05:47,647 --> 00:05:50,207
+<font color="#fcfcfc">Listen to this girl talking about a holiday</font>
+
+68
+00:05:51,231 --> 00:05:53,279
+<font color="#969696">Where was she left behind</font>
+
+69
+00:05:54,303 --> 00:05:54,815
+<font color="#fcfcfc">Hey</font>
+
+70
+00:05:55,071 --> 00:05:56,095
+<font color="#fcfcfc">France</font>
+
+71
+00:05:57,119 --> 00:05:58,655
+<font color="#939393">B Italy</font>
+
+72
+00:05:59,423 --> 00:06:01,215
+<font color="#c8c8c8">C-SPAN</font>
+
+73
+00:06:16,063 --> 00:06:21,695
+<font color="#d9d9d9">Exhausted and hungry and with no idea of what to expect when we reach Madrid</font>
+
+74
+00:06:21,951 --> 00:06:28,095
+<font color="#dcdcdc">Wholesale my rucksack in Rome Central Station just remembering the fabulous views and Italian Lakes</font>
+
+75
+00:06:28,351 --> 00:06:34,495
+<font color="#f3f3f3">French chateau</font>
+
+76
+00:06:51,647 --> 00:06:57,279
+<font color="#d7d7d7">Exhausted and hungry and with no idea of what to expect when we reach Madrid</font>
+
+77
+00:06:57,535 --> 00:07:03,679
+<font color="#d2d2d2">Central Station just remembering the fabulous views in the Italian Lakes</font>
+
+78
+00:07:03,935 --> 00:07:10,079
+<font color="#e7e7e7">French Chateau anyway</font>
+
+79
+00:07:10,335 --> 00:07:15,455
+<font color="#a8a8a8">Rainsoft</font>
+
+80
+00:07:17,759 --> 00:07:18,527
+<font color="#fcfcfc">Sex</font>
+
+81
+00:07:19,551 --> 00:07:22,367
+<font color="#dddddd">You hear this weather forecast on the radio</font>
+
+82
+00:07:22,879 --> 00:07:26,207
+<font color="#fcfcfc">Which parts of England will have the heaviest rainfall</font>
+
+83
+00:07:27,999 --> 00:07:28,767
+<font color="#fcfcfc">London</font>
+
+84
+00:07:29,791 --> 00:07:30,815
+<font color="#656565">Be</font>
+
+85
+00:07:31,071 --> 00:07:32,607
+<font color="#fcfcfc">Western and Central</font>
+
+86
+00:07:33,631 --> 00:07:34,399
+<font color="#cdcdcd">See</font>
+
+87
+00:07:34,911 --> 00:07:35,679
+<font color="#fcfcfc">Northern</font>
+
+88
+00:07:43,103 --> 00:07:49,247
+<font color="#bdbdbd">Antigo tomorrow</font>
+
+89
+00:07:49,503 --> 00:07:55,647
+<font color="#cecece">Gradually increasing Cardinals and rain later in the day or forecast for London temperature</font>
+
+90
+00:07:55,903 --> 00:08:02,047
+<font color="#969696">Will range from 11 degrees Celsius to 22 degrees Celsius be rain in the northwest</font>
+
+91
+00:08:02,303 --> 00:08:08,447
+<font color="#fcfcfc">Quickly spread to the rest of the country</font>
+
+92
+00:08:08,703 --> 00:08:11,519
+<font color="#afafaf">Adobe strong winds over most of Mainland Britain</font>
+
+93
+00:08:15,615 --> 00:08:21,759
+<font color="#9a9a9a">Anna for tomorrow</font>
+
+94
+00:08:22,015 --> 00:08:28,159
+<font color="#afafaf">Gradually increasing Cardinals and rain later in the day are forecast for London temperature</font>
+
+95
+00:08:28,415 --> 00:08:34,559
+<font color="#979797">Will range from 11 degrees Celsius to 22 degrees Celsius</font>
+
+96
+00:08:34,815 --> 00:08:40,959
+<font color="#f3f3f3">Quickly spread to the rest of the country</font>
+
+97
+00:08:41,215 --> 00:08:44,031
+<font color="#bdbdbd">Adobe strong winds over most of Mainland Britain</font>
+
+98
+00:08:46,591 --> 00:08:47,615
+<font color="#fcfcfc">7</font>
+
+99
+00:08:48,895 --> 00:08:52,735
+<font color="#d9d9d9">Listen to this answer phone message in the Lost Property office</font>
+
+100
+00:08:53,503 --> 00:08:56,831
+<font color="#fcfcfc">What do you need to do if you have lost some money</font>
+
+101
+00:08:58,879 --> 00:09:00,671
+<font color="#878787">Cool in at the office</font>
+
+102
+00:09:01,695 --> 00:09:02,463
+<font color="#5b5b5b">Be</font>
+
+103
+00:09:02,975 --> 00:09:05,535
+<font color="#e3e3e3">Contact the police to make a statement</font>
+
+104
+00:09:06,303 --> 00:09:07,071
+<font color="#cdcdcd">See</font>
+
+105
+00:09:07,327 --> 00:09:09,375
+<font color="#fcfcfc">Contact your insurance company</font>
+
+106
+00:09:16,543 --> 00:09:22,687
+<font color="#fbfbfb">Hello this is the Lost Property office there's no one here to take your coolant present</font>
+
+107
+00:09:22,943 --> 00:09:29,087
+<font color="#f5f5f5">Please listen carefully to the following message if you've lost something</font>
+
+108
+00:09:29,343 --> 00:09:35,487
+<font color="#d1d1d1">If you've lost valuables such as jewelry cash or credit cards you need to contact</font>
+
+109
+00:09:35,743 --> 00:09:41,887
+<font color="#bfbfbf">Nearest police station as soon as possible to make a statement for any other items</font>
+
+110
+00:09:42,143 --> 00:09:48,287
+<font color="#f1f1f1">Please coordinate our office opening times on 925 Monday to Friday</font>
+
+111
+00:09:48,543 --> 00:09:49,823
+<font color="#fcfcfc">Thank you</font>
+
+112
+00:09:54,175 --> 00:10:00,319
+<font color="#fbfbfb">Hello this is the Lost Property office there's no one here to take your coolant present</font>
+
+113
+00:10:00,575 --> 00:10:06,719
+<font color="#f0f0f0">Please listen carefully to the following message if you've lost something</font>
+
+114
+00:10:06,975 --> 00:10:13,119
+<font color="#e1e1e1">If you've lost valuables such as jewelry cash credit cards you need to contact</font>
+
+115
+00:10:13,375 --> 00:10:19,519
+<font color="#d7d7d7">Nearest police station as soon as possible to make a statement for any other items</font>
+
+116
+00:10:19,775 --> 00:10:25,919
+<font color="#f1f1f1">Please coordinate our office opening times on 925 Monday to Friday</font>
+
+117
+00:10:26,175 --> 00:10:27,199
+<font color="#fcfcfc">Thank you</font>
+
+118
+00:10:29,247 --> 00:10:29,759
+<font color="#dcdcdc">8</font>
+
+119
+00:10:30,527 --> 00:10:32,575
+<font color="#fcfcfc">Listen to the following conversation</font>
+
+120
+00:10:33,087 --> 00:10:35,135
+<font color="#fcfcfc">Where is the woman</font>
+
+121
+00:10:35,903 --> 00:10:36,671
+<font color="#9b9b9b">Hey</font>
+
+122
+00:10:36,927 --> 00:10:38,719
+<font color="#fbfbfb">In a film processing shop</font>
+
+123
+00:10:39,999 --> 00:10:40,767
+<font color="#636363">Be</font>
+
+124
+00:10:41,279 --> 00:10:42,303
+<font color="#f9f9f9">In a Bookshop</font>
+
+125
+00:10:43,327 --> 00:10:45,631
+<font color="#b2b2b2">See in a photocopy shop</font>
+
+126
+00:10:53,055 --> 00:10:59,199
+<font color="#fcfcfc">Good morning</font>
+
+127
+00:10:59,455 --> 00:11:05,599
+<font color="#bbbbbb">I'd like to have these please in color or black and white</font>
+
+128
+00:11:05,855 --> 00:11:11,999
+<font color="#cfcfcf">You realize, expensive. That's fine</font>
+
+129
+00:11:12,255 --> 00:11:16,351
+<font color="#fcfcfc">Did you do it</font>
+
+130
+00:11:20,447 --> 00:11:26,591
+<font color="#d9d9d9">Good morning</font>
+
+131
+00:11:26,847 --> 00:11:32,991
+<font color="#ebebeb">I'd like to have these please</font>
+
+132
+00:11:33,247 --> 00:11:39,391
+<font color="#b8b8b8">Of course you do realize Cutters Motz penciptaan yeah that's fine</font>
+
+133
+00:11:39,647 --> 00:11:44,255
+<font color="#fcfcfc">Did you do it</font>
+
+134
+00:11:47,071 --> 00:11:49,375
+<font color="#f4f4f4">That's the end of part 1</font>
+
+135
+00:11:50,911 --> 00:11:52,703
+<font color="#b1b1b1">Melton 2:02</font>

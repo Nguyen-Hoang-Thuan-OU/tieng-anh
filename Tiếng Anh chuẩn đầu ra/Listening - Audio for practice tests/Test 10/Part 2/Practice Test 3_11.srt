@@ -1,0 +1,3 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#f4f4f4">Number 11 what can be inferred about the girl</font>

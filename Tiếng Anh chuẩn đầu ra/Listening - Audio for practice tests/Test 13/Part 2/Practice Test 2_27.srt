@@ -1,0 +1,195 @@
+﻿1
+00:00:00,256 --> 00:00:02,304
+<font color="#f7f7f7">Questions 27 through 30</font>
+
+2
+00:00:02,560 --> 00:00:05,888
+<font color="#f6f6f6">Listen to part of a discussion in a science class</font>
+
+3
+00:00:07,168 --> 00:00:09,728
+<font color="#fcfcfc">Can anyone tell me what a current is</font>
+
+4
+00:00:10,240 --> 00:00:11,520
+<font color="#bfbfbf">Alice do you know</font>
+
+5
+00:00:12,288 --> 00:00:16,640
+<font color="#e8e8e8">I think it's like when the water in the ocean moves like a river</font>
+
+6
+00:00:16,896 --> 00:00:22,016
+<font color="#e2e2e2">I mean the current seems to move differently than the water around it</font>
+
+7
+00:00:22,272 --> 00:00:26,368
+<font color="#f5f5f5">That's not a bad definition of a current Alice thank you</font>
+
+8
+00:00:26,624 --> 00:00:28,928
+<font color="#f8f8f8">Oceans and seas have currents</font>
+
+9
+00:00:29,184 --> 00:00:34,048
+<font color="#ebebeb">Like Alice said they're like rivers that move in larger bodies of water</font>
+
+10
+00:00:34,560 --> 00:00:37,888
+<font color="#fcfcfc">There are both warm water and cold water currents</font>
+
+11
+00:00:38,144 --> 00:00:40,448
+<font color="#fafafa">There are currents all around the world</font>
+
+12
+00:00:40,704 --> 00:00:42,496
+<font color="#fcfcfc">Some even have names</font>
+
+13
+00:00:42,752 --> 00:00:45,312
+<font color="#f7f7f7">Do any of you happen to know the name of one</font>
+
+14
+00:00:45,824 --> 00:00:47,360
+<font color="#bfbfbf">Read your hand is up</font>
+
+15
+00:00:47,872 --> 00:00:49,408
+<font color="#f4f4f4">The Gulf Stream is a current</font>
+
+16
+00:00:49,664 --> 00:00:52,480
+<font color="#e5e5e5">I know that because it blows right by our city</font>
+
+17
+00:00:52,736 --> 00:00:53,248
+<font color="#fcfcfc">In fact</font>
+
+18
+00:00:53,504 --> 00:00:56,576
+<font color="#f9f9f9">My dad and I take our boat out to fish in the Gulf Stream</font>
+
+19
+00:00:56,832 --> 00:00:58,112
+<font color="#f0f0f0">When we have the time</font>
+
+20
+00:00:58,368 --> 00:01:01,952
+<font color="#d6d6d6">Well done Fred that was the answer I was looking for</font>
+
+21
+00:01:02,208 --> 00:01:05,024
+<font color="#ebebeb">I'm sure most of you have heard of the Gulf Stream</font>
+
+22
+00:01:05,536 --> 00:01:08,352
+<font color="#fcfcfc">But you might not know what exactly it is</font>
+
+23
+00:01:08,608 --> 00:01:11,424
+<font color="#fcfcfc">So let me give you a few facts about it</font>
+
+24
+00:01:11,936 --> 00:01:16,800
+<font color="#e8e8e8">The Gulf Stream is one of the world's largest and longest ocean currents</font>
+
+25
+00:01:17,056 --> 00:01:18,336
+<font color="#fcfcfc">Look at the map here</font>
+
+26
+00:01:19,360 --> 00:01:25,504
+<font color="#f3f3f3">It extends from the Gulf of Mexico and passes Florida and the eastern coast of North America</font>
+
+27
+00:01:25,760 --> 00:01:27,552
+<font color="#e0e0e0">America as it heads northward</font>
+
+28
+00:01:27,808 --> 00:01:31,136
+<font color="#fcfcfc">It crosses the Atlantic Ocean and goes to Europe</font>
+
+29
+00:01:31,648 --> 00:01:34,720
+<font color="#cdcdcd">There it divides into two main streams</font>
+
+30
+00:01:34,976 --> 00:01:37,024
+<font color="#fcfcfc">1 Head South toward Africa</font>
+
+31
+00:01:37,536 --> 00:01:40,864
+<font color="#fcfcfc">The other moves North past England and Western Europe</font>
+
+32
+00:01:41,120 --> 00:01:42,912
+<font color="#fcfcfc">And then goes north to Norway</font>
+
+33
+00:01:44,448 --> 00:01:48,800
+<font color="#e8e8e8">As for the Gulfstream itself it's about 100 kilometers wide</font>
+
+34
+00:01:49,312 --> 00:01:52,640
+<font color="#ececec">It moves at a rate of 2 1/2 m per second</font>
+
+35
+00:01:52,896 --> 00:01:58,528
+<font color="#fcfcfc">It made me move Eastward and northward because of the wind conditions where it originates</font>
+
+36
+00:01:59,040 --> 00:02:01,856
+<font color="#ebebeb">The win you see helps move the water</font>
+
+37
+00:02:02,112 --> 00:02:04,928
+<font color="#f0f0f0">The Gulf Stream starts with very warm water</font>
+
+38
+00:02:05,184 --> 00:02:09,280
+<font color="#efefef">But as the wind pushes it the water starts cooling off</font>
+
+39
+00:02:09,792 --> 00:02:13,120
+<font color="#fcfcfc">By the time the water reaches Europe it's much warmer</font>
+
+40
+00:02:13,376 --> 00:02:15,168
+<font color="#dfdfdf">Not sorry I mean cooler</font>
+
+41
+00:02:15,680 --> 00:02:19,264
+<font color="#fcfcfc">It's much cooler than it was when it left the Gulf of Mexico</font>
+
+42
+00:02:19,776 --> 00:02:20,544
+<font color="#dfdfdf">Alice</font>
+
+43
+00:02:20,800 --> 00:02:25,152
+<font color="#ececec">I heard that the Gulf Stream affect the climates of different places</font>
+
+44
+00:02:25,408 --> 00:02:26,432
+<font color="#fcfcfc">Is that true</font>
+
+45
+00:02:26,944 --> 00:02:27,968
+<font color="#fcfcfc">It sure is</font>
+
+46
+00:02:28,224 --> 00:02:30,528
+<font color="#fcfcfc">And that's what I want to tell you about now</font>
+
+47
+00:02:32,832 --> 00:02:34,624
+<font color="#fcfcfc">Now answer the questions</font>
+
+48
+00:02:35,648 --> 00:02:36,928
+<font color="#fcfcfc">Number 27</font>
+
+49
+00:02:37,440 --> 00:02:39,744
+<font color="#fcfcfc">What is the subject of the discussion</font>

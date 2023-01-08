@@ -1,0 +1,39 @@
+﻿1
+00:00:01,024 --> 00:00:02,048
+<font color="#cecece">Number 5</font>
+
+2
+00:00:02,816 --> 00:00:05,888
+<font color="#cacaca">Look at the picture marked number 5 in your test book</font>
+
+3
+00:00:07,424 --> 00:00:08,448
+<font color="#cfcfcf">Hey</font>
+
+4
+00:00:09,216 --> 00:00:12,288
+<font color="#dedede">A man is showing his ticket and passport</font>
+
+5
+00:00:12,800 --> 00:00:13,824
+<font color="#676767">Be</font>
+
+6
+00:00:14,592 --> 00:00:16,896
+<font color="#e5e5e5">A man is getting off an airplane</font>
+
+7
+00:00:17,408 --> 00:00:18,432
+<font color="#cdcdcd">See</font>
+
+8
+00:00:18,944 --> 00:00:21,760
+<font color="#fcfcfc">A woman is looking for her passport</font>
+
+9
+00:00:22,272 --> 00:00:23,296
+<font color="#b5b5b5">G</font>
+
+10
+00:00:23,808 --> 00:00:26,368
+<font color="#fcfcfc">A man is asking for directions</font>

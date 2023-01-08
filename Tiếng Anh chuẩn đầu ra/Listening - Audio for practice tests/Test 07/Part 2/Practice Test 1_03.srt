@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#bcbcbc">Number three listen to a conversation between two friends</font>
+
+2
+00:00:05,376 --> 00:00:11,520
+<font color="#f0f0f0">Can you believe how hard it's raining today and it supposed to keep raining</font>
+
+3
+00:00:11,776 --> 00:00:17,920
+<font color="#f1f1f1">All weekend that's terrible I was planning to go cycling with some</font>
+
+4
+00:00:18,176 --> 00:00:24,320
+<font color="#cfcfcf">Some of my friends tomorrow morning you'd better cancel those plans the weather forecast is called</font>
+
+5
+00:00:24,576 --> 00:00:30,720
+<font color="#ededed">Calling for thundershowers that's too bad I guess I'll have to go cycle</font>
+
+6
+00:00:30,976 --> 00:00:32,000
+<font color="#a3a3a3">Play next week</font>
+
+7
+00:00:33,024 --> 00:00:36,096
+<font color="#fcfcfc">What is the girl planning to do on the weekend</font>

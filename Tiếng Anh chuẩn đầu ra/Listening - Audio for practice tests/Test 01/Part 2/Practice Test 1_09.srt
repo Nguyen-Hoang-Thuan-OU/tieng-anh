@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#bbbbbb">Number nine listen to a teacher talking in a chemistry class</font>
+
+2
+00:00:05,120 --> 00:00:11,264
+<font color="#dddddd">They were both physical changes and chemical changes a physical change can be something as simple</font>
+
+3
+00:00:11,520 --> 00:00:17,664
+<font color="#f4f4f4">Ripping a paper into two pieces it can also be boiling water to change it from a liquid state</font>
+
+4
+00:00:17,920 --> 00:00:24,064
+<font color="#e0e0e0">To a gaseous one but chemical changes are different they change the actual molecules</font>
+
+5
+00:00:24,320 --> 00:00:25,600
+<font color="#f0f0f0">Substance</font>
+
+6
+00:00:25,856 --> 00:00:28,672
+<font color="#fcfcfc">Let me give you some examples of chemical changes</font>
+
+7
+00:00:29,696 --> 00:00:32,512
+<font color="#fcfcfc">What does the teacher say about chemical changes</font>

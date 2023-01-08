@@ -1,0 +1,87 @@
+﻿1
+00:00:00,256 --> 00:00:05,376
+<font color="#dfdfdf">Questions 77 through 79 refer to the following news item</font>
+
+2
+00:00:06,144 --> 00:00:08,448
+<font color="#eaeaea">This urgent item just in</font>
+
+3
+00:00:08,960 --> 00:00:15,104
+<font color="#c2c2c2">The electricity company warned citizens living in the tri-state region sejuta unusually high</font>
+
+4
+00:00:15,360 --> 00:00:19,456
+<font color="#b2b2b2">Temperatures the demands for electricity mix seeds the supply</font>
+
+5
+00:00:19,968 --> 00:00:24,576
+<font color="#fcfcfc">Air conditioners and fans are in constant use during this hot summer weather</font>
+
+6
+00:00:24,832 --> 00:00:27,904
+<font color="#eaeaea">Putting an enormous strain on electricity Supply</font>
+
+7
+00:00:28,416 --> 00:00:34,560
+<font color="#e1e1e1">This increase in demand for electricity may result in power failures in scattered areas throughout the</font>
+
+8
+00:00:34,816 --> 00:00:35,328
+<font color="#a3a3a3">Region</font>
+
+9
+00:00:35,840 --> 00:00:41,984
+<font color="#dbdbdb">In order to help avoid blackouts citizens to keep the air conditioner set at temperature</font>
+
+10
+00:00:42,240 --> 00:00:44,544
+<font color="#8f8f8f">Hello of an 80 degrees Fahrenheit</font>
+
+11
+00:00:44,800 --> 00:00:49,152
+<font color="#bbbbbb">I'm surround them only intermittently during the hottest part of the day</font>
+
+12
+00:00:49,664 --> 00:00:55,808
+<font color="#f7f7f7">In addition any non-essential use of electrical appliances should be avoided during the Middle</font>
+
+13
+00:00:56,064 --> 00:00:56,576
+<font color="#d8d8d8">The day</font>
+
+14
+00:00:57,088 --> 00:01:03,232
+<font color="#f3f3f3">If a power failure occurring in your neighborhood should cause a potentially life-threatening emergency</font>
+
+15
+00:01:03,488 --> 00:01:09,632
+<font color="#d9d9d9">Call the electricity companies emergency hotline at 5559 74</font>
+
+16
+00:01:09,888 --> 00:01:10,400
+<font color="#e6e6e6">5</font>
+
+17
+00:01:10,912 --> 00:01:16,288
+<font color="#f7f7f7">Emergency workers are standing by in your area ready to respond when needed</font>
+
+18
+00:01:18,080 --> 00:01:19,616
+<font color="#fcfcfc">Number 77</font>
+
+19
+00:01:20,128 --> 00:01:22,688
+<font color="#fcfcfc">What kind of news item is this</font>
+
+20
+00:01:30,368 --> 00:01:31,648
+<font color="#fcfcfc">Number 78</font>
+
+21
+00:01:31,904 --> 00:01:34,208
+<font color="#fcfcfc">When might this announcement be heard</font>
+
+22
+00:01:41,888 --> 00:01:45,984
+<font color="#fcfcfc">Number 79 what causes power failure</font>

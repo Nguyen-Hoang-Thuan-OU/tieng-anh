@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#c3c3c3">Number nine listen to an announcer talking on a radio program</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#cdcdcd">Our next guest is dr. Wolfe Campbell he's an expert on French history</font>
+
+3
+00:00:12,288 --> 00:00:18,432
+<font color="#f8f8f8">He's going to talk to us about Napoleon this evening in case you don't know Napoleon ruled over</font>
+
+4
+00:00:18,688 --> 00:00:24,832
+<font color="#bdbdbd">Branson the early eighteen-hundreds his armies conquered virtually the entire European mainland</font>
+
+5
+00:00:25,088 --> 00:00:31,232
+<font color="#fbfbfb">He was finally defeated at the Battle of Waterloo in 1815 that battle</font>
+
+6
+00:00:31,488 --> 00:00:33,536
+<font color="#fbfbfb">Mark the end of Napoleon's rule</font>
+
+7
+00:00:34,304 --> 00:00:37,888
+<font color="#d1d1d1">What is probably true about doctor Walt Campbell</font>

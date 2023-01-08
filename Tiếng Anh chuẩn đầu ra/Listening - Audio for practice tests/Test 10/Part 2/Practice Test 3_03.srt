@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#b2b2b2">Number three listen to a conversation between two friends</font>
+
+2
+00:00:05,632 --> 00:00:11,776
+<font color="#dedede">Have you met a new girl yet yeah she's quite nice her family lives</font>
+
+3
+00:00:12,032 --> 00:00:18,176
+<font color="#f5f5f5">Next door to mine so I met her a couple of days ago really I didn't know</font>
+
+4
+00:00:18,432 --> 00:00:23,552
+<font color="#dbdbdb">Her name is Sarah she likes volleyball and loves rock music</font>
+
+5
+00:00:23,808 --> 00:00:29,952
+<font color="#fcfcfc">I think we're going to get along fine with her at school be sure to say hi to her sometime</font>
+
+6
+00:00:31,232 --> 00:00:34,048
+<font color="#eeeeee">What are the speakers mainly discussing</font>

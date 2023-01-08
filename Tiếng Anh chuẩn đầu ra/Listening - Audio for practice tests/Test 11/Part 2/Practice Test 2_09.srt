@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#b8b8b8">Number nine listen to a teacher talking in a history class</font>
+
+2
+00:00:05,632 --> 00:00:11,776
+<font color="#fcfcfc">People say that Christopher Columbus discovered the new world however he definitely</font>
+
+3
+00:00:12,032 --> 00:00:18,176
+<font color="#f2f2f2">He wasn't the first person from Europe or Asia to reach either North or South America it is</font>
+
+4
+00:00:18,432 --> 00:00:24,576
+<font color="#bbbbbb">Proven that the Vikings made it to parts of Canada by around the year 1000 and some</font>
+
+5
+00:00:24,832 --> 00:00:30,976
+<font color="#f4f4f4">People even believe that the Romans arrived in the new world centuries earlier let me explain</font>
+
+6
+00:00:32,000 --> 00:00:35,072
+<font color="#fcfcfc">What will the teacher probably do next</font>

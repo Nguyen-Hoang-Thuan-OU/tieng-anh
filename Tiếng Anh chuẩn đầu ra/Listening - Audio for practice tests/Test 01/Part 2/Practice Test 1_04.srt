@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#fcfcfc">Number for listen to a conversation between two friends</font>
+
+2
+00:00:05,120 --> 00:00:08,960
+<font color="#fcfcfc">How did you do on the exam I got an 88</font>
+
+3
+00:00:09,216 --> 00:00:15,360
+<font color="#f3f3f3">I totally bombed it I can't believe that just happened to me you can't be</font>
+
+4
+00:00:15,616 --> 00:00:20,224
+<font color="#dadada">Please can you I thought that you studied for the test the entire weekend</font>
+
+5
+00:00:20,736 --> 00:00:26,880
+<font color="#efefef">I did but when the test started I suddenly forgot everything I had learned</font>
+
+6
+00:00:27,648 --> 00:00:30,976
+<font color="#f7f7f7">What does the girl imply about her grade on the test</font>

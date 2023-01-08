@@ -1,0 +1,175 @@
+﻿1
+00:00:00,256 --> 00:00:02,560
+<font color="#ebebeb">Questions 34 through 37</font>
+
+2
+00:00:03,072 --> 00:00:06,400
+<font color="#f6f6f6">Listen to a teacher talking in a biology class</font>
+
+3
+00:00:07,424 --> 00:00:10,496
+<font color="#fbfbfb">Australia has lots of unusual mammals</font>
+
+4
+00:00:10,752 --> 00:00:13,312
+<font color="#8b8b8b">Such as the kangaroo and the koala</font>
+
+5
+00:00:13,568 --> 00:00:15,360
+<font color="#fbfbfb">We're going to get to them in a bit</font>
+
+6
+00:00:15,616 --> 00:00:21,248
+<font color="#fcfcfc">But for a couple of minutes I'd like to tell you about another unique animal that lives there</font>
+
+7
+00:00:21,504 --> 00:00:23,040
+<font color="#fcfcfc">It's called the dingo</font>
+
+8
+00:00:23,296 --> 00:00:26,624
+<font color="#f5f5f5">The dingo is a predator that's similar to a dog</font>
+
+9
+00:00:26,880 --> 00:00:29,952
+<font color="#fcfcfc">I guess you could say it's more like a wild dog</font>
+
+10
+00:00:30,208 --> 00:00:33,536
+<font color="#efefef">It's believed that the dingo migrated to Australia</font>
+
+11
+00:00:33,792 --> 00:00:36,352
+<font color="#fafafa">From Southeast Asia thousands of years ago</font>
+
+12
+00:00:36,608 --> 00:00:41,472
+<font color="#fbfbfb">Since there are wild dogs similar to the dingo in some parts of Southeast Asia</font>
+
+13
+00:00:43,520 --> 00:00:44,288
+<font color="#fcfcfc">Anyway</font>
+
+14
+00:00:44,544 --> 00:00:49,920
+<font color="#c1c1c1">The dingo lives mainly in the interior of Australia which is called the Outback</font>
+
+15
+00:00:50,176 --> 00:00:53,504
+<font color="#e6e6e6">It has short fur that's reddish brown in color</font>
+
+16
+00:00:53,760 --> 00:00:57,344
+<font color="#949494">Its Underside is more whitish in color</font>
+
+17
+00:00:57,600 --> 00:01:02,976
+<font color="#f9f9f9">The dingo has short pointed ears and a long-tailed as for its size</font>
+
+18
+00:01:03,232 --> 00:01:06,304
+<font color="#d1d1d1">It averages around 30 kg in weight</font>
+
+19
+00:01:06,560 --> 00:01:08,608
+<font color="#afafaf">You can live for up to 20 years</font>
+
+20
+00:01:09,376 --> 00:01:10,912
+<font color="#fcfcfc">As I already mentioned</font>
+
+21
+00:01:11,168 --> 00:01:13,472
+<font color="#e1e1e1">The dingo is a predator in fact</font>
+
+22
+00:01:13,728 --> 00:01:18,080
+<font color="#f3f3f3">It's Australia's largest Predator that lives solely on land</font>
+
+23
+00:01:18,336 --> 00:01:21,664
+<font color="#e5e5e5">The dingo typically eat small mammals like a</font>
+
+24
+00:01:21,920 --> 00:01:23,712
+<font color="#fcfcfc">Like rabbits and rats</font>
+
+25
+00:01:23,968 --> 00:01:27,808
+<font color="#f8f8f8">It also eats birds and reptiles particularly lizards</font>
+
+26
+00:01:28,320 --> 00:01:31,136
+<font color="#fcfcfc">The dingo has been known to attack livestock</font>
+
+27
+00:01:31,392 --> 00:01:33,184
+<font color="#f5f5f5">Mainly sheep and Cattle</font>
+
+28
+00:01:33,696 --> 00:01:37,024
+<font color="#eaeaea">There's an ongoing battle in Australia between farmers</font>
+
+29
+00:01:37,280 --> 00:01:40,352
+<font color="#e0e0e0">Who want to kill the dingoes that attacked their livestock</font>
+
+30
+00:01:40,864 --> 00:01:43,168
+<font color="#efefef">And people who want to keep them alive</font>
+
+31
+00:01:43,680 --> 00:01:46,240
+<font color="#cecece">Dingos occasionally attack humans</font>
+
+32
+00:01:46,496 --> 00:01:49,056
+<font color="#fcfcfc">And have in a few rare cases</font>
+
+33
+00:01:49,312 --> 00:01:50,848
+<font color="#f2f2f2">Killed small children</font>
+
+34
+00:01:51,360 --> 00:01:53,408
+<font color="#f3f3f3">The dingo is a social animal</font>
+
+35
+00:01:53,664 --> 00:01:56,480
+<font color="#e5e5e5">That typically travels in packs of up to 10</font>
+
+36
+00:01:56,736 --> 00:01:59,552
+<font color="#fafafa">In that way I suppose it's like the wolf</font>
+
+37
+00:01:59,808 --> 00:02:02,112
+<font color="#fcfcfc">Another animal related to the dog</font>
+
+38
+00:02:02,880 --> 00:02:05,184
+<font color="#e8e8e8">Female dingoes breed once a year</font>
+
+39
+00:02:05,440 --> 00:02:08,512
+<font color="#d4d4d4">And give birth to up to five pups at a time</font>
+
+40
+00:02:08,768 --> 00:02:12,096
+<font color="#ededed">The pups usually stay with their mother for up to eight months</font>
+
+41
+00:02:12,608 --> 00:02:18,752
+<font color="#dadada">Now let me tell you a little about how dingoes communicate with each other I think this is pretty</font>
+
+42
+00:02:21,568 --> 00:02:23,360
+<font color="#fcfcfc">Now answer the questions</font>
+
+43
+00:02:24,384 --> 00:02:25,664
+<font color="#fcfcfc">Number 34</font>
+
+44
+00:02:26,176 --> 00:02:27,968
+<font color="#fcfcfc">What is the purpose of the lecture</font>

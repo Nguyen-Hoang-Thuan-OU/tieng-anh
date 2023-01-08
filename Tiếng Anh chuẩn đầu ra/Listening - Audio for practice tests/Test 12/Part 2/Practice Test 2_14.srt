@@ -1,0 +1,119 @@
+﻿1
+00:00:00,256 --> 00:00:06,144
+<font color="#f6f6f6">Questions 14 through 18 listen to a conversation between a teacher and a student</font>
+
+2
+00:00:07,168 --> 00:00:07,936
+<font color="#dfdfdf">Miss Widow</font>
+
+3
+00:00:08,192 --> 00:00:11,776
+<font color="#fcfcfc">You mentioned something about an extra-credit project in class today</font>
+
+4
+00:00:12,032 --> 00:00:13,824
+<font color="#fcfcfc">Could you tell me a little about it</font>
+
+5
+00:00:14,080 --> 00:00:15,104
+<font color="#fcfcfc">Okay</font>
+
+6
+00:00:15,360 --> 00:00:17,664
+<font color="#fcfcfc">But why do you want to do it</font>
+
+7
+00:00:18,176 --> 00:00:23,808
+<font color="#cfcfcf">I'm not pleased with my grades so I figured that if I can get some bonus point</font>
+
+8
+00:00:24,064 --> 00:00:26,368
+<font color="#dcdcdc">I might be able to pull off an A in your class</font>
+
+9
+00:00:26,624 --> 00:00:32,768
+<font color="#fcfcfc">That's a good attitude to have Bill but I don't have much time to tell you about it</font>
+
+10
+00:00:33,024 --> 00:00:38,144
+<font color="#d8d8d8">Because I've got class in a couple of minutes and so do you I believe</font>
+
+11
+00:00:38,400 --> 00:00:39,168
+<font color="#fcfcfc">That's correct</font>
+
+12
+00:00:39,424 --> 00:00:41,472
+<font color="#adadad">I have mr. Thompson's class next</font>
+
+13
+00:00:41,728 --> 00:00:44,800
+<font color="#fcfcfc">Well you don't want to be late for his class</font>
+
+14
+00:00:45,312 --> 00:00:49,664
+<font color="#fcfcfc">You know how he can be when students are even a few seconds late</font>
+
+15
+00:00:49,920 --> 00:00:50,944
+<font color="#d5d5d5">Yeah</font>
+
+16
+00:00:51,200 --> 00:00:52,480
+<font color="#fcfcfc">I know all about that</font>
+
+17
+00:00:52,992 --> 00:00:59,136
+<font color="#ededed">Anyway let's get back to the matter at hand the extra-credit project involves doing some work in the</font>
+
+18
+00:00:59,392 --> 00:01:03,232
+<font color="#d4d4d4">Lab I want you to think of an experiment that you'd like to do</font>
+
+19
+00:01:03,744 --> 00:01:05,280
+<font color="#fcfcfc">What kind of experiment</font>
+
+20
+00:01:05,536 --> 00:01:11,680
+<font color="#f7f7f7">Anything really read a couple of chemistry books in the library to get some ideas but check</font>
+
+21
+00:01:11,936 --> 00:01:18,080
+<font color="#e3e3e3">Check with me for approval before you start so basically just do the experiment and then</font>
+
+22
+00:01:18,336 --> 00:01:23,200
+<font color="#e2e2e2">Write a lab report on both the results and your interpretation of the results</font>
+
+23
+00:01:23,456 --> 00:01:24,736
+<font color="#fcfcfc">That's it cool</font>
+
+24
+00:01:24,992 --> 00:01:25,504
+<font color="#cdcdcd">Oh</font>
+
+25
+00:01:25,760 --> 00:01:28,064
+<font color="#fcfcfc">How many bonus points can I get for this</font>
+
+26
+00:01:28,576 --> 00:01:34,720
+<font color="#f3f3f3">Anywhere from 125 it depends on the quality of your work now get going the Bell is about</font>
+
+27
+00:01:34,976 --> 00:01:35,488
+<font color="#dfdfdf">About to ring</font>
+
+28
+00:01:37,536 --> 00:01:39,584
+<font color="#fcfcfc">Now answer the questions</font>
+
+29
+00:01:40,352 --> 00:01:41,888
+<font color="#f5f5f5">Number 14</font>
+
+30
+00:01:42,144 --> 00:01:44,704
+<font color="#f0f0f0">Why does the boy want to do the projects</font>

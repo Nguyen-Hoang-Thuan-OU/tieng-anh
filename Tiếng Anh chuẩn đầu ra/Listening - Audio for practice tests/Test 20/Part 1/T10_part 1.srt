@@ -1,0 +1,575 @@
+﻿1
+00:00:00,512 --> 00:00:02,048
+<font color="#cbcbcb">Question 1</font>
+
+2
+00:00:02,816 --> 00:00:05,376
+<font color="#e2e2e2">Listen to these Anza phone messages</font>
+
+3
+00:00:06,144 --> 00:00:08,704
+<font color="#f4f4f4">Off to the messages Nick is supposed to</font>
+
+4
+00:00:09,984 --> 00:00:11,264
+<font color="#fcfcfc">Call his mother</font>
+
+5
+00:00:11,520 --> 00:00:12,288
+<font color="#5e5e5e">Be</font>
+
+6
+00:00:12,544 --> 00:00:14,336
+<font color="#fcfcfc">Take his mother to Blackpool</font>
+
+7
+00:00:14,848 --> 00:00:15,616
+<font color="#cdcdcd">See</font>
+
+8
+00:00:16,128 --> 00:00:17,152
+<font color="#eaeaea">Call Jenny</font>
+
+9
+00:00:19,968 --> 00:00:24,576
+<font color="#c9c9c9">Hi Nick it's Jenny look I've been trying to get hold of my more day but I'm not getting it on stuff</font>
+
+10
+00:00:24,832 --> 00:00:28,928
+<font color="#aeaeae">Can you pop round and see if he's okay I'll call you later</font>
+
+11
+00:00:31,232 --> 00:00:32,256
+<font color="#afafaf">Jenny again</font>
+
+12
+00:00:32,512 --> 00:00:36,864
+<font color="#c6c6c6">Forget the last message I forgot the Blackpool today call me anyway</font>
+
+13
+00:00:42,240 --> 00:00:46,848
+<font color="#cecece">Hi Nick it's Jenny look I've been trying to get hold of Mom all day but I'm not getting it also</font>
+
+14
+00:00:47,104 --> 00:00:50,944
+<font color="#c7c7c7">Bitwise can you pop round and see if he's okay I'll call you later</font>
+
+15
+00:00:53,504 --> 00:00:58,880
+<font color="#d8d8d8">Skinny again to get the last message I forgot to Blackpool today call me anyway</font>
+
+16
+00:01:01,440 --> 00:01:02,720
+<font color="#c6c6c6">Question 2</font>
+
+17
+00:01:03,488 --> 00:01:05,024
+<font color="#fcfcfc">Listen to this investment</font>
+
+18
+00:01:05,792 --> 00:01:08,096
+<font color="#ededed">You can reduce your shopping bill by</font>
+
+19
+00:01:08,608 --> 00:01:09,376
+<font color="#fcfcfc">Hey</font>
+
+20
+00:01:09,632 --> 00:01:11,424
+<font color="#bebebe">Buying as the way products</font>
+
+21
+00:01:11,936 --> 00:01:12,704
+<font color="#606060">Be</font>
+
+22
+00:01:12,960 --> 00:01:15,008
+<font color="#f6f6f6">Buying popular alternatives</font>
+
+23
+00:01:15,776 --> 00:01:16,544
+<font color="#cdcdcd">See</font>
+
+24
+00:01:16,800 --> 00:01:18,336
+<font color="#fcfcfc">Buying half as much</font>
+
+25
+00:01:20,640 --> 00:01:26,272
+<font color="#bebebe">Cut your shopping bill in half with eyes do a savers</font>
+
+26
+00:01:26,528 --> 00:01:32,672
+<font color="#d7d7d7">That's the way we're doing everything we possibly can to help reduce the cost of a weekly shopping now you can cut your shopping billing</font>
+
+27
+00:01:32,928 --> 00:01:39,072
+<font color="#a8a8a8">Top simply by switching to as the way Sabre products instead of more popular alternative of course supermarket</font>
+
+28
+00:01:39,328 --> 00:01:43,680
+<font color="#b2b2b2">It may argue that price the too low but that's the way we don't do things by half</font>
+
+29
+00:01:43,936 --> 00:01:46,496
+<font color="#d0d0d0">Lightning below to Shoppers</font>
+
+30
+00:01:50,592 --> 00:01:56,480
+<font color="#d4d4d4">Cut your shopping bill in half with eyes the way savers</font>
+
+31
+00:01:56,736 --> 00:02:02,880
+<font color="#e5e5e5">That's the way we're doing everything we possibly can to help reduce the cost of your weekly shopping now you can cut your shopping bill in half</font>
+
+32
+00:02:03,136 --> 00:02:09,280
+<font color="#a4a4a4">Products instead of more popular alternative of course other supermarkets</font>
+
+33
+00:02:09,536 --> 00:02:13,888
+<font color="#959595">They argue that price the tulo but eyes the way we don't do things by half</font>
+
+34
+00:02:14,144 --> 00:02:16,448
+<font color="#aaaaaa">Lightning below to Shoppers</font>
+
+35
+00:02:19,264 --> 00:02:20,544
+<font color="#c8c8c8">Question three</font>
+
+36
+00:02:21,824 --> 00:02:23,616
+<font color="#fcfcfc">Listen to this news item</font>
+
+37
+00:02:24,384 --> 00:02:27,200
+<font color="#e2e2e2">The doctor stopped at Alan's house because</font>
+
+38
+00:02:27,968 --> 00:02:30,528
+<font color="#e3e3e3">Hey he had broken down</font>
+
+39
+00:02:31,296 --> 00:02:31,808
+<font color="#5b5b5b">Be</font>
+
+40
+00:02:32,064 --> 00:02:33,088
+<font color="#fcfcfc">He was lost</font>
+
+41
+00:02:34,112 --> 00:02:36,416
+<font color="#fcfcfc">See the house was on fire</font>
+
+42
+00:02:38,720 --> 00:02:44,864
+<font color="#d1d1d1">Story of a lucky coincidence local Farm</font>
+
+43
+00:02:45,120 --> 00:02:50,752
+<font color="#b7b7b7">Manhattan Bennett yesterday morning when his wife went into labor and he found that his car would not start</font>
+
+44
+00:02:51,264 --> 00:02:55,360
+<font color="#a1a1a1">Screaming that the baby was on its way and it was too late to the hospital</font>
+
+45
+00:02:55,616 --> 00:03:01,248
+<font color="#a1a1a1">A man couldn't believe his luck when a passing motorist to stop to asking for directions turned out to be a success</font>
+
+46
+00:03:01,504 --> 00:03:07,648
+<font color="#b5b5b5">Allen now the proud father of a healthy 8 lb boys safely delivered at home said I hope I have</font>
+
+47
+00:03:07,904 --> 00:03:11,232
+<font color="#cbcbcb">If he ever has a fire</font>
+
+48
+00:03:15,840 --> 00:03:21,984
+<font color="#a4a4a4">The story of a lucky coincidence</font>
+
+49
+00:03:22,240 --> 00:03:27,872
+<font color="#cbcbcb">Yesterday morning he found that his car would not start</font>
+
+50
+00:03:28,384 --> 00:03:32,480
+<font color="#b0b0b0">Screaming that the baby was on its way and then it was too late for the hospital</font>
+
+51
+00:03:32,736 --> 00:03:38,368
+<font color="#9f9f9f">Couldn't believe his luck when a passing motorist to start walking the directions to doubt to be a doctor</font>
+
+52
+00:03:38,624 --> 00:03:44,768
+<font color="#bbbbbb">Allen now the proud father of a healthy 8 lb boys safely delivered at home said I hope I have</font>
+
+53
+00:03:45,024 --> 00:03:48,096
+<font color="#c5c5c5">Happened to be driving past the Doctor's house if he ever has a fire</font>
+
+54
+00:03:50,912 --> 00:03:52,192
+<font color="#c6c6c6">Question for</font>
+
+55
+00:03:53,216 --> 00:03:54,752
+<font color="#fcfcfc">Listen to this conversation</font>
+
+56
+00:03:55,264 --> 00:03:57,824
+<font color="#b4b4b4">Mary is instructed to use a lot of</font>
+
+57
+00:03:58,336 --> 00:03:59,104
+<font color="#cfcfcf">Hey</font>
+
+58
+00:03:59,360 --> 00:04:00,384
+<font color="#848484">Resume</font>
+
+59
+00:04:00,896 --> 00:04:02,432
+<font color="#a4a4a4">B lamb</font>
+
+60
+00:04:03,456 --> 00:04:05,248
+<font color="#8e8e8e">Sea potatoes</font>
+
+61
+00:04:06,784 --> 00:04:12,928
+<font color="#e6e6e6">Mom</font>
+
+62
+00:04:13,184 --> 00:04:19,327
+<font color="#e5e5e5">School project</font>
+
+63
+00:04:19,583 --> 00:04:25,727
+<font color="#bdbdbd">Xavier still start with a large low-sided metal tray and put the letters sliced</font>
+
+64
+00:04:25,983 --> 00:04:32,127
+<font color="#aaaaaa">Potatoes and a sliced onion in the buses</font>
+
+65
+00:04:34,431 --> 00:04:37,247
+<font color="#f4f4f4">But the loss of taste and especially Rosemary almond</font>
+
+66
+00:04:37,759 --> 00:04:39,295
+<font color="#f2f2f2">On top of that put your needs</font>
+
+67
+00:04:44,159 --> 00:04:50,303
+<font color="#fcfcfc">Mom</font>
+
+68
+00:04:50,559 --> 00:04:56,703
+<font color="#c9c9c9">Project</font>
+
+69
+00:04:56,959 --> 00:05:03,103
+<font color="#dcdcdc">Potatoes with the meat to make Steve used to start with a large low-sided metal tray and put Solaris life</font>
+
+70
+00:05:03,359 --> 00:05:09,503
+<font color="#d9d9d9">Onion in the Boston how many potatoes</font>
+
+71
+00:05:09,759 --> 00:05:14,367
+<font color="#fcfcfc">Especially</font>
+
+72
+00:05:14,879 --> 00:05:16,415
+<font color="#f1f1f1">On top of that put you neat</font>
+
+73
+00:05:18,719 --> 00:05:19,999
+<font color="#dfdfdf">Question 5</font>
+
+74
+00:05:21,023 --> 00:05:23,327
+<font color="#fcfcfc">Listen to this receptionist on the phone</font>
+
+75
+00:05:24,351 --> 00:05:26,143
+<font color="#fcfcfc">The receptionist waxing</font>
+
+76
+00:05:26,655 --> 00:05:28,191
+<font color="#afafaf">A school</font>
+
+77
+00:05:28,703 --> 00:05:30,751
+<font color="#fcfcfc">Be a beautician</font>
+
+78
+00:05:31,519 --> 00:05:33,823
+<font color="#f6f6f6">See a doctor surgery</font>
+
+79
+00:05:35,615 --> 00:05:38,431
+<font color="#cdcdcd">Yes of course you can book A Course in mind</font>
+
+80
+00:05:38,687 --> 00:05:43,039
+<font color="#a0a0a0">German know what level you and</font>
+
+81
+00:05:43,807 --> 00:05:49,951
+<font color="#bcbcbc">Well that's no problem we have supper and will test you when you arrive when would you like to</font>
+
+82
+00:05:50,207 --> 00:05:56,351
+<font color="#a8a8a8">21st that's fine complete reception and chocolate to make I will be here to meet you</font>
+
+83
+00:06:01,471 --> 00:06:04,287
+<font color="#dcdcdc">What did you have in mind</font>
+
+84
+00:06:04,543 --> 00:06:08,895
+<font color="#b2b2b2">German if</font>
+
+85
+00:06:09,663 --> 00:06:15,807
+<font color="#d2d2d2">Well that's no problem we have several levels and will test you when you arrive when would you like to</font>
+
+86
+00:06:16,063 --> 00:06:22,207
+<font color="#c2c2c2">21st that's fine complete reception and dr. Schumacher</font>
+
+87
+00:06:25,535 --> 00:06:26,559
+<font color="#c7c7c7">Question 6</font>
+
+88
+00:06:28,095 --> 00:06:29,631
+<font color="#fcfcfc">Listen to this announcement</font>
+
+89
+00:06:30,399 --> 00:06:32,191
+<font color="#ececec">It is made at the scene of</font>
+
+90
+00:06:32,703 --> 00:06:34,239
+<font color="#e9e9e9">Hey a rubbery</font>
+
+91
+00:06:35,007 --> 00:06:36,799
+<font color="#a2a2a2">Be a road accident</font>
+
+92
+00:06:37,567 --> 00:06:38,335
+<font color="#a5a5a5">See</font>
+
+93
+00:06:38,591 --> 00:06:39,871
+<font color="#fcfcfc">A burning building</font>
+
+94
+00:06:41,407 --> 00:06:44,479
+<font color="#c9c9c9">Can we ask members of the public to stand back please</font>
+
+95
+00:06:44,991 --> 00:06:51,135
+<font color="#d9d9d9">We appreciate people they want to do all they can to help but this is only making the job of the Emergency Services Board</font>
+
+96
+00:06:51,391 --> 00:06:51,903
+<font color="#fcfcfc">Difficult</font>
+
+97
+00:06:52,159 --> 00:06:58,303
+<font color="#d1d1d1">Please realize that people may have to jump from the other floors to escape the flames and there is also the danger of falling</font>
+
+98
+00:06:59,327 --> 00:07:00,863
+<font color="#ececec">Thank you for your cooperation</font>
+
+99
+00:07:05,727 --> 00:07:08,799
+<font color="#c4c4c4">Can we ask members of the public to stand back please</font>
+
+100
+00:07:09,311 --> 00:07:15,455
+<font color="#c1c1c1">We appreciate people they want to do all that kinds of help but this is only making the job of the Emergency Services Board</font>
+
+101
+00:07:15,711 --> 00:07:16,223
+<font color="#fcfcfc">Difficult</font>
+
+102
+00:07:16,479 --> 00:07:22,623
+<font color="#c9c9c9">Please realize that people may have to jump from the other floors to escape the Flames. There is also the danger of falling</font>
+
+103
+00:07:22,879 --> 00:07:23,391
+<font color="#888888">Stereo</font>
+
+104
+00:07:23,647 --> 00:07:25,183
+<font color="#f3f3f3">Thank you for your cooperation</font>
+
+105
+00:07:28,255 --> 00:07:29,535
+<font color="#c0c0c0">Question 7</font>
+
+106
+00:07:30,559 --> 00:07:32,351
+<font color="#fcfcfc">Listen to this conversation</font>
+
+107
+00:07:33,119 --> 00:07:35,679
+<font color="#ededed">The tree will probably be taken away by</font>
+
+108
+00:07:35,935 --> 00:07:36,703
+<font color="#d2d2d2">Hey</font>
+
+109
+00:07:36,959 --> 00:07:37,727
+<font color="#888888">Allen</font>
+
+110
+00:07:38,495 --> 00:07:39,007
+<font color="#636363">Be</font>
+
+111
+00:07:39,263 --> 00:07:40,031
+<font color="#c1c1c1">Jim</font>
+
+112
+00:07:40,543 --> 00:07:41,311
+<font color="#cdcdcd">See</font>
+
+113
+00:07:41,567 --> 00:07:42,335
+<font color="#fcfcfc">Steve</font>
+
+114
+00:07:46,943 --> 00:07:53,087
+<font color="#c2c2c2">Jim black trim a front garden with David's about the chef 51 set</font>
+
+115
+00:07:53,343 --> 00:07:59,487
+<font color="#ababab">Install and actually Steve already said that he giveth me if I wanted</font>
+
+116
+00:07:59,743 --> 00:08:04,863
+<font color="#bdbdbd">David feel like crying sometime</font>
+
+117
+00:08:12,799 --> 00:08:18,943
+<font color="#b0b0b0">Jim let trim a front goddamn which David's about the staff did you once it</font>
+
+118
+00:08:19,199 --> 00:08:25,343
+<font color="#d2d2d2">Pine-Sol and actually Steve already said that he give it to me if I wanted</font>
+
+119
+00:08:25,599 --> 00:08:30,719
+<font color="#c1c1c1">David feel like fine sometime</font>
+
+120
+00:08:33,791 --> 00:08:34,815
+<font color="#9b9b9b">Question fate</font>
+
+121
+00:08:36,095 --> 00:08:37,631
+<font color="#fcfcfc">Listen to this extract</font>
+
+122
+00:08:38,911 --> 00:08:43,263
+<font color="#d1d1d1">The speaker doesn't make this recipe very often because the brownies are</font>
+
+123
+00:08:43,775 --> 00:08:44,543
+<font color="#eeeeee">Hey</font>
+
+124
+00:08:45,055 --> 00:08:46,591
+<font color="#fcfcfc">Hard to resist</font>
+
+125
+00:08:47,103 --> 00:08:47,871
+<font color="#666666">Be</font>
+
+126
+00:08:48,127 --> 00:08:49,151
+<font color="#fcfcfc">To moist</font>
+
+127
+00:08:49,919 --> 00:08:50,687
+<font color="#cdcdcd">See</font>
+
+128
+00:08:50,943 --> 00:08:52,479
+<font color="#c8c8c8">To cake like</font>
+
+129
+00:08:54,015 --> 00:09:00,159
+<font color="#c6c6c6">Today we're going to make chocolate fudge brownies</font>
+
+130
+00:09:00,415 --> 00:09:04,767
+<font color="#d6d6d6">These are not squares beloved by Americans I do usually most in chewy</font>
+
+131
+00:09:05,535 --> 00:09:11,679
+<font color="#a4a4a4">People often say Smith at brownies fail because they expect cake with the correct consistency</font>
+
+132
+00:09:11,935 --> 00:09:12,703
+<font color="#eeeeee">Like the chewy</font>
+
+133
+00:09:12,959 --> 00:09:19,103
+<font color="#f8f8f8">So I try not to make them too often</font>
+
+134
+00:09:19,359 --> 00:09:22,943
+<font color="#a2a2a2">You can fly covering them with a chocolate fudge store North Atlanta</font>
+
+135
+00:09:23,199 --> 00:09:23,711
+<font color="#fcfcfc">Now</font>
+
+136
+00:09:23,967 --> 00:09:25,247
+<font color="#f6f6f6">How do you make the brownies</font>
+
+137
+00:09:30,111 --> 00:09:36,255
+<font color="#d3d3d3">How sweet to make chocolate fudge brownies</font>
+
+138
+00:09:36,511 --> 00:09:40,863
+<font color="#a7a7a7">Visa B2 love Americans I do usually most entry</font>
+
+139
+00:09:41,631 --> 00:09:47,775
+<font color="#c2c2c2">People often takes me that brownies failed because they expect cakes but the correct consistency is not cake</font>
+
+140
+00:09:48,031 --> 00:09:48,799
+<font color="#aaaaaa">Like the chewy</font>
+
+141
+00:09:49,055 --> 00:09:55,199
+<font color="#f8f8f8">So I try not to make them too often</font>
+
+142
+00:09:55,455 --> 00:09:59,039
+<font color="#d4d4d4">You can try covering them with a chocolate fudge store</font>
+
+143
+00:09:59,295 --> 00:09:59,807
+<font color="#fcfcfc">Now</font>
+
+144
+00:10:00,063 --> 00:10:01,343
+<font color="#f1f1f1">How do you make the brownies</font>

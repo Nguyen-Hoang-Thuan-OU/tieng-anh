@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#fcfcfc">Number for listen to a conversation between two friends</font>
+
+2
+00:00:04,864 --> 00:00:10,496
+<font color="#dadada">Jason you're left-handed aren't you that's right why do you ask</font>
+
+3
+00:00:10,752 --> 00:00:16,896
+<font color="#f2f2f2">You got a cast on your left hand so I'm wondering how you're going to take notes</font>
+
+4
+00:00:17,152 --> 00:00:18,688
+<font color="#ececec">Don't think I'll be able to</font>
+
+5
+00:00:18,944 --> 00:00:25,088
+<font color="#cacaca">In that case why don't I give you copies of the notes I taken each class that will keep</font>
+
+6
+00:00:25,344 --> 00:00:28,160
+<font color="#bdbdbd">View from falling too far behind</font>
+
+7
+00:00:28,416 --> 00:00:30,976
+<font color="#e4e4e4">What does the girl offer to do for the boy</font>

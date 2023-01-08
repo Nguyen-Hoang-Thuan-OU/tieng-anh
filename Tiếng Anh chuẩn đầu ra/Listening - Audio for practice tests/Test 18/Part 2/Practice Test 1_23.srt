@@ -1,0 +1,159 @@
+﻿1
+00:00:00,256 --> 00:00:02,048
+<font color="#f0f0f0">Questions 23 through 26</font>
+
+2
+00:00:02,304 --> 00:00:04,864
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+3
+00:00:05,632 --> 00:00:09,728
+<font color="#bfbfbf">Etsy you don't look happy right now is something the matter</font>
+
+4
+00:00:10,240 --> 00:00:13,312
+<font color="#fcfcfc">Yeah I got a big problem</font>
+
+5
+00:00:13,568 --> 00:00:17,152
+<font color="#fcfcfc">I am completely overwhelmed by all of my work</font>
+
+6
+00:00:17,408 --> 00:00:22,016
+<font color="#f8f8f8">I'm probably going to fail the history test we have this Thursday 2</font>
+
+7
+00:00:22,272 --> 00:00:26,624
+<font color="#fcfcfc">I simply can't seem to remember any of the information for it</font>
+
+8
+00:00:26,880 --> 00:00:30,464
+<font color="#fcfcfc">I'm sure that if you keep studying you'll do well on it</font>
+
+9
+00:00:30,976 --> 00:00:32,768
+<font color="#f1f1f1">That's easy for you to say</font>
+
+10
+00:00:33,024 --> 00:00:35,328
+<font color="#fcfcfc">You always get good grades in school</font>
+
+11
+00:00:35,584 --> 00:00:37,632
+<font color="#fcfcfc">It's a lot harder for me though</font>
+
+12
+00:00:38,144 --> 00:00:41,216
+<font color="#f8f8f8">You just need to try hard that's all I do</font>
+
+13
+00:00:41,728 --> 00:00:44,544
+<font color="#fcfcfc">You must have a few tips that you can give me</font>
+
+14
+00:00:44,800 --> 00:00:46,592
+<font color="#f5f5f5">Go ahead and fill me in</font>
+
+15
+00:00:46,848 --> 00:00:49,664
+<font color="#fcfcfc">What should I do to improve my grades</font>
+
+16
+00:00:49,920 --> 00:00:53,248
+<font color="#fcfcfc">Well why don't you tell me where you usually study</font>
+
+17
+00:00:53,504 --> 00:00:56,064
+<font color="#fafafa">I pretty much study in my bedroom</font>
+
+18
+00:00:56,320 --> 00:01:00,928
+<font color="#f4f4f4">I lie down on my bed and do most of my studying and homework there</font>
+
+19
+00:01:01,184 --> 00:01:03,488
+<font color="#fcfcfc">Okay that's your first mistake</font>
+
+20
+00:01:03,744 --> 00:01:06,304
+<font color="#fcfcfc">You should never lie down while you're studying</font>
+
+21
+00:01:06,560 --> 00:01:08,608
+<font color="#fcfcfc">All that does is make you sleepy</font>
+
+22
+00:01:08,864 --> 00:01:12,960
+<font color="#c1c1c1">It's hard of you to remember things if you're trying to keep from falling asleep</font>
+
+23
+00:01:13,728 --> 00:01:15,776
+<font color="#fcfcfc">Instead sit at a desk</font>
+
+24
+00:01:16,032 --> 00:01:19,104
+<font color="#fcfcfc">And you might want to play some soft music like</font>
+
+25
+00:01:19,360 --> 00:01:21,408
+<font color="#fcfcfc">Classical music while you study</font>
+
+26
+00:01:21,920 --> 00:01:23,456
+<font color="#fcfcfc">Classical music</font>
+
+27
+00:01:23,712 --> 00:01:28,320
+<font color="#bdbdbd">Serious I always play rock music when I'm studying</font>
+
+28
+00:01:28,576 --> 00:01:30,624
+<font color="#fcfcfc">That's another mistake</font>
+
+29
+00:01:30,880 --> 00:01:32,672
+<font color="#fcfcfc">Why don't you turn the music off</font>
+
+30
+00:01:32,928 --> 00:01:34,464
+<font color="#fcfcfc">And don't watch TV either</font>
+
+31
+00:01:34,720 --> 00:01:37,792
+<font color="#f6f6f6">You need to focus solely on the material you're studying</font>
+
+32
+00:01:38,048 --> 00:01:39,840
+<font color="#fcfcfc">Oh and one more thing</font>
+
+33
+00:01:40,096 --> 00:01:42,400
+<font color="#dedede">Don't log onto the internet while you're studying</font>
+
+34
+00:01:42,656 --> 00:01:44,192
+<font color="#fcfcfc">You'll just get distracted</font>
+
+35
+00:01:44,448 --> 00:01:48,288
+<font color="#eaeaea">And you'll waste tons of time checking your email and your blog</font>
+
+36
+00:01:48,800 --> 00:01:51,872
+<font color="#fcfcfc">Yeah that seems to happen to me a lot</font>
+
+37
+00:01:52,128 --> 00:01:57,248
+<font color="#e9e9e9">Anyway thanks I'll try out your suggestions when I study later tonight</font>
+
+38
+00:01:57,504 --> 00:01:58,784
+<font color="#fcfcfc">I hope they work</font>
+
+39
+00:02:00,832 --> 00:02:02,624
+<font color="#c2c2c2">No answer the questions</font>
+
+40
+00:02:03,648 --> 00:02:07,744
+<font color="#ebebeb">Number 23 what is the girl mention her history test</font>

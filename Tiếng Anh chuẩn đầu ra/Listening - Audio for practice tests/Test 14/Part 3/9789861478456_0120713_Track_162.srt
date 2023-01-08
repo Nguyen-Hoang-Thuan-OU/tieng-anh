@@ -1,0 +1,59 @@
+﻿1
+00:00:01,024 --> 00:00:05,632
+<font color="#dbdbdb">Questions 95 through 97 refer to the following talk and price list</font>
+
+2
+00:00:07,424 --> 00:00:13,568
+<font color="#f3f3f3">If you use a computer or any kind of smart device you run the risk of your device getting infected by a virus</font>
+
+3
+00:00:13,824 --> 00:00:19,968
+<font color="#fcfcfc">Many people think that you can only get malware by downloading suspicious files not updating</font>
+
+4
+00:00:20,224 --> 00:00:26,368
+<font color="#d7d7d7">Software or visiting the wrong website the truth is that you can get infected just by visit</font>
+
+5
+00:00:26,624 --> 00:00:32,768
+<font color="#bababa">Sitting a website even if it's a website you trust your bank the electricity company even</font>
+
+6
+00:00:33,024 --> 00:00:39,168
+<font color="#b2b2b2">Can government websites can transmit a virus ABC offers a variety of basic antivirus software</font>
+
+7
+00:00:39,424 --> 00:00:45,568
+<font color="#ececec">Where packages to protect your computer for 2 days only we are offering a $10 discount on all packages</font>
+
+8
+00:00:45,824 --> 00:00:48,896
+<font color="#fcfcfc">Don't delay protect yourself today</font>
+
+9
+00:00:50,432 --> 00:00:51,968
+<font color="#f2f2f2">Number 95</font>
+
+10
+00:00:52,224 --> 00:00:56,320
+<font color="#fcfcfc">According to the speaker who is at risk of getting a virus</font>
+
+11
+00:01:03,488 --> 00:01:04,768
+<font color="#fcfcfc">Number 96</font>
+
+12
+00:01:05,024 --> 00:01:08,096
+<font color="#f1f1f1">What special deal is this speaker offering</font>
+
+13
+00:01:15,008 --> 00:01:16,544
+<font color="#fcfcfc">Number 97</font>
+
+14
+00:01:16,800 --> 00:01:22,944
+<font color="#f6f6f6">Look at the price list how much would a 20 device package cost if purchased during the neck</font>
+
+15
+00:01:23,200 --> 00:01:24,224
+<font color="#dedede">Today's</font>

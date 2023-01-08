@@ -1,0 +1,7 @@
+﻿1
+00:00:00,256 --> 00:00:06,400
+<font color="#ececec">Number 15 how does the teacher probably feel when she says this focus on your</font>
+
+2
+00:00:06,656 --> 00:00:07,936
+<font color="#909090">Your grades</font>

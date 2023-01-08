@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#bababa">Number 7 listen to a conversation between two friends</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#d2d2d2">How did you do on the pop test we had mr. Norton's class pretty well I answered nine</font>
+
+3
+00:00:12,288 --> 00:00:18,432
+<font color="#dbdbdb">Out of the 10 questions correctly how'd you do on it I mean a couple of silly mistakes</font>
+
+4
+00:00:18,688 --> 00:00:21,760
+<font color="#f6f6f6">So I only got 1/8 out of 10</font>
+
+5
+00:00:22,016 --> 00:00:26,880
+<font color="#cccccc">At least it's not worth too many points it won't affect your grade that much</font>
+
+6
+00:00:27,904 --> 00:00:30,720
+<font color="#ebebeb">What are the speakers mainly talking about</font>

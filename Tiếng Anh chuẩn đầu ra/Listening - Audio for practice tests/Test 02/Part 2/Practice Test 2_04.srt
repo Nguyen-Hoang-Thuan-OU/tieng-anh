@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#fcfcfc">Number for listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,120 --> 00:00:09,472
+<font color="#fafafa">Jeff I need to talk to you about the science club since you're the president</font>
+
+3
+00:00:09,728 --> 00:00:13,312
+<font color="#f3f3f3">Sure what do you need to know Mr Kipling</font>
+
+4
+00:00:13,568 --> 00:00:19,200
+<font color="#f7f7f7">When are you planning on having a club meeting you've got to reserve a room ahead of time to do that</font>
+
+5
+00:00:19,456 --> 00:00:25,600
+<font color="#cacaca">Oh I didn't realize that I guess I better find out what rooms are available next week</font>
+
+6
+00:00:25,856 --> 00:00:26,368
+<font color="#fcfcfc">Then</font>
+
+7
+00:00:27,136 --> 00:00:29,440
+<font color="#fcfcfc">What can be inferred about the boy</font>

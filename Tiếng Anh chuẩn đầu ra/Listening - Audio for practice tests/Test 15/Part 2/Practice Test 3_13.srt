@@ -1,0 +1,3 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#ececec">Number 13 what is the teacher going to do in their next class</font>

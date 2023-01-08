@@ -1,0 +1,3 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#e6e6e6">Number 15 why is the boy worried about the upcoming class</font>

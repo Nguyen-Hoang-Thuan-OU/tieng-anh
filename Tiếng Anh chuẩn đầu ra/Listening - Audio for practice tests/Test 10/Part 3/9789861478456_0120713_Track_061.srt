@@ -1,0 +1,43 @@
+﻿1
+00:00:01,024 --> 00:00:02,048
+<font color="#cacaca">Number 6</font>
+
+2
+00:00:02,816 --> 00:00:06,144
+<font color="#bbbbbb">Look at the picture mart's number 6 in your test book</font>
+
+3
+00:00:07,936 --> 00:00:08,704
+<font color="#fcfcfc">Hey</font>
+
+4
+00:00:09,472 --> 00:00:11,776
+<font color="#fbfbfb">The man is taking a rest at home</font>
+
+5
+00:00:12,544 --> 00:00:13,568
+<font color="#696969">Be</font>
+
+6
+00:00:14,080 --> 00:00:16,640
+<font color="#f9f9f9">The woman is checking the man's blood pressure</font>
+
+7
+00:00:17,408 --> 00:00:18,432
+<font color="#cdcdcd">See</font>
+
+8
+00:00:19,200 --> 00:00:21,248
+<font color="#fcfcfc">Vanessa is lying on a hospital bed</font>
+
+9
+00:00:22,272 --> 00:00:23,040
+<font color="#dbdbdb">D</font>
+
+10
+00:00:24,320 --> 00:00:26,880
+<font color="#e1e1e1">The nurse is giving the patient an injection</font>
+
+11
+00:00:31,488 --> 00:00:33,792
+<font color="#e6e6e6">Go on to the next page</font>

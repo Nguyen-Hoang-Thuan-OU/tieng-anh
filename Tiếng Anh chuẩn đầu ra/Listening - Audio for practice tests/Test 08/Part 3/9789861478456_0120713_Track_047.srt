@@ -1,0 +1,47 @@
+﻿1
+00:00:00,512 --> 00:00:04,864
+<font color="#c5c5c5">Question 74 through 76 refer to the following announcement</font>
+
+2
+00:00:07,168 --> 00:00:13,312
+<font color="#efefef">Thank you everyone I'm sure you have heard the rumors and yes it is true we all move</font>
+
+3
+00:00:13,568 --> 00:00:19,712
+<font color="#c5c5c5">Moving to another building the company has grown rapidly so the new offices we are moving to off</font>
+
+4
+00:00:19,968 --> 00:00:26,112
+<font color="#fcfcfc">Five times bigger than what we have right now to avoid disruption to business we are going to move</font>
+
+5
+00:00:26,368 --> 00:00:32,512
+<font color="#d4d4d4">I bet I'm not in one go I would like us to provide our customers with the continuous service</font>
+
+6
+00:00:32,768 --> 00:00:38,912
+<font color="#f1f1f1">We will start with the sales department on Saturday all the other departments will move between Munn</font>
+
+7
+00:00:39,168 --> 00:00:45,312
+<font color="#dddddd">Monday and Wednesday hopefully by Friday or departments will be running even though files</font>
+
+8
+00:00:45,568 --> 00:00:49,920
+<font color="#c2c2c2">Find furniture maybe all over the place good luck and thank you</font>
+
+9
+00:00:51,712 --> 00:00:52,992
+<font color="#fcfcfc">Number 74</font>
+
+10
+00:00:53,248 --> 00:00:56,576
+<font color="#fcfcfc">Why is the company moving to New offices</font>
+
+11
+00:01:03,744 --> 00:01:09,632
+<font color="#e7e7e7">Number 75 how is the new office building different from the current building</font>
+
+12
+00:01:16,800 --> 00:01:21,664
+<font color="#fcfcfc">Number 76 on what day is the sales department moving</font>

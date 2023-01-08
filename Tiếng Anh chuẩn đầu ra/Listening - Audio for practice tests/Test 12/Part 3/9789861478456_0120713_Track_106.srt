@@ -1,0 +1,55 @@
+﻿1
+00:00:00,768 --> 00:00:05,632
+<font color="#dfdfdf">Questions 89 through 91 refer to the following excerpt from a talk</font>
+
+2
+00:00:07,168 --> 00:00:13,312
+<font color="#f2f2f2">You may have heard about the global seed vault in the media recently it is a state-of-the-art facility</font>
+
+3
+00:00:13,568 --> 00:00:19,712
+<font color="#929292">No way has employees at an agricultural startup company this is something of great interest to answer</font>
+
+4
+00:00:19,968 --> 00:00:26,112
+<font color="#d3d3d3">V is a special facility designed to preserve the genetic diversity of seed collection</font>
+
+5
+00:00:26,368 --> 00:00:32,512
+<font color="#bbbbbb">Seadust or data low temperature for future use seeds from over 1 million different plant varieties from</font>
+
+6
+00:00:32,768 --> 00:00:38,912
+<font color="#d3d3d3">Around the world have been collected there since 2008 climate change is putting some plant species address</font>
+
+7
+00:00:39,168 --> 00:00:45,312
+<font color="#e9e9e9">Protecting this large sample of seed will help ensure that genetic information about find species is Bruce</font>
+
+8
+00:00:45,568 --> 00:00:47,360
+<font color="#b6b6b6">For future Generations</font>
+
+9
+00:00:48,896 --> 00:00:50,176
+<font color="#f7f7f7">Number 89</font>
+
+10
+00:00:50,688 --> 00:00:52,480
+<font color="#fcfcfc">What is this talk about</font>
+
+11
+00:00:59,648 --> 00:01:00,672
+<font color="#fcfcfc">Number 90</font>
+
+12
+00:01:00,928 --> 00:01:04,256
+<font color="#fcfcfc">What does the speaker mean by state-of-the-art</font>
+
+13
+00:01:11,168 --> 00:01:12,704
+<font color="#fcfcfc">Number 91</font>
+
+14
+00:01:12,960 --> 00:01:17,568
+<font color="#fcfcfc">According to the speaker what is the purpose of the global seed vault</font>

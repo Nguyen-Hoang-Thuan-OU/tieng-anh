@@ -1,0 +1,67 @@
+﻿1
+00:00:01,024 --> 00:00:05,632
+<font color="#f5f5f5">Questions 98 through 100 refer to the following talk and class schedule</font>
+
+2
+00:00:07,424 --> 00:00:13,568
+<font color="#c2c2c2">Thank you for coming to the net Charlie a month cooking class today we'll learn how to preserve fruits and</font>
+
+3
+00:00:13,824 --> 00:00:19,968
+<font color="#f8f8f8">Vegetables will then sterilization techniques that you can use to produce safe and tasty food</font>
+
+4
+00:00:20,224 --> 00:00:24,832
+<font color="#f3f3f3">But let me talk for a bit about some of all upcoming classes</font>
+
+5
+00:00:25,344 --> 00:00:30,464
+<font color="#ececec">On June 8th Indian Chef Shari will introduce traditional Indian curries</font>
+
+6
+00:00:30,976 --> 00:00:33,536
+<font color="#a5a5a5">Her classes are always a lot of fun</font>
+
+7
+00:00:33,792 --> 00:00:39,936
+<font color="#f3f3f3">On July 7th Maria will teach you how to make delicious salads and desserts with seasonal fruits</font>
+
+8
+00:00:40,192 --> 00:00:46,336
+<font color="#e4e4e4">Unfortunately we didn't notice a typing error until after we send the schedule to the printer</font>
+
+9
+00:00:46,592 --> 00:00:49,664
+<font color="#f7f7f7">July 9th should in fact read August 9th</font>
+
+10
+00:00:51,200 --> 00:00:52,736
+<font color="#f4f4f4">Number 98</font>
+
+11
+00:00:52,992 --> 00:00:55,296
+<font color="#f8f8f8">What is this talk mainly about</font>
+
+12
+00:01:02,464 --> 00:01:03,744
+<font color="#fcfcfc">Number 99</font>
+
+13
+00:01:04,000 --> 00:01:07,072
+<font color="#eaeaea">On what date will Maria teach a class</font>
+
+14
+00:01:13,984 --> 00:01:15,264
+<font color="#fcfcfc">Number 100</font>
+
+15
+00:01:15,520 --> 00:01:20,896
+<font color="#fcfcfc">Look at the class schedule what class will now take place on August 9th</font>
+
+16
+00:01:28,320 --> 00:01:30,624
+<font color="#fcfcfc">This is the end of the listening test</font>
+
+17
+00:01:30,880 --> 00:01:33,440
+<font color="#c5c5c5">Turn 2 part 5 in your test book</font>

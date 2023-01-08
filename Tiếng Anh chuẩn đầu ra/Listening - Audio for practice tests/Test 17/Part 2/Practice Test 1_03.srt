@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#bdbdbd">Number three listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,120 --> 00:00:09,216
+<font color="#cbcbcb">Mr. Walker have you graded our exams yet</font>
+
+3
+00:00:09,472 --> 00:00:15,616
+<font color="#e1e1e1">I'm afraid not Alice I've already checked the exams for the students in first. But I haven't gotten to York</font>
+
+4
+00:00:15,872 --> 00:00:21,248
+<font color="#e3e3e3">Classes test yet oh when do you think you'll get them back to us</font>
+
+5
+00:00:21,504 --> 00:00:27,136
+<font color="#e8e8e8">I expect to return them to your class no later than this Thursday</font>
+
+6
+00:00:28,416 --> 00:00:31,744
+<font color="#f1f1f1">When is the teacher going to return the girls test</font>

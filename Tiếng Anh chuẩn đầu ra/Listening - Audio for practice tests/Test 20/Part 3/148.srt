@@ -1,0 +1,547 @@
+﻿1
+00:00:01,280 --> 00:00:02,560
+<font color="#fcfcfc">Directions</font>
+
+2
+00:00:03,072 --> 00:00:09,216
+<font color="#d0d0d0">You will hear some short talks given by single speaker</font>
+
+3
+00:00:09,472 --> 00:00:15,616
+<font color="#bbbbbb">What the speaker says select the best response</font>
+
+4
+00:00:15,872 --> 00:00:22,016
+<font color="#d4d4d4">BC</font>
+
+5
+00:00:22,272 --> 00:00:23,808
+<font color="#cacaca">Copy printed in your textbook</font>
+
+6
+00:00:29,696 --> 00:00:35,840
+<font color="#d0d0d0">The 25th Annual International textile trade show will be held from</font>
+
+7
+00:00:36,096 --> 00:00:42,240
+<font color="#e8e8e8">October 21st and will include International</font>
+
+8
+00:00:42,496 --> 00:00:45,824
+<font color="#c4c4c4">Textile manufacturers such as</font>
+
+9
+00:00:46,080 --> 00:00:52,224
+<font color="#ebebeb">Sponsors of the fashion houses</font>
+
+10
+00:00:52,480 --> 00:00:58,624
+<font color="#898989">And Prada is expected</font>
+
+11
+00:00:58,880 --> 00:00:59,648
+<font color="#cfcfcf">200</font>
+
+12
+00:00:59,904 --> 00:01:06,048
+<font color="#f2f2f2">Approximately 45% of the participants are expected to be foreign companies and by the</font>
+
+13
+00:01:06,304 --> 00:01:07,840
+<font color="#dbdbdb">Coming from all over the world</font>
+
+14
+00:01:08,352 --> 00:01:13,472
+<font color="#f5f5f5">The expected number of attendance is expected to easily exceed 5,000</font>
+
+15
+00:01:14,496 --> 00:01:16,032
+<font color="#efefef">Number 71</font>
+
+16
+00:01:16,288 --> 00:01:17,568
+<font color="#fcfcfc">What is</font>
+
+17
+00:01:25,504 --> 00:01:27,040
+<font color="#ededed">Number 72</font>
+
+18
+00:01:27,296 --> 00:01:30,112
+<font color="#fcfcfc">How many businesses are expected to participate</font>
+
+19
+00:01:38,048 --> 00:01:39,328
+<font color="#fcfcfc">Number 73</font>
+
+20
+00:01:39,840 --> 00:01:44,960
+<font color="#ededed">Among this year's participants how many companies are predicted to be from overseas</font>
+
+21
+00:01:52,896 --> 00:01:57,504
+<font color="#f4f4f4">Question 7476</font>
+
+22
+00:01:58,272 --> 00:02:04,416
+<font color="#ececec">The Consular section</font>
+
+23
+00:02:17,472 --> 00:02:23,616
+<font color="#dedede">If you are interested in receiving</font>
+
+24
+00:02:23,872 --> 00:02:30,016
+<font color="#acacac">You can pick them up</font>
+
+25
+00:02:49,728 --> 00:02:51,520
+<font color="#fcfcfc">Number 74</font>
+
+26
+00:02:51,776 --> 00:02:54,080
+<font color="#a7a7a7">Why is Big getting this message</font>
+
+27
+00:03:02,016 --> 00:03:03,552
+<font color="#efefef">Number 75</font>
+
+28
+00:03:03,808 --> 00:03:06,880
+<font color="#efefef">When does the embassy close on Fridays</font>
+
+29
+00:03:14,560 --> 00:03:16,096
+<font color="#f8f8f8">Number 76</font>
+
+30
+00:03:16,352 --> 00:03:19,936
+<font color="#fbfbfb">How can a person wanting to get a Visa</font>
+
+31
+00:03:27,616 --> 00:03:31,968
+<font color="#929292">Question 77 through 79</font>
+
+32
+00:03:34,784 --> 00:03:40,160
+<font color="#fbfbfb">It is with great pleasure that I</font>
+
+33
+00:03:40,416 --> 00:03:46,560
+<font color="#f4f4f4">Angelina Sanchez she's currently the head professor of psychology at</font>
+
+34
+00:03:59,616 --> 00:04:05,760
+<font color="#cecece">Has written</font>
+
+35
+00:04:06,016 --> 00:04:08,064
+<font color="#dedede">Psychology</font>
+
+36
+00:04:21,631 --> 00:04:27,775
+<font color="#fcfcfc">Presently</font>
+
+37
+00:04:35,199 --> 00:04:36,479
+<font color="#fcfcfc">Number 77</font>
+
+38
+00:04:36,991 --> 00:04:39,807
+<font color="#c8c8c8">What is Dante Sanchez is made of division</font>
+
+39
+00:04:47,743 --> 00:04:49,023
+<font color="#fcfcfc">Number 78</font>
+
+40
+00:04:49,535 --> 00:04:52,095
+<font color="#d2d2d2">What is today</font>
+
+41
+00:05:00,031 --> 00:05:01,567
+<font color="#fcfcfc">Number 79</font>
+
+42
+00:05:01,823 --> 00:05:04,895
+<font color="#e8e8e8">What is Miss Sanchez's most publicized work</font>
+
+43
+00:05:12,575 --> 00:05:16,159
+<font color="#919191">Questions</font>
+
+44
+00:05:17,183 --> 00:05:23,327
+<font color="#f9f9f9">Thank you for allowing me to attend the meeting today my name is John Lucas and I am with the safety inspection</font>
+
+45
+00:05:23,583 --> 00:05:29,727
+<font color="#c5c5c5">Sun protection board As You Are</font>
+
+46
+00:05:29,983 --> 00:05:33,055
+<font color="#fcfcfc">Petoskey completed</font>
+
+47
+00:05:33,567 --> 00:05:39,711
+<font color="#ebebeb">And during this process you will also have the responsibility of making sure that your team</font>
+
+48
+00:05:39,967 --> 00:05:42,783
+<font color="#e6e6e6">Safety and protection adequately supervise</font>
+
+49
+00:05:43,039 --> 00:05:49,183
+<font color="#eaeaea">For this reason we are going to go through the safety inspection and protection board policy and procedures manual</font>
+
+50
+00:05:49,439 --> 00:05:55,583
+<font color="#fcfcfc">So that you can understand exactly what is expected of you during your supervisory roles</font>
+
+51
+00:05:57,887 --> 00:05:59,679
+<font color="#efefef">Who is the</font>
+
+52
+00:06:09,407 --> 00:06:13,503
+<font color="#f6f6f6">According to the speaker what is the responsibility</font>
+
+53
+00:06:21,439 --> 00:06:22,719
+<font color="#fcfcfc">Number 82</font>
+
+54
+00:06:22,975 --> 00:06:24,511
+<font color="#d2d2d2">Next</font>
+
+55
+00:06:32,447 --> 00:06:34,239
+<font color="#e6e6e6">Go on to the next page</font>
+
+56
+00:06:37,567 --> 00:06:41,663
+<font color="#e2e2e2">Questions 83 through 85</font>
+
+57
+00:06:42,687 --> 00:06:48,831
+<font color="#fcfcfc">Mesmerizing</font>
+
+58
+00:06:49,087 --> 00:06:55,231
+<font color="#afafaf">Covers for the past 20 years</font>
+
+59
+00:07:26,463 --> 00:07:32,607
+<font color="#e3e3e3">Help me</font>
+
+60
+00:07:32,863 --> 00:07:34,655
+<font color="#ababab">For Delia Delight</font>
+
+61
+00:07:35,423 --> 00:07:36,703
+<font color="#fcfcfc">Number 83</font>
+
+62
+00:07:37,215 --> 00:07:39,519
+<font color="#fcfcfc">How long has the singer been performing</font>
+
+63
+00:07:47,455 --> 00:07:48,735
+<font color="#fcfcfc">Number 84</font>
+
+64
+00:07:48,991 --> 00:07:53,343
+<font color="#f9f9f9">Which one</font>
+
+65
+00:08:01,279 --> 00:08:02,559
+<font color="#fcfcfc">Number 85</font>
+
+66
+00:08:02,815 --> 00:08:07,423
+<font color="#e6e6e6">According to the speaker what did most music</font>
+
+67
+00:08:15,103 --> 00:08:19,455
+<font color="#f1f1f1">Questions 86-88</font>
+
+68
+00:08:19,967 --> 00:08:26,111
+<font color="#ebebeb">Welcome to our 5th annual educators conference this morning we will open the 1st</font>
+
+69
+00:08:26,367 --> 00:08:31,743
+<font color="#f4f4f4">Lecture entitled challenges and changes in teaching for the 21st century</font>
+
+70
+00:08:31,999 --> 00:08:35,327
+<font color="#e7e7e7">Which starts at 9 a.m. and lasts until 11 a.m.</font>
+
+71
+00:08:35,583 --> 00:08:41,727
+<font color="#f8f8f8">Then we will have some time set aside to mix and mingle before we break for lunch at 11:30</font>
+
+72
+00:08:42,239 --> 00:08:47,615
+<font color="#dddddd">We recommend making lunch appointment with our other guests</font>
+
+73
+00:08:47,871 --> 00:08:54,015
+<font color="#f6f6f6">You will have the choice of attending any of the 27</font>
+
+74
+00:08:55,551 --> 00:08:57,855
+<font color="#cacaca">The 27 oz will run until 3</font>
+
+75
+00:08:58,111 --> 00:09:02,207
+<font color="#9a9a9a">The first seminoff is entitled</font>
+
+76
+00:09:02,463 --> 00:09:05,023
+<font color="#c0c0c0">A second seminaries eLearning</font>
+
+77
+00:09:05,791 --> 00:09:07,071
+<font color="#fcfcfc">Number 86</font>
+
+78
+00:09:07,583 --> 00:09:09,631
+<font color="#fcfcfc">How often is the event held</font>
+
+79
+00:09:17,567 --> 00:09:18,847
+<font color="#a7a7a7">87</font>
+
+80
+00:09:19,103 --> 00:09:21,919
+<font color="#e7e7e7">Who is the</font>
+
+81
+00:09:29,855 --> 00:09:31,135
+<font color="#f7f7f7">Number 88</font>
+
+82
+00:09:31,391 --> 00:09:33,439
+<font color="#cecece">Next</font>
+
+83
+00:09:41,375 --> 00:09:45,215
+<font color="#636363">Question</font>
+
+84
+00:09:46,239 --> 00:09:50,847
+<font color="#fcfcfc">Thank you for calling the technical support</font>
+
+85
+00:09:51,103 --> 00:09:57,247
+<font color="#949494">Unfortunately customer representative</font>
+
+86
+00:09:57,503 --> 00:10:00,831
+<font color="#fcfcfc">Taking inquiries regarding</font>
+
+87
+00:10:01,087 --> 00:10:04,927
+<font color="#f9f9f9">Please do not hang up as your business is important to us</font>
+
+88
+00:10:05,439 --> 00:10:06,975
+<font color="#e6e6e6">Assist you</font>
+
+89
+00:10:07,487 --> 00:10:11,071
+<font color="#fbfbfb">Right now the estimated waiting time is 2 minutes</font>
+
+90
+00:10:11,583 --> 00:10:17,727
+<font color="#e4e4e4">If you'd like to check the states</font>
+
+91
+00:10:17,983 --> 00:10:21,823
+<font color="#fcfcfc">Please</font>
+
+92
+00:10:22,079 --> 00:10:28,223
+<font color="#c4c4c4">Will tentatively can relax and listen to the music</font>
+
+93
+00:10:28,479 --> 00:10:32,319
+<font color="#a6a6a6">Sprite</font>
+
+94
+00:10:34,879 --> 00:10:37,183
+<font color="#fcfcfc">Who would most likely hear this message</font>
+
+95
+00:10:45,119 --> 00:10:46,143
+<font color="#dfdfdf">Number 90</font>
+
+96
+00:10:58,175 --> 00:10:59,455
+<font color="#f1f1f1">Number 91</font>
+
+97
+00:10:59,711 --> 00:11:03,551
+<font color="#e5e5e5">How can I get information about the account status</font>
+
+98
+00:11:11,231 --> 00:11:16,351
+<font color="#dbdbdb">Question business</font>
+
+99
+00:11:16,863 --> 00:11:23,007
+<font color="#595959">Emerge</font>
+
+100
+00:11:29,663 --> 00:11:35,807
+<font color="#fcfcfc">Remaining</font>
+
+101
+00:11:55,263 --> 00:11:56,543
+<font color="#f3f3f3">Through this purchase</font>
+
+102
+00:11:57,567 --> 00:11:58,847
+<font color="#f4f4f4">Number 92</font>
+
+103
+00:11:59,103 --> 00:12:00,639
+<font color="#fcfcfc">What is the report about</font>
+
+104
+00:12:08,575 --> 00:12:09,855
+<font color="#fcfcfc">Number 93</font>
+
+105
+00:12:10,111 --> 00:12:14,463
+<font color="#f8f8f8">According to the report what happened</font>
+
+106
+00:12:22,143 --> 00:12:23,679
+<font color="#d6d6d6">Number 94</font>
+
+107
+00:12:23,935 --> 00:12:25,471
+<font color="#f3f3f3">Who is Bill Graham</font>
+
+108
+00:12:38,271 --> 00:12:42,623
+<font color="#c2c2c2">Questions</font>
+
+109
+00:12:43,391 --> 00:12:49,535
+<font color="#c4c4c4">Hello this message is for Mister Jorge Mateo my name is</font>
+
+110
+00:12:49,791 --> 00:12:55,935
+<font color="#fbfbfb">Resources department</font>
+
+111
+00:12:56,191 --> 00:13:02,335
+<font color="#fcfcfc">Accounting department</font>
+
+112
+00:13:02,591 --> 00:13:08,735
+<font color="#e8e8e8">Days convenience</font>
+
+113
+00:13:08,991 --> 00:13:15,135
+<font color="#f4f4f4">Send me an email</font>
+
+114
+00:13:15,391 --> 00:13:18,719
+<font color="#c9c9c9">Stating whether this day will be acceptable for you or not</font>
+
+115
+00:13:18,975 --> 00:13:25,119
+<font color="#f5f5f5">If this day is not good for you please leave an alternative time</font>
+
+116
+00:13:25,375 --> 00:13:27,167
+<font color="#d8d8d8">I will send a confirmation reply</font>
+
+117
+00:13:27,423 --> 00:13:28,447
+<font color="#fcfcfc">Thank you</font>
+
+118
+00:13:32,031 --> 00:13:34,335
+<font color="#e8e8e8">Why is the message</font>
+
+119
+00:13:42,271 --> 00:13:43,551
+<font color="#fcfcfc">Number 96</font>
+
+120
+00:13:43,807 --> 00:13:46,367
+<font color="#c9c9c9">What department does mismo</font>
+
+121
+00:13:54,303 --> 00:13:55,583
+<font color="#fcfcfc">Number 97</font>
+
+122
+00:13:55,839 --> 00:13:59,679
+<font color="#fcfcfc">According to Jane</font>
+
+123
+00:14:07,615 --> 00:14:11,199
+<font color="#bebebe">Questions 98 through 100 refer to the following</font>
+
+124
+00:14:16,831 --> 00:14:19,135
+<font color="#848484">On your camera</font>
+
+125
+00:14:25,535 --> 00:14:31,679
+<font color="#a9a9a9">On Today Show on the island of Cancun Mexico with some of the craziest</font>
+
+126
+00:14:33,727 --> 00:14:39,871
+<font color="#4e4e4e">Angeles</font>
+
+127
+00:14:40,127 --> 00:14:40,639
+<font color="#b3b3b3">Tables</font>
+
+128
+00:14:40,895 --> 00:14:47,039
+<font color="#cccccc">And the technician MK regular putting on this</font>
+
+129
+00:14:47,295 --> 00:14:48,319
+<font color="#fcfcfc">Special effects</font>
+
+130
+00:14:48,575 --> 00:14:54,719
+<font color="#a3a3a3">Open the program we sing some of the wildest and craziest Antics by some of the hottest</font>
+
+131
+00:14:58,303 --> 00:15:02,911
+<font color="#f1f1f1">Stick around</font>
+
+132
+00:15:03,935 --> 00:15:05,215
+<font color="#f4f4f4">Number 98</font>
+
+133
+00:15:05,471 --> 00:15:07,263
+<font color="#fafafa">How often does the show air</font>
+
+134
+00:15:15,199 --> 00:15:16,735
+<font color="#fcfcfc">Number 99</font>
+
+135
+00:15:16,991 --> 00:15:18,783
+<font color="#eaeaea">What is Freddy's occupation</font>
+
+136
+00:15:26,975 --> 00:15:28,255
+<font color="#fcfcfc">Number 100</font>
+
+137
+00:15:28,511 --> 00:15:30,815
+<font color="#e7e7e7">Where is the show being aired today</font>

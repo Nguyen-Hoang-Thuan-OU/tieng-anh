@@ -1,0 +1,739 @@
+﻿1
+00:00:00,512 --> 00:00:01,792
+<font color="#cbcbcb">Question 1</font>
+
+2
+00:00:02,816 --> 00:00:05,632
+<font color="#f8f8f8">You switch on the local radio and he has this</font>
+
+3
+00:00:06,400 --> 00:00:07,680
+<font color="#fefefe">You are listening to</font>
+
+4
+00:00:08,192 --> 00:00:08,960
+<font color="#d3d3d3">A</font>
+
+5
+00:00:09,216 --> 00:00:10,240
+<font color="#fcfcfc">A documentary</font>
+
+6
+00:00:10,752 --> 00:00:11,520
+<font color="#636363">Be</font>
+
+7
+00:00:11,776 --> 00:00:12,800
+<font color="#a3a3a3">Advertisement</font>
+
+8
+00:00:13,568 --> 00:00:16,128
+<font color="#eaeaea">See a current affairs program</font>
+
+9
+00:00:16,896 --> 00:00:23,040
+<font color="#dddddd">All Aboard for a great 1990s experience of quality</font>
+
+10
+00:00:23,296 --> 00:00:28,160
+<font color="#b1b1b1">Cruising combined with the legendary school to discovery of some of the most fascinating corners of the world</font>
+
+11
+00:00:28,928 --> 00:00:35,072
+<font color="#dadada">Ariel's unrivaled contacts and knowledge worldwide has been combined with Kathy selected quality from the best cruise line to flow</font>
+
+12
+00:00:36,096 --> 00:00:42,240
+<font color="#aeaeae">Such as being its success the five oceans of clients now so that cruising tours that preferred style of holiday</font>
+
+13
+00:00:42,752 --> 00:00:46,336
+<font color="#b2b2b2">It's unique experience which cannot be beaten for value or sheer enjoyment</font>
+
+14
+00:00:46,848 --> 00:00:47,872
+<font color="#929292">Contact us on</font>
+
+15
+00:00:52,224 --> 00:00:58,368
+<font color="#f1f1f1">All Aboard for a great 1990</font>
+
+16
+00:00:58,624 --> 00:01:04,512
+<font color="#d2d2d2">Experience of quality cruising combined with allegedly escorted discovery of some of the most fascinating corners of the world</font>
+
+17
+00:01:05,024 --> 00:01:11,168
+<font color="#dfdfdf">Ariel's unrivaled contacts and knowledge worldwide has been combined with Kathy selected quality from the best cruise lines</font>
+
+18
+00:01:12,448 --> 00:01:18,336
+<font color="#aaaaaa">Such as being a success if I wasn't the clients now so that cruise and tour is that preferred style of holiday</font>
+
+19
+00:01:18,848 --> 00:01:22,688
+<font color="#a7a7a7">It's unique experience which canopy beaten for value or sheer enjoyment</font>
+
+20
+00:01:22,944 --> 00:01:24,224
+<font color="#aeaeae">Contact Tucson</font>
+
+21
+00:01:27,296 --> 00:01:28,576
+<font color="#bebebe">Question 2</font>
+
+22
+00:01:29,344 --> 00:01:33,440
+<font color="#f9f9f9">Listen to this person talking on TV about George Grosvenor</font>
+
+23
+00:01:34,208 --> 00:01:35,744
+<font color="#dbdbdb">George Grove not is</font>
+
+24
+00:01:36,256 --> 00:01:38,048
+<font color="#e5e5e5">Hey a politician</font>
+
+25
+00:01:38,304 --> 00:01:40,096
+<font color="#fcfcfc">Be a farmer</font>
+
+26
+00:01:40,352 --> 00:01:41,120
+<font color="#b5b5b5">See</font>
+
+27
+00:01:41,376 --> 00:01:42,144
+<font color="#fcfcfc">A fisherman</font>
+
+28
+00:01:43,936 --> 00:01:47,264
+<font color="#9e9e9e">And someone who is very much in the news at the moment</font>
+
+29
+00:01:47,776 --> 00:01:51,616
+<font color="#c2c2c2">With the controversy ranging over the export of live animals to the continent</font>
+
+30
+00:01:51,872 --> 00:01:53,408
+<font color="#fcfcfc">Everybody wants to speak to him</font>
+
+31
+00:01:53,920 --> 00:02:00,064
+<font color="#d4d4d4">And he has one of the most difficult jobs in the government yet almost uniquely he's held his current position for over 9 years</font>
+
+32
+00:02:00,320 --> 00:02:06,464
+<font color="#cacaca">I just out with the common agricultural policy the latest gas agreement and most recently the common Fisheries</font>
+
+33
+00:02:07,488 --> 00:02:09,792
+<font color="#fcfcfc">Now you have the chance to put your questions to him</font>
+
+34
+00:02:10,304 --> 00:02:11,328
+<font color="#d9d9d9">Musicals</font>
+
+35
+00:02:11,584 --> 00:02:12,352
+<font color="#c4c4c4">George Groveland</font>
+
+36
+00:02:16,960 --> 00:02:20,288
+<font color="#9b9b9b">Intolerance cans to someone who is very much in the news at the moment</font>
+
+37
+00:02:20,800 --> 00:02:24,640
+<font color="#d3d3d3">With the controversy raging over the export of live animals to the continent</font>
+
+38
+00:02:24,896 --> 00:02:26,432
+<font color="#fcfcfc">Everybody wants to speak to him</font>
+
+39
+00:02:26,944 --> 00:02:33,088
+<font color="#d4d4d4">And he has one of the most difficult jobs in the government yet almost uniquely his health is current position for over 9 years</font>
+
+40
+00:02:33,344 --> 00:02:39,488
+<font color="#f2f2f2">I just out with the common agricultural policy the latest Grant agreement and most recently the common Fisheries policy</font>
+
+41
+00:02:40,512 --> 00:02:42,816
+<font color="#fcfcfc">Now you have the chance to put your questions to him</font>
+
+42
+00:02:43,328 --> 00:02:44,096
+<font color="#dddddd">Musicals</font>
+
+43
+00:02:44,608 --> 00:02:45,376
+<font color="#dfdfdf">George Groveland</font>
+
+44
+00:02:48,448 --> 00:02:49,728
+<font color="#c8c8c8">Question three</font>
+
+45
+00:02:50,496 --> 00:02:51,776
+<font color="#fcfcfc">Listen to the conversation</font>
+
+46
+00:02:52,288 --> 00:02:54,592
+<font color="#fcfcfc">The action takes place in</font>
+
+47
+00:02:54,848 --> 00:02:55,616
+<font color="#cfcfcf">Hey</font>
+
+48
+00:02:55,872 --> 00:02:56,896
+<font color="#e1e1e1">The theater</font>
+
+49
+00:02:57,408 --> 00:02:59,456
+<font color="#bdbdbd">B a radio Studio</font>
+
+50
+00:03:00,224 --> 00:03:00,992
+<font color="#cdcdcd">See</font>
+
+51
+00:03:01,248 --> 00:03:02,528
+<font color="#d0d0d0">TV studio</font>
+
+52
+00:03:07,904 --> 00:03:08,672
+<font color="#dcdcdc">Rice</font>
+
+53
+00:03:08,928 --> 00:03:09,952
+<font color="#fcfcfc">Places everybody</font>
+
+54
+00:03:10,208 --> 00:03:11,744
+<font color="#9c9c9c">Can we have the lights up please</font>
+
+55
+00:03:12,512 --> 00:03:18,656
+<font color="#fcfcfc">Dominique what do you look like</font>
+
+56
+00:03:19,424 --> 00:03:25,568
+<font color="#afafaf">I need a spot on the send a close-up okay I'll see to it</font>
+
+57
+00:03:25,824 --> 00:03:26,848
+<font color="#fcfcfc">Places everyone</font>
+
+58
+00:03:27,872 --> 00:03:28,640
+<font color="#fcfcfc">Cameras</font>
+
+59
+00:03:29,664 --> 00:03:31,456
+<font color="#e6e6e6">And action</font>
+
+60
+00:03:36,320 --> 00:03:39,904
+<font color="#646464">Rice</font>
+
+61
+00:03:40,160 --> 00:03:41,184
+<font color="#fcfcfc">Places everybody</font>
+
+62
+00:03:41,440 --> 00:03:42,976
+<font color="#9e9e9e">Can we have the lights up please</font>
+
+63
+00:03:43,744 --> 00:03:44,256
+<font color="#fcfcfc">Dominique</font>
+
+64
+00:03:44,512 --> 00:03:50,400
+<font color="#e8e8e8">What do you look like Jeff Jeff</font>
+
+65
+00:03:50,656 --> 00:03:56,800
+<font color="#d5d5d5">I need a spot on the sun today for close-up</font>
+
+66
+00:03:57,056 --> 00:03:58,080
+<font color="#fcfcfc">Places everyone</font>
+
+67
+00:03:59,104 --> 00:03:59,872
+<font color="#fcfcfc">Cameras</font>
+
+68
+00:04:00,896 --> 00:04:02,432
+<font color="#ececec">And action</font>
+
+69
+00:04:05,760 --> 00:04:07,040
+<font color="#c6c6c6">Question for</font>
+
+70
+00:04:08,832 --> 00:04:12,416
+<font color="#fcfcfc">Listen to this conversation between a doctor and a patient</font>
+
+71
+00:04:13,440 --> 00:04:14,208
+<font color="#fcfcfc">The patient</font>
+
+72
+00:04:14,464 --> 00:04:15,232
+<font color="#c3c3c3">Hey</font>
+
+73
+00:04:15,488 --> 00:04:17,791
+<font color="#c2c2c2">Is unsure of where the pain is</font>
+
+74
+00:04:18,559 --> 00:04:19,327
+<font color="#646464">Be</font>
+
+75
+00:04:19,583 --> 00:04:21,887
+<font color="#fcfcfc">Sometimes cries with pain</font>
+
+76
+00:04:22,399 --> 00:04:23,167
+<font color="#cdcdcd">See</font>
+
+77
+00:04:23,423 --> 00:04:25,727
+<font color="#ededed">Is wasting the doctor's time</font>
+
+78
+00:04:27,263 --> 00:04:28,287
+<font color="#fcfcfc">What seems to be the problem</font>
+
+79
+00:04:28,543 --> 00:04:29,311
+<font color="#fcfcfc">Well</font>
+
+80
+00:04:29,823 --> 00:04:35,967
+<font color="#f5f5f5">I don't want to waste your time with something trivial.</font>
+
+81
+00:04:36,223 --> 00:04:42,367
+<font color="#fcfcfc">Yes it's terrible it's so bad I could cry</font>
+
+82
+00:04:42,623 --> 00:04:48,767
+<font color="#919191">Right like a nope the right side of my back it's terrible honestly there's some mornings when I'm</font>
+
+83
+00:04:49,023 --> 00:04:54,911
+<font color="#dbdbdb">If you'd like to go with us into the cubicle that will examine your back</font>
+
+84
+00:05:00,031 --> 00:05:01,311
+<font color="#fcfcfc">What seems to be the problem</font>
+
+85
+00:05:01,567 --> 00:05:02,335
+<font color="#fcfcfc">Well</font>
+
+86
+00:05:02,591 --> 00:05:08,735
+<font color="#e7e7e7">I don't want to waste your time with something trivial doctor</font>
+
+87
+00:05:08,991 --> 00:05:15,135
+<font color="#fcfcfc">Yes it's terrible it's so bad I could cry</font>
+
+88
+00:05:15,391 --> 00:05:21,535
+<font color="#ededed">Side of my back it's terrible honestly there's some mornings when</font>
+
+89
+00:05:21,791 --> 00:05:27,935
+<font color="#c3c3c3">She is just trying to get out of bed if you'd like to go with us into the cubicle when they examine your back</font>
+
+90
+00:05:31,519 --> 00:05:32,799
+<font color="#dcdcdc">Question 5</font>
+
+91
+00:05:33,823 --> 00:05:35,615
+<font color="#fcfcfc">Listen to this news item</font>
+
+92
+00:05:36,127 --> 00:05:37,407
+<font color="#9b9b9b">Mrs. Turner</font>
+
+93
+00:05:37,919 --> 00:05:38,687
+<font color="#d2d2d2">Hey</font>
+
+94
+00:05:38,943 --> 00:05:41,759
+<font color="#f8f8f8">Pays 58 lb a week rent</font>
+
+95
+00:05:42,271 --> 00:05:43,039
+<font color="#646464">Be</font>
+
+96
+00:05:43,551 --> 00:05:46,111
+<font color="#cacaca">Gets fifteen Pence week from the council</font>
+
+97
+00:05:46,879 --> 00:05:47,647
+<font color="#cdcdcd">See</font>
+
+98
+00:05:48,159 --> 00:05:49,951
+<font color="#b8b8b8">Owes the council money</font>
+
+99
+00:05:51,743 --> 00:05:57,887
+<font color="#ececec">A pensioner has been given 625 years to pay off</font>
+
+100
+00:05:58,143 --> 00:05:59,167
+<font color="#acacac">Rent arrears</font>
+
+101
+00:05:59,679 --> 00:06:05,823
+<font color="#cbcbcb">Senior Circuit Judge Samson Westmoreland said the grandmother of three Allen Turner a Blackboard in Warwickshire</font>
+
+102
+00:06:06,079 --> 00:06:12,223
+<font color="#d4d4d4">Could we pay the 3264 lb she owes Salisbury council at 15 pints per week</font>
+
+103
+00:06:12,735 --> 00:06:15,807
+<font color="#e8e8e8">It's a decision which has been criticized by local counselors</font>
+
+104
+00:06:16,063 --> 00:06:19,135
+<font color="#818181">However this is Tony with both right in her own defense</font>
+
+105
+00:06:19,647 --> 00:06:25,791
+<font color="#d7d7d7">I got sick and tired of paying rent year after year when other people got that rents paid for them because they</font>
+
+106
+00:06:26,047 --> 00:06:26,815
+<font color="#9b9b9b">Benefit</font>
+
+107
+00:06:27,071 --> 00:06:28,607
+<font color="#f4f4f4">Stop put my foot down</font>
+
+108
+00:06:29,119 --> 00:06:33,215
+<font color="#f2f2f2">I got more money than me and my pension is only 58 lb a week</font>
+
+109
+00:06:37,311 --> 00:06:43,455
+<font color="#ededed">A pensioner has been given 625 years to pay</font>
+
+110
+00:06:45,247 --> 00:06:51,391
+<font color="#d3d3d3">Senior Circuit Judge Samson Westmoreland said the grandmother of three Allen Turner of Lockport in Warwickshire</font>
+
+111
+00:06:51,647 --> 00:06:57,791
+<font color="#d5d5d5">Could we pay the 3264 lb geosol U-Haul about a council a 15 Pence per week</font>
+
+112
+00:06:58,303 --> 00:07:01,375
+<font color="#e4e4e4">It's a decision which has been criticized by local counselors</font>
+
+113
+00:07:01,631 --> 00:07:04,703
+<font color="#9b9b9b">However this is Tony with forthright in her own defense</font>
+
+114
+00:07:05,215 --> 00:07:11,359
+<font color="#d9d9d9">I got sick and tired of paying rent year after year when other people got that rents paid for them because they</font>
+
+115
+00:07:11,615 --> 00:07:12,383
+<font color="#fcfcfc">Fasting benefits</font>
+
+116
+00:07:12,639 --> 00:07:14,175
+<font color="#e9e9e9">So I put my foot down</font>
+
+117
+00:07:14,687 --> 00:07:18,783
+<font color="#fafafa">I got more money than me and my pension is only 58 lb a week</font>
+
+118
+00:07:22,111 --> 00:07:23,135
+<font color="#cfcfcf">Question 6</font>
+
+119
+00:07:24,159 --> 00:07:25,951
+<font color="#fcfcfc">Listen to this conversation</font>
+
+120
+00:07:26,463 --> 00:07:27,487
+<font color="#fcfcfc">Pizza is</font>
+
+121
+00:07:27,999 --> 00:07:28,767
+<font color="#d4d4d4">Hey</font>
+
+122
+00:07:29,023 --> 00:07:30,303
+<font color="#ededed">I had a teacher</font>
+
+123
+00:07:30,815 --> 00:07:31,583
+<font color="#656565">Be</font>
+
+124
+00:07:32,095 --> 00:07:33,119
+<font color="#ececec">A student</font>
+
+125
+00:07:33,887 --> 00:07:34,399
+<font color="#cdcdcd">See</font>
+
+126
+00:07:34,911 --> 00:07:35,679
+<font color="#fcfcfc">A teacher</font>
+
+127
+00:07:37,727 --> 00:07:43,871
+<font color="#b1b1b1">Call Pizza</font>
+
+128
+00:07:44,127 --> 00:07:47,967
+<font color="#f5f5f5">Requesting leave</font>
+
+129
+00:07:48,223 --> 00:07:54,367
+<font color="#aaaaaa">And I got an exam next week I must prepare for wanted you know with everything</font>
+
+130
+00:07:54,623 --> 00:08:00,767
+<font color="#a3a3a3">Maybe next weekend we'll need you to take but I'm over two-and-a-half days and I really need to take some</font>
+
+131
+00:08:01,023 --> 00:08:06,399
+<font color="#dadada">So you're not allowed any holiday in the second place you can't just take time off when it suits you</font>
+
+132
+00:08:06,655 --> 00:08:10,751
+<font color="#d4d4d4">We'll have to arrange a time with all the other teachers who will cover your lessons while you're away</font>
+
+133
+00:08:16,383 --> 00:08:22,527
+<font color="#999999">Obese</font>
+
+134
+00:08:22,783 --> 00:08:28,927
+<font color="#c5c5c5">Requesting leave and exam next week</font>
+
+135
+00:08:29,183 --> 00:08:35,327
+<font color="#cacaca">Careful you contact me whenever you wanted you know a very busy next week and we'll need you to take but I'm</font>
+
+136
+00:08:35,583 --> 00:08:41,727
+<font color="#b6b6b6">Days and I really need to take some space holiday</font>
+
+137
+00:08:41,983 --> 00:08:45,311
+<font color="#878787">Second-placed Yukon just take time off when it suits you</font>
+
+138
+00:08:45,567 --> 00:08:49,663
+<font color="#d0d0d0">We'll have to arrange a time with all the other teachers who will cover your lessons while you're away</font>
+
+139
+00:08:52,991 --> 00:08:54,015
+<font color="#b4b4b4">Question 7</font>
+
+140
+00:08:55,295 --> 00:08:57,087
+<font color="#fcfcfc">Listen to this news item</font>
+
+141
+00:08:57,855 --> 00:08:59,135
+<font color="#fcfcfc">The theater is</font>
+
+142
+00:08:59,903 --> 00:09:00,415
+<font color="#afafaf">A</font>
+
+143
+00:09:00,927 --> 00:09:02,975
+<font color="#fcfcfc">Putting on an additional performance</font>
+
+144
+00:09:03,743 --> 00:09:04,511
+<font color="#606060">Be</font>
+
+145
+00:09:05,023 --> 00:09:07,071
+<font color="#bcbcbc">Canceling or matinees</font>
+
+146
+00:09:07,839 --> 00:09:08,607
+<font color="#cdcdcd">See</font>
+
+147
+00:09:08,863 --> 00:09:11,679
+<font color="#f8f8f8">Part of the TV show lumberjack</font>
+
+148
+00:09:13,727 --> 00:09:19,871
+<font color="#b8b8b8">Cinderella because the fairy door</font>
+
+149
+00:09:20,127 --> 00:09:21,151
+<font color="#8c8c8c">Call Mother forgot atena</font>
+
+150
+00:09:22,175 --> 00:09:28,319
+<font color="#cccccc">Any Angelo 61 who used to introduce the popular children's TV show Lumberjack when did hot tea with her mother when she should</font>
+
+151
+00:09:28,575 --> 00:09:30,623
+<font color="#828282">Beyond stage in the manic stage of enjoyed which</font>
+
+152
+00:09:31,647 --> 00:09:36,511
+<font color="#d2d2d2">IPhone has a 400 including 240 children on school trips went home disappointed</font>
+
+153
+00:09:37,279 --> 00:09:42,655
+<font color="#cfcfcf">Marketing manager John Carlisle said that and that she is devastated</font>
+
+154
+00:09:43,679 --> 00:09:46,495
+<font color="#e1e1e1">But that depends upon an extra matinee Broadway children</font>
+
+155
+00:09:51,103 --> 00:09:57,247
+<font color="#e1e1e1">Cinderella because the ferry</font>
+
+156
+00:09:57,503 --> 00:09:58,783
+<font color="#d0d0d0">Godmother forgot atena</font>
+
+157
+00:09:59,551 --> 00:10:05,695
+<font color="#bcbcbc">Any Angelo 61 who used to introduce the popular children's TV show Lumberjack when did hot tea with her mother when she should</font>
+
+158
+00:10:05,951 --> 00:10:07,999
+<font color="#9f9f9f">Should be onstage in the manic stage of enjoyed which</font>
+
+159
+00:10:09,023 --> 00:10:14,143
+<font color="#b7b7b7">Apple has a 400 including 240 children on school trips went home disappointed</font>
+
+160
+00:10:14,655 --> 00:10:20,031
+<font color="#cdcdcd">Marketing manager John Carlisle said that and that she is devastated</font>
+
+161
+00:10:21,055 --> 00:10:23,871
+<font color="#ebebeb">But that depends upon an extra matinee roll the children</font>
+
+162
+00:10:27,199 --> 00:10:28,223
+<font color="#c5c5c5">Question 8</font>
+
+163
+00:10:29,247 --> 00:10:32,063
+<font color="#d9d9d9">You hear this person talking on the telephone</font>
+
+164
+00:10:32,575 --> 00:10:34,111
+<font color="#f6f6f6">She is talking to</font>
+
+165
+00:10:34,623 --> 00:10:35,391
+<font color="#d4d4d4">A</font>
+
+166
+00:10:35,903 --> 00:10:36,671
+<font color="#f8f8f8">A friend</font>
+
+167
+00:10:37,439 --> 00:10:38,207
+<font color="#656565">Be</font>
+
+168
+00:10:38,463 --> 00:10:39,743
+<font color="#f4f4f4">An architect</font>
+
+169
+00:10:40,255 --> 00:10:41,023
+<font color="#cdcdcd">See</font>
+
+170
+00:10:41,279 --> 00:10:42,047
+<font color="#adadad">Imelda</font>
+
+171
+00:10:47,935 --> 00:10:54,079
+<font color="#dbdbdb">Look you've got to get round here immediately I know it's Friday afternoon</font>
+
+172
+00:10:54,335 --> 00:11:00,479
+<font color="#ebebeb">And I know it's time for you to leave point is that your men have left the house</font>
+
+173
+00:11:00,735 --> 00:11:06,879
+<font color="#bdbdbd">In the middle of the floor and your Builders is blocking the drive all the power is still off and you promised</font>
+
+174
+00:11:07,135 --> 00:11:10,975
+<font color="#a5a5a5">The wet would be finished today</font>
+
+175
+00:11:11,231 --> 00:11:13,791
+<font color="#e2e2e2">But I didn't tell you what men to leave</font>
+
+176
+00:11:17,631 --> 00:11:18,911
+<font color="#a2a2a2">Alright</font>
+
+177
+00:11:19,167 --> 00:11:20,703
+<font color="#fcfcfc">I'll see you in 20 minutes</font>
+
+178
+00:11:31,199 --> 00:11:31,711
+<font color="#d2d2d2">Look</font>
+
+179
+00:11:31,967 --> 00:11:34,527
+<font color="#c1c1c1">You've got to get round here in media today</font>
+
+180
+00:11:34,783 --> 00:11:40,159
+<font color="#fcfcfc">I know it's Friday afternoon and I know it's time for you to leave</font>
+
+181
+00:11:40,415 --> 00:11:46,559
+<font color="#adadad">Point is that your men have left a hole in the middle of the floor and your Builders is blocking the</font>
+
+182
+00:11:46,815 --> 00:11:52,959
+<font color="#a6a6a6">The drive hold the power is still off and you promised it would be finished today</font>
+
+183
+00:11:54,495 --> 00:11:57,055
+<font color="#dedede">But I didn't tell you what men to leave</font>
+
+184
+00:12:00,895 --> 00:12:01,919
+<font color="#9a9a9a">Alright</font>
+
+185
+00:12:02,431 --> 00:12:03,967
+<font color="#fcfcfc">I'll see you in 20 minutes</font>

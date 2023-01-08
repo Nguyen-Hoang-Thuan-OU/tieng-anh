@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#cccccc">Number 6 listen to a conversation between two friends</font>
+
+2
+00:00:04,864 --> 00:00:11,008
+<font color="#e3e3e3">I hope the school decides to let us by our textbooks on e-readers next year</font>
+
+3
+00:00:11,264 --> 00:00:17,408
+<font color="#b3b3b3">Do I carrying around all these books is no fun at all I nearly hurt my back the other day because my</font>
+
+4
+00:00:17,664 --> 00:00:19,456
+<font color="#f0f0f0">My backpack was so heavy</font>
+
+5
+00:00:19,712 --> 00:00:25,856
+<font color="#cbcbcb">We'll be able to save money as well since ebooks are a lot cheaper than paper books</font>
+
+6
+00:00:26,624 --> 00:00:28,672
+<font color="#ededed">What are the speakers mainly discussing</font>

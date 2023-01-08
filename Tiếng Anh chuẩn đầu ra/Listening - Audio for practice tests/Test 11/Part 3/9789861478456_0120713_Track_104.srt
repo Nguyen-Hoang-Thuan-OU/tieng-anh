@@ -1,0 +1,63 @@
+﻿1
+00:00:00,512 --> 00:00:05,376
+<font color="#e5e5e5">Questions 83 through 85 refer to the following telephone message</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#c9c9c9">Hi there my name is Eric swatski and I'm calling on behalf of driver seat Auto Insurance</font>
+
+3
+00:00:12,288 --> 00:00:18,432
+<font color="#f5f5f5">Have you heard about our Premium Insurance Service called Smart Auto it offers auto insurance to</font>
+
+4
+00:00:18,688 --> 00:00:24,832
+<font color="#f2f2f2">Careful drivers like you a special feature of the plan is claim forgiveness even if you have</font>
+
+5
+00:00:25,088 --> 00:00:31,232
+<font color="#bebebe">An accident and file a claim with Smart Auto your insurance rates won't go up afterward receive a tree</font>
+
+6
+00:00:31,488 --> 00:00:37,632
+<font color="#e0e0e0">Traffic ticket for a minor driving offense unlike at other insurance companies your rates won't go up</font>
+
+7
+00:00:37,888 --> 00:00:44,032
+<font color="#fafafa">Even better if your insurance premiums get a price lock guarantee no rate increases</font>
+
+8
+00:00:44,288 --> 00:00:50,432
+<font color="#ededed">Ever give me a call or text to find out more at 9 30333 2226</font>
+
+9
+00:00:50,688 --> 00:00:55,040
+<font color="#bfbfbf">Fix or email me at Eric at driversig.com</font>
+
+10
+00:00:57,344 --> 00:00:58,880
+<font color="#fcfcfc">Number 83</font>
+
+11
+00:00:59,136 --> 00:01:01,440
+<font color="#fcfcfc">What is the purpose of this message</font>
+
+12
+00:01:08,608 --> 00:01:09,888
+<font color="#fcfcfc">Number 84</font>
+
+13
+00:01:10,400 --> 00:01:12,960
+<font color="#fcfcfc">What is true about Smart Auto</font>
+
+14
+00:01:19,872 --> 00:01:21,408
+<font color="#fcfcfc">Number 85</font>
+
+15
+00:01:21,664 --> 00:01:24,736
+<font color="#fafafa">Which is not a means of contacting Eric</font>
+
+16
+00:01:31,904 --> 00:01:34,208
+<font color="#e6e6e6">Go on to the next page</font>

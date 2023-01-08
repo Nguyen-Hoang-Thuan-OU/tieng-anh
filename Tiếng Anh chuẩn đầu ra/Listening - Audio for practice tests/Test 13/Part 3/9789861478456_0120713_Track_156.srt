@@ -1,0 +1,47 @@
+﻿1
+00:00:00,512 --> 00:00:04,864
+<font color="#eeeeee">Question 77 through 79 refer to the following announcement</font>
+
+2
+00:00:06,912 --> 00:00:13,056
+<font color="#fcfcfc">This is an announcement from the National Weather Service there is a winter storm warning for the entire Northeast region</font>
+
+3
+00:00:13,312 --> 00:00:19,456
+<font color="#bababa">End of the state of Massachusetts from 4 p.m. to 9 a.m. expect a wintry mix of gale force winds and heavy snow</font>
+
+4
+00:00:19,712 --> 00:00:25,856
+<font color="#d9d9d9">Overnight temperatures below freezing I likely to cause hazardous driving conditions on toll roads</font>
+
+5
+00:00:26,112 --> 00:00:32,256
+<font color="#b9b9b9">Doing this. All non-essential travel is strongly discouraged please bring old pets inside and in</font>
+
+6
+00:00:32,512 --> 00:00:38,656
+<font color="#e5e5e5">Angelo horses and livestock have food and shelter overnight</font>
+
+7
+00:00:38,912 --> 00:00:39,936
+<font color="#cfcfcf">Weather update</font>
+
+8
+00:00:41,472 --> 00:00:42,752
+<font color="#fcfcfc">Number 77</font>
+
+9
+00:00:43,008 --> 00:00:45,568
+<font color="#fcfcfc">Why is this announcement being made</font>
+
+10
+00:00:52,480 --> 00:00:54,016
+<font color="#fcfcfc">Number 78</font>
+
+11
+00:00:54,272 --> 00:00:57,088
+<font color="#fcfcfc">What kind of weather is expected overnight</font>
+
+12
+00:01:04,256 --> 00:01:08,608
+<font color="#f7f7f7">Number 79 what should all animal owners do</font>

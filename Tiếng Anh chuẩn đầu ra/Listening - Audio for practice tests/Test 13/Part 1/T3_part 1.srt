@@ -1,0 +1,791 @@
+﻿1
+00:00:00,768 --> 00:00:01,536
+<font color="#fcfcfc">Question</font>
+
+2
+00:00:01,792 --> 00:00:02,560
+<font color="#fcfcfc">1</font>
+
+3
+00:00:03,584 --> 00:00:06,400
+<font color="#f8f8f8">You are watching this quiz show on TV</font>
+
+4
+00:00:07,424 --> 00:00:10,240
+<font color="#f6f6f6">The contestant is answering questions on</font>
+
+5
+00:00:10,752 --> 00:00:11,264
+<font color="#dbdbdb">Hey</font>
+
+6
+00:00:11,520 --> 00:00:12,288
+<font color="#fcfcfc">History</font>
+
+7
+00:00:12,800 --> 00:00:13,568
+<font color="#636363">Be</font>
+
+8
+00:00:14,080 --> 00:00:15,104
+<font color="#fcfcfc">Current affairs</font>
+
+9
+00:00:15,616 --> 00:00:16,384
+<font color="#cdcdcd">See</font>
+
+10
+00:00:16,640 --> 00:00:17,664
+<font color="#fcfcfc">Geography</font>
+
+11
+00:00:18,944 --> 00:00:25,088
+<font color="#d2d2d2">So here are the questions on the</font>
+
+12
+00:00:25,344 --> 00:00:28,160
+<font color="#c5c5c5">Subject you chosen to win tonight's top prize</font>
+
+13
+00:00:28,416 --> 00:00:29,440
+<font color="#fcfcfc">Take your time now</font>
+
+14
+00:00:29,696 --> 00:00:33,280
+<font color="#c0c0c0">You have 10 seconds to think before you have to answer each question</font>
+
+15
+00:00:33,536 --> 00:00:34,304
+<font color="#fcfcfc">Okay</font>
+
+16
+00:00:34,816 --> 00:00:35,328
+<font color="#fcfcfc">Good</font>
+
+17
+00:00:35,840 --> 00:00:37,632
+<font color="#eeeeee">And here's your first question</font>
+
+18
+00:00:38,656 --> 00:00:43,264
+<font color="#f4f4f4">Who was shot in Sarajevo in 1914 by Carrillo princip</font>
+
+19
+00:00:44,032 --> 00:00:45,568
+<font color="#f0f0f0">Take your time now before you answer</font>
+
+20
+00:00:49,664 --> 00:00:55,808
+<font color="#ededed">So here are the questions on the</font>
+
+21
+00:00:56,064 --> 00:00:58,880
+<font color="#cecece">The subject you chosen to win tonight's top prize</font>
+
+22
+00:00:59,136 --> 00:01:00,160
+<font color="#fcfcfc">Take your time now</font>
+
+23
+00:01:00,416 --> 00:01:04,000
+<font color="#c1c1c1">You have 10 seconds to think before you have to answer each question</font>
+
+24
+00:01:04,256 --> 00:01:05,024
+<font color="#fcfcfc">Okay</font>
+
+25
+00:01:05,536 --> 00:01:06,048
+<font color="#fcfcfc">Good</font>
+
+26
+00:01:06,560 --> 00:01:08,352
+<font color="#dedede">And here's your first question</font>
+
+27
+00:01:09,376 --> 00:01:13,984
+<font color="#ebebeb">Who was shot in Sarajevo in 1914 by Carrillo princip</font>
+
+28
+00:01:14,752 --> 00:01:16,288
+<font color="#fcfcfc">Take your time now before you answer</font>
+
+29
+00:01:18,592 --> 00:01:19,872
+<font color="#c6c6c6">Question 2</font>
+
+30
+00:01:21,152 --> 00:01:23,712
+<font color="#d7d7d7">You are thinking of going to watch a football match</font>
+
+31
+00:01:23,968 --> 00:01:26,016
+<font color="#dfdfdf">But you are not sure what to wear</font>
+
+32
+00:01:27,040 --> 00:01:28,832
+<font color="#acacac">You found the weather line</font>
+
+33
+00:01:29,088 --> 00:01:30,112
+<font color="#aaaaaa">Yeah this message</font>
+
+34
+00:01:30,368 --> 00:01:31,904
+<font color="#ebebeb">And decide to wear</font>
+
+35
+00:01:33,440 --> 00:01:35,232
+<font color="#fcfcfc">A t-shirt and shorts</font>
+
+36
+00:01:36,256 --> 00:01:37,792
+<font color="#fcfcfc">Be a raincoat</font>
+
+37
+00:01:39,072 --> 00:01:42,400
+<font color="#e7e7e7">See a warm coat with gloves and scarf</font>
+
+38
+00:01:44,448 --> 00:01:47,264
+<font color="#f5f5f5">Thank you for calling the Saturn telephone</font>
+
+39
+00:01:47,520 --> 00:01:51,104
+<font color="#e5e5e5">Give me the weather forecast for today Tuesday the 21st of March</font>
+
+40
+00:01:51,360 --> 00:01:57,504
+<font color="#a7a7a7">Today will be cutting avocado pit with only a 10% chance of rain when's will be like tomorrow at but it will</font>
+
+41
+00:01:57,760 --> 00:02:02,112
+<font color="#bbbbbb">Freezing cold day with icy patches on the roads so take care of your driving</font>
+
+42
+00:02:02,368 --> 00:02:06,720
+<font color="#a5a5a5">Spell Behati Brook tonight with temperatures as low as -5 degrees C</font>
+
+43
+00:02:07,488 --> 00:02:10,816
+<font color="#a1a1a1">The long-range forecast is the snow to vote the end of the week</font>
+
+44
+00:02:15,680 --> 00:02:18,496
+<font color="#f6f6f6">Thank you for calling the Saturn telephone</font>
+
+45
+00:02:18,752 --> 00:02:24,896
+<font color="#c8c8c8">Give me the weather forecast for today Tuesday the 21st of March today will be cloudy and overcast but without any attempt</font>
+
+46
+00:02:25,152 --> 00:02:31,296
+<font color="#cecece">Winds will be light to moderate but it will be near freezing all day with icy patches on the road</font>
+
+47
+00:02:31,552 --> 00:02:37,696
+<font color="#e9e9e9">So take care of you driving tonight with temperatures as low as -5 degrees</font>
+
+48
+00:02:38,976 --> 00:02:42,048
+<font color="#bababa">The long-range forecast is for snow to vote the end of the week</font>
+
+49
+00:02:44,608 --> 00:02:45,632
+<font color="#c8c8c8">Question three</font>
+
+50
+00:02:46,912 --> 00:02:49,472
+<font color="#e6e6e6">You hear this item on the radio news</font>
+
+51
+00:02:49,728 --> 00:02:52,032
+<font color="#d9d9d9">The painting by Titian has Bean</font>
+
+52
+00:02:52,288 --> 00:02:53,824
+<font color="#b0b0b0">Hey lost</font>
+
+53
+00:02:54,848 --> 00:02:56,384
+<font color="#fcfcfc">Be stolen</font>
+
+54
+00:02:57,408 --> 00:02:57,920
+<font color="#cdcdcd">See</font>
+
+55
+00:02:58,176 --> 00:02:58,944
+<font color="#989898">Island</font>
+
+56
+00:03:00,224 --> 00:03:06,368
+<font color="#e7e7e7">Rest on the flight to Egypt is probably the only small-scale Titian</font>
+
+57
+00:03:06,624 --> 00:03:07,392
+<font color="#d0d0d0">Private homes</font>
+
+58
+00:03:08,160 --> 00:03:13,792
+<font color="#dddddd">Painted in 15 10 and 15 1127 the founder of hibernate Sons painting in Venice with anesthetic twenties</font>
+
+59
+00:03:14,560 --> 00:03:18,656
+<font color="#b3b3b3">Painting small signs my Would Have Made It attractive to thieves as a greasy be carried</font>
+
+60
+00:03:19,424 --> 00:03:25,568
+<font color="#a8a8a8">Kitchen expert dr. Pol showman at Cambridge University said it is a lovely little thing a little gem and it is very sad that it</font>
+
+61
+00:03:25,824 --> 00:03:26,336
+<font color="#fcfcfc">Has disappeared</font>
+
+62
+00:03:26,592 --> 00:03:32,736
+<font color="#bbbbbb">Tell me a couple of other small pictures by teaching the known one in Bergamo Italy and one in the Metropolitan Museum in New</font>
+
+63
+00:03:37,088 --> 00:03:43,232
+<font color="#f3f3f3">Rest on the flight to Egypt is probably the only small-scale</font>
+
+64
+00:03:43,488 --> 00:03:44,512
+<font color="#8f8f8f">Fishing in private hands</font>
+
+65
+00:03:45,280 --> 00:03:50,912
+<font color="#dfdfdf">Painted + 50 + 10 + 50 + 11 when fishing the founder of hibernate Sons painting in Venice was in his early twenties</font>
+
+66
+00:03:51,680 --> 00:03:55,776
+<font color="#9f9f9f">Painting small inside my Would Have Made It attractive to thieves other could easily be carried</font>
+
+67
+00:03:56,544 --> 00:04:02,688
+<font color="#8d8d8d">She's an expert Dr po7 at Cambridge University said it is a lovely little thing a little gem and it is very sad but it's</font>
+
+68
+00:04:02,944 --> 00:04:03,456
+<font color="#fcfcfc">Has disappeared</font>
+
+69
+00:04:03,712 --> 00:04:09,856
+<font color="#efefef">Only a couple of other small pictures by tichenor known one in Bergamo Italy and one in the Metropolitan Museum in New</font>
+
+70
+00:04:13,184 --> 00:04:14,208
+<font color="#bfbfbf">Question for</font>
+
+71
+00:04:15,232 --> 00:04:19,327
+<font color="#9f9f9f">You're booked on flight ta20 412 New York</font>
+
+72
+00:04:19,839 --> 00:04:22,911
+<font color="#a3a3a3">And y'all waiting in the departure Lounge at Heathrow Airport</font>
+
+73
+00:04:23,167 --> 00:04:24,959
+<font color="#fcfcfc">When you hear this announcement</font>
+
+74
+00:04:25,727 --> 00:04:27,007
+<font color="#e9e9e9">You go to</font>
+
+75
+00:04:27,519 --> 00:04:28,031
+<font color="#cfcfcf">Hey</font>
+
+76
+00:04:28,287 --> 00:04:29,055
+<font color="#fcfcfc">The exit</font>
+
+77
+00:04:29,567 --> 00:04:31,359
+<font color="#c7c7c7">B Gates 20</font>
+
+78
+00:04:31,871 --> 00:04:32,639
+<font color="#8c8c8c">Be</font>
+
+79
+00:04:33,151 --> 00:04:34,943
+<font color="#fcfcfc">Hospitality suite B</font>
+
+80
+00:04:35,711 --> 00:04:41,855
+<font color="#f5f5f5">Transatlantic Airlines</font>
+
+81
+00:04:42,111 --> 00:04:48,255
+<font color="#c7c7c7">Regret to announce the cancellation of flight pa-204 12 San Francisco by Shannon New York and Chicago</font>
+
+82
+00:04:48,511 --> 00:04:54,655
+<font color="#c7c7c7">I can just run into go immediately to the main exit a bus will take you to Gatwick wearing alternative light</font>
+
+83
+00:04:54,911 --> 00:04:55,935
+<font color="#dadada">Being arranged</font>
+
+84
+00:04:56,191 --> 00:05:02,335
+<font color="#c7c7c7">Passengers to San Francisco have been transferred and her doing flight vt365 from date 21 days is called</font>
+
+85
+00:05:03,103 --> 00:05:09,247
+<font color="#989898">Arrangements at fielding Mesa passengers for New York and Chicago if these passengers would like to go to hospitality</font>
+
+86
+00:05:09,503 --> 00:05:12,319
+<font color="#b3b3b3">Sweet pea a complimentary Buffet has been arranged</font>
+
+87
+00:05:16,671 --> 00:05:22,815
+<font color="#f4f4f4">Transatlantic Airlines</font>
+
+88
+00:05:23,071 --> 00:05:29,215
+<font color="#c7c7c7">Regret to announce the cancellation of flight PA to a 4-12 San Francisco by Shannon New York and Chicago</font>
+
+89
+00:05:29,471 --> 00:05:35,615
+<font color="#cdcdcd">Passengers brought in to go immediately to the main exit a bus will take you to get to acquire an alternative flight</font>
+
+90
+00:05:35,871 --> 00:05:36,895
+<font color="#e0e0e0">Has been arranged</font>
+
+91
+00:05:37,151 --> 00:05:43,295
+<font color="#d9d9d9">Passengers with San Francisco being confident you're doing flight vt365 from gate 21 days</font>
+
+92
+00:05:44,319 --> 00:05:50,463
+<font color="#a4a4a4">Arrangements at fielding Mesa passengers the New York and Chicago if these passengers would like to go to hospitality suite</font>
+
+93
+00:05:50,719 --> 00:05:53,279
+<font color="#d0d0d0">A complimentary Buffet has been arranged</font>
+
+94
+00:05:55,839 --> 00:05:57,119
+<font color="#dcdcdc">Question 5</font>
+
+95
+00:05:57,887 --> 00:06:00,447
+<font color="#dadada">You hear these two people talking</font>
+
+96
+00:06:00,959 --> 00:06:01,727
+<font color="#757575">Play on</font>
+
+97
+00:06:01,983 --> 00:06:02,751
+<font color="#eeeeee">Hey</font>
+
+98
+00:06:03,007 --> 00:06:04,287
+<font color="#fcfcfc">Brother and sister</font>
+
+99
+00:06:05,055 --> 00:06:05,823
+<font color="#5f5f5f">Be</font>
+
+100
+00:06:06,079 --> 00:06:07,615
+<font color="#e5e5e5">Husband and wife</font>
+
+101
+00:06:08,127 --> 00:06:09,919
+<font color="#d7d7d7">See friends</font>
+
+102
+00:06:11,967 --> 00:06:14,271
+<font color="#dcdcdc">Let's go somewhere Rex Titan this year</font>
+
+103
+00:06:14,527 --> 00:06:20,671
+<font color="#f4f4f4">You say that every year and every year we end up staying with your sister in Blackpool I know</font>
+
+104
+00:06:20,927 --> 00:06:26,815
+<font color="#f2f2f2">But this year I want to do something different to Blackpool without your sister be sensible</font>
+
+105
+00:06:27,071 --> 00:06:33,215
+<font color="#c8c8c8">I want to go do something exciting and get some soon</font>
+
+106
+00:06:34,751 --> 00:06:36,543
+<font color="#e5e5e5">25 years ago</font>
+
+107
+00:06:37,567 --> 00:06:43,711
+<font color="#b0b0b0">Now I see well it says our anniversary and the kids have said they'll pay for</font>
+
+108
+00:06:43,967 --> 00:06:44,991
+<font color="#989898">Tickets As a treat</font>
+
+109
+00:06:49,599 --> 00:06:52,159
+<font color="#f3f3f3">Let's go somewhere exciting this year</font>
+
+110
+00:06:52,415 --> 00:06:53,695
+<font color="#fcfcfc">You say that every year</font>
+
+111
+00:06:53,951 --> 00:06:58,303
+<font color="#b1b1b1">And every year we end up staying with your sister in Blackpool I know</font>
+
+112
+00:06:58,559 --> 00:07:04,703
+<font color="#e9e9e9">But this year I want to do something different to Blackpool without your sister be sensible</font>
+
+113
+00:07:04,959 --> 00:07:06,495
+<font color="#ededed">I want to go abroad</font>
+
+114
+00:07:06,751 --> 00:07:12,127
+<font color="#cbcbcb">To see something exciting and get some Stone</font>
+
+115
+00:07:12,639 --> 00:07:14,175
+<font color="#e4e4e4">25 years ago</font>
+
+116
+00:07:15,199 --> 00:07:18,015
+<font color="#fcfcfc">Now I see well</font>
+
+117
+00:07:18,271 --> 00:07:22,623
+<font color="#e9e9e9">It is our anniversary and the kids have said they'll pay for all tickets As a treat</font>
+
+118
+00:07:25,695 --> 00:07:26,975
+<font color="#c8c8c8">Question 6</font>
+
+119
+00:07:28,255 --> 00:07:30,559
+<font color="#ececec">This telephone call is overheard</font>
+
+120
+00:07:31,839 --> 00:07:33,375
+<font color="#fcfcfc">It takes place in</font>
+
+121
+00:07:34,399 --> 00:07:35,167
+<font color="#d5d5d5">Hey</font>
+
+122
+00:07:35,423 --> 00:07:37,215
+<font color="#9a9a9a">A Santa booking office</font>
+
+123
+00:07:37,983 --> 00:07:38,751
+<font color="#656565">Be</font>
+
+124
+00:07:39,519 --> 00:07:41,311
+<font color="#fcfcfc">An airline booking office</font>
+
+125
+00:07:42,079 --> 00:07:42,591
+<font color="#cdcdcd">See</font>
+
+126
+00:07:43,103 --> 00:07:44,383
+<font color="#ededed">A travel agency</font>
+
+127
+00:07:46,687 --> 00:07:47,711
+<font color="#d0d0d0">I transfer</font>
+
+128
+00:07:48,479 --> 00:07:48,991
+<font color="#fcfcfc">Yes</font>
+
+129
+00:07:49,503 --> 00:07:51,295
+<font color="#d9d9d9">I'm sure we can transfer your ticket</font>
+
+130
+00:07:52,063 --> 00:07:53,599
+<font color="#fcfcfc">What's the date of the performance</font>
+
+131
+00:07:55,135 --> 00:07:57,183
+<font color="#b4b4b4">224</font>
+
+132
+00:07:57,439 --> 00:07:58,975
+<font color="#b5b5b5">I'll just pull that up on the screen</font>
+
+133
+00:07:59,999 --> 00:08:00,767
+<font color="#fcfcfc">Okay</font>
+
+134
+00:08:01,023 --> 00:08:03,327
+<font color="#bebebe">Now what number is your seat</font>
+
+135
+00:08:03,583 --> 00:08:04,863
+<font color="#cfcfcf">X3</font>
+
+136
+00:08:05,375 --> 00:08:06,143
+<font color="#fcfcfc">Okay</font>
+
+137
+00:08:06,399 --> 00:08:11,007
+<font color="#cacaca">Where would you like to move to IC</font>
+
+138
+00:08:11,263 --> 00:08:12,799
+<font color="#fcfcfc">Somewhere near the front</font>
+
+139
+00:08:13,311 --> 00:08:14,335
+<font color="#fcfcfc">How about T1</font>
+
+140
+00:08:14,591 --> 00:08:15,359
+<font color="#fcfcfc">That's available</font>
+
+141
+00:08:18,175 --> 00:08:19,199
+<font color="#fcfcfc">Don't worry about that</font>
+
+142
+00:08:19,455 --> 00:08:20,735
+<font color="#e3e3e3">All seats have a good view</font>
+
+143
+00:08:21,503 --> 00:08:24,319
+<font color="#f9f9f9">Now I've made the change shall I send you the new ticket</font>
+
+144
+00:08:24,575 --> 00:08:25,855
+<font color="#fcfcfc">Would you like to pick it up</font>
+
+145
+00:08:30,719 --> 00:08:31,743
+<font color="#cecece">I transfer</font>
+
+146
+00:08:32,511 --> 00:08:33,279
+<font color="#fcfcfc">Yes</font>
+
+147
+00:08:33,535 --> 00:08:35,327
+<font color="#b8b8b8">I'm sure we can transfer your ticket</font>
+
+148
+00:08:36,351 --> 00:08:38,911
+<font color="#fcfcfc">What's the date of the performance</font>
+
+149
+00:08:39,167 --> 00:08:41,215
+<font color="#929292">The 24th</font>
+
+150
+00:08:41,471 --> 00:08:43,007
+<font color="#d1d1d1">I'll just go back up on the screen</font>
+
+151
+00:08:44,031 --> 00:08:44,799
+<font color="#fcfcfc">Okay</font>
+
+152
+00:08:45,055 --> 00:08:48,895
+<font color="#bdbdbd">Now what numbers go seat 3</font>
+
+153
+00:08:49,407 --> 00:08:50,175
+<font color="#fcfcfc">Okay</font>
+
+154
+00:08:50,431 --> 00:08:56,575
+<font color="#bababa">Where would you like to move to I see somewhere near the front</font>
+
+155
+00:08:57,343 --> 00:08:59,391
+<font color="#cecece">How about T1 that's available</font>
+
+156
+00:09:02,207 --> 00:09:03,231
+<font color="#fcfcfc">Don't worry about that</font>
+
+157
+00:09:03,487 --> 00:09:04,767
+<font color="#c1c1c1">All states have a good view</font>
+
+158
+00:09:05,535 --> 00:09:09,887
+<font color="#fcfcfc">Now I've made the change shall I send you the new ticket or would you like to pick it up</font>
+
+159
+00:09:12,447 --> 00:09:13,727
+<font color="#bdbdbd">Question 7</font>
+
+160
+00:09:14,751 --> 00:09:18,079
+<font color="#fafafa">In this conversation Maria is asking George</font>
+
+161
+00:09:18,591 --> 00:09:19,103
+<font color="#cfcfcf">Hey</font>
+
+162
+00:09:19,359 --> 00:09:20,639
+<font color="#ececec">To write her essay</font>
+
+163
+00:09:21,407 --> 00:09:22,175
+<font color="#656565">Be</font>
+
+164
+00:09:22,431 --> 00:09:23,967
+<font color="#f2f2f2">To read her essay</font>
+
+165
+00:09:24,479 --> 00:09:25,247
+<font color="#cdcdcd">See</font>
+
+166
+00:09:25,503 --> 00:09:27,295
+<font color="#dedede">To help her with an essay</font>
+
+167
+00:09:35,487 --> 00:09:41,631
+<font color="#fcfcfc">Yes</font>
+
+168
+00:09:41,887 --> 00:09:48,031
+<font color="#e5e5e5">Avenue</font>
+
+169
+00:09:48,287 --> 00:09:54,431
+<font color="#ededed">So what do you want me to write it for you do you</font>
+
+170
+00:09:54,687 --> 00:09:59,551
+<font color="#bbbbbb">Cuz you know I mean what's the point is to use</font>
+
+171
+00:10:10,303 --> 00:10:16,447
+<font color="#e5e5e5">Yes</font>
+
+172
+00:10:16,703 --> 00:10:22,847
+<font color="#606060">Avenue</font>
+
+173
+00:10:23,103 --> 00:10:23,871
+<font color="#fcfcfc">So what do you want</font>
+
+174
+00:10:24,127 --> 00:10:30,271
+<font color="#bcbcbc">Expect me to write it for you do you</font>
+
+175
+00:10:30,527 --> 00:10:31,807
+<font color="#dddddd">What's the point is</font>
+
+176
+00:10:32,063 --> 00:10:34,367
+<font color="#f9f9f9">We could start by telling me which books to use</font>
+
+177
+00:10:36,927 --> 00:10:37,951
+<font color="#787878">What's your fate</font>
+
+178
+00:10:38,975 --> 00:10:42,815
+<font color="#f3f3f3">You overhear this conversation when you are traveling on</font>
+
+179
+00:10:43,071 --> 00:10:44,863
+<font color="#d1d1d1">Hey a plane</font>
+
+180
+00:10:45,375 --> 00:10:46,143
+<font color="#646464">Be</font>
+
+181
+00:10:46,399 --> 00:10:47,167
+<font color="#fcfcfc">Abbas</font>
+
+182
+00:10:47,679 --> 00:10:49,471
+<font color="#e7e7e7">See a train</font>
+
+183
+00:10:51,007 --> 00:10:52,799
+<font color="#fcfcfc">Excuse me sir I'm sorry</font>
+
+184
+00:10:53,055 --> 00:10:54,847
+<font color="#fafafa">This compartment is non-smoking</font>
+
+185
+00:10:55,103 --> 00:10:56,895
+<font color="#fbfbfb">Could you please put out your cigarette</font>
+
+186
+00:10:57,151 --> 00:11:00,223
+<font color="#e2e2e2">I know and I'm sorry</font>
+
+187
+00:11:00,479 --> 00:11:04,831
+<font color="#c7c7c7">But this is non-smoking as a signs on the Windows show quite clearly</font>
+
+188
+00:11:05,343 --> 00:11:06,879
+<font color="#dedede">The other passengers are complaining</font>
+
+189
+00:11:07,647 --> 00:11:13,791
+<font color="#bababa">Johnson just open the window I'm sorry sir if you want to smoke you must move to a smoking compartment</font>
+
+190
+00:11:14,047 --> 00:11:16,607
+<font color="#c3c3c3">There's one in the next car is just after the buffet car</font>
+
+191
+00:11:21,983 --> 00:11:24,031
+<font color="#fcfcfc">Excuse me sir I'm sorry</font>
+
+192
+00:11:24,287 --> 00:11:25,823
+<font color="#fbfbfb">This compartment is non-smoking</font>
+
+193
+00:11:26,079 --> 00:11:27,871
+<font color="#f7f7f7">Could you please put out your cigarette</font>
+
+194
+00:11:28,127 --> 00:11:34,271
+<font color="#cdcdcd">I know and I'm sorry but this is Norm smoking as a science on the Wind</font>
+
+195
+00:11:34,527 --> 00:11:35,807
+<font color="#fcfcfc">Show quite clearly</font>
+
+196
+00:11:36,319 --> 00:11:37,855
+<font color="#dedede">The other passengers are complaining</font>
+
+197
+00:11:38,623 --> 00:11:44,767
+<font color="#b0b0b0">Gosh I just open the window I'm sorry sir if you want to smoke you must move to a smoking compartment</font>
+
+198
+00:11:45,023 --> 00:11:47,583
+<font color="#cacaca">There's one in the next car is just after the buffet car</font>

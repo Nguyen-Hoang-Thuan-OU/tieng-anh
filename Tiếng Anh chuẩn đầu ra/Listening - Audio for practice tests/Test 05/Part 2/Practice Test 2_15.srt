@@ -1,0 +1,7 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#e3e3e3">Number 15 how does the girl probably feel when she says this</font>
+
+2
+00:00:05,120 --> 00:00:07,936
+<font color="#fcfcfc">You've got to be kidding me</font>

@@ -1,0 +1,155 @@
+﻿1
+00:00:00,256 --> 00:00:02,048
+<font color="#f1f1f1">Questions 18 through 22</font>
+
+2
+00:00:02,560 --> 00:00:05,632
+<font color="#f8f8f8">Listen to a conversation between a student and a teacher</font>
+
+3
+00:00:06,400 --> 00:00:09,728
+<font color="#fcfcfc">Mr. Gibson are you busy right now</font>
+
+4
+00:00:09,984 --> 00:00:12,800
+<font color="#dedede">Just grading these history test Monday</font>
+
+5
+00:00:13,312 --> 00:00:18,176
+<font color="#f9f9f9">Oh so then should I come back to speak with you sometime later</font>
+
+6
+00:00:18,432 --> 00:00:21,760
+<font color="#d7d7d7">Oh no sorry I didn't mean that I was just</font>
+
+7
+00:00:22,272 --> 00:00:23,040
+<font color="#fcfcfc">Sorry</font>
+
+8
+00:00:23,296 --> 00:00:27,136
+<font color="#e9e9e9">I get spaced out sometimes when I'm grading papers</font>
+
+9
+00:00:27,392 --> 00:00:29,952
+<font color="#fbfbfb">Please come into my office and grab a seat</font>
+
+10
+00:00:30,208 --> 00:00:31,744
+<font color="#f3f3f3">Thanks mr. Gibson</font>
+
+11
+00:00:32,000 --> 00:00:33,536
+<font color="#fafafa">What do you want to talk about Mindy</font>
+
+12
+00:00:34,048 --> 00:00:36,352
+<font color="#fcfcfc">It's the research paper we have to do</font>
+
+13
+00:00:36,608 --> 00:00:37,376
+<font color="#fcfcfc">What about it</font>
+
+14
+00:00:39,168 --> 00:00:41,728
+<font color="#f3f3f3">I've never written a long paper before</font>
+
+15
+00:00:41,984 --> 00:00:45,312
+<font color="#fbfbfb">You told us that it has to be 20 pages long</font>
+
+16
+00:00:45,568 --> 00:00:51,712
+<font color="#eeeeee">And we need to have a bibliography so that we can cite all of our sources</font>
+
+17
+00:00:51,968 --> 00:00:58,112
+<font color="#fcfcfc">To be honest I've never done any of this before so I don't have a</font>
+
+18
+00:00:58,368 --> 00:01:00,416
+<font color="#fcfcfc">Clue as to what I should be doing</font>
+
+19
+00:01:00,672 --> 00:01:03,232
+<font color="#909090">I Siri okay</font>
+
+20
+00:01:03,744 --> 00:01:08,096
+<font color="#f7f7f7">For a research paper you need to get your information from several different sources</font>
+
+21
+00:01:08,352 --> 00:01:10,656
+<font color="#dbdbdb">I hope your use at least five sources</font>
+
+22
+00:01:10,912 --> 00:01:12,704
+<font color="#fafafa">But I would prefer that you use more</font>
+
+23
+00:01:13,216 --> 00:01:18,336
+<font color="#dfdfdf">Resources can be books magazine articles information from websites and so on</font>
+
+24
+00:01:18,592 --> 00:01:19,616
+<font color="#fcfcfc">Okay</font>
+
+25
+00:01:19,872 --> 00:01:23,200
+<font color="#eeeeee">What about the bibliography and footnotes</font>
+
+26
+00:01:23,456 --> 00:01:27,040
+<font color="#dbdbdb">Every time you use information from another source in your paper</font>
+
+27
+00:01:27,296 --> 00:01:28,576
+<font color="#fcfcfc">You need to make a footnote</font>
+
+28
+00:01:28,832 --> 00:01:32,928
+<font color="#e1e1e1">This provides information about the work from which you got your information</font>
+
+29
+00:01:33,440 --> 00:01:36,256
+<font color="#fcfcfc">At the end of the paper you should write a bibliography</font>
+
+30
+00:01:36,768 --> 00:01:40,864
+<font color="#dedede">Simply put it's a list of the sources that you used to write your paper</font>
+
+31
+00:01:41,376 --> 00:01:47,264
+<font color="#fcfcfc">If you look at that big handout I gave you yesterday you'll see how to make both footnotes and a bibliography</font>
+
+32
+00:01:47,776 --> 00:01:49,568
+<font color="#fcfcfc">So does that help</font>
+
+33
+00:01:49,824 --> 00:01:50,848
+<font color="#f5f5f5">A lot</font>
+
+34
+00:01:51,104 --> 00:01:52,640
+<font color="#fcfcfc">Thanks for clearing that up</font>
+
+35
+00:01:52,896 --> 00:01:58,016
+<font color="#d6d6d6">If I have any more questions while I'm writing my paper can I come back here and ask you</font>
+
+36
+00:01:58,528 --> 00:02:02,368
+<font color="#fcfcfc">Of course you can that's what I'm here for to help you learn</font>
+
+37
+00:02:04,416 --> 00:02:05,952
+<font color="#fcfcfc">Now answer the questions</font>
+
+38
+00:02:06,720 --> 00:02:08,000
+<font color="#f8f8f8">Number 18</font>
+
+39
+00:02:08,256 --> 00:02:10,048
+<font color="#fcfcfc">What is the teacher explaining</font>

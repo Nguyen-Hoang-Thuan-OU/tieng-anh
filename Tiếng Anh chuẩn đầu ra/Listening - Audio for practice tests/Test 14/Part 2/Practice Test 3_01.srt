@@ -1,0 +1,111 @@
+﻿1
+00:00:00,256 --> 00:00:03,328
+<font color="#dadada">Practice test free</font>
+
+2
+00:00:05,120 --> 00:00:11,264
+<font color="#efefef">The listening section has 42 questions follow along as you listen to the directions to the</font>
+
+3
+00:00:11,520 --> 00:00:12,544
+<font color="#fcfcfc">The listening section</font>
+
+4
+00:00:13,568 --> 00:00:14,592
+<font color="#fcfcfc">Directions</font>
+
+5
+00:00:14,848 --> 00:00:20,992
+<font color="#f5f5f5">In this section of the test you will hear talks and conversations each talk or conversation</font>
+
+6
+00:00:21,248 --> 00:00:27,392
+<font color="#bbbbbb">He's followed by one question choose the best answer to each question and mark the letter of the</font>
+
+7
+00:00:27,648 --> 00:00:33,792
+<font color="#f7f7f7">Correct answer on your answer sheet you will hear each talk or conversation only one time</font>
+
+8
+00:00:34,816 --> 00:00:36,096
+<font color="#fcfcfc">Here is an example</font>
+
+9
+00:00:36,864 --> 00:00:40,704
+<font color="#fcfcfc">Listen to a conversation between two friends in the classroom</font>
+
+10
+00:00:41,728 --> 00:00:47,872
+<font color="#fcfcfc">Aren't you going to band practice now it's our first meeting of the year</font>
+
+11
+00:00:48,128 --> 00:00:50,432
+<font color="#c8c8c8">Banda pass this year</font>
+
+12
+00:00:51,200 --> 00:00:52,992
+<font color="#fcfcfc">What does the girl mean</font>
+
+13
+00:00:53,760 --> 00:00:55,808
+<font color="#fcfcfc">Now read the answer choices</font>
+
+14
+00:01:07,840 --> 00:01:12,960
+<font color="#f6f6f6">The correct answer is B she is not going to be a member of the band</font>
+
+15
+00:01:13,728 --> 00:01:15,520
+<font color="#fcfcfc">Here is another example</font>
+
+16
+00:01:16,032 --> 00:01:19,872
+<font color="#fcfcfc">Listen to a conversation between two friends at school</font>
+
+17
+00:01:20,640 --> 00:01:26,784
+<font color="#fcfcfc">I can't wait for spring break to come I could really use some time off</font>
+
+18
+00:01:27,040 --> 00:01:31,648
+<font color="#f9f9f9">Agree with you I'm looking forward to not having class for a week as well</font>
+
+19
+00:01:32,672 --> 00:01:34,720
+<font color="#f8f8f8">What are the speakers talking about</font>
+
+20
+00:01:35,744 --> 00:01:38,048
+<font color="#fcfcfc">Now read the answer choices</font>
+
+21
+00:01:49,824 --> 00:01:53,152
+<font color="#fcfcfc">The correct answer is C spring break</font>
+
+22
+00:01:53,920 --> 00:01:59,040
+<font color="#dbdbdb">Go on to the next page and the test will begin with question number one</font>
+
+23
+00:02:03,904 --> 00:02:08,512
+<font color="#d9d9d9">Number one listened to a conversation between two friends</font>
+
+24
+00:02:09,280 --> 00:02:13,120
+<font color="#d2d2d2">Today is picture day which set do you intend to buy</font>
+
+25
+00:02:13,632 --> 00:02:19,776
+<font color="#fcfcfc">I'm just going to purchase the standard said I don't need to get the deluxe set</font>
+
+26
+00:02:20,032 --> 00:02:26,176
+<font color="#fcfcfc">Why not I've already got hundreds of pictures of myself on my smartphone</font>
+
+27
+00:02:26,432 --> 00:02:31,040
+<font color="#f4f4f4">I don't want to pay for a bunch at school and that would be a waste of money</font>
+
+28
+00:02:31,808 --> 00:02:36,160
+<font color="#cecece">Which pictures that does the girl say she will purchase</font>

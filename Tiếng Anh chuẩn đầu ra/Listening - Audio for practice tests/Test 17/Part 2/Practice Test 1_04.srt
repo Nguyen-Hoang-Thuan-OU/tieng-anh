@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#fcfcfc">Number for listen to a conversation between two friends</font>
+
+2
+00:00:04,608 --> 00:00:10,752
+<font color="#dedede">Chris do you happen to have your science notebook on you now know I don't</font>
+
+3
+00:00:11,008 --> 00:00:17,152
+<font color="#fafafa">I left it in my locker how come would you mind if I copied your notes from today's</font>
+
+4
+00:00:17,408 --> 00:00:22,272
+<font color="#f7f7f7">Class I left my notebook at home so I didn't take any today</font>
+
+5
+00:00:22,528 --> 00:00:26,880
+<font color="#fbfbfb">No problem I'll give it to you after next. Ends</font>
+
+6
+00:00:28,160 --> 00:00:31,744
+<font color="#f6f6f6">What is the boy going to do after the next.</font>

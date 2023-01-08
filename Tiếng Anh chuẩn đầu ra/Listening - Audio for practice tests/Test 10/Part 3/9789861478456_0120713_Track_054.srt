@@ -1,0 +1,55 @@
+﻿1
+00:00:01,024 --> 00:00:06,656
+<font color="#d7d7d7">Questions 95 through 97 refer to the following excerpt from a sales pitch and price list</font>
+
+2
+00:00:08,960 --> 00:00:15,104
+<font color="#e6e6e6">You want to give you a loyal customers a thank you gift but how do you pick a gift up they'll love</font>
+
+3
+00:00:15,360 --> 00:00:21,504
+<font color="#cecece">Gift Solutions offers a range of gifts for corporate customers give him a hug with your company logo</font>
+
+4
+00:00:21,760 --> 00:00:27,904
+<font color="#d7d7d7">Wrong give him up with your clients name at only $3 a piece it's a personalized baggage</font>
+
+5
+00:00:28,160 --> 00:00:34,304
+<font color="#b6b6b6">And every time they use it now remember it was from you want something at is a Lorex</font>
+
+6
+00:00:34,560 --> 00:00:40,704
+<font color="#e3e3e3">Expensive how about movie tickets they'll remember a fun night out at your expense</font>
+
+7
+00:00:40,960 --> 00:00:47,104
+<font color="#f6f6f6">We're offering a pack of 10 tickets. $25 want to give something more practical</font>
+
+8
+00:00:47,360 --> 00:00:50,176
+<font color="#dcdcdc">Monogram desktop planners off $5 a piece</font>
+
+9
+00:00:51,712 --> 00:00:53,248
+<font color="#f2f2f2">Number 95</font>
+
+10
+00:00:53,504 --> 00:00:56,064
+<font color="#fcfcfc">Who is the woman probably talking to</font>
+
+11
+00:01:03,232 --> 00:01:04,768
+<font color="#fcfcfc">Number 96</font>
+
+12
+00:01:05,024 --> 00:01:08,608
+<font color="#cdcdcd">What is the woman suggest to make gifts more memorable</font>
+
+13
+00:01:15,776 --> 00:01:21,920
+<font color="#f5f5f5">Number 97 at the graphic how much would it cost to buy a minimum order of</font>
+
+14
+00:01:22,176 --> 00:01:22,944
+<font color="#dcdcdc">Planners</font>

@@ -1,0 +1,663 @@
+﻿1
+00:00:00,256 --> 00:00:00,768
+<font color="#555555">Test for</font>
+
+2
+00:00:01,792 --> 00:00:05,888
+<font color="#f1f1f1">This is the Cambridge English first four schools listening test</font>
+
+3
+00:00:07,168 --> 00:00:09,984
+<font color="#fcfcfc">I'm going to give you the instructions for this test</font>
+
+4
+00:00:11,008 --> 00:00:15,616
+<font color="#f1f1f1">I'll introduce each part of the test and give you time to look at the questions</font>
+
+5
+00:00:16,384 --> 00:00:19,712
+<font color="#cfcfcf">Are the stars of each piece you will hear this sound</font>
+
+6
+00:00:22,272 --> 00:00:24,320
+<font color="#d7d7d7">You'll hear each piece twice</font>
+
+7
+00:00:25,088 --> 00:00:29,440
+<font color="#f7f7f7">Remember why you listening write your answers on the question paper</font>
+
+8
+00:00:29,696 --> 00:00:35,840
+<font color="#dadada">You'll have five minutes at the end of the test to copia Lance's onto the separate answer sheet</font>
+
+9
+00:00:36,608 --> 00:00:38,400
+<font color="#e2e2e2">It will now be opposed</font>
+
+10
+00:00:38,656 --> 00:00:43,520
+<font color="#dddddd">Please ask any questions now because you must not speak during the test</font>
+
+11
+00:00:45,312 --> 00:00:48,640
+<font color="#f5f5f5">Now open your question paper and look at part 1</font>
+
+12
+00:00:50,432 --> 00:00:51,200
+<font color="#d9d9d9">Part 1</font>
+
+13
+00:00:52,736 --> 00:00:56,576
+<font color="#c9c9c9">You'll hear people talking and H different situations</font>
+
+14
+00:00:57,088 --> 00:00:58,880
+<font color="#f9f9f9">The questions 128</font>
+
+15
+00:00:59,136 --> 00:01:00,672
+<font color="#f5f5f5">Choose the best answer</font>
+
+16
+00:01:01,696 --> 00:01:03,232
+<font color="#a9a9a9">Boc</font>
+
+17
+00:01:06,304 --> 00:01:08,096
+<font color="#c3c3c3">You hear two friends talking</font>
+
+18
+00:01:08,864 --> 00:01:11,424
+<font color="#f6f6f6">Which sport should I watching on TV</font>
+
+19
+00:01:12,448 --> 00:01:12,960
+<font color="#cfcfcf">Hey</font>
+
+20
+00:01:15,264 --> 00:01:16,032
+<font color="#7b7b7b">Be</font>
+
+21
+00:01:16,288 --> 00:01:17,056
+<font color="#fcfcfc">Tennis</font>
+
+22
+00:01:19,104 --> 00:01:19,872
+<font color="#f1f1f1">Football</font>
+
+23
+00:01:25,248 --> 00:01:31,392
+<font color="#a9a9a9">Wow what's a great short he's such a talented player</font>
+
+24
+00:01:31,648 --> 00:01:36,512
+<font color="#e2e2e2">I saw him playing tennis at the charity tournament the other day</font>
+
+25
+00:01:36,768 --> 00:01:42,912
+<font color="#c5c5c5">I didn't know he played that to to me he's just a great football player imagine him doing anything else</font>
+
+26
+00:01:43,168 --> 00:01:49,312
+<font color="#b9b9b9">Well I know you didn't lock the sport he plays golf when he's on holiday and he's pretty good at that apparently</font>
+
+27
+00:01:49,568 --> 00:01:51,872
+<font color="#dcdcdc">I wish I could be good at everything too</font>
+
+28
+00:01:57,248 --> 00:01:58,272
+<font color="#c1c1c1">Wow</font>
+
+29
+00:01:58,528 --> 00:02:04,672
+<font color="#c6c6c6">What's a great shot he's such a talented player is great isn't he</font>
+
+30
+00:02:04,928 --> 00:02:07,744
+<font color="#aaaaaa">I'm playing tennis at a charity tournament the other day</font>
+
+31
+00:02:08,000 --> 00:02:08,768
+<font color="#fcfcfc">Really</font>
+
+32
+00:02:09,024 --> 00:02:15,168
+<font color="#c4c4c4">I didn't know he played that to to me he's just a great football player imagine him doing anything else</font>
+
+33
+00:02:15,424 --> 00:02:21,568
+<font color="#bdbdbd">Well I know you couldn't lots of sport he plays golf when he's on holiday and he's pretty good at that's apparently</font>
+
+34
+00:02:21,824 --> 00:02:24,128
+<font color="#e8e8e8">I wish I could be good at everything too</font>
+
+35
+00:02:28,480 --> 00:02:31,296
+<font color="#cacaca">You hear mine talkin about a day out</font>
+
+36
+00:02:32,064 --> 00:02:33,088
+<font color="#fcfcfc">Who is the speaker</font>
+
+37
+00:02:33,856 --> 00:02:34,624
+<font color="#d2d2d2">Hey</font>
+
+38
+00:02:34,880 --> 00:02:35,648
+<font color="#fcfcfc">A teacher</font>
+
+39
+00:02:36,672 --> 00:02:37,184
+<font color="#636363">Be</font>
+
+40
+00:02:37,440 --> 00:02:38,464
+<font color="#dedede">Policeman</font>
+
+41
+00:02:39,232 --> 00:02:40,000
+<font color="#cdcdcd">See</font>
+
+42
+00:02:40,256 --> 00:02:41,024
+<font color="#fcfcfc">America</font>
+
+43
+00:02:46,400 --> 00:02:52,544
+<font color="#c8c8c8">It was great fun and of course all the kids off me loads of questions pit was great that they was so interested</font>
+
+44
+00:02:52,800 --> 00:02:58,944
+<font color="#b0b0b0">Everything I suppose that's what the film stars feel like they must get used to all the attention I can't tonight</font>
+
+45
+00:02:59,200 --> 00:03:05,344
+<font color="#ababab">Them to make sure everybody behaves well and nobody got hurt we have loads of material now</font>
+
+46
+00:03:05,600 --> 00:03:11,744
+<font color="#bdbdbd">Project and it will make my lessons more interesting I hope there's a good photograph of a school outside</font>
+
+47
+00:03:12,000 --> 00:03:12,768
+<font color="#e1e1e1">Police station</font>
+
+48
+00:03:17,888 --> 00:03:24,032
+<font color="#dadada">It was great fun and of course all the kids off me loads of questions it was great that they was so interested</font>
+
+49
+00:03:24,288 --> 00:03:30,432
+<font color="#cdcdcd">Didn't everything I suppose that's what the film stars feel like they must get used to all the attention I can't</font>
+
+50
+00:03:30,688 --> 00:03:36,832
+<font color="#bbbbbb">Denying them to make sure everybody behaves well and nobody got hurt we have loads of material</font>
+
+51
+00:03:37,088 --> 00:03:43,232
+<font color="#9e9e9e">Well now from next project and it will make my lessons more interesting I hope I could photograph of a school outside</font>
+
+52
+00:03:43,488 --> 00:03:44,512
+<font color="#949494">By the old police station</font>
+
+53
+00:03:47,328 --> 00:03:47,840
+<font color="#9d9d9d">Free</font>
+
+54
+00:03:49,120 --> 00:03:52,960
+<font color="#cecece">You here we go talking about a documentary she's just seen</font>
+
+55
+00:03:53,984 --> 00:03:56,032
+<font color="#fcfcfc">What was the documentary about</font>
+
+56
+00:03:56,800 --> 00:03:57,568
+<font color="#cecece">Hey</font>
+
+57
+00:03:58,080 --> 00:03:58,848
+<font color="#a2a2a2">A lake</font>
+
+58
+00:03:59,616 --> 00:04:00,384
+<font color="#616161">Be</font>
+
+59
+00:04:00,896 --> 00:04:01,920
+<font color="#fcfcfc">Plants</font>
+
+60
+00:04:03,712 --> 00:04:04,736
+<font color="#fcfcfc">Animals</font>
+
+61
+00:04:09,856 --> 00:04:16,000
+<font color="#e5e5e5">I think he'd have enjoyed it it was amazing to see how quickly they Groove from tiny little things</font>
+
+62
+00:04:16,256 --> 00:04:22,399
+<font color="#b9b9b9">Sipping told enough to reach the lowest branches and eat the leaves it's amazing how close the crew can get</font>
+
+63
+00:04:22,655 --> 00:04:28,799
+<font color="#cacaca">I have a feeling the baby without frightening them sometime the camera might have to hide out in a tree</font>
+
+64
+00:04:29,055 --> 00:04:35,199
+<font color="#a5a5a5">He has to get the right shower it's such a good series you should watch the one next week it's about</font>
+
+65
+00:04:35,455 --> 00:04:38,015
+<font color="#d7d7d7">How to make changes throughout the year</font>
+
+66
+00:04:43,391 --> 00:04:49,535
+<font color="#d8d8d8">I think you'd have enjoyed it it was amazing to see how quickly they Groove from tiny little things</font>
+
+67
+00:04:49,791 --> 00:04:55,935
+<font color="#d4d4d4">Being told enough to reach the lowest branches and eat the leaves it's amazing how close the crew can get</font>
+
+68
+00:04:56,191 --> 00:05:02,335
+<font color="#d3d3d3">And how they film the baby without frightening them sometimes the camera might have to hide up in a tree</font>
+
+69
+00:05:02,591 --> 00:05:08,735
+<font color="#e0e0e0">To get the right shower it's such a good series you should watch the one next week it's about 2</font>
+
+70
+00:05:08,991 --> 00:05:11,295
+<font color="#bfbfbf">About changes throughout the year</font>
+
+71
+00:05:16,159 --> 00:05:19,231
+<font color="#a6a6a6">You hear a boy talking about his day at school</font>
+
+72
+00:05:20,255 --> 00:05:21,791
+<font color="#f6f6f6">How does he feel now</font>
+
+73
+00:05:23,583 --> 00:05:24,607
+<font color="#fcfcfc">Excited</font>
+
+74
+00:05:25,375 --> 00:05:25,887
+<font color="#636363">Be</font>
+
+75
+00:05:26,399 --> 00:05:27,423
+<font color="#fcfcfc">Relieved</font>
+
+76
+00:05:28,191 --> 00:05:28,959
+<font color="#afafaf">See</font>
+
+77
+00:05:29,471 --> 00:05:30,495
+<font color="#fcfcfc">Disappointed</font>
+
+78
+00:05:35,615 --> 00:05:39,199
+<font color="#e9e9e9">You know what it's like on the first day back after the summer holidays</font>
+
+79
+00:05:39,711 --> 00:05:45,855
+<font color="#ababab">You don't know who your new teachers does a new timetable all that quite stressful</font>
+
+80
+00:05:47,135 --> 00:05:50,975
+<font color="#f1f1f1">But it was quite exciting going in this morning and seeing everybody again</font>
+
+81
+00:05:51,487 --> 00:05:57,119
+<font color="#c6c6c6">I was sorry not to be in the same group The Masters lost you but I'm sure I'll get used to it</font>
+
+82
+00:05:57,375 --> 00:06:03,007
+<font color="#ececec">Anyway on much more relaxed now because I know what I'm doing and I think this year will be okay</font>
+
+83
+00:06:08,127 --> 00:06:11,711
+<font color="#e6e6e6">You know what it's like on the first day back after the summer holidays</font>
+
+84
+00:06:12,223 --> 00:06:18,367
+<font color="#a9a9a9">You don't know who your new teachers does a new timetable all that quite stressful</font>
+
+85
+00:06:19,647 --> 00:06:23,487
+<font color="#f9f9f9">But it was quite exciting going in this morning and seeing everybody again</font>
+
+86
+00:06:23,999 --> 00:06:29,631
+<font color="#9d9d9d">In the same group The Masters lost you but I'm sure I'll get used to it</font>
+
+87
+00:06:29,887 --> 00:06:35,519
+<font color="#eaeaea">Anyway on much more relaxed now because I know what I'm doing and I think this year will be okay</font>
+
+88
+00:06:38,335 --> 00:06:39,103
+<font color="#f8f8f8">5</font>
+
+89
+00:06:40,639 --> 00:06:44,991
+<font color="#e9e9e9">You hear a brother and sister talking about the music at a party</font>
+
+90
+00:06:45,759 --> 00:06:47,295
+<font color="#c0c0c0">What did they agree about</font>
+
+91
+00:06:48,063 --> 00:06:48,575
+<font color="#d2d2d2">Hey</font>
+
+92
+00:06:49,087 --> 00:06:50,367
+<font color="#fcfcfc">How good it was</font>
+
+93
+00:06:51,135 --> 00:06:51,647
+<font color="#616161">Be</font>
+
+94
+00:06:52,159 --> 00:06:53,951
+<font color="#fcfcfc">Unusual it was</font>
+
+95
+00:06:54,719 --> 00:06:55,487
+<font color="#b8b8b8">See</font>
+
+96
+00:06:55,743 --> 00:06:57,279
+<font color="#fcfcfc">How loud it was</font>
+
+97
+00:07:02,655 --> 00:07:08,799
+<font color="#f5f5f5">Well did you enjoy the Posse</font>
+
+98
+00:07:09,055 --> 00:07:15,199
+<font color="#919191">Did the music I'm not sure about that I thought it was a bit loud at times actually</font>
+
+99
+00:07:16,223 --> 00:07:17,503
+<font color="#fcfcfc">Did you like what you had</font>
+
+100
+00:07:17,759 --> 00:07:23,903
+<font color="#e7e7e7">I did and it wasn't the usual standard party music was it I didn't think it was particularly different from the</font>
+
+101
+00:07:24,159 --> 00:07:30,303
+<font color="#9b9b9b">The usual stuff but I enjoy don't think so it anyway</font>
+
+102
+00:07:30,559 --> 00:07:36,191
+<font color="#cdcdcd">Well you should try it sometime instead of just standing around chatting with you mate</font>
+
+103
+00:07:41,311 --> 00:07:47,455
+<font color="#ebebeb">Well did you enjoy the Posse</font>
+
+104
+00:07:47,711 --> 00:07:53,855
+<font color="#969696">Hear the music I'm not sure about that I thought it was a bit too loud at times actually</font>
+
+105
+00:07:54,111 --> 00:08:00,255
+<font color="#fcfcfc">Did you like what you had</font>
+
+106
+00:08:00,511 --> 00:08:06,655
+<font color="#e3e3e3">I didn't think it was particularly different from the usual stuff but I enjoyed don't think so it anyway</font>
+
+107
+00:08:06,911 --> 00:08:13,055
+<font color="#dbdbdb">Who is do whatever that playing well you should try it sometime instead of just standing around chatting</font>
+
+108
+00:08:13,311 --> 00:08:14,847
+<font color="#cecece">Volume eight</font>
+
+109
+00:08:17,663 --> 00:08:18,431
+<font color="#9d9d9d">Shakes</font>
+
+110
+00:08:19,455 --> 00:08:22,015
+<font color="#e1e1e1">You hear Adele talking to her father</font>
+
+111
+00:08:22,527 --> 00:08:23,551
+<font color="#fcfcfc">What is she doing</font>
+
+112
+00:08:24,319 --> 00:08:24,831
+<font color="#d2d2d2">Hey</font>
+
+113
+00:08:25,599 --> 00:08:27,903
+<font color="#f1f1f1">Telling her father how to do something</font>
+
+114
+00:08:28,927 --> 00:08:29,439
+<font color="#5f5f5f">Be</font>
+
+115
+00:08:30,207 --> 00:08:32,255
+<font color="#f7f7f7">Promising her father something</font>
+
+116
+00:08:33,279 --> 00:08:34,047
+<font color="#a3a3a3">See</font>
+
+117
+00:08:34,559 --> 00:08:37,119
+<font color="#fcfcfc">Persuading her father to do something</font>
+
+118
+00:08:42,239 --> 00:08:48,383
+<font color="#dfdfdf">Why don't you go now then you have more chance of getting good tickets the Q will be really lonely</font>
+
+119
+00:08:48,639 --> 00:08:54,783
+<font color="#dfdfdf">I just don't want to be fine if we can go in half an hour or so</font>
+
+120
+00:08:55,039 --> 00:09:01,183
+<font color="#bebebe">I know you'll be disappointed if you don't get any tickets it one of your favorite bands and what about your friends you play</font>
+
+121
+00:09:01,439 --> 00:09:07,583
+<font color="#adadad">Promise them you get some for them too I want to but that's why I need a lift there</font>
+
+122
+00:09:07,839 --> 00:09:13,983
+<font color="#bebebe">I'll get that quicker you know I'm busy today why don't you cycle that it's raining</font>
+
+123
+00:09:19,615 --> 00:09:25,759
+<font color="#d7d7d7">Why don't you go now then you have more chance of getting good tickets the Q will be really long legs</font>
+
+124
+00:09:26,015 --> 00:09:32,159
+<font color="#ececec">I just don't want to be fine if we can go in half an hour or so</font>
+
+125
+00:09:32,415 --> 00:09:38,559
+<font color="#ededed">I know you'll be disappointed if you don't get any tickets at one of your favorite bands and what about your friends you</font>
+
+126
+00:09:38,815 --> 00:09:44,959
+<font color="#adadad">Promise them you get some for them too I want to but that's why I need a lift there</font>
+
+127
+00:09:45,215 --> 00:09:51,359
+<font color="#f5f5f5">I'll get that quicker you know I'm busy today why don't you cycle Dad it's raining</font>
+
+128
+00:09:54,687 --> 00:09:55,455
+<font color="#fcfcfc">7</font>
+
+129
+00:09:56,735 --> 00:09:59,039
+<font color="#f2f2f2">You hear a woman talking about a cat</font>
+
+130
+00:10:00,063 --> 00:10:01,343
+<font color="#f9f9f9">When was the cat</font>
+
+131
+00:10:03,391 --> 00:10:04,671
+<font color="#fcfcfc">On the pavement</font>
+
+132
+00:10:05,695 --> 00:10:06,207
+<font color="#5f5f5f">Be</font>
+
+133
+00:10:06,975 --> 00:10:08,255
+<font color="#eeeeee">Under a bench</font>
+
+134
+00:10:09,023 --> 00:10:09,791
+<font color="#c4c4c4">See</font>
+
+135
+00:10:10,559 --> 00:10:11,583
+<font color="#e7e7e7">In a tree</font>
+
+136
+00:10:16,703 --> 00:10:22,847
+<font color="#f2f2f2">It was a beautiful white cat I haven't seen it round table for I was sitting on a bench reading</font>
+
+137
+00:10:23,103 --> 00:10:29,247
+<font color="#a2a2a2">My book and I looked up on the couch was sitting them under a little tree just looking at me</font>
+
+138
+00:10:29,503 --> 00:10:35,647
+<font color="#c2c2c2">People kept on passing as the Penguins quite narrow that but the cat didn't move what tools they</font>
+
+139
+00:10:35,903 --> 00:10:37,695
+<font color="#e1e1e1">They just have to walk around it</font>
+
+140
+00:10:37,951 --> 00:10:44,095
+<font color="#b2b2b2">I think it likes the sunny supposed to sit found I was a bit worried that it might run into the road</font>
+
+141
+00:10:44,351 --> 00:10:46,911
+<font color="#e0e0e0">But it didn't maybe it's still there</font>
+
+142
+00:10:52,287 --> 00:10:58,431
+<font color="#e2e2e2">It was a beautiful white cat I haven't seen it round table for I was sitting on a bench reading</font>
+
+143
+00:10:58,687 --> 00:11:04,831
+<font color="#bfbfbf">My book and I looked up on the cats was sitting them under a little tree just looking at me</font>
+
+144
+00:11:05,087 --> 00:11:11,231
+<font color="#bfbfbf">People kept on passing us is quite narrow that but the cat didn't move what tools they</font>
+
+145
+00:11:11,487 --> 00:11:13,023
+<font color="#919191">Just have to walk around it</font>
+
+146
+00:11:13,279 --> 00:11:19,423
+<font color="#b2b2b2">I think it likes to Sony's focus and found I was a bit worried that it might run into the road</font>
+
+147
+00:11:19,679 --> 00:11:20,703
+<font color="#e3e3e3">But it didn't</font>
+
+148
+00:11:20,959 --> 00:11:22,495
+<font color="#f2f2f2">Maybe it's still there</font>
+
+149
+00:11:25,311 --> 00:11:25,823
+<font color="#cdcdcd">8</font>
+
+150
+00:11:27,103 --> 00:11:29,919
+<font color="#c6c6c6">You hear two friends talking about the website</font>
+
+151
+00:11:30,943 --> 00:11:32,991
+<font color="#fcfcfc">What is the girl think about it</font>
+
+152
+00:11:34,783 --> 00:11:36,063
+<font color="#909090">Is useful</font>
+
+153
+00:11:38,111 --> 00:11:39,391
+<font color="#bababa">She's entertaining</font>
+
+154
+00:11:41,695 --> 00:11:43,487
+<font color="#eaeaea">It is always up-to-date</font>
+
+155
+00:11:48,607 --> 00:11:54,751
+<font color="#b9b9b9">Yes a good website I used it to get information for my jog Rafi presentation last week</font>
+
+156
+00:11:55,007 --> 00:12:01,151
+<font color="#cdcdcd">I've never actually found anything I could use on it besides off and check it went on a bit bold</font>
+
+157
+00:12:01,407 --> 00:12:07,551
+<font color="#e8e8e8">I do too I like reading a funny articles on some of the pictures ready make me laugh</font>
+
+158
+00:12:07,807 --> 00:12:13,951
+<font color="#f0f0f0">It's not much good for news though I go to other sites if I want to find out what's going on</font>
+
+159
+00:12:14,207 --> 00:12:17,279
+<font color="#e8e8e8">So do I still one of my favorites</font>
+
+160
+00:12:22,399 --> 00:12:28,543
+<font color="#b0b0b0">Yes a good website I used it to get information for my jog Rafi presentation last week</font>
+
+161
+00:12:28,799 --> 00:12:34,943
+<font color="#d3d3d3">I've never actually found anything I could use on it besides off and check it went on a bit</font>
+
+162
+00:12:35,199 --> 00:12:41,343
+<font color="#dfdfdf">I do too I like reading a funny articles on some of the pictures ready make me laugh</font>
+
+163
+00:12:41,599 --> 00:12:47,743
+<font color="#f2f2f2">It's not much good for news though I go to other sites if I want to find out what's going on</font>
+
+164
+00:12:47,999 --> 00:12:51,071
+<font color="#eaeaea">So do I still one of my favorites</font>
+
+165
+00:12:53,631 --> 00:12:55,423
+<font color="#eeeeee">That's the end part 1</font>
+
+166
+00:12:55,935 --> 00:12:57,471
+<font color="#757575">No time to part 2</font>

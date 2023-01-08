@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#bfbfbf">Number three listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,120 --> 00:00:10,240
+<font color="#f4f4f4">Miss Daniels is it too late for me to do an extra-credit project for class</font>
+
+3
+00:00:10,496 --> 00:00:16,640
+<font color="#f4f4f4">No I believe there's still enough time for you to do something what are you thinking of doing</font>
+
+4
+00:00:16,896 --> 00:00:20,480
+<font color="#fcfcfc">I was hoping to write a report on one of Shakespeare's plays</font>
+
+5
+00:00:20,736 --> 00:00:26,624
+<font color="#fcfcfc">That sounds fine make sure I have it no later than next Monday at 3</font>
+
+6
+00:00:26,880 --> 00:00:29,184
+<font color="#fcfcfc">What can be inferred about the boy</font>

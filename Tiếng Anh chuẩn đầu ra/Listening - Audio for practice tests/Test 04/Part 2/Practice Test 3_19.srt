@@ -1,0 +1,7 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#ececec">Number 19 what does the teacher imply when he says this</font>
+
+2
+00:00:05,376 --> 00:00:08,192
+<font color="#eaeaea">I get spaced out sometimes when I'm grading papers</font>

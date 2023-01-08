@@ -1,0 +1,47 @@
+﻿1
+00:00:00,512 --> 00:00:04,864
+<font color="#eeeeee">Question 77 through 79 refer to the following announcement</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#d8d8d8">Please make your way to your seats the show will be starting in 5 minutes once they're show as starter</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#f2f2f2">You will not be allowed to enter when you take your seat you are kindly asked to turn off all cell phones</font>
+
+4
+00:00:18,944 --> 00:00:25,088
+<font color="#f1f1f1">Ringtones and vibrations are distracting to the performers I don't feel like to take this opportunity</font>
+
+5
+00:00:25,344 --> 00:00:31,488
+<font color="#f8f8f8">To remind you that flash photography is not allowed in the auditorium and recordings up any</font>
+
+6
+00:00:31,744 --> 00:00:36,608
+<font color="#eeeeee">Kind are strictly prohibited thank you for your compliance please enjoy the show</font>
+
+7
+00:00:37,888 --> 00:00:39,424
+<font color="#fcfcfc">Number 77</font>
+
+8
+00:00:39,680 --> 00:00:42,240
+<font color="#fcfcfc">Where is this announcement taking place</font>
+
+9
+00:00:49,408 --> 00:00:50,944
+<font color="#fcfcfc">Number 78</font>
+
+10
+00:00:51,200 --> 00:00:54,528
+<font color="#e5e5e5">Why are guests asked to turn off their phones</font>
+
+11
+00:01:01,696 --> 00:01:03,232
+<font color="#fcfcfc">Number 79</font>
+
+12
+00:01:03,488 --> 00:01:06,304
+<font color="#ececec">What are guests not permitted to do</font>

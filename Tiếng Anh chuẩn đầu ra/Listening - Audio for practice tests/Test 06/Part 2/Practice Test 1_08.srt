@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#cccccc">Number 8 listen to a principal making an announcement</font>
+
+2
+00:00:05,376 --> 00:00:11,520
+<font color="#fcfcfc">Attention everyone there is a severe winter storm that is approaching rapidly according to</font>
+
+3
+00:00:11,776 --> 00:00:17,920
+<font color="#c8c8c8">Do the weather forecast it's going to drop at least 10 cm of snow in the next 2 hours</font>
+
+4
+00:00:18,176 --> 00:00:24,320
+<font color="#fafafa">Decided to cancel classes for the rest of the day all students and teachers need to leave school and return</font>
+
+5
+00:00:24,576 --> 00:00:26,112
+<font color="#c5c5c5">To their homes immediately</font>
+
+6
+00:00:27,392 --> 00:00:30,464
+<font color="#d6d6d6">Why does the principal mention the winter storm</font>

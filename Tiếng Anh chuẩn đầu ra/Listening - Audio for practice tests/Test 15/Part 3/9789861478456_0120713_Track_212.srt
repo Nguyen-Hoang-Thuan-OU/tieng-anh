@@ -1,0 +1,59 @@
+﻿1
+00:00:00,512 --> 00:00:04,608
+<font color="#e3e3e3">Questions 83 through 85 refer to the following talk</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#f9f9f9">Hi everyone I'm Paul Hernandez a staff member in the Admissions and Records office here at City</font>
+
+3
+00:00:12,288 --> 00:00:12,800
+<font color="#fcfcfc">College</font>
+
+4
+00:00:13,312 --> 00:00:19,200
+<font color="#c1c1c1">You've decided that City College is right for you and I'm here to help you with the application process</font>
+
+5
+00:00:19,456 --> 00:00:25,600
+<font color="#f7f7f7">Your success Starts Here the Admissions and Records Office is here to help you all the way for</font>
+
+6
+00:00:25,856 --> 00:00:28,416
+<font color="#fcfcfc">From your initial application to graduation</font>
+
+7
+00:00:28,672 --> 00:00:34,816
+<font color="#fcfcfc">First you'll need to submit an online application form then you will need to take an online</font>
+
+8
+00:00:35,072 --> 00:00:41,216
+<font color="#eeeeee">Orientation to learn about financial aid registration for classes important locations on campus and</font>
+
+9
+00:00:41,472 --> 00:00:42,496
+<font color="#fcfcfc">Types of degrees</font>
+
+10
+00:00:42,752 --> 00:00:47,616
+<font color="#f5f5f5">Then you should meet with a counselor and complete an education plan</font>
+
+11
+00:00:50,176 --> 00:00:53,760
+<font color="#f9f9f9">Number 83 where does the speaker work</font>
+
+12
+00:01:00,928 --> 00:01:02,208
+<font color="#fcfcfc">Number 84</font>
+
+13
+00:01:02,976 --> 00:01:06,048
+<font color="#fafafa">Who most likely is the audience for this talk</font>
+
+14
+00:01:13,216 --> 00:01:14,496
+<font color="#fcfcfc">Number 85</font>
+
+15
+00:01:14,752 --> 00:01:19,872
+<font color="#fcfcfc">Which is not something that needs to be done as part of the application process</font>

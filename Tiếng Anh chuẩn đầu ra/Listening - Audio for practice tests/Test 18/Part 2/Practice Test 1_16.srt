@@ -1,0 +1,7 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#e2e2e2">Number 16 what does the boy imply when he says this</font>
+
+2
+00:00:04,352 --> 00:00:08,192
+<font color="#e7e7e7">In fact I use worms as bait everytime I go fishing</font>

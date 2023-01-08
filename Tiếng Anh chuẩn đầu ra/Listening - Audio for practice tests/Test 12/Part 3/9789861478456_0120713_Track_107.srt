@@ -1,0 +1,55 @@
+﻿1
+00:00:00,768 --> 00:00:05,632
+<font color="#e6e6e6">Questions 92 through 94 refer to the following talk and itinerary</font>
+
+2
+00:00:07,424 --> 00:00:13,568
+<font color="#e8e8e8">Welcome to New Orleans this afternoon I will be leading this free walking tour around</font>
+
+3
+00:00:13,824 --> 00:00:19,968
+<font color="#cacaca">Find the French quarter of the city we will explore the Treasures of the city unfortunately there</font>
+
+4
+00:00:20,224 --> 00:00:26,368
+<font color="#cecece">Surround the Jazz Museum in the streets are not in a good condition for walking</font>
+
+5
+00:00:26,624 --> 00:00:27,392
+<font color="#9e9e9e">Cast there</font>
+
+6
+00:00:27,648 --> 00:00:33,024
+<font color="#e5e5e5">We'll start our tour Jackson Square instead and go from there to St Louis Cathedral</font>
+
+7
+00:00:33,280 --> 00:00:36,864
+<font color="#f6f6f6">We will finish the walk 15 minutes later as a result</font>
+
+8
+00:00:37,376 --> 00:00:43,520
+<font color="#c0c0c0">We will Pikachu historic churches sample the local Cuisine and enjoy music</font>
+
+9
+00:00:45,824 --> 00:00:47,104
+<font color="#fcfcfc">Number 92</font>
+
+10
+00:00:47,360 --> 00:00:50,944
+<font color="#fcfcfc">According to the speaker where will they go first</font>
+
+11
+00:00:58,112 --> 00:00:59,392
+<font color="#fcfcfc">Number 93</font>
+
+12
+00:00:59,904 --> 00:01:04,000
+<font color="#dddddd">What is not something the tourists will do on the walking tour</font>
+
+13
+00:01:11,168 --> 00:01:12,448
+<font color="#fcfcfc">Number 94</font>
+
+14
+00:01:12,704 --> 00:01:17,056
+<font color="#e9e9e9">Look at the itinerary what time will the tour now end</font>

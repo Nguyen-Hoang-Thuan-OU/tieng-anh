@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#b2b2b2">Number three listen to a conversation between two friends</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#eaeaea">Someone said your bike got stolen from the bicycle rack outside this morning</font>
+
+3
+00:00:12,288 --> 00:00:16,384
+<font color="#fcfcfc">That's right when I checked on my bike at lunch it was gone</font>
+
+4
+00:00:16,640 --> 00:00:22,784
+<font color="#f9f9f9">Did you remember to lock it up or did someone cut the chain on the lock</font>
+
+5
+00:00:23,040 --> 00:00:25,344
+<font color="#f1f1f1">School needs to put an end to these thefts</font>
+
+6
+00:00:25,600 --> 00:00:29,440
+<font color="#f2f2f2">Mine is the third bike that has been stolen in the past month</font>
+
+7
+00:00:30,464 --> 00:00:33,280
+<font color="#efefef">What are the speakers mainly discussing</font>

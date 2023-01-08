@@ -1,0 +1,571 @@
+﻿1
+00:00:01,024 --> 00:00:02,560
+<font color="#cbcbcb">Question 1</font>
+
+2
+00:00:03,840 --> 00:00:05,632
+<font color="#fcfcfc">Listen to this conversation</font>
+
+3
+00:00:06,144 --> 00:00:07,680
+<font color="#efefef">Rob is looking for</font>
+
+4
+00:00:09,216 --> 00:00:10,240
+<font color="#585858">A letter</font>
+
+5
+00:00:11,264 --> 00:00:13,056
+<font color="#b8b8b8">B file</font>
+
+6
+00:00:14,336 --> 00:00:16,384
+<font color="#9b9b9b">C amended Wills</font>
+
+7
+00:00:20,736 --> 00:00:26,880
+<font color="#c2c2c2">See Uncle mrs. Robinson coming in 10 minutes and I can't find</font>
+
+8
+00:00:27,136 --> 00:00:33,280
+<font color="#ededed">Those are the letters we had this week I can only find the messages</font>
+
+9
+00:00:33,536 --> 00:00:39,680
+<font color="#d5d5d5">Put the case File is what is the amended Wills with the olmecs</font>
+
+10
+00:00:39,936 --> 00:00:45,568
+<font color="#f4f4f4">What am I going to do a on it</font>
+
+11
+00:00:51,968 --> 00:00:58,112
+<font color="#bababa">City Uncle mrs. Robinson</font>
+
+12
+00:00:58,368 --> 00:01:04,512
+<font color="#afafaf">Incoming in 10 minutes and I can't find a file</font>
+
+13
+00:01:04,768 --> 00:01:10,912
+<font color="#e9e9e9">I can only find the message I put the case File is what is the amended Wills</font>
+
+14
+00:01:11,168 --> 00:01:17,312
+<font color="#8a8a8a">I can't see it and I need it now what am I going to do</font>
+
+15
+00:01:17,568 --> 00:01:18,592
+<font color="#929292">Trey on it</font>
+
+16
+00:01:21,408 --> 00:01:22,688
+<font color="#c6c6c6">Question 2</font>
+
+17
+00:01:23,712 --> 00:01:26,784
+<font color="#f8f8f8">Listen to this receptionist speaking on the telephone</font>
+
+18
+00:01:27,296 --> 00:01:29,344
+<font color="#f3f3f3">The receptionist wax for</font>
+
+19
+00:01:30,880 --> 00:01:31,904
+<font color="#fcfcfc">A garage</font>
+
+20
+00:01:32,672 --> 00:01:34,464
+<font color="#efefef">Be the police</font>
+
+21
+00:01:35,488 --> 00:01:37,024
+<font color="#fcfcfc">See a lawyer</font>
+
+22
+00:01:38,816 --> 00:01:44,960
+<font color="#dcdcdc">Can you tell me little more</font>
+
+23
+00:01:45,216 --> 00:01:51,360
+<font color="#8f8f8f">You comfort.</font>
+
+24
+00:01:59,808 --> 00:02:01,600
+<font color="#fcfcfc">I'll make</font>
+
+25
+00:02:06,720 --> 00:02:12,864
+<font color="#c4c4c4">You have a problem and you like to see mr. can you tell me</font>
+
+26
+00:02:13,120 --> 00:02:19,264
+<font color="#fcfcfc">You comfort.</font>
+
+27
+00:02:27,712 --> 00:02:29,504
+<font color="#aaaaaa">I'll make</font>
+
+28
+00:02:33,088 --> 00:02:34,368
+<font color="#c8c8c8">Question three</font>
+
+29
+00:02:35,648 --> 00:02:37,696
+<font color="#fcfcfc">Listen to this news report</font>
+
+30
+00:02:38,208 --> 00:02:40,256
+<font color="#bfbfbf">DSS Persian Gulf</font>
+
+31
+00:02:40,512 --> 00:02:41,536
+<font color="#fcfcfc">Collided with</font>
+
+32
+00:02:41,792 --> 00:02:43,328
+<font color="#8c8c8c">A a rock</font>
+
+33
+00:02:43,840 --> 00:02:45,632
+<font color="#fcfcfc">Be another ship</font>
+
+34
+00:02:46,144 --> 00:02:47,936
+<font color="#d9d9d9">See a lighthouse</font>
+
+35
+00:02:49,472 --> 00:02:55,616
+<font color="#d6d6d6">Induces just coming in of a large oil spill is just off the staff</font>
+
+36
+00:02:55,872 --> 00:03:02,016
+<font color="#c3c3c3">Southeast coast it seems that the SS Persian Gulf Sunday change cause for some reason not yet clear and collided with a small</font>
+
+37
+00:03:02,272 --> 00:03:05,344
+<font color="#e4e4e4">Which was making deliveries to the lighthouse on Brighton Rock</font>
+
+38
+00:03:05,856 --> 00:03:12,000
+<font color="#cfcfcf">The ship's main all tank is ruptured and the emergency services are not rushing to minimise the damage this oil slick is</font>
+
+39
+00:03:12,256 --> 00:03:13,024
+<font color="#fcfcfc">Likely to cause</font>
+
+40
+00:03:18,144 --> 00:03:24,288
+<font color="#e0e0e0">Music just coming in of a large oil spill is just off the South</font>
+
+41
+00:03:24,544 --> 00:03:30,688
+<font color="#cbcbcb">Southeast coast it seems that the SS Persian Gulf Sunday change code for some reason not yet clear and collided with a spoon</font>
+
+42
+00:03:30,944 --> 00:03:34,016
+<font color="#c1c1c1">Which was making deliveries to the lighthouse on Brighton Rock</font>
+
+43
+00:03:34,784 --> 00:03:40,928
+<font color="#d6d6d6">The ship's main oil tank is ruptured and the emergency services are not rushing to minimise the damage this oil plate is likely</font>
+
+44
+00:03:41,184 --> 00:03:41,696
+<font color="#9c9c9c">2 calls</font>
+
+45
+00:03:45,024 --> 00:03:46,560
+<font color="#c6c6c6">Question for</font>
+
+46
+00:03:47,840 --> 00:03:52,960
+<font color="#f0f0f0">Listen to this conversation between two people while waiting for that property to be inspected</font>
+
+47
+00:03:53,984 --> 00:03:55,264
+<font color="#f2f2f2">The property a</font>
+
+48
+00:03:55,520 --> 00:03:56,288
+<font color="#e8e8e8">Is ready</font>
+
+49
+00:03:57,056 --> 00:03:57,824
+<font color="#656565">Be</font>
+
+50
+00:03:58,080 --> 00:03:59,872
+<font color="#d4d4d4">Will be ready tomorrow</font>
+
+51
+00:04:00,384 --> 00:04:01,152
+<font color="#cdcdcd">See</font>
+
+52
+00:04:01,408 --> 00:04:03,968
+<font color="#dfdfdf">Will be ready in time for the inspectors</font>
+
+53
+00:04:06,016 --> 00:04:10,112
+<font color="#cccccc">Okay let's make sure we've got ourselves organized be arriving to be inspected</font>
+
+54
+00:04:10,368 --> 00:04:16,512
+<font color="#808080">David is the 29th so we've got two weeks to prepare</font>
+
+55
+00:04:17,280 --> 00:04:23,423
+<font color="#fbfbfb">What about the books in the auditor's report</font>
+
+56
+00:04:23,679 --> 00:04:29,823
+<font color="#f0f0f0">That was done while you were in Hamburg didn't you notice in your office</font>
+
+57
+00:04:30,079 --> 00:04:32,895
+<font color="#dddddd">Walkman stop tomorrow and will be finished in good time</font>
+
+58
+00:04:38,015 --> 00:04:42,111
+<font color="#dadada">Okay let's make sure we've got ourselves organized arrival of the inspectors</font>
+
+59
+00:04:42,367 --> 00:04:48,511
+<font color="#8f8f8f">They visited the 29th so we put two weeks to prepare</font>
+
+60
+00:04:49,279 --> 00:04:55,423
+<font color="#f9f9f9">What about the books in the oldest report</font>
+
+61
+00:04:55,679 --> 00:05:01,823
+<font color="#e7e7e7">That was done while you were in Hamburg didn't you notice in your office what about the pharmacy</font>
+
+62
+00:05:02,079 --> 00:05:04,895
+<font color="#cfcfcf">Walkman stop tomorrow and will be finished in good time</font>
+
+63
+00:05:07,711 --> 00:05:08,991
+<font color="#dcdcdc">Question 5</font>
+
+64
+00:05:10,527 --> 00:05:12,575
+<font color="#fcfcfc">Listen to this telephone salesman</font>
+
+65
+00:05:13,855 --> 00:05:15,903
+<font color="#fcfcfc">The man is selling</font>
+
+66
+00:05:16,415 --> 00:05:18,975
+<font color="#eaeaea">Ownership of a flat in the Bahamas</font>
+
+67
+00:05:19,999 --> 00:05:20,511
+<font color="#656565">Be</font>
+
+68
+00:05:21,023 --> 00:05:23,327
+<font color="#eaeaea">Ownership of a flash in the Bahamas</font>
+
+69
+00:05:24,351 --> 00:05:25,119
+<font color="#cdcdcd">See</font>
+
+70
+00:05:25,375 --> 00:05:27,679
+<font color="#d2d2d2">Rental of a flat in the Bahamas</font>
+
+71
+00:05:30,239 --> 00:05:32,287
+<font color="#fcfcfc">Good morning sir please don't hang up</font>
+
+72
+00:05:32,543 --> 00:05:36,895
+<font color="#f1f1f1">If you're prepared to listen to me for the next 30 seconds you could win a major prize</font>
+
+73
+00:05:37,151 --> 00:05:40,223
+<font color="#e4e4e4">I represent the firm sending timeshare property in the Bahamas</font>
+
+74
+00:05:40,735 --> 00:05:46,111
+<font color="#bebebe">Principal payment only around 5,000 lb you could pontone a property in the Bahamas</font>
+
+75
+00:05:46,623 --> 00:05:48,415
+<font color="#b8b8b8">Folsom</font>
+
+76
+00:05:48,671 --> 00:05:51,743
+<font color="#f5f5f5">You can have possession of this flat in the Bahamas for two weeks</font>
+
+77
+00:05:51,999 --> 00:05:58,143
+<font color="#fcfcfc">You can take your holidays and bring your friends over to enjoy an exotic location when you're not there it doesn't stand</font>
+
+78
+00:05:58,399 --> 00:06:01,983
+<font color="#9c9c9c">The other pontone is takeover and keep the fat in good condition</font>
+
+79
+00:06:06,591 --> 00:06:11,711
+<font color="#c9c9c9">Good morning sir please don't hang up if you're prepared to listen to me for the next 30 seconds</font>
+
+80
+00:06:11,967 --> 00:06:13,503
+<font color="#fafafa">You could win a major prize</font>
+
+81
+00:06:13,759 --> 00:06:19,903
+<font color="#cbcbcb">I represent the firm sending timeshare property in the Bahamas for small payment only around 5,000 lb</font>
+
+82
+00:06:20,159 --> 00:06:22,719
+<font color="#cecece">You could Ponto property in the Bahamas</font>
+
+83
+00:06:22,975 --> 00:06:28,095
+<font color="#adadad">What is comparative expulsom you can have the best of this flat in the Bahamas for two weeks</font>
+
+84
+00:06:28,607 --> 00:06:34,751
+<font color="#fcfcfc">You can take your holidays and bring your friends over to enjoy an exotic location when you're not there it doesn't stand</font>
+
+85
+00:06:35,519 --> 00:06:38,591
+<font color="#b1b1b1">The other pontone is takeover and keep the Phantom good condition</font>
+
+86
+00:06:41,407 --> 00:06:42,687
+<font color="#e4e4e4">Question sticks</font>
+
+87
+00:06:43,967 --> 00:06:47,295
+<font color="#a9a9a9">You hear kritik choking on a discussion program</font>
+
+88
+00:06:48,063 --> 00:06:49,855
+<font color="#c6c6c6">He is disgusting a</font>
+
+89
+00:06:50,111 --> 00:06:50,879
+<font color="#929292">Ifilm</font>
+
+90
+00:06:51,647 --> 00:06:53,183
+<font color="#c4c4c4">Be a book</font>
+
+91
+00:06:54,207 --> 00:06:56,255
+<font color="#bfbfbf">C a radio program</font>
+
+92
+00:06:58,303 --> 00:07:02,911
+<font color="#b9b9b9">Oh surely not John Shirley not it really is one of the best I've read nothing wrong.</font>
+
+93
+00:07:03,167 --> 00:07:09,311
+<font color="#bdbdbd">Okay at the challenging subject you don't expect an oven on the everyday life of shepherds on the remote Scottish islands be fascinating</font>
+
+94
+00:07:09,567 --> 00:07:11,615
+<font color="#aaaaaa">From the pipeline</font>
+
+95
+00:07:11,871 --> 00:07:13,919
+<font color="#d9d9d9">I found a stylistically very short</font>
+
+96
+00:07:14,175 --> 00:07:19,807
+<font color="#8e8e8e">Use of dialect is highly original I'm very effective and I thought that was true pesos in the Final Chapter</font>
+
+97
+00:07:24,927 --> 00:07:29,535
+<font color="#b3b3b3">Oh surely not John showing on it really is one of the best I've read none Longshot</font>
+
+98
+00:07:29,791 --> 00:07:35,935
+<font color="#a2a2a2">Okay so challenging subject even expect an oven on the everyday life of shepherds on the remote Scottish islands be fascinating</font>
+
+99
+00:07:36,191 --> 00:07:40,287
+<font color="#cdcdcd">Bridget me right from the first line I find it stylistically very short</font>
+
+100
+00:07:40,543 --> 00:07:46,431
+<font color="#a4a4a4">You have done that was highly original I'm very effective and I thought that was true pesos in the Final Chapter</font>
+
+101
+00:07:48,991 --> 00:07:50,271
+<font color="#c0c0c0">Question 7</font>
+
+102
+00:07:51,551 --> 00:07:54,623
+<font color="#bdbdbd">You hear conversation between can and Berry</font>
+
+103
+00:07:55,391 --> 00:07:56,671
+<font color="#dfdfdf">Ken has</font>
+
+104
+00:07:57,183 --> 00:07:57,951
+<font color="#d0d0d0">Hey</font>
+
+105
+00:07:58,207 --> 00:07:59,743
+<font color="#fcfcfc">Made other plans</font>
+
+106
+00:08:00,511 --> 00:08:01,279
+<font color="#666666">Be</font>
+
+107
+00:08:01,791 --> 00:08:03,583
+<font color="#d0d0d0">Bean playing well recently</font>
+
+108
+00:08:04,607 --> 00:08:05,375
+<font color="#cdcdcd">See</font>
+
+109
+00:08:05,631 --> 00:08:06,911
+<font color="#fcfcfc">Become a professional</font>
+
+110
+00:08:09,215 --> 00:08:15,359
+<font color="#fcfcfc">Can I'm desperate for a</font>
+
+111
+00:08:15,615 --> 00:08:18,687
+<font color="#cdcdcd">Forward on Saturday you've got to play I don't know</font>
+
+112
+00:08:18,943 --> 00:08:25,087
+<font color="#bfbfbf">I promised I'd take me over to shopping list play can is the quarter-final of a cop with you on our team</font>
+
+113
+00:08:25,343 --> 00:08:29,695
+<font color="#cacaca">We can win this you know probably William play four years</font>
+
+114
+00:08:30,207 --> 00:08:32,767
+<font color="#c7c7c7">Electronics Mario don't be silly can</font>
+
+115
+00:08:33,023 --> 00:08:34,303
+<font color="#9d9d9d">Professional</font>
+
+116
+00:08:34,559 --> 00:08:39,679
+<font color="#f7f7f7">You could run rings around the rest of us with only one leg you're really must</font>
+
+117
+00:08:44,543 --> 00:08:50,687
+<font color="#e9e9e9">Can I'm desperate for</font>
+
+118
+00:08:50,943 --> 00:08:57,087
+<font color="#929292">Forward on Saturday you've got to play well I don't know I promised I'd take me to shopping</font>
+
+119
+00:08:57,343 --> 00:09:03,487
+<font color="#bdbdbd">Can is the quarter-final with you on our team we can win this</font>
+
+120
+00:09:03,743 --> 00:09:05,023
+<font color="#808080">William Clay figures</font>
+
+121
+00:09:05,535 --> 00:09:08,095
+<font color="#c8c8c8">I'm going to promise Mario don't be silly can</font>
+
+122
+00:09:08,351 --> 00:09:14,495
+<font color="#e9e9e9">You were a professional you could run rings around the rest of us with only one leg</font>
+
+123
+00:09:17,823 --> 00:09:19,103
+<font color="#afafaf">Question 8</font>
+
+124
+00:09:20,127 --> 00:09:23,711
+<font color="#e4e4e4">You both fog lamp your car but it doesn't work</font>
+
+125
+00:09:24,735 --> 00:09:28,063
+<font color="#d9d9d9">You telephone the dealer and hear this message</font>
+
+126
+00:09:28,575 --> 00:09:29,343
+<font color="#f2f2f2">You</font>
+
+127
+00:09:29,855 --> 00:09:30,623
+<font color="#fcfcfc">Hey</font>
+
+128
+00:09:31,135 --> 00:09:32,671
+<font color="#e7e7e7">Call the new number</font>
+
+129
+00:09:33,183 --> 00:09:35,231
+<font color="#fcfcfc">Bee leave a message</font>
+
+130
+00:09:36,255 --> 00:09:37,023
+<font color="#cdcdcd">See</font>
+
+131
+00:09:37,279 --> 00:09:38,303
+<font color="#fcfcfc">Hold on</font>
+
+132
+00:09:40,863 --> 00:09:42,399
+<font color="#c8c8c8">This is Harris, pods</font>
+
+133
+00:09:42,911 --> 00:09:46,239
+<font color="#bbbbbb">I'm sorry the lines are engaged at the moment but your call has been queued</font>
+
+134
+00:09:47,007 --> 00:09:49,055
+<font color="#cfcfcf">One of our systems will deal with you shortly</font>
+
+135
+00:09:49,567 --> 00:09:55,199
+<font color="#dedede">If you want to leave a message to place an order please do so after the tone but don't forget to leave your name and telephone number</font>
+
+136
+00:09:55,967 --> 00:10:00,575
+<font color="#b0b0b0">If you're interested in a second-hand sounds apartment you may like to buy a different line</font>
+
+137
+00:10:01,087 --> 00:10:05,183
+<font color="#fcfcfc">Try calling 021-685-4286</font>
+
+138
+00:10:10,047 --> 00:10:11,839
+<font color="#cccccc">This is Harris carpets</font>
+
+139
+00:10:12,095 --> 00:10:15,679
+<font color="#dbdbdb">I'm sorry the lines were engaged at the moment but your call has been queued</font>
+
+140
+00:10:16,191 --> 00:10:18,239
+<font color="#d1d1d1">One of our systems will deal with you shortly</font>
+
+141
+00:10:18,751 --> 00:10:24,639
+<font color="#f1f1f1">If you want to leave a message to place an order please do so after the tone but don't forget to leave your name and telephone number</font>
+
+142
+00:10:25,151 --> 00:10:29,759
+<font color="#acacac">If you're interested in a second time sales department you may like to try a different line</font>
+
+143
+00:10:30,271 --> 00:10:34,623
+<font color="#fcfcfc">Try calling 021-685-4286</font>

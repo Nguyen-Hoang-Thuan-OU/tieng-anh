@@ -1,0 +1,107 @@
+﻿1
+00:00:00,256 --> 00:00:02,304
+<font color="#efefef">Questions 14 through 18</font>
+
+2
+00:00:02,560 --> 00:00:06,400
+<font color="#fcfcfc">Listen to a conversation between a student and a teacher</font>
+
+3
+00:00:07,424 --> 00:00:13,568
+<font color="#e3e3e3">Ray what are you doing here in the library after school don't you have soccer practice to it</font>
+
+4
+00:00:14,848 --> 00:00:18,688
+<font color="#fcfcfc">Actually mrs. boss I decided not to play on the team this year</font>
+
+5
+00:00:18,944 --> 00:00:21,248
+<font color="#f8f8f8">I'm going to focus on my grades instead</font>
+
+6
+00:00:21,760 --> 00:00:26,368
+<font color="#fcfcfc">Focus on your grades but you're already getting all A's</font>
+
+7
+00:00:26,880 --> 00:00:33,024
+<font color="#f0f0f0">In fact I'm pretty sure that you've never gotten anything below and A- since elementary</font>
+
+8
+00:00:33,280 --> 00:00:34,048
+<font color="#d6d6d6">Country School</font>
+
+9
+00:00:34,304 --> 00:00:35,840
+<font color="#fcfcfc">Yes ma'am that's correct</font>
+
+10
+00:00:36,096 --> 00:00:39,424
+<font color="#e1e1e1">But I want to make sure my grades don't drop this year after all</font>
+
+11
+00:00:39,680 --> 00:00:41,984
+<font color="#fcfcfc">I'm applying to a lot of top colleges</font>
+
+12
+00:00:42,240 --> 00:00:46,080
+<font color="#b9b9b9">Ray do you mind if I give you a little bit of advice</font>
+
+13
+00:00:46,848 --> 00:00:49,920
+<font color="#f6f6f6">Not at all man I'm always willing to accept advice</font>
+
+14
+00:00:50,176 --> 00:00:56,320
+<font color="#f5f5f5">Especially if it's free colleges especially the best ones in the country</font>
+
+15
+00:00:56,576 --> 00:00:59,648
+<font color="#dcdcdc">Don't just want students who have good grades</font>
+
+16
+00:00:59,904 --> 00:01:00,928
+<font color="#fcfcfc">They don't</font>
+
+17
+00:01:01,184 --> 00:01:03,744
+<font color="#fcfcfc">Well grades are important of course</font>
+
+18
+00:01:04,000 --> 00:01:10,144
+<font color="#e5e5e5">But most colleges are looking for well-rounded individuals in other words they wants to</font>
+
+19
+00:01:10,400 --> 00:01:16,544
+<font color="#d0d0d0">Students who not only have good grades but who also participated in various extracurricular activity</font>
+
+20
+00:01:17,312 --> 00:01:19,104
+<font color="#fcfcfc">I think I see what you're getting at</font>
+
+21
+00:01:19,360 --> 00:01:20,640
+<font color="#fcfcfc">I hope so</font>
+
+22
+00:01:20,896 --> 00:01:27,040
+<font color="#f9f9f9">What I'm trying to say is that if you don't play sports or don't belong to any clubs no matter</font>
+
+23
+00:01:27,296 --> 00:01:32,672
+<font color="#d4d4d4">How good your grades are you're going to have a harder time getting into an elite College</font>
+
+24
+00:01:33,184 --> 00:01:38,048
+<font color="#f5f5f5">So talk to Coach Patterson and see if he'll let you on the team</font>
+
+25
+00:01:38,560 --> 00:01:40,608
+<font color="#f4f4f4">Yes ma'am I think I'll do that</font>
+
+26
+00:01:42,656 --> 00:01:44,448
+<font color="#fcfcfc">Now answer the questions</font>
+
+27
+00:01:45,472 --> 00:01:49,568
+<font color="#dedede">Number 14 what did the voice stop doing this year</font>

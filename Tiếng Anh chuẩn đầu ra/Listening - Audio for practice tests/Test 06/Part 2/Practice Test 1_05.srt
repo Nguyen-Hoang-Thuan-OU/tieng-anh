@@ -1,0 +1,31 @@
+﻿1
+00:00:00,256 --> 00:00:01,280
+<font color="#cecece">Number 5</font>
+
+2
+00:00:01,536 --> 00:00:05,376
+<font color="#fcfcfc">Listen to a conversation between a student and a teacher</font>
+
+3
+00:00:06,144 --> 00:00:12,288
+<font color="#bfbfbf">Mister Williamson I don't understand why I got a bad grade on this essay I thought that</font>
+
+4
+00:00:12,544 --> 00:00:18,688
+<font color="#f8f8f8">I did a pretty decent job on it well your paper had several spelling mistakes and your Grammar</font>
+
+5
+00:00:18,944 --> 00:00:19,968
+<font color="#d7d7d7">Wasn't good either</font>
+
+6
+00:00:20,736 --> 00:00:23,040
+<font color="#dddddd">Are grammar and spelling. Important</font>
+
+7
+00:00:23,296 --> 00:00:27,904
+<font color="#ececec">Of course they're important you need to do both well to write an APA paper</font>
+
+8
+00:00:28,928 --> 00:00:32,512
+<font color="#f6f6f6">Why is the student discussing his Essay with the teacher</font>

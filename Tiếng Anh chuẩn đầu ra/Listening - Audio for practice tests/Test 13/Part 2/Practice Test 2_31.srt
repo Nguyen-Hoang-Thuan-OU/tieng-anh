@@ -1,0 +1,167 @@
+﻿1
+00:00:00,256 --> 00:00:06,400
+<font color="#f6f6f6">Questions 31 through 33 listen to a teacher talking in a history class</font>
+
+2
+00:00:07,424 --> 00:00:10,752
+<font color="#dddddd">In the early 1800s Texas was a part of Mexico</font>
+
+3
+00:00:11,008 --> 00:00:14,080
+<font color="#fcfcfc">However as many Americans began to move Westward</font>
+
+4
+00:00:14,336 --> 00:00:16,384
+<font color="#fcfcfc">Lots of them migrated to Texas</font>
+
+5
+00:00:16,896 --> 00:00:19,968
+<font color="#ececec">After a few years they had established their own communities</font>
+
+6
+00:00:20,480 --> 00:00:23,296
+<font color="#bfbfbf">These settlers had no desire to belong to Mexico</font>
+
+7
+00:00:23,552 --> 00:00:24,320
+<font color="#fcfcfc">Instead</font>
+
+8
+00:00:24,576 --> 00:00:26,112
+<font color="#a9a9a9">This ought to be independent</font>
+
+9
+00:00:26,624 --> 00:00:27,648
+<font color="#fcfcfc">Understandably</font>
+
+10
+00:00:27,904 --> 00:00:29,696
+<font color="#eeeeee">The Mexicans objected to this</font>
+
+11
+00:00:29,952 --> 00:00:30,720
+<font color="#e0e0e0">After all</font>
+
+12
+00:00:30,976 --> 00:00:33,536
+<font color="#f9f9f9">Which country wants to lose land that it controls</font>
+
+13
+00:00:34,048 --> 00:00:38,912
+<font color="#f6f6f6">Anyway in 1835 some fighting broke out between the American settlers</font>
+
+14
+00:00:39,168 --> 00:00:40,448
+<font color="#f8f8f8">And Mexican soldiers</font>
+
+15
+00:00:40,960 --> 00:00:41,984
+<font color="#fcfcfc">For the most part</font>
+
+16
+00:00:42,240 --> 00:00:44,032
+<font color="#ebebeb">The Americans won those battles</font>
+
+17
+00:00:44,288 --> 00:00:46,336
+<font color="#e0e0e0">Then in early 1836</font>
+
+18
+00:00:46,592 --> 00:00:49,152
+<font color="#e7e7e7">The Mexican sent a large army into Texas</font>
+
+19
+00:00:49,664 --> 00:00:55,808
+<font color="#fcfcfc">At that time the Texans occupied and old Spanish church mission in San Antonio that was called the</font>
+
+20
+00:00:56,064 --> 00:00:56,576
+<font color="#bbbbbb">The Alamo</font>
+
+21
+00:00:57,344 --> 00:01:02,976
+<font color="#f8f8f8">The Mexican Army surrounded the Alamo and laid Siege to it on February 23rd 1836</font>
+
+22
+00:01:03,232 --> 00:01:07,328
+<font color="#ececec">The Mexicans had around 3,000 men and were led by Santa Anna</font>
+
+23
+00:01:07,584 --> 00:01:11,168
+<font color="#fafafa">The Texans meanwhile only had about 250 men</font>
+
+24
+00:01:11,424 --> 00:01:17,568
+<font color="#fcfcfc">They were led by Colonel William Travis the famous Frontiersman James Bowie and Davy Crockett</font>
+
+25
+00:01:17,824 --> 00:01:18,592
+<font color="#dbdbdb">The Alamo as well</font>
+
+26
+00:01:19,104 --> 00:01:20,896
+<font color="#fcfcfc">I'm sure you've heard of both men</font>
+
+27
+00:01:21,920 --> 00:01:28,064
+<font color="#efefef">The Siege lasted until March 6th on March 5th Santa Ana ordered his soldiers to move into position for an</font>
+
+28
+00:01:28,320 --> 00:01:30,880
+<font color="#e9e9e9">All-out assault on the Alamo the next day</font>
+
+29
+00:01:31,392 --> 00:01:33,952
+<font color="#f6f6f6">In the morning on the 6th the attack began</font>
+
+30
+00:01:34,208 --> 00:01:37,536
+<font color="#fcfcfc">The Texans were good shots and killed a large number of Mexicans</font>
+
+31
+00:01:37,792 --> 00:01:39,072
+<font color="#a2a2a2">Who were out in the open</font>
+
+32
+00:01:39,584 --> 00:01:41,632
+<font color="#ebebeb">But there were too many Mexican soldiers</font>
+
+33
+00:01:42,144 --> 00:01:47,008
+<font color="#e3e3e3">The Mexicans breach the walls broke into the Alamo and killed all of them in there</font>
+
+34
+00:01:47,520 --> 00:01:49,824
+<font color="#fcfcfc">It was a stunning defeat for the Texans</font>
+
+35
+00:01:50,336 --> 00:01:56,480
+<font color="#e5e5e5">However they use this loss to inspire them to Victory Remember the Alamo became the battle</font>
+
+36
+00:01:56,736 --> 00:01:58,016
+<font color="#e8e8e8">Cry of the Texans</font>
+
+37
+00:01:58,272 --> 00:02:01,600
+<font color="#e8e8e8">They soon defeated Santa Anna's Army and even captured him</font>
+
+38
+00:02:02,112 --> 00:02:02,880
+<font color="#fcfcfc">After that</font>
+
+39
+00:02:03,136 --> 00:02:07,232
+<font color="#fcfcfc">Texas split apart from Mexico and became an independent nation</font>
+
+40
+00:02:09,280 --> 00:02:11,328
+<font color="#fcfcfc">Now answer the questions</font>
+
+41
+00:02:12,096 --> 00:02:13,632
+<font color="#fcfcfc">Number 31</font>
+
+42
+00:02:13,888 --> 00:02:16,960
+<font color="#f3f3f3">What is the main topic of the teachers talk</font>

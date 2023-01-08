@@ -1,0 +1,739 @@
+﻿1
+00:00:01,024 --> 00:00:03,840
+<font color="#f5f5f5">Fce practice tests by Mark Harrison</font>
+
+2
+00:00:04,352 --> 00:00:08,704
+<font color="#f1f1f1">Publishing copyright Oxford University press 2008</font>
+
+3
+00:00:09,472 --> 00:00:10,496
+<font color="#a4a4a4">Cd-1</font>
+
+4
+00:00:12,544 --> 00:00:13,312
+<font color="#dddddd">Test 1</font>
+
+5
+00:00:13,824 --> 00:00:14,592
+<font color="#989898">Part 1</font>
+
+6
+00:00:15,360 --> 00:00:18,688
+<font color="#d7d7d7">You hear people talking in eight different situations</font>
+
+7
+00:00:19,200 --> 00:00:22,016
+<font color="#eeeeee">Questions 128 choose the best answer</font>
+
+8
+00:00:23,040 --> 00:00:24,576
+<font color="#f1f1f1">B o c</font>
+
+9
+00:00:26,624 --> 00:00:27,392
+<font color="#fcfcfc">1</font>
+
+10
+00:00:28,160 --> 00:00:30,976
+<font color="#ededed">You hear someone talking about football referees</font>
+
+11
+00:00:31,744 --> 00:00:34,560
+<font color="#eeeeee">What is the speaker's attitude towards referees</font>
+
+12
+00:00:36,352 --> 00:00:38,144
+<font color="#fcfcfc">They make too many mistakes</font>
+
+13
+00:00:38,912 --> 00:00:39,424
+<font color="#696969">Be</font>
+
+14
+00:00:39,936 --> 00:00:41,472
+<font color="#dadada">They deserve sympathy</font>
+
+15
+00:00:42,240 --> 00:00:43,008
+<font color="#cdcdcd">See</font>
+
+16
+00:00:43,520 --> 00:00:45,056
+<font color="#c4c4c4">Summer better than others</font>
+
+17
+00:00:49,408 --> 00:00:55,552
+<font color="#e7e7e7">You have to feel sorry for referees I mean they're under terrible pressure throughout the game with players shantina</font>
+
+18
+00:00:55,808 --> 00:01:01,952
+<font color="#e4e4e4">The fans of both sides give him a hard time they just called win</font>
+
+19
+00:01:02,208 --> 00:01:05,792
+<font color="#d2d2d2">They make mistakes plenty of them are there any human</font>
+
+20
+00:01:06,048 --> 00:01:12,192
+<font color="#dddddd">Thinking I'm going to do really badly today that doing that best some people</font>
+
+21
+00:01:12,448 --> 00:01:18,592
+<font color="#cbcbcb">People think that there are referees to just want to draw attention to themselves you think there is important as the players but that's not mine</font>
+
+22
+00:01:19,360 --> 00:01:22,688
+<font color="#c5c5c5">I mean I won't Magill it'll that criticism all the time</font>
+
+23
+00:01:27,040 --> 00:01:33,184
+<font color="#cdcdcd">You have to feel sorry for referees I mean they're on the terrible pressure throughout the game with players shanton</font>
+
+24
+00:01:33,440 --> 00:01:39,584
+<font color="#d5d5d5">The fans of both sides give him a hard time they just called when</font>
+
+25
+00:01:39,840 --> 00:01:43,424
+<font color="#d0d0d0">Do they make mistakes plenty of them but they're only human</font>
+
+26
+00:01:43,680 --> 00:01:49,824
+<font color="#d7d7d7">Thinking I'm going to do really badly today that doing that best something</font>
+
+27
+00:01:50,080 --> 00:01:56,224
+<font color="#e2e2e2">People think that there are referees to just want to draw attention to themselves</font>
+
+28
+00:01:56,480 --> 00:02:00,320
+<font color="#eeeeee">I mean that criticism all the time</font>
+
+29
+00:02:04,416 --> 00:02:07,232
+<font color="#ededed">You hear a famous chef talkin about his week</font>
+
+30
+00:02:08,256 --> 00:02:10,816
+<font color="#ececec">What did he say about what happened during the week</font>
+
+31
+00:02:12,864 --> 00:02:15,424
+<font color="#e8e8e8">He had a problem that was not his fault</font>
+
+32
+00:02:15,936 --> 00:02:16,704
+<font color="#666666">Be</font>
+
+33
+00:02:17,472 --> 00:02:20,032
+<font color="#f2f2f2">He didn't want to appear on so many programs</font>
+
+34
+00:02:21,056 --> 00:02:21,824
+<font color="#cdcdcd">See</font>
+
+35
+00:02:22,336 --> 00:02:24,896
+<font color="#f7f7f7">He had his first experience of live TV</font>
+
+36
+00:02:29,504 --> 00:02:34,112
+<font color="#f0f0f0">I had a bit of an old week I went to to do a TV cookery show</font>
+
+37
+00:02:34,368 --> 00:02:40,512
+<font color="#ebebeb">I had to make my special recipe pancakes but the pain they gave me in the studio wasn't nearly big enough</font>
+
+38
+00:02:40,768 --> 00:02:42,816
+<font color="#e5e5e5">So it makes things difficult</font>
+
+39
+00:02:43,328 --> 00:02:47,680
+<font color="#dfdfdf">But it turns out alright in the end they were just a bit smaller than usual</font>
+
+40
+00:02:47,936 --> 00:02:54,080
+<font color="#dfdfdf">Later in the week I was on a radio show on string listen is questions about cooking and then I did a few</font>
+
+41
+00:02:54,336 --> 00:02:55,872
+<font color="#dcdcdc">View interviews about my new book</font>
+
+42
+00:03:00,736 --> 00:03:05,344
+<font color="#e5e5e5">I had a bit of an old week I went to to do a TV cookery show</font>
+
+43
+00:03:05,600 --> 00:03:11,744
+<font color="#ececec">I had to make my special recipe pancakes but the pain they gave me in the studio wasn't nearly big enough</font>
+
+44
+00:03:12,000 --> 00:03:14,048
+<font color="#cbcbcb">So it makes things difficult</font>
+
+45
+00:03:14,560 --> 00:03:18,912
+<font color="#bfbfbf">But it turned out alright in the end they were just a bit smaller than usual</font>
+
+46
+00:03:19,168 --> 00:03:25,312
+<font color="#d0d0d0">Later in the week I was on a radio show on string listen his questions about cooking and then I did a few</font>
+
+47
+00:03:25,568 --> 00:03:27,104
+<font color="#d4d4d4">View interviews about my new book</font>
+
+48
+00:03:29,664 --> 00:03:30,176
+<font color="#e5e5e5">3</font>
+
+49
+00:03:30,944 --> 00:03:33,760
+<font color="#f2f2f2">You hear someone talking about her career in dancing</font>
+
+50
+00:03:34,272 --> 00:03:35,808
+<font color="#d1d1d1">What does she emphasized</font>
+
+51
+00:03:37,600 --> 00:03:39,904
+<font color="#f9f9f9">The contribution made by her parents</font>
+
+52
+00:03:40,416 --> 00:03:41,184
+<font color="#696969">Be</font>
+
+53
+00:03:41,696 --> 00:03:43,488
+<font color="#fcfcfc">How much hard work she did</font>
+
+54
+00:03:44,256 --> 00:03:45,024
+<font color="#cdcdcd">See</font>
+
+55
+00:03:45,280 --> 00:03:47,072
+<font color="#b3b3b3">The desire to be a dumpster</font>
+
+56
+00:03:51,424 --> 00:03:52,960
+<font color="#e7e7e7">I just had to dance</font>
+
+57
+00:03:53,216 --> 00:03:58,336
+<font color="#e4e4e4">When I was a go I was always putting on Dancing shows for my parents</font>
+
+58
+00:03:58,592 --> 00:04:01,664
+<font color="#fcfcfc">By the time I was 7 I knew what I wanted to be</font>
+
+59
+00:04:01,920 --> 00:04:03,968
+<font color="#e1e1e1">I'm not feeding never went away</font>
+
+60
+00:04:04,224 --> 00:04:10,368
+<font color="#d5d5d5">I told my parents I wanted to do proper ballet so I went to a ballet school and I</font>
+
+61
+00:04:10,624 --> 00:04:12,160
+<font color="#fcfcfc">I've been dancing ever since</font>
+
+62
+00:04:12,416 --> 00:04:15,744
+<font color="#fcfcfc">I used to have classes after school and on Saturdays</font>
+
+63
+00:04:16,000 --> 00:04:22,143
+<font color="#f1f1f1">And when I finish school I went to a full-time Dance Academy for years now I'm teaching Don's</font>
+
+64
+00:04:22,399 --> 00:04:23,679
+<font color="#e7e7e7">And I've never been happier</font>
+
+65
+00:04:28,031 --> 00:04:29,567
+<font color="#e3e3e3">I just had to dance</font>
+
+66
+00:04:29,823 --> 00:04:34,943
+<font color="#e8e8e8">When I was a go I was always putting on Dancing shows for my parents</font>
+
+67
+00:04:35,199 --> 00:04:38,271
+<font color="#fcfcfc">By the time I was 7 I knew what I wanted to be</font>
+
+68
+00:04:38,527 --> 00:04:40,319
+<font color="#fcfcfc">I'm not feeding never went away</font>
+
+69
+00:04:40,831 --> 00:04:46,975
+<font color="#dedede">I told my parents I wanted to do proper ballet so I went to a ballet school and I</font>
+
+70
+00:04:47,231 --> 00:04:48,767
+<font color="#888888">Open downswing of a sentence</font>
+
+71
+00:04:49,023 --> 00:04:52,351
+<font color="#f3f3f3">I used to have classes after school and on Saturdays</font>
+
+72
+00:04:52,607 --> 00:04:58,751
+<font color="#d2d2d2">And when I finish school I went to a full-time Dance Academy for years now I'm teaching Don's</font>
+
+73
+00:04:59,007 --> 00:05:00,287
+<font color="#f4f4f4">Never been happier</font>
+
+74
+00:05:02,335 --> 00:05:03,103
+<font color="#a7a7a7">Full</font>
+
+75
+00:05:04,127 --> 00:05:06,687
+<font color="#fcfcfc">You hear someone talking on the phone at work</font>
+
+76
+00:05:07,199 --> 00:05:08,479
+<font color="#eeeeee">Who is she talking to</font>
+
+77
+00:05:09,247 --> 00:05:09,759
+<font color="#797979">Hey</font>
+
+78
+00:05:10,271 --> 00:05:11,039
+<font color="#dadada">A colleague</font>
+
+79
+00:05:11,807 --> 00:05:12,575
+<font color="#696969">Be</font>
+
+80
+00:05:12,831 --> 00:05:13,855
+<font color="#fcfcfc">A boss</font>
+
+81
+00:05:14,623 --> 00:05:15,391
+<font color="#cdcdcd">See</font>
+
+82
+00:05:15,647 --> 00:05:16,671
+<font color="#b6b6b6">Client</font>
+
+83
+00:05:22,047 --> 00:05:24,095
+<font color="#fcfcfc">What time are you going to make it</font>
+
+84
+00:05:24,863 --> 00:05:29,727
+<font color="#dadada">You know it's a very important meeting and we talked really discuss the issue properly without you</font>
+
+85
+00:05:30,751 --> 00:05:34,079
+<font color="#f2f2f2">Yes I'll tell her you'll get here as soon as you can</font>
+
+86
+00:05:34,335 --> 00:05:36,895
+<font color="#fcfcfc">But I know she isn't going to be very pleased</font>
+
+87
+00:05:37,919 --> 00:05:40,991
+<font color="#e9e9e9">Okay I'll delay things as long as I can</font>
+
+88
+00:05:41,247 --> 00:05:44,063
+<font color="#bfbfbf">I'll say you've got problems at home or something</font>
+
+89
+00:05:44,319 --> 00:05:48,671
+<font color="#fbfbfb">No I won't say you've overslept I don't want to get you in trouble</font>
+
+90
+00:05:54,303 --> 00:05:56,095
+<font color="#fcfcfc">What time are you going to make it</font>
+
+91
+00:05:56,863 --> 00:06:01,983
+<font color="#e7e7e7">You know it's a very important meeting and we talked really discuss the issue properly without you</font>
+
+92
+00:06:03,007 --> 00:06:06,335
+<font color="#f3f3f3">Yes I'll tell her you'll get here as soon as you can</font>
+
+93
+00:06:06,591 --> 00:06:09,151
+<font color="#fcfcfc">But I know she isn't going to be very pleased</font>
+
+94
+00:06:10,175 --> 00:06:10,687
+<font color="#fcfcfc">Okay</font>
+
+95
+00:06:10,943 --> 00:06:12,991
+<font color="#f0f0f0">I'll delay things as long as I can</font>
+
+96
+00:06:13,503 --> 00:06:16,063
+<font color="#bebebe">I'll say you've got problems at home or something</font>
+
+97
+00:06:16,575 --> 00:06:20,927
+<font color="#f6f6f6">No I won't say you've overslept I don't want to get you in trouble</font>
+
+98
+00:06:23,231 --> 00:06:23,999
+<font color="#f8f8f8">5</font>
+
+99
+00:06:24,767 --> 00:06:27,839
+<font color="#e5e5e5">You hear a radio presenter talking about her book</font>
+
+100
+00:06:28,607 --> 00:06:31,679
+<font color="#f8f8f8">What feeling does the presenter Express about the book</font>
+
+101
+00:06:32,447 --> 00:06:33,215
+<font color="#b0b0b0">Hey</font>
+
+102
+00:06:33,727 --> 00:06:36,543
+<font color="#e6e6e6">Doubt that it does exactly what it says it does</font>
+
+103
+00:06:37,311 --> 00:06:38,079
+<font color="#696969">Be</font>
+
+104
+00:06:38,847 --> 00:06:41,663
+<font color="#9f9f9f">Amazement as how up-to-date information is</font>
+
+105
+00:06:42,431 --> 00:06:42,943
+<font color="#cdcdcd">See</font>
+
+106
+00:06:43,711 --> 00:06:45,759
+<font color="#fcfcfc">Curiosity about how it was written</font>
+
+107
+00:06:50,367 --> 00:06:56,511
+<font color="#e6e6e6">Have you ever wondered how many tons of food do you eat in a lifetime or how many miles of blood vessels there are</font>
+
+108
+00:06:56,767 --> 00:07:02,911
+<font color="#c1c1c1">Nobody know well there are plenty more intriguing entries in this huge book of fat</font>
+
+109
+00:07:03,167 --> 00:07:09,311
+<font color="#f6f6f6">It claims to have the most accurate and up-to-date information about every subject on a</font>
+
+110
+00:07:09,567 --> 00:07:15,711
+<font color="#ededed">I'm not sure it covers absolutely everything but it suddenly has lots of fascinating facts</font>
+
+111
+00:07:15,967 --> 00:07:20,575
+<font color="#9f9f9f">I'm pretty much any topic you can think of you wouldn't be able to put it down</font>
+
+112
+00:07:24,927 --> 00:07:31,071
+<font color="#eeeeee">Have you ever wondered how many tons of food do you eat in a lifetime or how many miles of blood vessels there are</font>
+
+113
+00:07:31,327 --> 00:07:37,471
+<font color="#c9c9c9">On your body oh well there are plenty more intriguing entries in this huge book of fat</font>
+
+114
+00:07:37,727 --> 00:07:43,871
+<font color="#f3f3f3">It claims to have the most accurate and up-to-date information about every subject on a</font>
+
+115
+00:07:44,127 --> 00:07:50,271
+<font color="#e0e0e0">I'm not sure it covers absolutely everything but it suddenly has lots of fascinating facts</font>
+
+116
+00:07:50,527 --> 00:07:55,135
+<font color="#b1b1b1">I'm pretty much any till that you can think of you wouldn't be able to put it down</font>
+
+117
+00:07:57,183 --> 00:07:58,207
+<font color="#f3f3f3">6</font>
+
+118
+00:07:58,719 --> 00:08:01,535
+<font color="#e5e5e5">You hear part of an interview with a famous comedian</font>
+
+119
+00:08:02,303 --> 00:08:04,351
+<font color="#f3f3f3">What did he say about his school days</font>
+
+120
+00:08:06,655 --> 00:08:08,447
+<font color="#ebebeb">The teachers never criticized him</font>
+
+121
+00:08:09,215 --> 00:08:09,983
+<font color="#696969">Be</font>
+
+122
+00:08:10,495 --> 00:08:12,543
+<font color="#fcfcfc">He was only good at one subject</font>
+
+123
+00:08:13,311 --> 00:08:14,079
+<font color="#c7c7c7">See</font>
+
+124
+00:08:14,591 --> 00:08:16,383
+<font color="#f6f6f6">Other people found him amusing</font>
+
+125
+00:08:21,247 --> 00:08:27,391
+<font color="#e4e4e4">What was your favorite subject to school max unlifted so I was good</font>
+
+126
+00:08:28,159 --> 00:08:33,535
+<font color="#b5b5b5">I couldn't get enthusiastic about all the subject I wanted to show off</font>
+
+127
+00:08:33,791 --> 00:08:38,655
+<font color="#bdbdbd">I like the logic of it we were good students yes pretty much</font>
+
+128
+00:08:39,167 --> 00:08:41,727
+<font color="#f2f2f2">I didn't cause a lot of trouble or anything like that</font>
+
+129
+00:08:41,983 --> 00:08:48,127
+<font color="#adadad">I was tricky and I like having a life with my friends but always managed to make the teachers life before they told me</font>
+
+130
+00:08:48,383 --> 00:08:51,199
+<font color="#b8b8b8">The great time at school</font>
+
+131
+00:08:55,807 --> 00:08:59,903
+<font color="#ededed">What was your favorite subject to school max</font>
+
+132
+00:09:00,159 --> 00:09:02,207
+<font color="#717171">I'm lifted so I was good at it</font>
+
+133
+00:09:02,719 --> 00:09:07,839
+<font color="#adadad">Couldn't get enthusiastic about all the subjects but with math I wanted to show off</font>
+
+134
+00:09:08,351 --> 00:09:13,215
+<font color="#e2e2e2">I like the logic of it we were good students yes pretty much</font>
+
+135
+00:09:13,471 --> 00:09:19,615
+<font color="#cfcfcf">I didn't cause a lot of trouble or anything like that I was Chi-Chi and I liked having a laugh with my friends but</font>
+
+136
+00:09:19,871 --> 00:09:23,199
+<font color="#c4c4c4">Always manage to make the teachers left before they told me off</font>
+
+137
+00:09:23,455 --> 00:09:25,503
+<font color="#a6a6a6">All in all I had a great time at school</font>
+
+138
+00:09:28,063 --> 00:09:28,831
+<font color="#fcfcfc">7</font>
+
+139
+00:09:29,343 --> 00:09:32,159
+<font color="#efefef">You hear someone talking about a person he knows</font>
+
+140
+00:09:32,671 --> 00:09:33,951
+<font color="#fcfcfc">What is the speaker doing</font>
+
+141
+00:09:35,487 --> 00:09:36,511
+<font color="#fcfcfc">Complaining</font>
+
+142
+00:09:37,279 --> 00:09:37,791
+<font color="#696969">Be</font>
+
+143
+00:09:38,303 --> 00:09:39,583
+<font color="#fcfcfc">Apologizing</font>
+
+144
+00:09:41,375 --> 00:09:42,399
+<font color="#fcfcfc">Arguing</font>
+
+145
+00:09:47,007 --> 00:09:52,127
+<font color="#f4f4f4">I really don't see why I have to keep doing him favors he never throws any for me</font>
+
+146
+00:09:52,639 --> 00:09:54,943
+<font color="#fcfcfc">I guess you were right about him all along</font>
+
+147
+00:09:55,199 --> 00:09:57,759
+<font color="#fcfcfc">You always said you took advantage of other people</font>
+
+148
+00:09:58,271 --> 00:10:01,343
+<font color="#e1e1e1">I can't believe you then but now I can see what you mean</font>
+
+149
+00:10:01,599 --> 00:10:04,415
+<font color="#fcfcfc">I can see now that I was totally wrong about him</font>
+
+150
+00:10:04,927 --> 00:10:08,767
+<font color="#eeeeee">It's a real shame because I thought we were great friends for a while</font>
+
+151
+00:10:09,279 --> 00:10:11,839
+<font color="#fcfcfc">But I'm just not going to put up with him any longer</font>
+
+152
+00:10:12,095 --> 00:10:16,191
+<font color="#eaeaea">I mean he surely can't expect to behave like that and get away with it</font>
+
+153
+00:10:20,799 --> 00:10:25,919
+<font color="#f4f4f4">I really don't see why I have to keep doing him favors he never does any for me</font>
+
+154
+00:10:26,431 --> 00:10:28,735
+<font color="#fcfcfc">I guess you were right about him all along</font>
+
+155
+00:10:28,991 --> 00:10:31,551
+<font color="#fbfbfb">You always said you took advantage of other people</font>
+
+156
+00:10:32,063 --> 00:10:35,135
+<font color="#eaeaea">I can't believe you then but now I can see what you mean</font>
+
+157
+00:10:35,391 --> 00:10:38,207
+<font color="#fcfcfc">I can see now that I was totally wrong about him</font>
+
+158
+00:10:38,719 --> 00:10:42,559
+<font color="#eeeeee">It's a real shame because I thought we were great friends for a while</font>
+
+159
+00:10:43,071 --> 00:10:45,631
+<font color="#f9f9f9">But I'm just not going to put up with him any longer</font>
+
+160
+00:10:45,887 --> 00:10:49,727
+<font color="#ececec">I mean he surely can't expect to behave like that and get away with it</font>
+
+161
+00:10:52,031 --> 00:10:52,799
+<font color="#fafafa">8</font>
+
+162
+00:10:53,311 --> 00:10:57,151
+<font color="#efefef">You hear a tour guide talkin to a group of visitors to a museum</font>
+
+163
+00:10:57,919 --> 00:10:59,967
+<font color="#fcfcfc">What did you tell him about the museum</font>
+
+164
+00:11:02,015 --> 00:11:03,551
+<font color="#fcfcfc">It's easy to get lost in it</font>
+
+165
+00:11:04,319 --> 00:11:05,087
+<font color="#696969">Be</font>
+
+166
+00:11:05,599 --> 00:11:08,415
+<font color="#fcfcfc">Big groups aren't allowed in some parts of it</font>
+
+167
+00:11:08,927 --> 00:11:09,695
+<font color="#cdcdcd">See</font>
+
+168
+00:11:10,463 --> 00:11:13,279
+<font color="#afafaf">It's special only to visit the small part of it</font>
+
+169
+00:11:17,631 --> 00:11:23,775
+<font color="#bdbdbd">Okay that's the end of my introductory to look and now you can wander around on your own for Coronavirus</font>
+
+170
+00:11:24,287 --> 00:11:27,103
+<font color="#efefef">We'll meet back here at 12:30</font>
+
+171
+00:11:27,359 --> 00:11:29,919
+<font color="#e5e5e5">Before you go a bit of advice</font>
+
+172
+00:11:30,175 --> 00:11:36,319
+<font color="#f4f4f4">This is an enormous Museum packed full of fascinating things and you can't expect to see it</font>
+
+173
+00:11:36,575 --> 00:11:42,719
+<font color="#bebebe">So if I were you I'd concentrate on one or two sections and look at them in detail</font>
+
+174
+00:11:43,231 --> 00:11:49,119
+<font color="#c1c1c1">Have a look at the map evolve got one and it's very simple and clear and decide where you want to go</font>
+
+175
+00:11:49,375 --> 00:11:52,959
+<font color="#dbdbdb">And split up into couples or small groups</font>
+
+176
+00:11:53,215 --> 00:11:58,591
+<font color="#d6d6d6">It gets pretty crowded here and you won't have much fun if a lot of you try to stick together</font>
+
+177
+00:12:02,943 --> 00:12:09,087
+<font color="#dedede">Okay that's the end of my introductory tool and now you can wander around on your own for Coronavirus</font>
+
+178
+00:12:09,599 --> 00:12:12,415
+<font color="#efefef">We'll meet back here at 12:30</font>
+
+179
+00:12:12,671 --> 00:12:15,231
+<font color="#e5e5e5">Before you go a bit of advice</font>
+
+180
+00:12:15,487 --> 00:12:21,631
+<font color="#f0f0f0">This is an enormous Museum packed full of fascinating things and you can't expect to see it</font>
+
+181
+00:12:21,887 --> 00:12:28,031
+<font color="#cbcbcb">So if I were you I'd concentrate on one or two sections and look at them in detail</font>
+
+182
+00:12:28,543 --> 00:12:34,687
+<font color="#b8b8b8">Have a look at the map you've all got one and it's very simple and clear and decide where you want to go</font>
+
+183
+00:12:34,943 --> 00:12:38,271
+<font color="#d7d7d7">Split up into couples or small groups</font>
+
+184
+00:12:38,527 --> 00:12:43,647
+<font color="#cecece">It gets pretty crowded here and you won't have much fun if a lot of you try to stick together</font>
+
+185
+00:12:45,695 --> 00:12:47,487
+<font color="#f7f7f7">That is the end of part 1</font>

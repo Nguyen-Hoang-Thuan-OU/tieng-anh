@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#cbcbcb">Number 8 listen to an announcer talking on a radio program</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#f0f0f0">As most of you know light moves incredibly quickly to be exact it moves about</font>
+
+3
+00:00:12,288 --> 00:00:16,384
+<font color="#f9f9f9">Hundred thousand meters per second that's known as the speed of light</font>
+
+4
+00:00:16,640 --> 00:00:22,784
+<font color="#f7f7f7">As far as we know it's impossible to exceed the speed of light but our guests tonight.</font>
+
+5
+00:00:23,040 --> 00:00:29,184
+<font color="#b0b0b0">Dr. Lewis Farber have some ideas about how it might be done dr. Farber welcome to</font>
+
+6
+00:00:29,440 --> 00:00:29,952
+<font color="#d7d7d7">Car show</font>
+
+7
+00:00:30,976 --> 00:00:34,304
+<font color="#e3e3e3">Why does the announcer mention dr. Lewis Farber</font>

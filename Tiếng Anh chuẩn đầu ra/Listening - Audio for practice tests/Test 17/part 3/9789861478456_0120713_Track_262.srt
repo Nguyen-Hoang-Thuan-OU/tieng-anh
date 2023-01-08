@@ -1,0 +1,75 @@
+﻿1
+00:00:00,512 --> 00:00:01,792
+<font color="#cbcbcb">Part 4</font>
+
+2
+00:00:02,560 --> 00:00:03,840
+<font color="#fcfcfc">Directions</font>
+
+3
+00:00:04,608 --> 00:00:07,680
+<font color="#f3f3f3">You will hear some talks given by a single speaker</font>
+
+4
+00:00:08,448 --> 00:00:13,568
+<font color="#fbfbfb">You will be asked to answer three questions about what the speaker says in each talk</font>
+
+5
+00:00:14,080 --> 00:00:20,224
+<font color="#f9f9f9">Select the best response to each question and mark the letter A B C or D</font>
+
+6
+00:00:20,480 --> 00:00:22,016
+<font color="#d8d8d8">Dion your answer sheet</font>
+
+7
+00:00:22,784 --> 00:00:27,904
+<font color="#ececec">The talks will not be printed in your test book and will be spoken only one time</font>
+
+8
+00:00:29,696 --> 00:00:33,792
+<font color="#c9c9c9">Question 71 through 73 refer to the following announcement</font>
+
+9
+00:00:36,096 --> 00:00:42,240
+<font color="#b5b5b5">Good morning I like about them old gas to baldy 10-15 from London King's cross to Edinborough</font>
+
+10
+00:00:42,496 --> 00:00:46,080
+<font color="#dadada">We will be stopping at Grantham Doncaster you old Durham and you cancel</font>
+
+11
+00:00:46,336 --> 00:00:52,480
+<font color="#c8c8c8">And then it will be nonstop to Edinburgh Waverley station I like to apologize roundelay departure this more</font>
+
+12
+00:00:52,736 --> 00:00:58,880
+<font color="#ededed">Unfortunately there was a signal failure and for safety reasons we were unable to leave until this would be</font>
+
+13
+00:00:59,136 --> 00:01:05,280
+<font color="#e1e1e1">Rectified we will be arriving at 8 stop approximately 15 minutes behind schedule the food battle</font>
+
+14
+00:01:05,536 --> 00:01:11,680
+<font color="#bbbbbb">Is located at the rear of the train and will be serving hot and cold meals and snacks as soon as we leave London</font>
+
+15
+00:01:11,936 --> 00:01:15,008
+<font color="#e6e6e6">Please enjoy your ride and thank you for choosing care rail</font>
+
+16
+00:01:16,544 --> 00:01:21,152
+<font color="#f9f9f9">Number 71 where is this announcement taking place</font>
+
+17
+00:01:28,064 --> 00:01:29,600
+<font color="#ededed">Number 72</font>
+
+18
+00:01:29,856 --> 00:01:33,184
+<font color="#fcfcfc">Why does the speaker apologise to passengers</font>
+
+19
+00:01:40,352 --> 00:01:45,472
+<font color="#f9f9f9">Number 73 where will passengers be able to purchase refreshments</font>

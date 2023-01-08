@@ -1,0 +1,51 @@
+﻿1
+00:00:00,256 --> 00:00:05,376
+<font color="#e8e8e8">Question 68 through 70 refer to the following conversation and facts</font>
+
+2
+00:00:06,656 --> 00:00:12,800
+<font color="#fcfcfc">Were there any calls while I was at lunch yes your travel agent called he said there have been</font>
+
+3
+00:00:13,056 --> 00:00:19,200
+<font color="#d5d5d5">Some changes to your reservation he said to ignore the fact that he sent this morning your flight is now at 8:30</font>
+
+4
+00:00:19,456 --> 00:00:25,600
+<font color="#fcfcfc">Okay that's actually good because it gives me more time I won't need to leave the office as</font>
+
+5
+00:00:25,856 --> 00:00:32,000
+<font color="#c2c2c2">Is early there is one more thing your seat number has changed that's worrying</font>
+
+6
+00:00:32,256 --> 00:00:38,400
+<font color="#fcfcfc">I hope I still have an aisle seat I don't think you need to worry about that you've been upgraded to business</font>
+
+7
+00:00:38,656 --> 00:00:39,424
+<font color="#cfcfcf">Glad</font>
+
+8
+00:00:40,960 --> 00:00:45,568
+<font color="#f6f6f6">Number 68 where is this conversation taking place</font>
+
+9
+00:00:52,736 --> 00:00:54,272
+<font color="#fcfcfc">Number 69</font>
+
+10
+00:00:54,528 --> 00:00:58,880
+<font color="#cccccc">How does the men feel about his change seat number at first</font>
+
+11
+00:01:06,048 --> 00:01:07,072
+<font color="#fcfcfc">Number 70</font>
+
+12
+00:01:07,328 --> 00:01:11,680
+<font color="#fcfcfc">Look at the graphic how much later is the new flight time</font>
+
+13
+00:01:18,848 --> 00:01:21,152
+<font color="#e6e6e6">Go on to the next page</font>

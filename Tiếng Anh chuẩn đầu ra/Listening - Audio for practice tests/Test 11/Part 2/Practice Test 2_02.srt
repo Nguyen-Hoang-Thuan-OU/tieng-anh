@@ -1,0 +1,31 @@
+﻿1
+00:00:00,256 --> 00:00:01,280
+<font color="#e7e7e7">Number two</font>
+
+2
+00:00:01,792 --> 00:00:05,632
+<font color="#fcfcfc">Listen to a conversation between a student and a teacher</font>
+
+3
+00:00:06,400 --> 00:00:12,544
+<font color="#fcfcfc">Congratulations Tina you got the highest grade in the class on your report thanks</font>
+
+4
+00:00:12,800 --> 00:00:18,944
+<font color="#fcfcfc">I worked hard on it definitely showed you have a knack for writing</font>
+
+5
+00:00:19,200 --> 00:00:21,760
+<font color="#fcfcfc">Have you considered writing for the school paper</font>
+
+6
+00:00:22,016 --> 00:00:28,160
+<font color="#fcfcfc">I've never really thought about it I suppose it could be fun maybe I'll talk to the person</font>
+
+7
+00:00:28,416 --> 00:00:31,232
+<font color="#dfdfdf">In charge of it and get some more information</font>
+
+8
+00:00:32,256 --> 00:00:36,864
+<font color="#eeeeee">Why does the teacher suggest that the girl write for the school newspaper</font>

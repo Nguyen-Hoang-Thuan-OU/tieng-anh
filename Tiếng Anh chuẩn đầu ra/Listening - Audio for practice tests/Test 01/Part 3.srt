@@ -1,0 +1,323 @@
+﻿1
+00:00:00,512 --> 00:00:04,352
+<font color="#f4f4f4">You are going to hear some talks given by one speaker</font>
+
+2
+00:00:04,864 --> 00:00:11,008
+<font color="#f1f1f1">You are going to be asked to answer three questions about what the speaker says and each time</font>
+
+3
+00:00:12,032 --> 00:00:18,176
+<font color="#fcfcfc">Choose the best answer to each question and mark the letter A B C</font>
+
+4
+00:00:18,432 --> 00:00:19,200
+<font color="#5b5b5b">Giordi</font>
+
+5
+00:00:20,736 --> 00:00:26,880
+<font color="#f9f9f9">Good afternoon ladies and gentlemen and welcome to the Opening Ceremonies for the brand</font>
+
+6
+00:00:27,136 --> 00:00:29,184
+<font color="#eeeeee">New technology Library</font>
+
+7
+00:00:29,440 --> 00:00:34,816
+<font color="#fcfcfc">We are pleased to have you all here today to witness this historic event</font>
+
+8
+00:00:35,328 --> 00:00:41,472
+<font color="#e8e8e8">In just a moment you can walk through the twelve rooms that are open to the public today</font>
+
+9
+00:00:41,728 --> 00:00:47,872
+<font color="#fcfcfc">Featuring writings from the very beginning of what we might Now call technology</font>
+
+10
+00:00:48,384 --> 00:00:54,528
+<font color="#dddddd">You cannot only read about the various inventions and theories but you can also</font>
+
+11
+00:00:54,784 --> 00:01:00,928
+<font color="#f3f3f3">Lucy actual reproductions of such objects as the first printing press</font>
+
+12
+00:01:01,184 --> 00:01:04,000
+<font color="#fcfcfc">And the very first robot</font>
+
+13
+00:01:04,768 --> 00:01:10,912
+<font color="#f2f2f2">Of course we would have loved to show you what the first computers looks like but they were</font>
+
+14
+00:01:11,168 --> 00:01:17,312
+<font color="#fcfcfc">Wouldn't fit in any of our rooms these reproductions are only</font>
+
+15
+00:01:17,568 --> 00:01:22,688
+<font color="#ececec">Exhibited for our opening week and they'll then be returned to the museum</font>
+
+16
+00:01:22,944 --> 00:01:29,088
+<font color="#bababa">Self Oaks take your time to wander around reading and playing with exhibit</font>
+
+17
+00:01:29,344 --> 00:01:33,184
+<font color="#f0f0f0">And do let us know if you have any questions</font>
+
+18
+00:01:33,440 --> 00:01:35,744
+<font color="#fcfcfc">What is the purpose of this talk</font>
+
+19
+00:01:37,792 --> 00:01:40,864
+<font color="#fcfcfc">What is not shown at this Library</font>
+
+20
+00:01:43,680 --> 00:01:47,008
+<font color="#fcfcfc">What will the audience do after the talk is finished</font>
+
+21
+00:01:52,384 --> 00:01:58,528
+<font color="#f9f9f9">We are so sorry for the inconvenience everybody but due to technical difficulty</font>
+
+22
+00:01:58,784 --> 00:02:04,672
+<font color="#f0f0f0">Train number 6550 to Miami will be delayed for 1 hour</font>
+
+23
+00:02:04,928 --> 00:02:11,072
+<font color="#fcfcfc">I know this may cause some problems for some of you but there is really nothing we can do</font>
+
+24
+00:02:11,328 --> 00:02:14,912
+<font color="#fafafa">As we must wait for a replacement part to be delivered</font>
+
+25
+00:02:15,168 --> 00:02:21,312
+<font color="#fcfcfc">To apologize for any difficulty the delay has caused we would like to offer all of</font>
+
+26
+00:02:21,568 --> 00:02:24,640
+<font color="#c4c4c4">Of the passengers on this train free lunch</font>
+
+27
+00:02:24,896 --> 00:02:31,040
+<font color="#fcfcfc">Meal vouchers for The Station Restaurant will be brought to everyone shortly so please</font>
+
+28
+00:02:31,296 --> 00:02:34,624
+<font color="#fcfcfc">Stay in your seats until you get the vouchers</font>
+
+29
+00:02:34,880 --> 00:02:40,000
+<font color="#f8f8f8">Thank you for your time and again we sincerely apologize</font>
+
+30
+00:02:42,048 --> 00:02:44,352
+<font color="#fcfcfc">When will the train leave</font>
+
+31
+00:02:48,192 --> 00:02:50,752
+<font color="#f8f8f8">What will passengers receive now</font>
+
+32
+00:02:53,568 --> 00:02:56,128
+<font color="#fcfcfc">Who is listening to this announcement</font>
+
+33
+00:03:00,736 --> 00:03:06,368
+<font color="#a2a2a2">Question 77 to 79 refer to the following message</font>
+
+34
+00:03:07,392 --> 00:03:11,488
+<font color="#e2e2e2">Thank you for calling Ricky's Salon and Spa services</font>
+
+35
+00:03:12,000 --> 00:03:17,120
+<font color="#d8d8d8">Due to the public holidays Ricky's will be closed from Friday to Monday</font>
+
+36
+00:03:17,376 --> 00:03:22,496
+<font color="#bebebe">So during this time Alice stuff is taking a much-needed vacation</font>
+
+37
+00:03:23,008 --> 00:03:29,152
+<font color="#e7e7e7">Bethel we were gretz that we are not able to take any appointments on the 4th Thru the 7th</font>
+
+38
+00:03:29,920 --> 00:03:35,040
+<font color="#bcbcbc">However to make it up to our wonderful clients we have a deal for you</font>
+
+39
+00:03:35,552 --> 00:03:41,696
+<font color="#f7f7f7">By any service before March 17th and you can receive a second service for half</font>
+
+40
+00:03:41,952 --> 00:03:42,464
+<font color="#fcfcfc">Price</font>
+
+41
+00:03:43,232 --> 00:03:47,840
+<font color="#fcfcfc">If you would like to make an appointment please leave your name number</font>
+
+42
+00:03:48,096 --> 00:03:52,704
+<font color="#fcfcfc">The time and date you want to come in and which service you would like</font>
+
+43
+00:03:52,960 --> 00:03:54,240
+<font color="#f4f4f4">Happy holidays</font>
+
+44
+00:03:56,288 --> 00:03:58,848
+<font color="#d8d8d8">Why is Ricky's Salon closed</font>
+
+45
+00:04:01,664 --> 00:04:03,456
+<font color="#fcfcfc">When will they open again</font>
+
+46
+00:04:06,272 --> 00:04:09,344
+<font color="#dddddd">What should people not leave in their message</font>
+
+47
+00:04:14,976 --> 00:04:21,119
+<font color="#fcfcfc">Attention everyone pair of pink and black gloves has been found on a table</font>
+
+48
+00:04:21,375 --> 00:04:22,399
+<font color="#f3f3f3">In the food court</font>
+
+49
+00:04:22,655 --> 00:04:24,959
+<font color="#e7e7e7">In front of the sandwich shop</font>
+
+50
+00:04:25,215 --> 00:04:28,799
+<font color="#fcfcfc">There was also a wallet with the pink gloves</font>
+
+51
+00:04:29,311 --> 00:04:35,455
+<font color="#fcfcfc">These items have been taken to the information booth at the north entrance which is</font>
+
+52
+00:04:35,711 --> 00:04:40,831
+<font color="#fafafa">Is located between Macy's department store and the sunglasses Shack</font>
+
+53
+00:04:41,599 --> 00:04:47,743
+<font color="#f7f7f7">If you believe these items belong to you please come in person to the information</font>
+
+54
+00:04:48,767 --> 00:04:54,655
+<font color="#fcfcfc">Please bring proof of identity that matches the name and address in the wallet</font>
+
+55
+00:04:55,167 --> 00:05:01,311
+<font color="#fcfcfc">The wallet will not be given to anyone who cannot prove that it belongs to them</font>
+
+56
+00:05:01,567 --> 00:05:04,127
+<font color="#fcfcfc">Thank you and have a good day</font>
+
+57
+00:05:05,407 --> 00:05:07,967
+<font color="#fcfcfc">Where is this announcement taking place</font>
+
+58
+00:05:11,551 --> 00:05:13,087
+<font color="#dcdcdc">Where were the items found</font>
+
+59
+00:05:16,159 --> 00:05:18,463
+<font color="#fcfcfc">How can the owner get the items back</font>
+
+60
+00:05:22,303 --> 00:05:24,607
+<font color="#fcfcfc">I suppose many of you</font>
+
+61
+00:05:24,863 --> 00:05:28,191
+<font color="#a4a4a4">A wondering why I called you all in here today</font>
+
+62
+00:05:28,703 --> 00:05:29,215
+<font color="#adadad">Well</font>
+
+63
+00:05:29,471 --> 00:05:31,775
+<font color="#f2f2f2">I have some bad news.</font>
+
+64
+00:05:32,031 --> 00:05:35,615
+<font color="#fcfcfc">I guess some of you might see it as good news</font>
+
+65
+00:05:36,127 --> 00:05:37,151
+<font color="#fcfcfc">As of today</font>
+
+66
+00:05:37,663 --> 00:05:39,711
+<font color="#fcfcfc">I am no longer your manager</font>
+
+67
+00:05:40,223 --> 00:05:44,063
+<font color="#f3f3f3">I have been offered a new position in our Beijing office</font>
+
+68
+00:05:44,319 --> 00:05:48,671
+<font color="#fcfcfc">Which I have accepted and I am actually moving there tomorrow</font>
+
+69
+00:05:49,183 --> 00:05:50,719
+<font color="#fcfcfc">I know it seems sudden</font>
+
+70
+00:05:50,975 --> 00:05:56,607
+<font color="#f7f7f7">But I'm just terrible at goodbyes and I wanted to avoid any long farewell</font>
+
+71
+00:05:57,119 --> 00:06:01,471
+<font color="#b8b8b8">I have loved working with all of you these past three years</font>
+
+72
+00:06:01,727 --> 00:06:04,031
+<font color="#eeeeee">And I hope the feeling is mutual</font>
+
+73
+00:06:04,799 --> 00:06:10,943
+<font color="#fcfcfc">I would also like to introduce you to my replacement a woman who has been with the company</font>
+
+74
+00:06:11,199 --> 00:06:12,991
+<font color="#e6e6e6">Almost as long as I have</font>
+
+75
+00:06:13,247 --> 00:06:15,807
+<font color="#fcfcfc">And we really deserve this promotion</font>
+
+76
+00:06:16,319 --> 00:06:17,343
+<font color="#bbbbbb">Patty Park</font>
+
+77
+00:06:17,599 --> 00:06:18,623
+<font color="#fcfcfc">Please come up here</font>
+
+78
+00:06:18,879 --> 00:06:21,183
+<font color="#fcfcfc">And say hello to your new stuff</font>
+
+79
+00:06:22,463 --> 00:06:24,255
+<font color="#fcfcfc">When is she moving</font>
+
+80
+00:06:27,327 --> 00:06:30,143
+<font color="#fcfcfc">Why did she wait to make this announcement</font>
+
+81
+00:06:33,471 --> 00:06:36,543
+<font color="#fcfcfc">What is the purpose of this announcement</font>

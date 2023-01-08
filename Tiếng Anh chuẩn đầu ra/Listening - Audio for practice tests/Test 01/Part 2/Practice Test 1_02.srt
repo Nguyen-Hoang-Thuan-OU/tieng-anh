@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#fcfcfc">Number to listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,376 --> 00:00:11,520
+<font color="#9b9b9b">Mr Paterson Kevin told me that you wanted to see me</font>
+
+3
+00:00:11,776 --> 00:00:15,360
+<font color="#f1f1f1">Didn't turn in your homework this morning did you forget to complete it</font>
+
+4
+00:00:15,872 --> 00:00:22,016
+<font color="#fcfcfc">Actually I left it at home this morning should I call my mother and ask her to</font>
+
+5
+00:00:22,272 --> 00:00:27,904
+<font color="#fcfcfc">Bring it to school no don't do that but please submit it first thing tomorrow morning</font>
+
+6
+00:00:28,672 --> 00:00:31,488
+<font color="#fcfcfc">What is the girl going to do tomorrow morning</font>

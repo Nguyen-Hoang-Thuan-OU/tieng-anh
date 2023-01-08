@@ -1,0 +1,115 @@
+﻿1
+00:00:06,656 --> 00:00:12,800
+<font color="#a4a4a4">Perfect topple jr. practice test book 1</font>
+
+2
+00:00:18,944 --> 00:00:20,736
+<font color="#eeeeee">Practice test 1</font>
+
+3
+00:00:22,528 --> 00:00:28,672
+<font color="#efefef">The listening section has 42 questions follow along as you listen to the directions to the</font>
+
+4
+00:00:28,928 --> 00:00:29,952
+<font color="#f4f4f4">Listening section</font>
+
+5
+00:00:30,720 --> 00:00:32,000
+<font color="#fcfcfc">Directions</font>
+
+6
+00:00:32,256 --> 00:00:38,400
+<font color="#f5f5f5">In this section of the test you will hear talks and conversations each talk or conversation</font>
+
+7
+00:00:38,656 --> 00:00:44,800
+<font color="#cecece">Is followed by one question choose the best answer to each question and mark the letter of the car</font>
+
+8
+00:00:45,056 --> 00:00:51,200
+<font color="#f9f9f9">Correct answer on your answer sheet you will hear each talk or conversation only one time</font>
+
+9
+00:00:51,968 --> 00:00:53,504
+<font color="#fcfcfc">Here is an example</font>
+
+10
+00:00:54,272 --> 00:00:58,112
+<font color="#fcfcfc">Listen to a conversation between two friends in the classroom</font>
+
+11
+00:00:59,136 --> 00:01:05,280
+<font color="#fcfcfc">Aren't you going to band practice now it's our first meeting of the year</font>
+
+12
+00:01:05,536 --> 00:01:07,840
+<font color="#d7d7d7">Banda pass this year</font>
+
+13
+00:01:08,608 --> 00:01:10,400
+<font color="#fcfcfc">What does the girl mean</font>
+
+14
+00:01:11,168 --> 00:01:13,216
+<font color="#fcfcfc">Now read the answer choices</font>
+
+15
+00:01:24,992 --> 00:01:30,368
+<font color="#f4f4f4">The correct answer is B she is not going to be a member of the band</font>
+
+16
+00:01:31,136 --> 00:01:32,928
+<font color="#fcfcfc">Here is another example</font>
+
+17
+00:01:33,440 --> 00:01:37,280
+<font color="#fcfcfc">Listen to a conversation between two friends at school</font>
+
+18
+00:01:38,048 --> 00:01:44,192
+<font color="#fcfcfc">I can't wait for spring break to come I could really use some time off</font>
+
+19
+00:01:44,448 --> 00:01:49,056
+<font color="#e9e9e9">Agree with you I'm looking forward to not having class for a week as well</font>
+
+20
+00:01:49,824 --> 00:01:52,128
+<font color="#f7f7f7">What are the speakers talking about</font>
+
+21
+00:01:53,152 --> 00:01:55,456
+<font color="#fcfcfc">Now read the answer choices</font>
+
+22
+00:02:07,232 --> 00:02:10,560
+<font color="#fcfcfc">The correct answer is C spring break</font>
+
+23
+00:02:11,328 --> 00:02:16,448
+<font color="#dcdcdc">Go on to the next page and the test will begin with question number one</font>
+
+24
+00:02:21,312 --> 00:02:25,664
+<font color="#d9d9d9">Number one listened to a conversation between two friends</font>
+
+25
+00:02:26,688 --> 00:02:32,832
+<font color="#f3f3f3">Bill are you going to the soccer game this evening I wish I could but my parents</font>
+
+26
+00:02:33,088 --> 00:02:39,232
+<font color="#dadada">Want me to go home immediately after school are you in some kind of trouble</font>
+
+27
+00:02:39,488 --> 00:02:45,632
+<font color="#fcfcfc">No it's not that today is my sister's birthday so we're going out to eat at our favorite rest</font>
+
+28
+00:02:46,400 --> 00:02:48,704
+<font color="#fcfcfc">I'll have to take a pass on the game</font>
+
+29
+00:02:49,728 --> 00:02:54,592
+<font color="#bebebe">What does the boy mean when he says I'll have to take a pass on the game</font>

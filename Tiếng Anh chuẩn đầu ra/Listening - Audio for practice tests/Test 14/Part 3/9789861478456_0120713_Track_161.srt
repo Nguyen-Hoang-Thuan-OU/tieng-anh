@@ -1,0 +1,47 @@
+﻿1
+00:00:00,768 --> 00:00:06,400
+<font color="#e2e2e2">Questions 92 through 94 refer to the following excerpt from a meeting and agenda</font>
+
+2
+00:00:07,936 --> 00:00:14,080
+<font color="#f3f3f3">Okay I'm going to get this meeting started Miranda will be our note-taker today thanks Miranda</font>
+
+3
+00:00:14,336 --> 00:00:20,480
+<font color="#fbfbfb">You should all have a copy of the agenda because I emailed it to you last Friday you'll see</font>
+
+4
+00:00:20,736 --> 00:00:26,880
+<font color="#e2e2e2">At the December lunch is listed second on the agenda unit he will be talking about that but she's going</font>
+
+5
+00:00:27,136 --> 00:00:33,280
+<font color="#9c9c9c">I'll be late because she is supervising a delivery she should be here in about 45 minutes so we'll just switch the oar</font>
+
+6
+00:00:33,536 --> 00:00:38,400
+<font color="#eaeaea">Order of the lunch and the volunteer event if that sounds good to everyone that should work well for timing</font>
+
+7
+00:00:39,936 --> 00:00:41,216
+<font color="#fcfcfc">Number 92</font>
+
+8
+00:00:41,472 --> 00:00:45,056
+<font color="#fcfcfc">When did the speaker send the agenda to her colleagues</font>
+
+9
+00:00:52,224 --> 00:00:53,504
+<font color="#fcfcfc">Number 93</font>
+
+10
+00:00:53,760 --> 00:00:56,320
+<font color="#c1c1c1">Why will union he be late for the meeting</font>
+
+11
+00:01:03,488 --> 00:01:04,768
+<font color="#fcfcfc">Number 94</font>
+
+12
+00:01:05,024 --> 00:01:10,656
+<font color="#fcfcfc">Look at the agenda which employee will be the second to speak at the meeting today</font>

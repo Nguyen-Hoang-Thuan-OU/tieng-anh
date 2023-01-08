@@ -1,0 +1,7 @@
+﻿1
+00:00:00,256 --> 00:00:01,536
+<font color="#fcfcfc">Number 26</font>
+
+2
+00:00:01,792 --> 00:00:05,376
+<font color="#fcfcfc">What will the girl do after school today</font>

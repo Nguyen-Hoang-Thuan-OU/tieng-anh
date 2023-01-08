@@ -1,0 +1,7 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#f2f2f2">Number 18 what does the teacher imply when she says</font>
+
+2
+00:00:04,864 --> 00:00:07,168
+<font color="#fcfcfc">The Bell is about to ring</font>

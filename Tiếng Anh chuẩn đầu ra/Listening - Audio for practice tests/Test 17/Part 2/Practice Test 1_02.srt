@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#fcfcfc">Number to listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,376 --> 00:00:11,520
+<font color="#fcfcfc">Send you still haven't turned in your essay when can I expect to receive it sorry</font>
+
+3
+00:00:11,776 --> 00:00:17,920
+<font color="#dfdfdf">Mr. Crawford but I've been too busy with my French assignment to completed do you mind if I</font>
+
+4
+00:00:18,176 --> 00:00:24,320
+<font color="#e9e9e9">I turn it in tomorrow well you can give it to me then but you're going to lose five points for tardiness</font>
+
+5
+00:00:24,576 --> 00:00:26,880
+<font color="#fcfcfc">You've had a week to work on it</font>
+
+6
+00:00:28,160 --> 00:00:31,232
+<font color="#c2c2c2">What is the teacher say about the boys essay</font>

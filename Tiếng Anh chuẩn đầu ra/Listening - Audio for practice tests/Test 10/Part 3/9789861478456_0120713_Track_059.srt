@@ -1,0 +1,39 @@
+﻿1
+00:00:01,024 --> 00:00:02,048
+<font color="#bfbfbf">Number for</font>
+
+2
+00:00:02,816 --> 00:00:05,888
+<font color="#b5b5b5">Look at the picture marks number for in your test book</font>
+
+3
+00:00:06,656 --> 00:00:07,424
+<font color="#d2d2d2">Hey</font>
+
+4
+00:00:08,192 --> 00:00:10,240
+<font color="#f9f9f9">A woman is opening the window</font>
+
+5
+00:00:11,264 --> 00:00:12,288
+<font color="#5b5b5b">Be</font>
+
+6
+00:00:12,800 --> 00:00:15,104
+<font color="#fcfcfc">No one is using a computer</font>
+
+7
+00:00:15,872 --> 00:00:16,896
+<font color="#cdcdcd">See</font>
+
+8
+00:00:17,664 --> 00:00:19,968
+<font color="#f2f2f2">The table is covered with papers</font>
+
+9
+00:00:20,992 --> 00:00:21,760
+<font color="#d9d9d9">D</font>
+
+10
+00:00:23,040 --> 00:00:25,088
+<font color="#fcfcfc">The team is in a meeting</font>

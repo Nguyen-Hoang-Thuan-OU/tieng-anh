@@ -1,0 +1,131 @@
+﻿1
+00:00:00,256 --> 00:00:02,048
+<font color="#fcfcfc">Questions 14 through 17</font>
+
+2
+00:00:02,560 --> 00:00:05,376
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+3
+00:00:06,144 --> 00:00:10,240
+<font color="#f5f5f5">I'm really not looking forward to going on tomorrow field trip</font>
+
+4
+00:00:10,496 --> 00:00:12,800
+<font color="#fcfcfc">It's going to be so boring</font>
+
+5
+00:00:13,312 --> 00:00:18,176
+<font color="#fcfcfc">Why do you say that I think it will be fun to go to City Hall tomorrow</font>
+
+6
+00:00:18,432 --> 00:00:20,736
+<font color="#c6c6c6">You've got to be kidding me</font>
+
+7
+00:00:20,992 --> 00:00:23,040
+<font color="#fcfcfc">Not at all I mean</font>
+
+8
+00:00:24,320 --> 00:00:26,880
+<font color="#fcfcfc">First of all we are going to get to meet</font>
+
+9
+00:00:27,392 --> 00:00:28,928
+<font color="#fcfcfc">The mayor</font>
+
+10
+00:00:29,440 --> 00:00:34,048
+<font color="#fcfcfc">And he's even going to talk to us for half an hour or so</font>
+
+11
+00:00:34,304 --> 00:00:36,608
+<font color="#fcfcfc">So what</font>
+
+12
+00:00:37,120 --> 00:00:38,656
+<font color="#fcfcfc">He's the mayor</font>
+
+13
+00:00:38,912 --> 00:00:41,984
+<font color="#fcfcfc">He's the most important person in our city</font>
+
+14
+00:00:42,240 --> 00:00:47,872
+<font color="#cecece">Oh right I just remembered that you're interested in politics</font>
+
+15
+00:00:48,128 --> 00:00:53,504
+<font color="#fcfcfc">I on the other hand couldn't care less about anything connected with politics</font>
+
+16
+00:00:53,760 --> 00:00:57,856
+<font color="#fcfcfc">But I guess that explains why you're so eager to go on the field trip</font>
+
+17
+00:00:58,368 --> 00:01:04,512
+<font color="#b9b9b9">Yeah exactly I know all about me a Robinson so I can't wait to hear him speak</font>
+
+18
+00:01:04,768 --> 00:01:08,352
+<font color="#eeeeee">In fact I heard that he's going to take questions from us</font>
+
+19
+00:01:08,608 --> 00:01:11,424
+<font color="#fcfcfc">There are a couple of things I'm eager to ask him</font>
+
+20
+00:01:11,936 --> 00:01:15,008
+<font color="#fcfcfc">Well I'm glad you're excited about this trip</font>
+
+21
+00:01:15,264 --> 00:01:19,360
+<font color="#e4e4e4">As for me I much rather go on a field trip somewhere else</font>
+
+22
+00:01:19,616 --> 00:01:20,896
+<font color="#f6f6f6">Like where</font>
+
+23
+00:01:21,152 --> 00:01:27,296
+<font color="#f5f5f5">We went to the hospital last year I thought that was pretty cool we got to see a bunch of dog</font>
+
+24
+00:01:27,552 --> 00:01:28,832
+<font color="#fcfcfc">Doctors in action</font>
+
+25
+00:01:29,088 --> 00:01:33,184
+<font color="#e2e2e2">Getting to watch some of that I operation was so awesome</font>
+
+26
+00:01:33,696 --> 00:01:36,512
+<font color="#fcfcfc">I didn't like that field trip at all</font>
+
+27
+00:01:36,768 --> 00:01:38,560
+<font color="#f0f0f0">In fact I hate hospitals</font>
+
+28
+00:01:38,816 --> 00:01:42,400
+<font color="#f7f7f7">I start to get sweaty and dizzy anytime I get near them</font>
+
+29
+00:01:42,656 --> 00:01:45,728
+<font color="#efefef">I think I'm allergic to doctors or something</font>
+
+30
+00:01:46,240 --> 00:01:49,824
+<font color="#fcfcfc">Oh well I guess everyone has different tastes</font>
+
+31
+00:01:51,616 --> 00:01:53,152
+<font color="#fcfcfc">Now answer the questions</font>
+
+32
+00:01:54,176 --> 00:01:55,456
+<font color="#f5f5f5">Number 14</font>
+
+33
+00:01:55,712 --> 00:01:57,760
+<font color="#f5f5f5">What are the students mainly discussing</font>

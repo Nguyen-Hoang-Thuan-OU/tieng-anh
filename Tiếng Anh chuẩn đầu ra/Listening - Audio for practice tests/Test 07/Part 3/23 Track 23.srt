@@ -1,0 +1,67 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#e5e5e5">Questions 83 through 85 refer to the following announcement</font>
+
+2
+00:00:05,888 --> 00:00:11,008
+<font color="#fbfbfb">Good afternoon I want to welcome you all to our management Improvement luncheon</font>
+
+3
+00:00:11,264 --> 00:00:13,312
+<font color="#f6f6f6">We have a delicious meal to look forward to</font>
+
+4
+00:00:13,568 --> 00:00:17,920
+<font color="#f8f8f8">The catering staff here at the club always makes our noon events special</font>
+
+5
+00:00:18,176 --> 00:00:20,992
+<font color="#fcfcfc">We also have a fantastic speaker with us today</font>
+
+6
+00:00:21,248 --> 00:00:26,624
+<font color="#d4d4d4">Mr. Andrew margulis worked as a management trainer for 20 years before he retired</font>
+
+7
+00:00:26,880 --> 00:00:30,976
+<font color="#fcfcfc">He is giving seminars all over the country and in several places abroad</font>
+
+8
+00:00:31,232 --> 00:00:37,120
+<font color="#efefef">Now he works only in his garden but I am pleased that he has honored Us by agreeing to be here today</font>
+
+9
+00:00:37,376 --> 00:00:43,520
+<font color="#f1f1f1">He will share his experiences as a manager and lead us through some exercises designed to help us evaluate our</font>
+
+10
+00:00:43,776 --> 00:00:45,312
+<font color="#fcfcfc">Effectiveness with our staff</font>
+
+11
+00:00:45,568 --> 00:00:49,152
+<font color="#efefef">And now without further Ado I give you Andrew margulis</font>
+
+12
+00:00:50,944 --> 00:00:52,224
+<font color="#fcfcfc">Number 83</font>
+
+13
+00:00:52,480 --> 00:00:55,296
+<font color="#fcfcfc">What kind of people are attending the seminar</font>
+
+14
+00:01:02,976 --> 00:01:04,512
+<font color="#fcfcfc">Number 84</font>
+
+15
+00:01:04,768 --> 00:01:07,840
+<font color="#cbcbcb">Which of the following describes mr. Mark Ellis</font>
+
+16
+00:01:15,776 --> 00:01:17,056
+<font color="#fcfcfc">Number 85</font>
+
+17
+00:01:17,312 --> 00:01:19,616
+<font color="#fcfcfc">Where is the announcement being heard</font>

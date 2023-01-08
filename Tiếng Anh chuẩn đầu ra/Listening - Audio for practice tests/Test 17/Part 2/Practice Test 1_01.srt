@@ -1,0 +1,111 @@
+﻿1
+00:00:07,424 --> 00:00:13,568
+<font color="#c9c9c9">Perfect oval Junior practice test book 3</font>
+
+2
+00:00:18,432 --> 00:00:21,504
+<font color="#eeeeee">Practice test 1</font>
+
+3
+00:00:22,016 --> 00:00:28,160
+<font color="#e3e3e3">The listening section has 42 questions for the long as you listen to the directions to the listening section</font>
+
+4
+00:00:29,440 --> 00:00:35,584
+<font color="#e3e3e3">Directions in this section of the test you will hear talks and conversations each</font>
+
+5
+00:00:35,840 --> 00:00:41,984
+<font color="#e6e6e6">Talk or conversation is followed by one question choose the best answer to each question and mark the letter</font>
+
+6
+00:00:42,240 --> 00:00:48,384
+<font color="#f5f5f5">Letter of the correct answer on your answer sheet you will he reached awkward conversation only one time</font>
+
+7
+00:00:49,408 --> 00:00:50,944
+<font color="#fcfcfc">Here is an example</font>
+
+8
+00:00:51,456 --> 00:00:55,552
+<font color="#fcfcfc">Listen to a conversation between two friends in the classroom</font>
+
+9
+00:00:56,064 --> 00:01:02,208
+<font color="#979797">You looked pleased about something did you get a good grade on your math test I don't know of</font>
+
+10
+00:01:02,464 --> 00:01:07,072
+<font color="#fcfcfc">About that yet but I just found out that I made the baseball team</font>
+
+11
+00:01:07,584 --> 00:01:09,632
+<font color="#fcfcfc">Why is the boy happy</font>
+
+12
+00:01:10,144 --> 00:01:12,448
+<font color="#f0f0f0">No read the answer choices</font>
+
+13
+00:01:23,968 --> 00:01:28,576
+<font color="#fcfcfc">The correct answer is a he was selected for the baseball team</font>
+
+14
+00:01:28,832 --> 00:01:30,880
+<font color="#dbdbdb">Here is another example</font>
+
+15
+00:01:31,136 --> 00:01:34,976
+<font color="#fcfcfc">Listen to a conversation between a student and a teacher</font>
+
+16
+00:01:35,488 --> 00:01:41,632
+<font color="#eaeaea">Jenny I think you need to try harder the paper you wrote wasn't very good</font>
+
+17
+00:01:41,888 --> 00:01:45,728
+<font color="#cecece">I'll try to improve my writing the next time</font>
+
+18
+00:01:46,240 --> 00:01:49,056
+<font color="#eaeaea">What are the speakers mainly talking about</font>
+
+19
+00:01:49,568 --> 00:01:51,872
+<font color="#d5d5d5">Now read the answer choices</font>
+
+20
+00:02:03,392 --> 00:02:07,232
+<font color="#e6e6e6">The correct answer is B the quality of the girls work</font>
+
+21
+00:02:07,744 --> 00:02:12,096
+<font color="#d8d8d8">Go on to the next page and the test will begin with question number one</font>
+
+22
+00:02:16,704 --> 00:02:21,056
+<font color="#dadada">Number one listened to a conversation between two friends</font>
+
+23
+00:02:21,312 --> 00:02:27,456
+<font color="#f2f2f2">Are you going to attend the tutorial that Mr Sanders is giving during study hall</font>
+
+24
+00:02:27,712 --> 00:02:33,856
+<font color="#a3a3a3">We only want to make sure I understand the material for the test he's going to give me further</font>
+
+25
+00:02:34,112 --> 00:02:36,416
+<font color="#d6d6d6">His tests are really tough</font>
+
+26
+00:02:36,672 --> 00:02:42,816
+<font color="#ededed">That's exactly what I've heard is well I'm going to be sure to pay close attention during the Tudor</font>
+
+27
+00:02:43,072 --> 00:02:43,840
+<font color="#d1d1d1">Mario</font>
+
+28
+00:02:45,376 --> 00:02:47,936
+<font color="#f1f1f1">What are the speakers mainly discussing</font>

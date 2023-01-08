@@ -1,0 +1,119 @@
+﻿1
+00:00:00,256 --> 00:00:05,888
+<font color="#f3f3f3">Questions 14 through 17 listen to a conversation between two students</font>
+
+2
+00:00:06,656 --> 00:00:11,008
+<font color="#fcfcfc">Hey John did you happen to go to the game yesterday</font>
+
+3
+00:00:11,264 --> 00:00:12,288
+<font color="#fcfcfc">I sure did</font>
+
+4
+00:00:12,544 --> 00:00:14,336
+<font color="#fcfcfc">Congratulations on winning</font>
+
+5
+00:00:14,592 --> 00:00:18,176
+<font color="#fcfcfc">I was impressed with how well everyone on the team played</font>
+
+6
+00:00:18,432 --> 00:00:22,016
+<font color="#999999">And he did a great job didn't she</font>
+
+7
+00:00:22,272 --> 00:00:26,880
+<font color="#f3f3f3">She's an outstanding goalkeeper she made a couple of impressive saves</font>
+
+8
+00:00:27,136 --> 00:00:28,928
+<font color="#eeeeee">But you had a good game too</font>
+
+9
+00:00:29,184 --> 00:00:31,744
+<font color="#e8e8e8">I guess I played all right</font>
+
+10
+00:00:32,000 --> 00:00:33,024
+<font color="#b0b0b0">Alright</font>
+
+11
+00:00:33,280 --> 00:00:34,560
+<font color="#fcfcfc">What are you talkin about</font>
+
+12
+00:00:34,816 --> 00:00:38,656
+<font color="#f3f3f3">You scored two goals and you had some great passes as well</font>
+
+13
+00:00:38,912 --> 00:00:43,264
+<font color="#f5f5f5">Thanks I guess I did play pretty well didn't I</font>
+
+14
+00:00:43,520 --> 00:00:45,312
+<font color="#fcfcfc">That's one way of putting it</font>
+
+15
+00:00:45,568 --> 00:00:46,080
+<font color="#eeeeee">So</font>
+
+16
+00:00:46,336 --> 00:00:48,384
+<font color="#fcfcfc">When is your next game going to be</font>
+
+17
+00:00:48,640 --> 00:00:51,200
+<font color="#fcfcfc">Do you have a game this Friday or Saturday</font>
+
+18
+00:00:51,456 --> 00:00:57,600
+<font color="#e6e6e6">No we don't play anymore games this week however we have two games next week.</font>
+
+19
+00:00:57,856 --> 00:01:01,952
+<font color="#b0b0b0">Christy's on Tuesday night and the second is on Thursday night</font>
+
+20
+00:01:02,208 --> 00:01:04,256
+<font color="#f5f5f5">Do you think you can make it to 1</font>
+
+21
+00:01:04,512 --> 00:01:06,304
+<font color="#f9f9f9">I'll do my best to go to both</font>
+
+22
+00:01:06,560 --> 00:01:08,864
+<font color="#e7e7e7">I could definitely attend the Tuesday game</font>
+
+23
+00:01:09,120 --> 00:01:11,680
+<font color="#fcfcfc">But I'm not sure about the soccer game on Thursday</font>
+
+24
+00:01:11,936 --> 00:01:18,080
+<font color="#e6e6e6">Awesome now that we're winning some games we hope that more fans will start coming</font>
+
+25
+00:01:18,336 --> 00:01:24,224
+<font color="#ececec">We could use some big crowds we play much better when we've got lots of people cheering for us</font>
+
+26
+00:01:24,480 --> 00:01:25,760
+<font color="#fcfcfc">Yeah that makes sense</font>
+
+27
+00:01:26,016 --> 00:01:29,600
+<font color="#fcfcfc">I'll tell some of my friend and get them to go along with me</font>
+
+28
+00:01:29,856 --> 00:01:32,672
+<font color="#f3f3f3">I'm sure that they'll love to see our team play</font>
+
+29
+00:01:34,464 --> 00:01:36,256
+<font color="#fcfcfc">Now answer the questions</font>
+
+30
+00:01:37,280 --> 00:01:41,632
+<font color="#dbdbdb">Number 14 what are the speakers mainly talking about</font>

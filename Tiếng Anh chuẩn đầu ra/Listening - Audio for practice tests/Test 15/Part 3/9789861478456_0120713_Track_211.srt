@@ -1,0 +1,59 @@
+﻿1
+00:00:00,768 --> 00:00:04,352
+<font color="#d6d6d6">Questions 80 through 82 refer to the following lecture</font>
+
+2
+00:00:06,144 --> 00:00:11,264
+<font color="#f9f9f9">There have been 7.1 billion smartphones manufactured since 2007</font>
+
+3
+00:00:11,520 --> 00:00:14,592
+<font color="#c5c5c5">That's enough phone for almost every person in the world</font>
+
+4
+00:00:15,104 --> 00:00:21,248
+<font color="#f2f2f2">But demand for new and improved models continues to grow most people want a new phone every couple of</font>
+
+5
+00:00:21,504 --> 00:00:27,648
+<font color="#c8c8c8">Here's this demand puts tremendous pressure on our environment very few people recycle their</font>
+
+6
+00:00:27,904 --> 00:00:29,696
+<font color="#d5d5d5">Are smartphones when they purchase a new one</font>
+
+7
+00:00:29,952 --> 00:00:36,096
+<font color="#fbfbfb">Less than 16% of E-Waste is recycled much of that waste goes into landfills</font>
+
+8
+00:00:36,352 --> 00:00:38,912
+<font color="#b2b2b2">We're heavy metals can Legion to groundwater</font>
+
+9
+00:00:39,424 --> 00:00:45,568
+<font color="#fbfbfb">These heavy metals cause serious health effects for humans and death for smaller organisms</font>
+
+10
+00:00:45,824 --> 00:00:51,968
+<font color="#acacac">The metals buildup in body tissues overtime and can cause cancer joint pains and other health issues</font>
+
+11
+00:00:54,016 --> 00:00:55,296
+<font color="#f6f6f6">Number 80</font>
+
+12
+00:00:55,552 --> 00:01:00,160
+<font color="#fcfcfc">According to the speaker how often do people buy a new phone</font>
+
+13
+00:01:07,328 --> 00:01:08,608
+<font color="#fcfcfc">Number 81</font>
+
+14
+00:01:08,864 --> 00:01:13,728
+<font color="#fcfcfc">Why is the growing popularity of smartphones and environmental issue</font>
+
+15
+00:01:20,896 --> 00:01:27,040
+<font color="#f0f0f0">Number 82 according to the speaker what happens to smartphones after they are discarded</font>

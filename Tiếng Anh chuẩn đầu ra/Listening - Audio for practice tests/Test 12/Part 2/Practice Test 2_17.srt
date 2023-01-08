@@ -1,0 +1,3 @@
+﻿1
+00:00:00,256 --> 00:00:05,888
+<font color="#eeeeee">Number 17 what will determine how many points the boy gets on the project</font>

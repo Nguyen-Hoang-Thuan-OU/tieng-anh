@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#cacaca">Number 7 listen to a teacher talking to some students</font>
+
+2
+00:00:05,376 --> 00:00:11,520
+<font color="#fcfcfc">I'd like to talk to you about Diego the new exchange student he doesn't seem to be getting along</font>
+
+3
+00:00:11,776 --> 00:00:17,920
+<font color="#fcfcfc">Along with many of the students I think he's pretty shy why don't you all try to become friends</font>
+
+4
+00:00:18,176 --> 00:00:24,320
+<font color="#f2f2f2">With him would you mind sitting with him at lunch and talking to him I'd appreciate it if you'd do that</font>
+
+5
+00:00:24,576 --> 00:00:27,392
+<font color="#e0e0e0">He really needs someone to hang out with</font>
+
+6
+00:00:28,160 --> 00:00:31,232
+<font color="#f8f8f8">What does the teacher asked the students to do</font>

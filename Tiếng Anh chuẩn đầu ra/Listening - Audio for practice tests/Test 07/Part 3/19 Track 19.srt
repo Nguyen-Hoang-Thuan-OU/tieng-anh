@@ -1,0 +1,71 @@
+﻿1
+00:00:00,256 --> 00:00:05,376
+<font color="#e1e1e1">Questions 71 through 73 refer to the following advertisement</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#ededed">Have you been looking for an affordable way to stock your office supply closet with quality product</font>
+
+3
+00:00:12,544 --> 00:00:15,104
+<font color="#dedede">And don't miss this unique opportunity</font>
+
+4
+00:00:15,872 --> 00:00:22,016
+<font color="#fcfcfc">You've always relied on office supplies Incorporated to provide you with the best products at the best prices</font>
+
+5
+00:00:23,040 --> 00:00:26,368
+<font color="#e8e8e8">Now we are announcing our biggest sale of the year</font>
+
+6
+00:00:26,624 --> 00:00:30,208
+<font color="#fafafa">With fantastic savings on all items big and small</font>
+
+7
+00:00:30,464 --> 00:00:33,024
+<font color="#cfcfcf">From pens to photocopy machines</font>
+
+8
+00:00:33,792 --> 00:00:39,936
+<font color="#f1f1f1">Our doors open at 8 a.m. tomorrow and everything in the entire store will be reduced by fifty percent</font>
+
+9
+00:00:40,192 --> 00:00:42,240
+<font color="#dfdfdf">Percent for 3 big days</font>
+
+10
+00:00:42,496 --> 00:00:44,288
+<font color="#fcfcfc">Thursday through Saturday</font>
+
+11
+00:00:44,544 --> 00:00:50,688
+<font color="#f5f5f5">Sale ends Saturday at 6 p.m. so hurry on down don't miss out on this great chance to say</font>
+
+12
+00:00:50,944 --> 00:00:52,224
+<font color="#fcfcfc">Save save save</font>
+
+13
+00:00:54,016 --> 00:00:55,552
+<font color="#fcfcfc">Number 71</font>
+
+14
+00:00:56,064 --> 00:00:57,600
+<font color="#fcfcfc">What is being sold</font>
+
+15
+00:01:05,536 --> 00:01:06,816
+<font color="#ededed">Number 72</font>
+
+16
+00:01:07,072 --> 00:01:09,376
+<font color="#fcfcfc">How long does the sale last</font>
+
+17
+00:01:17,312 --> 00:01:18,592
+<font color="#fcfcfc">Number 73</font>
+
+18
+00:01:18,848 --> 00:01:20,896
+<font color="#fcfcfc">When does the sale end</font>

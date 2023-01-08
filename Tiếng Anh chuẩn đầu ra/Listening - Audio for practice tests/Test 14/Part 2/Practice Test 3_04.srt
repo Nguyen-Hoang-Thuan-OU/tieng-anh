@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:05,376
+<font color="#f9f9f9">Number for listen to a conversation between a student and a principal</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#c7c7c7">Do you know why you're in my office Mister Simmons caught me right</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#e2e2e2">Writing on the walls in the classroom that's a big problem Donnie it causes extra work for the</font>
+
+4
+00:00:18,944 --> 00:00:25,088
+<font color="#e2e2e2">The janitors so you're going to spend the next week on detention helping them clean the school</font>
+
+5
+00:00:25,344 --> 00:00:28,160
+<font color="#fcfcfc">Hopefully it will teach you an important lesson</font>
+
+6
+00:00:29,184 --> 00:00:31,744
+<font color="#f4f4f4">How does the principal punish the boy</font>

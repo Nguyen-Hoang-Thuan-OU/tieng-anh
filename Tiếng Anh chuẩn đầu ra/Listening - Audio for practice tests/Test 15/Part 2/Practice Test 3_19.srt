@@ -1,0 +1,127 @@
+﻿1
+00:00:00,256 --> 00:00:05,888
+<font color="#f9f9f9">Questions 19 through 22 listen to a conversation between two students</font>
+
+2
+00:00:06,912 --> 00:00:13,056
+<font color="#f5f5f5">David how is driver's ed today you got to drive on the road for the first time today</font>
+
+3
+00:00:13,312 --> 00:00:14,080
+<font color="#b9b9b9">I didn't you</font>
+
+4
+00:00:14,592 --> 00:00:16,128
+<font color="#eeeeee">Yeah Beth I did</font>
+
+5
+00:00:17,920 --> 00:00:19,200
+<font color="#efefef">It didn't go too well</font>
+
+6
+00:00:19,712 --> 00:00:25,856
+<font color="#f2f2f2">You didn't crash the car or anything did you owe no please tell me you didn't</font>
+
+7
+00:00:26,112 --> 00:00:28,416
+<font color="#fcfcfc">I didn't crash the car but</font>
+
+8
+00:00:28,672 --> 00:00:34,048
+<font color="#e4e4e4">Okay spell it I think I scared Miss Hooper while I was driving</font>
+
+9
+00:00:34,304 --> 00:00:36,352
+<font color="#f3f3f3">Miss Hooper art teacher</font>
+
+10
+00:00:36,608 --> 00:00:38,144
+<font color="#fdfdfd">Yeah here's what happened</font>
+
+11
+00:00:38,400 --> 00:00:44,544
+<font color="#e1e1e1">When I pulled out of the school parking lot I guess I pressed down on the accelerator too hard so the tire</font>
+
+12
+00:00:44,800 --> 00:00:46,592
+<font color="#cdcdcd">Tires squeal pretty loudly</font>
+
+13
+00:00:46,848 --> 00:00:49,408
+<font color="#fcfcfc">I'm surprised you didn't hear it from your classroom</font>
+
+14
+00:00:49,664 --> 00:00:52,992
+<font color="#fcfcfc">Oh so that's what that noise was</font>
+
+15
+00:00:53,248 --> 00:00:55,552
+<font color="#ededed">Okay nevermind</font>
+
+16
+00:00:57,088 --> 00:01:03,232
+<font color="#e7e7e7">Anyway as I left the school I happen to pull out in front of a car that was going really fast</font>
+
+17
+00:01:03,488 --> 00:01:04,768
+<font color="#fdfdfd">So it almost hit us</font>
+
+18
+00:01:05,536 --> 00:01:08,864
+<font color="#fbfbfb">Fortunately the driver managed to stop at the last moment</font>
+
+19
+00:01:09,120 --> 00:01:10,912
+<font color="#fcfcfc">I was pretty shaken up by that</font>
+
+20
+00:01:11,168 --> 00:01:14,752
+<font color="#f4f4f4">So I didn't notice that the first stoplight we came to was red</font>
+
+21
+00:01:15,008 --> 00:01:17,824
+<font color="#fcfcfc">I drove right through it without even stopping</font>
+
+22
+00:01:18,080 --> 00:01:20,640
+<font color="#dbdbdb">I can't believe I broke the law like that</font>
+
+23
+00:01:20,896 --> 00:01:24,224
+<font color="#f6f6f6">You didn't I did</font>
+
+24
+00:01:24,480 --> 00:01:29,600
+<font color="#f6f6f6">I guess Miss Hooper had had enough by then since you told me to pull over and mediately</font>
+
+25
+00:01:29,856 --> 00:01:31,904
+<font color="#fcfcfc">She made me sit in the passenger seat</font>
+
+26
+00:01:32,160 --> 00:01:33,952
+<font color="#b2b2b2">Was he drove back to school</font>
+
+27
+00:01:34,208 --> 00:01:38,048
+<font color="#fcfcfc">She berated me about my driving skills the entire trip back</font>
+
+28
+00:01:38,304 --> 00:01:43,424
+<font color="#f1f1f1">I guess that you're not going to be driving in class again for a long time</font>
+
+29
+00:01:43,680 --> 00:01:45,472
+<font color="#fdfdfd">That's what Miss Hooper said</font>
+
+30
+00:01:47,520 --> 00:01:49,568
+<font color="#fcfcfc">Now answer the questions</font>
+
+31
+00:01:50,592 --> 00:01:54,944
+<font color="#f4f4f4">Number 19 what is the girl mean when she says this</font>
+
+32
+00:01:55,200 --> 00:01:56,224
+<font color="#969696">Spill it</font>

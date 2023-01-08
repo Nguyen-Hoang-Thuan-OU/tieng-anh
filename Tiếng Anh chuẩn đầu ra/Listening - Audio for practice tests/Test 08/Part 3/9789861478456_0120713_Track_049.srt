@@ -1,0 +1,55 @@
+﻿1
+00:00:00,768 --> 00:00:04,608
+<font color="#d6d6d6">Questions 80 through 82 refer to the following talk</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#fafafa">Good morning I'm here to help you find your way out of unemployment start by looking at</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#cccccc">Job advertisement and select the jobs that match your skills and education most companies will</font>
+
+4
+00:00:18,944 --> 00:00:25,088
+<font color="#dcdcdc">Ask you to send a resume with a cover letter your resume must be tight and never handwritten</font>
+
+5
+00:00:25,344 --> 00:00:31,488
+<font color="#f3f3f3">Keep it short the HR Personnel who will receive your resume are busy people include</font>
+
+6
+00:00:31,744 --> 00:00:37,888
+<font color="#f9f9f9">Past work experience and any relevant skills and qualifications in the cover letter</font>
+
+7
+00:00:38,144 --> 00:00:44,288
+<font color="#ebebeb">Why you are a good candidate we have 12 computers here in the library feel free to use them</font>
+
+8
+00:00:44,544 --> 00:00:47,104
+<font color="#d8d8d8">And just ask me if you need any help</font>
+
+9
+00:00:48,640 --> 00:00:49,664
+<font color="#fcfcfc">Number 80</font>
+
+10
+00:00:49,920 --> 00:00:52,992
+<font color="#fcfcfc">Who is the target audience for this talk</font>
+
+11
+00:01:00,160 --> 00:01:01,440
+<font color="#fcfcfc">Number 81</font>
+
+12
+00:01:01,696 --> 00:01:04,768
+<font color="#fcfcfc">What is inferred about HR personnel</font>
+
+13
+00:01:11,936 --> 00:01:13,216
+<font color="#fcfcfc">Number 82</font>
+
+14
+00:01:13,472 --> 00:01:18,080
+<font color="#fcfcfc">What will members of the audience probably do after this talk</font>

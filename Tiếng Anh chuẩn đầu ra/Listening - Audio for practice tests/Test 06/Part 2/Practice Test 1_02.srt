@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#fcfcfc">Number to listen to a conversation between a student and a teacher</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#f2f2f2">Jimmy I'm a little worried about your grade the semester you started out with an a</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#cecece">But you almost fail the last test I'm sorry mrs. Wingo is it possible for me to do an</font>
+
+4
+00:00:18,944 --> 00:00:20,992
+<font color="#fcfcfc">An extra report for bonus points</font>
+
+5
+00:00:21,248 --> 00:00:27,392
+<font color="#f1f1f1">I don't normally allow that but I'll make an exception in your case here's what I want you to do</font>
+
+6
+00:00:28,416 --> 00:00:31,488
+<font color="#e5e5e5">Why does the teacher talked about the boys grade</font>

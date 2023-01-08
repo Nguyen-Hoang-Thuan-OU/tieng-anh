@@ -1,0 +1,47 @@
+﻿1
+00:00:00,768 --> 00:00:04,352
+<font color="#dbdbdb">Questions 80 through 82 refer to the following announcement</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#f7f7f7">Ladies and gentlemen the captain has turned on the fasten seatbelt sign please ensure all carry on love</font>
+
+3
+00:00:12,544 --> 00:00:16,896
+<font color="#f6f6f6">Luggage is stowed underneath the seat in front of you over head compartment</font>
+
+4
+00:00:17,152 --> 00:00:23,296
+<font color="#efefef">Passengers seated next to an emergency exit should read the special instructions card by their seats if</font>
+
+5
+00:00:23,552 --> 00:00:29,696
+<font color="#f4f4f4">If you feel unable to perform these functions in the case of an emergency please ask the flight attendant to reseat you</font>
+
+6
+00:00:30,208 --> 00:00:36,352
+<font color="#f1f1f1">If you have any questions about our flight today please don't hesitate to ask one of our flight attendants</font>
+
+7
+00:00:36,608 --> 00:00:39,424
+<font color="#fafafa">We will be serving drinks in about 30 minutes</font>
+
+8
+00:00:40,960 --> 00:00:44,288
+<font color="#fcfcfc">Number 80 where is this announcement being made</font>
+
+9
+00:00:51,456 --> 00:00:52,736
+<font color="#fcfcfc">Number 81</font>
+
+10
+00:00:53,248 --> 00:00:56,576
+<font color="#fcfcfc">Which passengers should read special instructions</font>
+
+11
+00:01:03,488 --> 00:01:05,024
+<font color="#fcfcfc">Number 82</font>
+
+12
+00:01:05,280 --> 00:01:07,840
+<font color="#fcfcfc">What will happen after this announcement</font>

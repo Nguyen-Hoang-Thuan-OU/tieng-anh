@@ -1,0 +1,19 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#bdbdbd">Number five listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,376 --> 00:00:11,520
+<font color="#cccccc">Jacqueline I thought your poem was really created how did you come up with the idea for it</font>
+
+3
+00:00:11,776 --> 00:00:17,920
+<font color="#e3e3e3">It just came to me in a flash of inspiration will I hope you have more instances like that</font>
+
+4
+00:00:18,176 --> 00:00:24,320
+<font color="#f5f5f5">I was impressed by what you wrote keep up the good work thanks for saying that Mr Duncan</font>
+
+5
+00:00:26,624 --> 00:00:29,696
+<font color="#f0f0f0">What is the teacher mentioned the girls poem</font>

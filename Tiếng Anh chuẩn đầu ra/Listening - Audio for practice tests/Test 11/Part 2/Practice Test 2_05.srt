@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#bbbbbb">Number five listen to a conversation between two friends</font>
+
+2
+00:00:05,888 --> 00:00:11,008
+<font color="#d8d8d8">Oh no I left my homework at home what am I going to tell Ms Winkler</font>
+
+3
+00:00:11,264 --> 00:00:17,408
+<font color="#d4d4d4">You can't give her that excuse you already used it once this week but this time</font>
+
+4
+00:00:17,664 --> 00:00:18,688
+<font color="#fcfcfc">I'm telling the truth</font>
+
+5
+00:00:19,200 --> 00:00:25,344
+<font color="#fcfcfc">You shouldn't have lied to her the first time now she's going to accuse you of not doing your</font>
+
+6
+00:00:25,600 --> 00:00:28,160
+<font color="#9c9c9c">Our homework when you actually did it</font>
+
+7
+00:00:28,928 --> 00:00:32,000
+<font color="#fcfcfc">What does the girl imply about the boy</font>

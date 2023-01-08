@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:03,584
+<font color="#bdbdbd">Number 7 listen to a teacher making an announcement</font>
+
+2
+00:00:04,608 --> 00:00:10,752
+<font color="#f2f2f2">When you are in the laboratory you need to remember one important rule Safety First</font>
+
+3
+00:00:11,520 --> 00:00:17,664
+<font color="#f4f4f4">You will do nothing dangerous while you are in this lab everyone must wear safety goggles and a</font>
+
+4
+00:00:17,920 --> 00:00:24,064
+<font color="#e9e9e9">Lab coat at all times whenever you are working with chemicals you must wear gloves</font>
+
+5
+00:00:24,320 --> 00:00:28,416
+<font color="#fcfcfc">You must also follow my directions exactly as I give them to you</font>
+
+6
+00:00:28,672 --> 00:00:31,488
+<font color="#b2b2b2">Alright let's get started</font>
+
+7
+00:00:32,256 --> 00:00:34,816
+<font color="#fcfcfc">What is the main topic of the announcement</font>

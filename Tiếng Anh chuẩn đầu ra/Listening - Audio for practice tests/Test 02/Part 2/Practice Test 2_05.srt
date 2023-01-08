@@ -1,0 +1,35 @@
+﻿1
+00:00:00,256 --> 00:00:01,280
+<font color="#cecece">Number 5</font>
+
+2
+00:00:01,536 --> 00:00:04,096
+<font color="#fcfcfc">Listen to a conversation between two friends</font>
+
+3
+00:00:04,864 --> 00:00:11,008
+<font color="#f5f5f5">You seem to be concentrating a lot after you finished lunch what were you working on</font>
+
+4
+00:00:11,264 --> 00:00:17,408
+<font color="#fcfcfc">Oh I had an idea about a science project I wanted to write down everything I thought of</font>
+
+5
+00:00:17,664 --> 00:00:19,456
+<font color="#f3f3f3">So that I didn't forget it</font>
+
+6
+00:00:19,712 --> 00:00:25,856
+<font color="#ececec">That's smart thinking it's no fun to come up with a great idea only to forget it a few MO</font>
+
+7
+00:00:26,112 --> 00:00:27,648
+<font color="#fcfcfc">Moments later</font>
+
+8
+00:00:27,904 --> 00:00:30,976
+<font color="#fcfcfc">What does the girl imply when she says this</font>
+
+9
+00:00:31,744 --> 00:00:34,048
+<font color="#fcfcfc">That's smart thinking</font>

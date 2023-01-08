@@ -1,0 +1,3 @@
+﻿1
+00:00:00,256 --> 00:00:06,400
+<font color="#f7f7f7">Number 31 according to the teacher what kind of desert is the Gobi Desert</font>

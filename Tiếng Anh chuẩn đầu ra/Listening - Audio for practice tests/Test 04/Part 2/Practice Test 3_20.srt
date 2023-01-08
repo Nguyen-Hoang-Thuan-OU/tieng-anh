@@ -1,0 +1,7 @@
+﻿1
+00:00:00,256 --> 00:00:01,280
+<font color="#fcfcfc">Number 20</font>
+
+2
+00:00:01,536 --> 00:00:04,352
+<font color="#fcfcfc">What does the teacher say about the research paper</font>

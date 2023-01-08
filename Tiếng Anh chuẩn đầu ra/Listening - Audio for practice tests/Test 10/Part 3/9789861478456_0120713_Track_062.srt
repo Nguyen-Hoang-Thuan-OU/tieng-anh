@@ -1,0 +1,55 @@
+﻿1
+00:00:01,280 --> 00:00:02,560
+<font color="#ededed">Part 2</font>
+
+2
+00:00:03,328 --> 00:00:04,864
+<font color="#fcfcfc">Directions</font>
+
+3
+00:00:05,632 --> 00:00:10,496
+<font color="#f4f4f4">You will hear a question or statement and 3 responses spoken in English</font>
+
+4
+00:00:11,008 --> 00:00:15,872
+<font color="#ececec">They will not be printed in your test book and will be spoken only one time</font>
+
+5
+00:00:16,640 --> 00:00:22,784
+<font color="#f9f9f9">Select the best response to the question or statement and mark the letter a b or c</font>
+
+6
+00:00:23,040 --> 00:00:24,320
+<font color="#fcfcfc">Beyond your answer sheet</font>
+
+7
+00:00:26,112 --> 00:00:29,184
+<font color="#f6f6f6">Now let us begin with question number 7</font>
+
+8
+00:00:30,976 --> 00:00:34,816
+<font color="#cfcfcf">Number 7 are you coming to the meeting Wednesday</font>
+
+9
+00:00:35,584 --> 00:00:36,352
+<font color="#eaeaea">Hey</font>
+
+10
+00:00:36,864 --> 00:00:38,912
+<font color="#ececec">No I'm busy that day</font>
+
+11
+00:00:39,168 --> 00:00:39,936
+<font color="#696969">Be</font>
+
+12
+00:00:40,704 --> 00:00:42,496
+<font color="#fcfcfc">I already know about it</font>
+
+13
+00:00:42,752 --> 00:00:43,520
+<font color="#c2c2c2">See</font>
+
+14
+00:00:44,288 --> 00:00:46,080
+<font color="#fcfcfc">I have a book about that</font>

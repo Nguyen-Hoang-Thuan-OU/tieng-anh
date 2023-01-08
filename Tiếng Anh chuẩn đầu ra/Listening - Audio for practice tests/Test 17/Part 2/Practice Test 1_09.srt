@@ -1,0 +1,19 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#bdbdbd">Number nine listen to a principal making an announcement</font>
+
+2
+00:00:04,352 --> 00:00:10,496
+<font color="#f7f7f7">Next Friday we're going to have the school's annual field day it's going to last all day long</font>
+
+3
+00:00:10,752 --> 00:00:16,896
+<font color="#fcfcfc">So there won't be any classes at all instead we'll play games eat a picnic lunch and have lots of fun</font>
+
+4
+00:00:17,152 --> 00:00:22,528
+<font color="#fcfcfc">All of your parents are invited as well so be sure to let them know about the date</font>
+
+5
+00:00:24,064 --> 00:00:27,136
+<font color="#efefef">Why is the principal talking about field day</font>

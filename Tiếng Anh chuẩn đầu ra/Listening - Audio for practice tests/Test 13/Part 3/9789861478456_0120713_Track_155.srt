@@ -1,0 +1,55 @@
+﻿1
+00:00:00,512 --> 00:00:05,376
+<font color="#cecece">Question 74 through 76 refer to the following telephone message</font>
+
+2
+00:00:06,912 --> 00:00:13,056
+<font color="#bebebe">Good afternoon this is Brianna Rivera calling for Dave Wyatt you left a message</font>
+
+3
+00:00:13,312 --> 00:00:19,456
+<font color="#d3d3d3">Asking me for a reference for Joy kim-joy would be a wonderful addition to your stuff</font>
+
+4
+00:00:19,712 --> 00:00:25,856
+<font color="#f1f1f1">She worked for me as an intern from 2017 to 2018 just after she graduate</font>
+
+5
+00:00:26,112 --> 00:00:32,256
+<font color="#a5a5a5">Waited from college Joy was very popular with clients and staff alike she is a self-motivated</font>
+
+6
+00:00:32,512 --> 00:00:38,656
+<font color="#e1e1e1">And reliable worker and always willing to go the extra mile to get things done her work always occur</font>
+
+7
+00:00:38,912 --> 00:00:45,056
+<font color="#b1b1b1">Stated the required found it and she made several suggestions while she was here that improved efficiency greatly</font>
+
+8
+00:00:45,312 --> 00:00:48,896
+<font color="#fcfcfc">Please get in touch if I can provide any other information</font>
+
+9
+00:00:50,432 --> 00:00:51,968
+<font color="#fcfcfc">Number 74</font>
+
+10
+00:00:52,224 --> 00:00:55,040
+<font color="#d8d8d8">Woman calling Wyatt</font>
+
+11
+00:01:01,952 --> 00:01:03,488
+<font color="#fcfcfc">Number 75</font>
+
+12
+00:01:03,744 --> 00:01:06,048
+<font color="#e8e8e8">How does Brianna know Joy</font>
+
+13
+00:01:13,216 --> 00:01:14,752
+<font color="#fcfcfc">Number 76</font>
+
+14
+00:01:15,008 --> 00:01:17,824
+<font color="#fcfcfc">What is not a good description of joy</font>

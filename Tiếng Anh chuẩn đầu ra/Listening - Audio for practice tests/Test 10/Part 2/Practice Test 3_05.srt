@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:05,120
+<font color="#bfbfbf">Number five listen to a conversation between a student and a teacher</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#fcfcfc">Mrs. Douglas I simply can't learn Spanish this class is too hard for me</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#c9c9c9">Family which is never easy</font>
+
+4
+00:00:18,944 --> 00:00:25,088
+<font color="#ededed">But I can't seem to remember any of these words they all sounds so so strange.</font>
+
+5
+00:00:25,344 --> 00:00:31,488
+<font color="#d3d3d3">It's only the first week of school I'm sure you'll get better as time passes just</font>
+
+6
+00:00:31,744 --> 00:00:33,280
+<font color="#fcfcfc">Be more patient</font>
+
+7
+00:00:34,048 --> 00:00:38,144
+<font color="#e3e3e3">Why does the teacher mention that it is the first week of school</font>

@@ -1,0 +1,695 @@
+﻿1
+00:00:00,256 --> 00:00:01,024
+<font color="#c4c4c4">Test 6</font>
+
+2
+00:00:02,304 --> 00:00:06,400
+<font color="#f1f1f1">This is the Cambridge English first four schools listening test</font>
+
+3
+00:00:07,680 --> 00:00:10,496
+<font color="#fcfcfc">I'm going to give you the instructions for this test</font>
+
+4
+00:00:11,520 --> 00:00:13,568
+<font color="#f6f6f6">I'll introduce each part of the test</font>
+
+5
+00:00:13,824 --> 00:00:15,872
+<font color="#cecece">I'll give you time to look at the questions</font>
+
+6
+00:00:16,896 --> 00:00:20,224
+<font color="#d6d6d6">Are the stars of each piece you will hear this sound</font>
+
+7
+00:00:22,784 --> 00:00:24,832
+<font color="#c6c6c6">You hear each piece twice</font>
+
+8
+00:00:25,600 --> 00:00:29,696
+<font color="#f0f0f0">Remember why you listening write your answers on the question paper</font>
+
+9
+00:00:30,208 --> 00:00:36,096
+<font color="#d5d5d5">You'll have five minutes at the end of the test to copia Lance's onto the separate answer sheet</font>
+
+10
+00:00:37,120 --> 00:00:38,656
+<font color="#d1d1d1">They will now be opposed</font>
+
+11
+00:00:39,168 --> 00:00:44,032
+<font color="#c2c2c2">Please ask any questions now because you must not speak during the test</font>
+
+12
+00:00:45,824 --> 00:00:48,896
+<font color="#f5f5f5">Now open your question paper and look at part 1</font>
+
+13
+00:00:50,688 --> 00:00:51,712
+<font color="#515151">Part 1</font>
+
+14
+00:00:53,248 --> 00:00:57,088
+<font color="#cfcfcf">You hear people talking in eight different situations</font>
+
+15
+00:00:57,600 --> 00:01:01,952
+<font color="#f0f0f0">The questions 128 choose the best answer</font>
+
+16
+00:01:02,208 --> 00:01:03,488
+<font color="#f0f0f0">Boc</font>
+
+17
+00:01:04,512 --> 00:01:05,024
+<font color="#fcfcfc">1</font>
+
+18
+00:01:06,816 --> 00:01:10,400
+<font color="#dddddd">You overhear two friends talking about a computer game</font>
+
+19
+00:01:11,168 --> 00:01:12,960
+<font color="#bbbbbb">What do they agree about</font>
+
+20
+00:01:13,984 --> 00:01:14,496
+<font color="#c2c2c2">Hey</font>
+
+21
+00:01:15,008 --> 00:01:17,312
+<font color="#fcfcfc">The graphics are unusually good</font>
+
+22
+00:01:18,336 --> 00:01:18,848
+<font color="#525252">Be</font>
+
+23
+00:01:19,360 --> 00:01:22,688
+<font color="#fcfcfc">It is more exciting than the earlier version of the game</font>
+
+24
+00:01:23,712 --> 00:01:24,480
+<font color="#535353">See</font>
+
+25
+00:01:24,992 --> 00:01:27,808
+<font color="#eeeeee">The game is better than the film it is based on</font>
+
+26
+00:01:32,928 --> 00:01:38,560
+<font color="#eaeaea">What you think of Sam's new computer game you know the one based on that Space Adventure film we saw it last year</font>
+
+27
+00:01:38,816 --> 00:01:42,656
+<font color="#c4c4c4">Well it's very exciting to play isn't it</font>
+
+28
+00:01:42,912 --> 00:01:47,520
+<font color="#9a9a9a">Do I don't think it's as addictive as the original game I'm not sure why</font>
+
+29
+00:01:47,776 --> 00:01:53,920
+<font color="#e7e7e7">The graphics of Miles better than the earlier ones.</font>
+
+30
+00:01:54,176 --> 00:01:59,040
+<font color="#aaaaaa">People rather than the computer animation or no I've never seen anything like it</font>
+
+31
+00:02:04,160 --> 00:02:10,304
+<font color="#e8e8e8">What you think of Sam's new computer game you know the one based on that Space Adventure film we saw it last year</font>
+
+32
+00:02:10,560 --> 00:02:13,888
+<font color="#dadada">It's very exciting to play isn't it</font>
+
+33
+00:02:14,144 --> 00:02:19,008
+<font color="#8a8a8a">Do I don't think it's as addictive as the original game I'm not sure why</font>
+
+34
+00:02:19,264 --> 00:02:25,408
+<font color="#a6a6a6">The graphics of Miles better than the earlier ones.</font>
+
+35
+00:02:25,664 --> 00:02:30,272
+<font color="#eaeaea">Rather than a computer animation I know I've never seen anything like it</font>
+
+36
+00:02:33,088 --> 00:02:33,600
+<font color="#e8e8e8">2</font>
+
+37
+00:02:34,880 --> 00:02:39,232
+<font color="#f2f2f2">You hear a radio reporter choking on a nature program</font>
+
+38
+00:02:40,000 --> 00:02:42,560
+<font color="#fcfcfc">Why is he excited about what he saw</font>
+
+39
+00:02:43,328 --> 00:02:44,096
+<font color="#d2d2d2">Hey</font>
+
+40
+00:02:44,864 --> 00:02:49,216
+<font color="#a9a9a9">Is it unusual to see close-up film of this type of fish</font>
+
+41
+00:02:50,496 --> 00:02:51,008
+<font color="#5b5b5b">Be</font>
+
+42
+00:02:51,776 --> 00:02:55,104
+<font color="#f7f7f7">The fish was demonstrating unexpected skills</font>
+
+43
+00:02:57,920 --> 00:03:02,016
+<font color="#d0d0d0">Film gave you information about what fish eat</font>
+
+44
+00:03:07,136 --> 00:03:13,280
+<font color="#b5b5b5">Research biologist Giacomo bonati amazing film recently he was able to get</font>
+
+45
+00:03:13,536 --> 00:03:19,680
+<font color="#e0e0e0">Play some pictures of an orange spotted Tusk fish digging a shellfish out of the sand and then carrying it</font>
+
+46
+00:03:20,960 --> 00:03:27,104
+<font color="#aeaeae">The top fish then repeatedly bang the creature against the rocks in an attempt to break it she'll inside</font>
+
+47
+00:03:27,360 --> 00:03:33,504
+<font color="#a4a4a4">Help itself to a tasty snack will do this kind of action is basic for humans it is</font>
+
+48
+00:03:33,760 --> 00:03:38,112
+<font color="#a5a5a5">Advanced thing for fish to do as it requires an element of forward-thinking</font>
+
+49
+00:03:38,624 --> 00:03:44,000
+<font color="#bebebe">Such Behavior has previously been reported that has never before been captured on video</font>
+
+50
+00:03:49,120 --> 00:03:53,984
+<font color="#d1d1d1">Research biologist Giacomo bonati amazing film recently</font>
+
+51
+00:03:54,240 --> 00:04:00,384
+<font color="#d7d7d7">He was able to get close up pictures of an orange spotted Tusk fish digging a shellfish out of the Sun</font>
+
+52
+00:04:00,640 --> 00:04:06,784
+<font color="#a1a1a1">I'm in carrying it over to a rock status fish then repeatedly bangs the creature against The Rock</font>
+
+53
+00:04:07,040 --> 00:04:11,136
+<font color="#a7a7a7">An attempt to break its shell and so help itself to a tasty snack</font>
+
+54
+00:04:11,392 --> 00:04:17,536
+<font color="#ececec">Play this kind of action is basic for humans it is quite an advanced thing for fish to do</font>
+
+55
+00:04:17,791 --> 00:04:20,095
+<font color="#d7d7d7">Is it requires an element of forward-thinking</font>
+
+56
+00:04:20,351 --> 00:04:25,727
+<font color="#bebebe">Such Behavior has previously been reported that has never before been captured on video</font>
+
+57
+00:04:29,055 --> 00:04:29,823
+<font color="#888888">Tri</font>
+
+58
+00:04:30,847 --> 00:04:33,663
+<font color="#f2f2f2">You overhear a teacher talking to a student</font>
+
+59
+00:04:34,431 --> 00:04:35,967
+<font color="#fafafa">What is she talking about</font>
+
+60
+00:04:36,991 --> 00:04:37,503
+<font color="#d2d2d2">Hey</font>
+
+61
+00:04:38,015 --> 00:04:40,319
+<font color="#d2d2d2">Something the student forgot to do</font>
+
+62
+00:04:41,343 --> 00:04:41,855
+<font color="#535353">Be</font>
+
+63
+00:04:42,367 --> 00:04:44,671
+<font color="#fafafa">Something the student must bring to school</font>
+
+64
+00:04:45,695 --> 00:04:46,463
+<font color="#9e9e9e">See</font>
+
+65
+00:04:46,975 --> 00:04:49,791
+<font color="#f2f2f2">Something the student did that please the teacher</font>
+
+66
+00:04:55,167 --> 00:05:01,311
+<font color="#f7f7f7">I'm very grateful to you Tony for bringing those old coins into school today don't forget to take them home</font>
+
+67
+00:05:01,567 --> 00:05:07,711
+<font color="#c1c1c1">You tonight as I think they could be quite valuable and they could easily go missing if you left them here and it was a real</font>
+
+68
+00:05:07,967 --> 00:05:14,111
+<font color="#9c9c9c">Really helped to bring our history class to life I thought and it was very impressed that you remember to bring them along with all the</font>
+
+69
+00:05:14,367 --> 00:05:18,719
+<font color="#d9d9d9">The other members of the class had said they could bring something in for Galt</font>
+
+70
+00:05:23,839 --> 00:05:29,983
+<font color="#fcfcfc">I'm very grateful to you Tony for bringing those old coins into school today don't forget to take them home</font>
+
+71
+00:05:30,239 --> 00:05:36,383
+<font color="#ebebeb">Home with you tonight as I think they could be quite valuable and they could easily go missing if you left them here anyway</font>
+
+72
+00:05:36,639 --> 00:05:42,783
+<font color="#bbbbbb">Really helped to bring our history class to life I thought and I was very impressed that you remember to bring them along when all</font>
+
+73
+00:05:43,039 --> 00:05:47,391
+<font color="#cfcfcf">The other members of the class had said they could bring something in for Galt</font>
+
+74
+00:05:52,255 --> 00:05:55,327
+<font color="#e2e2e2">You overhear two friends talking about a survey</font>
+
+75
+00:05:56,095 --> 00:05:58,399
+<font color="#fbfbfb">What is the boy most surprised about</font>
+
+76
+00:05:59,423 --> 00:05:59,935
+<font color="#d2d2d2">Hey</font>
+
+77
+00:06:00,703 --> 00:06:03,775
+<font color="#e0e0e0">All the students lack of knowledge about trees</font>
+
+78
+00:06:04,799 --> 00:06:05,567
+<font color="#646464">Be</font>
+
+79
+00:06:06,335 --> 00:06:09,151
+<font color="#f6f6f6">Other students inability to play a game</font>
+
+80
+00:06:10,431 --> 00:06:11,199
+<font color="#9d9d9d">See</font>
+
+81
+00:06:11,967 --> 00:06:15,039
+<font color="#f4f4f4">All the students lack of enthusiasm for nature</font>
+
+82
+00:06:20,415 --> 00:06:23,999
+<font color="#f8f8f8">Did you hear that news I seen this morning about a tree survey</font>
+
+83
+00:06:24,255 --> 00:06:30,399
+<font color="#ededed">Yes it said that 70% of city school children can't tell the difference between the note tree</font>
+
+84
+00:06:30,655 --> 00:06:36,799
+<font color="#b6b6b6">And a willow tree that's right I'm almost half don't know that the calm cuz they use in the Congo game they play Come</font>
+
+85
+00:06:37,055 --> 00:06:43,199
+<font color="#e9e9e9">From horse chestnut trees I'm surprised aren't you I know loads of different trees</font>
+
+86
+00:06:43,455 --> 00:06:49,599
+<font color="#dcdcdc">We live in the country so I suppose it's easier for us what got me was the waymo</font>
+
+87
+00:06:49,855 --> 00:06:55,999
+<font color="#a8a8a8">Whose kids seem to feel it's not important to be able to recognize trees and plants and stuff</font>
+
+88
+00:06:56,255 --> 00:06:59,583
+<font color="#dfdfdf">Say we need to know as much as we can about our environment</font>
+
+89
+00:07:04,703 --> 00:07:08,287
+<font color="#f6f6f6">Did you hear that news I seen this morning about a tree survey</font>
+
+90
+00:07:08,543 --> 00:07:14,687
+<font color="#f4f4f4">Yes it said that 70% of city school children can't tell the difference between the note tree</font>
+
+91
+00:07:14,943 --> 00:07:21,087
+<font color="#b4b4b4">And a willow tree that's right I don't talk don't know that the calm cuz they use in the conga game they played</font>
+
+92
+00:07:21,343 --> 00:07:27,487
+<font color="#adadad">I'm from horse chestnut trees I'm surprised aren't you I know loads of different trees</font>
+
+93
+00:07:27,743 --> 00:07:33,887
+<font color="#d8d8d8">We live in the country so I suppose it's easier for us what got me was the waymo</font>
+
+94
+00:07:34,143 --> 00:07:40,287
+<font color="#f1f1f1">Most kids seem to feel it's not important to be able to recognize trees and plants and stuff</font>
+
+95
+00:07:40,543 --> 00:07:43,871
+<font color="#f4f4f4">Say we need to know as much as we can about our environment</font>
+
+96
+00:07:46,687 --> 00:07:47,455
+<font color="#fcfcfc">5</font>
+
+97
+00:07:48,479 --> 00:07:51,295
+<font color="#c3c3c3">You here avoid leaving a voicemail message</font>
+
+98
+00:07:52,063 --> 00:07:53,343
+<font color="#f8f8f8">Who is he talking to</font>
+
+99
+00:07:54,367 --> 00:07:54,879
+<font color="#fcfcfc">Hey</font>
+
+100
+00:07:55,391 --> 00:07:56,415
+<font color="#fcfcfc">A teacher</font>
+
+101
+00:07:57,439 --> 00:07:57,951
+<font color="#636363">Be</font>
+
+102
+00:07:58,463 --> 00:07:59,743
+<font color="#dbdbdb">A store manager</font>
+
+103
+00:08:01,791 --> 00:08:02,815
+<font color="#ececec">School friends</font>
+
+104
+00:08:08,191 --> 00:08:14,335
+<font color="#cdcdcd">Two friends from school and I had some juice in the cafe at Yellowstone Street Bronson</font>
+
+105
+00:08:14,591 --> 00:08:18,687
+<font color="#f4f4f4">And I think I might have left my history textbook</font>
+
+106
+00:08:18,943 --> 00:08:24,575
+<font color="#cbcbcb">If you've got it as I need it for a lesson tomorrow and a teacher will be furious if I don't have it with me</font>
+
+107
+00:08:24,831 --> 00:08:30,975
+<font color="#bcbcbc">It's got my name inside. John take now my friend Anita lives next door and she's going to pop in</font>
+
+108
+00:08:31,231 --> 00:08:33,279
+<font color="#fcfcfc">First thing tomorrow morning to see if it's there</font>
+
+109
+00:08:40,191 --> 00:08:46,335
+<font color="#d1d1d1">Two friends from school and I had some juice in the cafe at you'll Stonestreet Bronx this afternoon and I think</font>
+
+110
+00:08:46,591 --> 00:08:48,895
+<font color="#e2e2e2">I might have left my history textbook</font>
+
+111
+00:08:49,151 --> 00:08:55,295
+<font color="#b8b8b8">If you've got it as I need it for a lesson tomorrow at a teacher will be furious if I don't have it with me</font>
+
+112
+00:08:55,551 --> 00:09:01,695
+<font color="#acacac">Inside. John take down my friend Anisa lives next door and she's going to pop in first</font>
+
+113
+00:09:01,951 --> 00:09:03,487
+<font color="#f7f7f7">Tomorrow morning to see if it's there</font>
+
+114
+00:09:06,303 --> 00:09:07,071
+<font color="#e2e2e2">6</font>
+
+115
+00:09:07,839 --> 00:09:10,911
+<font color="#dcdcdc">You hear two friends talking about a holiday</font>
+
+116
+00:09:11,935 --> 00:09:15,263
+<font color="#d9d9d9">Why did the girl spend her holiday in the way she did</font>
+
+117
+00:09:16,031 --> 00:09:16,799
+<font color="#d2d2d2">Hey</font>
+
+118
+00:09:17,311 --> 00:09:19,615
+<font color="#fcfcfc">She wanted to try something different</font>
+
+119
+00:09:20,639 --> 00:09:21,151
+<font color="#727272">Be</font>
+
+120
+00:09:21,663 --> 00:09:23,711
+<font color="#f7f7f7">She was Keen to on some money</font>
+
+121
+00:09:24,735 --> 00:09:25,503
+<font color="#a8a8a8">See</font>
+
+122
+00:09:26,015 --> 00:09:28,319
+<font color="#eaeaea">She was persuaded to buy her brother</font>
+
+123
+00:09:33,439 --> 00:09:39,583
+<font color="#d4d4d4">Did you and your brother have a good time at the media Camp it was great we could choose what we</font>
+
+124
+00:09:39,839 --> 00:09:45,983
+<font color="#bababa">He wanted to do he went to filmmaking and I chose poster design what moves you decide to build</font>
+
+125
+00:09:46,239 --> 00:09:52,383
+<font color="#fcfcfc">Did your brother twist your arm I persuaded him I read about it in a magazine</font>
+
+126
+00:09:52,639 --> 00:09:56,991
+<font color="#a9a9a9">I mean it became because he wants to make a career in the movie industry</font>
+
+127
+00:09:57,247 --> 00:10:03,391
+<font color="#c1c1c1">I done but I was getting a bit fed up with always spending the summer doing the same old things so I applied to Cena</font>
+
+128
+00:10:03,647 --> 00:10:06,975
+<font color="#d8d8d8">I had about it I'm not surprised it sounds fun</font>
+
+129
+00:10:12,095 --> 00:10:18,239
+<font color="#e1e1e1">Did you and your brother have a good time at the media Camp it was great we could choose what we were</font>
+
+130
+00:10:18,495 --> 00:10:24,639
+<font color="#a0a0a0">I wanted to do he went for filmmaking and I chose poster design what made you decide to do that</font>
+
+131
+00:10:24,895 --> 00:10:31,039
+<font color="#fcfcfc">Did your brother twist your arm I persuaded him I read about it in a magazine</font>
+
+132
+00:10:31,295 --> 00:10:35,647
+<font color="#ebebeb">I need it became because he wants to make a career in the movie industry</font>
+
+133
+00:10:35,903 --> 00:10:42,047
+<font color="#a2a2a2">I don't but I was getting a bit fed up with always spending the summer doing the same old things so I applied as soon as</font>
+
+134
+00:10:42,303 --> 00:10:45,375
+<font color="#c4c4c4">And I had about it I'm not surprised it sounds fun</font>
+
+135
+00:10:48,191 --> 00:10:48,959
+<font color="#fcfcfc">7</font>
+
+136
+00:10:50,751 --> 00:10:54,591
+<font color="#f4f4f4">You hear a local radio story about a school project</font>
+
+137
+00:10:55,359 --> 00:10:57,407
+<font color="#fcfcfc">What was the main aim of the project</font>
+
+138
+00:10:58,687 --> 00:10:59,455
+<font color="#e7e7e7">Hey</font>
+
+139
+00:11:00,223 --> 00:11:03,295
+<font color="#e9e9e9">To give the children experience and teamwork</font>
+
+140
+00:11:04,575 --> 00:11:05,087
+<font color="#575757">Be</font>
+
+141
+00:11:06,111 --> 00:11:08,671
+<font color="#f3f3f3">To teach the children about healthy living</font>
+
+142
+00:11:10,207 --> 00:11:10,975
+<font color="#afafaf">See</font>
+
+143
+00:11:11,743 --> 00:11:14,303
+<font color="#fafafa">To develop the children's creative skills</font>
+
+144
+00:11:19,423 --> 00:11:25,567
+<font color="#f2f2f2">Children at grantley school has just published a book about how to live healthy lives</font>
+
+145
+00:11:25,823 --> 00:11:31,967
+<font color="#f8f8f8">The book contains a range of articles on diets and exercise all of which the children Road</font>
+
+146
+00:11:32,223 --> 00:11:38,367
+<font color="#b5b5b5">Is a dentist rated with cartoons and photographs and these World created by The Chew</font>
+
+147
+00:11:38,623 --> 00:11:39,391
+<font color="#767676">Contain</font>
+
+148
+00:11:39,647 --> 00:11:45,791
+<font color="#d9d9d9">The book is the end product of a project developed by grantlees head teacher with a view to encouraging</font>
+
+149
+00:11:46,047 --> 00:11:52,191
+<font color="#b6b6b6">The children to learn through working together is a group you can see some pages from the book</font>
+
+150
+00:11:52,447 --> 00:11:54,239
+<font color="#d7d7d7">It's on our website</font>
+
+151
+00:11:59,615 --> 00:12:05,759
+<font color="#e8e8e8">Children at grantley school has just published a book about how to live healthy lives</font>
+
+152
+00:12:06,015 --> 00:12:12,159
+<font color="#f8f8f8">The book contains a range of articles on diets and exercise all of which the children Road</font>
+
+153
+00:12:12,671 --> 00:12:18,815
+<font color="#d4d4d4">Is Illustrated with cartoons and photographs and these World created by the children</font>
+
+154
+00:12:19,071 --> 00:12:25,215
+<font color="#cecece">The book is the end product of a project developed by ground please head teacher with a view to</font>
+
+155
+00:12:25,471 --> 00:12:31,615
+<font color="#d8d8d8">Encouraging the children to learn through working together is a group you can see some pages from the book</font>
+
+156
+00:12:31,871 --> 00:12:34,431
+<font color="#bdbdbd">I'm glad more about it on our website</font>
+
+157
+00:12:36,991 --> 00:12:37,759
+<font color="#6d6d6d">Wait</font>
+
+158
+00:12:38,783 --> 00:12:42,111
+<font color="#ebebeb">You hear a boy telling his mother about a football match</font>
+
+159
+00:12:43,135 --> 00:12:46,975
+<font color="#e0e0e0">How does the boy feel about his friend Ben's performance</font>
+
+160
+00:12:47,999 --> 00:12:48,767
+<font color="#d2d2d2">Hey</font>
+
+161
+00:12:49,279 --> 00:12:52,351
+<font color="#b7b7b7">Glad that he kept on playing despite a problem</font>
+
+162
+00:12:53,119 --> 00:12:53,631
+<font color="#5c5c5c">Be</font>
+
+163
+00:12:54,143 --> 00:12:56,703
+<font color="#dadada">Surprised that he did not score a goal</font>
+
+164
+00:12:58,751 --> 00:13:01,311
+<font color="#d2d2d2">Please that he did better than others expected</font>
+
+165
+00:13:06,687 --> 00:13:12,831
+<font color="#acacac">How was football today tell me good we had a mattress Twin down school on scored</font>
+
+166
+00:13:13,087 --> 00:13:19,231
+<font color="#d1d1d1">Play today</font>
+
+167
+00:13:19,487 --> 00:13:25,631
+<font color="#b6b6b6">He didn't score but he set up to of all goals yes everyone so today</font>
+
+168
+00:13:25,887 --> 00:13:29,471
+<font color="#dcdcdc">Be quite slow as he hasn't played for a while but he wasn't too</font>
+
+169
+00:13:34,591 --> 00:13:40,735
+<font color="#c3c3c3">How was football today tell me good we had a mattress Twin down school on stored</font>
+
+170
+00:13:42,527 --> 00:13:46,111
+<font color="#9e9e9e">It's been pretty play today</font>
+
+171
+00:13:46,367 --> 00:13:52,511
+<font color="#bbbbbb">He's likes back to normal he didn't score but he set up some of our goals as good yes</font>
+
+172
+00:13:52,767 --> 00:13:57,375
+<font color="#efefef">Everyone thought he'd be quite slow as he hasn't played for a while but he wasn't too</font>
+
+173
+00:14:00,191 --> 00:14:01,983
+<font color="#d2d2d2">That's the end part 1</font>
+
+174
+00:14:02,495 --> 00:14:04,031
+<font color="#b6b6b6">No time to part 2</font>

@@ -1,0 +1,55 @@
+﻿1
+00:00:00,768 --> 00:00:05,120
+<font color="#d2d2d2">Questions 80 through 82 refer to the following excerpt from a talk</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#e1e1e1">The Bryan School of Business understands the needs of busy Executives who are interested in expanding their skin</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#e4e4e4">But you don't have time to attend regular classes for this reason executive insightla</font>
+
+4
+00:00:18,944 --> 00:00:25,088
+<font color="#d4d4d4">Lecture series is available online to everyone who professional studies and our business and</font>
+
+5
+00:00:25,344 --> 00:00:26,368
+<font color="#c2c2c2">Certificate</font>
+
+6
+00:00:26,624 --> 00:00:30,464
+<font color="#a1a1a1">Alcor lecture the ready for you to watch when you have the time</font>
+
+7
+00:00:30,976 --> 00:00:35,584
+<font color="#e8e8e8">Choose your own schedule and make school fit your life not the other way around</font>
+
+8
+00:00:36,096 --> 00:00:41,984
+<font color="#dcdcdc">We offered you sessions every other month so you can start to further your education whenever you are ready</font>
+
+9
+00:00:43,520 --> 00:00:44,544
+<font color="#fcfcfc">Number 80</font>
+
+10
+00:00:44,800 --> 00:00:47,360
+<font color="#fcfcfc">Who would be interested in this talk</font>
+
+11
+00:00:54,272 --> 00:00:55,552
+<font color="#fcfcfc">Number 81</font>
+
+12
+00:00:55,808 --> 00:01:01,952
+<font color="#c3c3c3">What does the speaker imply when she says your life not the other way around</font>
+
+13
+00:01:09,376 --> 00:01:10,656
+<font color="#fcfcfc">Number 82</font>
+
+14
+00:01:10,912 --> 00:01:14,496
+<font color="#fcfcfc">How many times a year does the school offer new sessions</font>

@@ -1,0 +1,323 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#dedede">Test 2 part 4 Page 65</font>
+
+2
+00:00:05,376 --> 00:00:06,656
+<font color="#fcfcfc">Directions</font>
+
+3
+00:00:07,168 --> 00:00:10,752
+<font color="#f4f4f4">You are going to hear some talks given by one speaker</font>
+
+4
+00:00:11,264 --> 00:00:17,408
+<font color="#f3f3f3">You are going to be asked to answer three questions about what the speaker says in each talk</font>
+
+5
+00:00:18,176 --> 00:00:24,320
+<font color="#fcfcfc">Choose the best answer to each question and mark the letter A B C</font>
+
+6
+00:00:24,576 --> 00:00:30,208
+<font color="#a8a8a8">4D on your answer sheet on page the talks are not printed in your test book</font>
+
+7
+00:00:32,256 --> 00:00:38,400
+<font color="#fcfcfc">Hi this is Janet Suzuka from the office I'm sorry to bother you on the weekend</font>
+
+8
+00:00:38,656 --> 00:00:44,032
+<font color="#fcfcfc">But I need to let everyone know that our email system has been hacked</font>
+
+9
+00:00:44,544 --> 00:00:50,688
+<font color="#f7f7f7">At around 2 a.m. on Friday a person or persons hacked the system and</font>
+
+10
+00:00:50,944 --> 00:00:54,528
+<font color="#d8d8d8">Retrieved all the email addresses of our employees</font>
+
+11
+00:00:55,040 --> 00:01:01,184
+<font color="#f9f9f9">These addresses were then used all day on Saturday to send advertisement</font>
+
+12
+00:01:01,440 --> 00:01:04,768
+<font color="#d8d8d8">To every address saved in each account</font>
+
+13
+00:01:05,024 --> 00:01:11,168
+<font color="#fafafa">This means that every client you have ever emailed and every friend or associate</font>
+
+14
+00:01:11,424 --> 00:01:16,800
+<font color="#f1f1f1">You have messaged got some very annoying messages in their inboxes</font>
+
+15
+00:01:17,312 --> 00:01:23,456
+<font color="#fcfcfc">I was alerted to the problem Sunday morning and I'm working to resolve the problem right now</font>
+
+16
+00:01:23,968 --> 00:01:30,112
+<font color="#e2e2e2">I'm very sorry for the inconvenience and I promise to strengthen our security systems</font>
+
+17
+00:01:30,368 --> 00:01:31,392
+<font color="#fcfcfc">Right away</font>
+
+18
+00:01:31,648 --> 00:01:34,976
+<font color="#fcfcfc">Call me at the office if you have any questions</font>
+
+19
+00:01:36,512 --> 00:01:39,072
+<font color="#fcfcfc">What is the purpose of this message</font>
+
+20
+00:01:42,656 --> 00:01:44,448
+<font color="#fcfcfc">When was the system hacked</font>
+
+21
+00:01:47,264 --> 00:01:50,080
+<font color="#fcfcfc">What is the speaker doing right now</font>
+
+22
+00:01:55,456 --> 00:01:59,040
+<font color="#eeeeee">The ferry to Catalina Island will leave in 20 minutes</font>
+
+23
+00:01:59,552 --> 00:02:03,136
+<font color="#cbcbcb">Please have old Vehicles ready to board in 5 minutes</font>
+
+24
+00:02:03,648 --> 00:02:09,792
+<font color="#fbfbfb">If your vehicle is not in line with the appropriate sticker on the window at that time you cannot drive on</font>
+
+25
+00:02:10,048 --> 00:02:10,560
+<font color="#e5e5e5">To the ferry</font>
+
+26
+00:02:11,328 --> 00:02:16,704
+<font color="#f6f6f6">Windows ticket passes can be purchased at the booth in the northwest corner of the parking lot</font>
+
+27
+00:02:17,472 --> 00:02:22,592
+<font color="#b3b3b3">Do passengers on foot please have tickets already and one form of identification</font>
+
+28
+00:02:22,848 --> 00:02:25,152
+<font color="#f4f4f4">The trip will take approximately one hour</font>
+
+29
+00:02:25,664 --> 00:02:28,480
+<font color="#fcfcfc">Return tickets can be purchased at our destination</font>
+
+30
+00:02:28,992 --> 00:02:31,040
+<font color="#fcfcfc">Thank you and have a good day</font>
+
+31
+00:02:33,088 --> 00:02:35,648
+<font color="#fcfcfc">Who is listening to this announcement</font>
+
+32
+00:02:38,464 --> 00:02:41,536
+<font color="#f5f5f5">What must cars have in order to board</font>
+
+33
+00:02:43,584 --> 00:02:45,376
+<font color="#fcfcfc">How long is the trip</font>
+
+34
+00:02:51,264 --> 00:02:56,896
+<font color="#e7e7e7">Are you a small-business owner who is wondering how to make social media work for you</font>
+
+35
+00:02:57,152 --> 00:03:02,784
+<font color="#fcfcfc">Would you like to expand your customer base significantly without spending much money</font>
+
+36
+00:03:03,552 --> 00:03:08,672
+<font color="#f9f9f9">If the answer is yes please text social contact 21</font>
+
+37
+00:03:08,928 --> 00:03:14,048
+<font color="#858585">800 987 9999</font>
+
+38
+00:03:14,304 --> 00:03:18,144
+<font color="#fcfcfc">And a customer services representative from social contact</font>
+
+39
+00:03:18,400 --> 00:03:20,704
+<font color="#dadada">Will return your call within the hour</font>
+
+40
+00:03:21,216 --> 00:03:23,264
+<font color="#fcfcfc">Please have your credit card ready</font>
+
+41
+00:03:23,776 --> 00:03:29,920
+<font color="#acacac">The payment is processed a personal advisor will help you with a business plan to bring you</font>
+
+42
+00:03:30,176 --> 00:03:33,504
+<font color="#bdbdbd">You marketing strategy into the 21st century</font>
+
+43
+00:03:34,016 --> 00:03:36,320
+<font color="#fcfcfc">We can start helping you today</font>
+
+44
+00:03:36,832 --> 00:03:42,976
+<font color="#f5f5f5">Remember it's as easy as texting social contact to 1-800</font>
+
+45
+00:03:43,232 --> 00:03:44,768
+<font color="#fcfcfc">98.7</font>
+
+46
+00:03:45,024 --> 00:03:47,328
+<font color="#f5f5f5">9999</font>
+
+47
+00:03:48,864 --> 00:03:51,424
+<font color="#fcfcfc">What is the purpose of this advertisement</font>
+
+48
+00:03:55,008 --> 00:03:57,568
+<font color="#fcfcfc">Who should send a text to this number</font>
+
+49
+00:03:59,872 --> 00:04:02,944
+<font color="#fcfcfc">What do you need to have when the representative calls you</font>
+
+50
+00:04:08,064 --> 00:04:11,392
+<font color="#eeeeee">Thank you for coming in on such short notice</font>
+
+51
+00:04:11,648 --> 00:04:17,791
+<font color="#f6f6f6">As you all know we have been in negotiations for months with garabelli the famed cha</font>
+
+52
+00:04:18,047 --> 00:04:19,327
+<font color="#e0e0e0">Chocolatiers from Italy</font>
+
+53
+00:04:19,839 --> 00:04:25,983
+<font color="#fcfcfc">Acquiring garabelli as another part of this company would be a huge game for us as</font>
+
+54
+00:04:26,239 --> 00:04:30,335
+<font color="#fcfcfc">The international brand recognition for this name is very high</font>
+
+55
+00:04:30,847 --> 00:04:36,991
+<font color="#eeeeee">So Not only would we see an immediate Rising sales nationally we would also be a</font>
+
+56
+00:04:37,247 --> 00:04:39,807
+<font color="#fcfcfc">Entering into the European candy Market</font>
+
+57
+00:04:40,319 --> 00:04:46,463
+<font color="#f5f5f5">Well I am extremely pleased to announce today that an agreement has been reached and Gyro</font>
+
+58
+00:04:46,719 --> 00:04:50,303
+<font color="#dddddd">Belly becomes part of the Bradbury family today</font>
+
+59
+00:04:51,583 --> 00:04:53,887
+<font color="#fcfcfc">Who is listening to this announcement</font>
+
+60
+00:04:56,959 --> 00:04:59,775
+<font color="#fcfcfc">Why is this deal so important</font>
+
+61
+00:05:02,335 --> 00:05:05,151
+<font color="#fcfcfc">When will these two companies merge</font>
+
+62
+00:05:09,759 --> 00:05:15,903
+<font color="#f5f5f5">Hello this is Gina from Horizon mobile returning a call from Mr Glenmont</font>
+
+63
+00:05:16,927 --> 00:05:23,071
+<font color="#e0e0e0">Mr. Martinez had a question about the refund for the mobile phone he recently bought from us</font>
+
+64
+00:05:23,583 --> 00:05:29,727
+<font color="#ededed">In order to receive the refund of $100 he must mail in the refunds card</font>
+
+65
+00:05:29,983 --> 00:05:33,311
+<font color="#b4b4b4">A copy of his receipt to all head offices</font>
+
+66
+00:05:33,823 --> 00:05:36,127
+<font color="#f3f3f3">Please address the envelope to</font>
+
+67
+00:05:36,383 --> 00:05:38,943
+<font color="#f9f9f9">Horizon mobile refund Center</font>
+
+68
+00:05:39,455 --> 00:05:42,783
+<font color="#f4f4f4">1616 Gateway Drive</font>
+
+69
+00:05:43,039 --> 00:05:44,319
+<font color="#fcfcfc">Philadelphia</font>
+
+70
+00:05:44,575 --> 00:05:45,343
+<font color="#fcfcfc">PA</font>
+
+71
+00:05:45,855 --> 00:05:48,671
+<font color="#aeaeae">19144</font>
+
+72
+00:05:49,183 --> 00:05:55,327
+<font color="#f5f5f5">Just to reiterate this is a mail-in refund only and cannot be</font>
+
+73
+00:05:55,583 --> 00:05:57,375
+<font color="#fcfcfc">Email or fax</font>
+
+74
+00:05:57,631 --> 00:06:01,983
+<font color="#eeeeee">Mr. Martinez has 30 days to mail the documents</font>
+
+75
+00:06:02,239 --> 00:06:08,383
+<font color="#dbdbdb">If the envelope is postmarked more than 30 days after the date of purchase the refund</font>
+
+76
+00:06:08,639 --> 00:06:09,663
+<font color="#fcfcfc">Is invalid</font>
+
+77
+00:06:10,175 --> 00:06:16,319
+<font color="#f0f0f0">If you have any questions please call us back at 7 for 656</font>
+
+78
+00:06:16,575 --> 00:06:17,855
+<font color="#cecece">Find sticks</font>
+
+79
+00:06:18,111 --> 00:06:18,879
+<font color="#fcfcfc">Thank you</font>
+
+80
+00:06:21,439 --> 00:06:23,743
+<font color="#fcfcfc">Where would this message be heard</font>
+
+81
+00:06:26,559 --> 00:06:29,375
+<font color="#d7d7d7">When did mr. Martinez buy his phone</font>

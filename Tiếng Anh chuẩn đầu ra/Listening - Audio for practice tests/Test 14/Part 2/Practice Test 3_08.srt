@@ -1,0 +1,31 @@
+﻿1
+00:00:00,256 --> 00:00:01,024
+<font color="#d1d1d1">Number 8</font>
+
+2
+00:00:01,280 --> 00:00:05,888
+<font color="#ededed">Listen to an announcer and a guest talking on a radio program</font>
+
+3
+00:00:06,656 --> 00:00:12,800
+<font color="#bbbbbb">So Mr Feldman can you tell her guess what a recession is sure Gloria</font>
+
+4
+00:00:13,056 --> 00:00:19,200
+<font color="#d8d8d8">Basically a recession is an economic slowdown this slowdown isn't measured in weeks though it</font>
+
+5
+00:00:19,456 --> 00:00:22,784
+<font color="#fcfcfc">Last at least a few months and could last even longer</font>
+
+6
+00:00:23,040 --> 00:00:29,184
+<font color="#fcfcfc">Let me tell you what happens during a recession first unemployment goes up as a result</font>
+
+7
+00:00:29,440 --> 00:00:31,232
+<font color="#fbfbfb">Fewer people have jobs</font>
+
+8
+00:00:32,256 --> 00:00:35,328
+<font color="#e2e2e2">What does the man suggest about a recession</font>

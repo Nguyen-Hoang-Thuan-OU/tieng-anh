@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#bebebe">Number five listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,376 --> 00:00:09,472
+<font color="#f3f3f3">Do I really have to stay after school today mr. Robinson</font>
+
+3
+00:00:09,728 --> 00:00:15,872
+<font color="#e8e8e8">I'm afraid so John you were disrupting my class by speaking to other students and passing notes so</font>
+
+4
+00:00:16,128 --> 00:00:18,432
+<font color="#bdbdbd">So you are on detention both today and tomorrow</font>
+
+5
+00:00:18,688 --> 00:00:23,296
+<font color="#f6f6f6">Tomorrow but I have plans tomorrow as soon as school ends</font>
+
+6
+00:00:23,808 --> 00:00:28,672
+<font color="#f7f7f7">You're going to have to change them and I suggest that you change your behavior as well</font>
+
+7
+00:00:29,440 --> 00:00:31,744
+<font color="#fcfcfc">What is the subject of the conversation</font>

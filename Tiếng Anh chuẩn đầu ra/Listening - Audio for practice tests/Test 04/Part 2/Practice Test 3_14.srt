@@ -1,0 +1,99 @@
+﻿1
+00:00:00,256 --> 00:00:05,632
+<font color="#f4f4f4">Questions 14 through 17 listen to a conversation between a student and a coach</font>
+
+2
+00:00:06,400 --> 00:00:10,240
+<font color="#b5b5b5">Mass are you going to be trying out for the basketball team this year</font>
+
+3
+00:00:10,752 --> 00:00:16,384
+<font color="#fcfcfc">I'm not sure yet Coach my parents don't particularly want me to play ball this year though</font>
+
+4
+00:00:16,640 --> 00:00:20,736
+<font color="#f2f2f2">Once you were one of the first players Off the Bench last year</font>
+
+5
+00:00:20,992 --> 00:00:25,088
+<font color="#fcfcfc">You did a good job last year and I'm counting on you to be a starter this season</font>
+
+6
+00:00:25,600 --> 00:00:27,136
+<font color="#fcfcfc">Thanks for saying that coach</font>
+
+7
+00:00:27,648 --> 00:00:29,952
+<font color="#f9f9f9">So you're going to try out then right</font>
+
+8
+00:00:30,208 --> 00:00:34,560
+<font color="#fcfcfc">We need as many quality players as possible if we want to have a winning season</font>
+
+9
+00:00:34,816 --> 00:00:40,960
+<font color="#fcfcfc">I'll tell my parents what you said and then I'll try to convince them that they should let me play on the team</font>
+
+10
+00:00:41,216 --> 00:00:42,496
+<font color="#fcfcfc">That's good to hear</font>
+
+11
+00:00:43,008 --> 00:00:43,776
+<font color="#fcfcfc">Thanks</font>
+
+12
+00:00:44,032 --> 00:00:49,408
+<font color="#fcfcfc">If you don't mind my asking why don't your parents want you to play</font>
+
+13
+00:00:49,664 --> 00:00:53,504
+<font color="#fcfcfc">If I remember correctly they both attended every game last year</font>
+
+14
+00:00:53,760 --> 00:00:59,904
+<font color="#fcfcfc">A lot of parents don't support their children like that many don't even bother attending a single game</font>
+
+15
+00:01:00,160 --> 00:01:04,000
+<font color="#d5d5d5">They support me in everything I do they're good like that</font>
+
+16
+00:01:04,768 --> 00:01:07,328
+<font color="#b2b2b2">Then what's the problem I don't get it</font>
+
+17
+00:01:07,840 --> 00:01:12,192
+<font color="#fcfcfc">My grades in the first quarter what is good as they had expected them to be</font>
+
+18
+00:01:12,448 --> 00:01:18,592
+<font color="#fafafa">I got a couple of low grades in in math and science so my parents want me to do</font>
+
+19
+00:01:18,848 --> 00:01:21,152
+<font color="#eeeeee">Dedicate myself more to my studies</font>
+
+20
+00:01:21,408 --> 00:01:24,736
+<font color="#fcfcfc">That's why they're not too keen on letting me join the team</font>
+
+21
+00:01:24,992 --> 00:01:26,272
+<font color="#adadad">Bye Siri</font>
+
+22
+00:01:26,528 --> 00:01:32,672
+<font color="#dbdbdb">Well not you study harder and get those grades up and I'm sure your parents will see fit to let you play on my team</font>
+
+23
+00:01:33,184 --> 00:01:35,232
+<font color="#fcfcfc">Yes sir I'll do my best</font>
+
+24
+00:01:37,024 --> 00:01:38,560
+<font color="#fcfcfc">Now answer the questions</font>
+
+25
+00:01:39,328 --> 00:01:42,912
+<font color="#dfdfdf">Number 14 what are the speaker's mainly discussing</font>

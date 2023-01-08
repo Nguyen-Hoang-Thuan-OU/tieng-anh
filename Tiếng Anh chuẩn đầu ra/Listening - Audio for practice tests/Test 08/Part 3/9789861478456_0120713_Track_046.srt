@@ -1,0 +1,67 @@
+﻿1
+00:00:00,512 --> 00:00:01,792
+<font color="#939393">Parts for</font>
+
+2
+00:00:02,560 --> 00:00:03,840
+<font color="#fcfcfc">Directions</font>
+
+3
+00:00:04,608 --> 00:00:07,680
+<font color="#f2f2f2">You will hear some talks given by a single speaker</font>
+
+4
+00:00:08,704 --> 00:00:13,568
+<font color="#fbfbfb">You will be asked to answer three questions about what the speaker says in each talk</font>
+
+5
+00:00:14,592 --> 00:00:20,736
+<font color="#fafafa">Select the best response to each question and mark the letter A B C or D</font>
+
+6
+00:00:20,992 --> 00:00:22,272
+<font color="#d1d1d1">On your answer sheet</font>
+
+7
+00:00:23,040 --> 00:00:28,160
+<font color="#eeeeee">The talks will not be printed in your test book and will be spoken only one time</font>
+
+8
+00:00:29,952 --> 00:00:35,072
+<font color="#dddddd">Question 71 through 73 refer to the following excerpt from a meeting</font>
+
+9
+00:00:36,352 --> 00:00:42,496
+<font color="#fcfcfc">Good morning everyone I have asked all the managers to come along today because I would like to go over the new budget for this</font>
+
+10
+00:00:42,752 --> 00:00:48,896
+<font color="#fafafa">New Financial year I would like to congratulate everyone for not going over their budgets well done</font>
+
+11
+00:00:49,152 --> 00:00:55,296
+<font color="#f1f1f1">We had a fantastic year last year with profits increasing by 20% compared to the previous year</font>
+
+12
+00:00:55,552 --> 00:01:01,696
+<font color="#e4e4e4">This is enabling me to add one new staff member to the sales department and two new members to the development</font>
+
+13
+00:01:01,952 --> 00:01:08,096
+<font color="#eeeeee">I'm confident that by this time next year we will have some exciting Innovative products that will make</font>
+
+14
+00:01:08,352 --> 00:01:10,400
+<font color="#fcfcfc">Are competitors envious</font>
+
+15
+00:01:11,936 --> 00:01:16,032
+<font color="#f9f9f9">Number 71 what is the purpose of this talk</font>
+
+16
+00:01:23,200 --> 00:01:28,320
+<font color="#dddddd">Number 72 what changes will the speaker be making at the company</font>
+
+17
+00:01:35,488 --> 00:01:41,120
+<font color="#fcfcfc">Number 73 what does the speaker believe will happen over the coming year</font>

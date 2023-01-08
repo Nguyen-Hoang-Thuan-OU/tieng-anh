@@ -1,0 +1,99 @@
+﻿1
+00:00:00,256 --> 00:00:02,816
+<font color="#ededed">Questions 23 through 26</font>
+
+2
+00:00:03,072 --> 00:00:06,400
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+3
+00:00:07,424 --> 00:00:13,568
+<font color="#fcfcfc">I am so overloaded with work I have no idea what I'm going</font>
+
+4
+00:00:13,824 --> 00:00:14,592
+<font color="#afafaf">To do</font>
+
+5
+00:00:15,104 --> 00:00:19,456
+<font color="#d2d2d2">I know what you mean the teacher seemed to be giving us a lot of homework these days</font>
+
+6
+00:00:19,712 --> 00:00:21,760
+<font color="#fcfcfc">I'm totally swamped as well</font>
+
+7
+00:00:22,016 --> 00:00:26,880
+<font color="#fbfbfb">Yeah but you don't do any extracurricular activities do you</font>
+
+8
+00:00:27,136 --> 00:00:30,976
+<font color="#fbfbfb">Not this year my parents want me to focus solely on my grades</font>
+
+9
+00:00:31,232 --> 00:00:33,280
+<font color="#eaeaea">Since they aren't as good as they should be</font>
+
+10
+00:00:33,792 --> 00:00:37,376
+<font color="#fcfcfc">So they won't let me play basketball or joined any clubs</font>
+
+11
+00:00:37,632 --> 00:00:39,424
+<font color="#fcfcfc">That's too bad</font>
+
+12
+00:00:39,680 --> 00:00:42,752
+<font color="#fcfcfc">Yeah I wish they'd reconsider but they won't</font>
+
+13
+00:00:43,008 --> 00:00:43,776
+<font color="#fcfcfc">Anyway</font>
+
+14
+00:00:44,032 --> 00:00:48,128
+<font color="#f0f0f0">What extracurricular activities are you doing that have you so busy</font>
+
+15
+00:00:48,384 --> 00:00:54,528
+<font color="#c7c7c7">Wow I'm a member of the math team and they also write for the school newspaper and work on</font>
+
+16
+00:00:54,784 --> 00:00:57,600
+<font color="#c4c4c4">The school yearbook committee wow that's a lot</font>
+
+17
+00:00:58,112 --> 00:01:01,440
+<font color="#fafafa">Which of those three activities keeps you the most occupied</font>
+
+18
+00:01:01,696 --> 00:01:07,840
+<font color="#f7f7f7">Right now it's the school newspaper I have to write at least one article a week for it</font>
+
+19
+00:01:08,096 --> 00:01:14,240
+<font color="#dadada">18 isn't too bad all we do is go to math contest every once in awhile for example</font>
+
+20
+00:01:14,496 --> 00:01:16,544
+<font color="#fcfcfc">We've got a contest this Saturday</font>
+
+21
+00:01:17,056 --> 00:01:19,104
+<font color="#fcfcfc">That's cool how about the yearbook</font>
+
+22
+00:01:19,616 --> 00:01:25,760
+<font color="#eaeaea">We're doing some preliminary meetings now the bulk of the work will be in the spring or still me</font>
+
+23
+00:01:26,016 --> 00:01:31,136
+<font color="#cbcbcb">Meeting at least once a week good luck with all that it seems like your schedule is packed</font>
+
+24
+00:01:33,184 --> 00:01:35,232
+<font color="#fcfcfc">Now answer the questions</font>
+
+25
+00:01:36,256 --> 00:01:40,608
+<font color="#f0f0f0">Number 23 what are the students mainly talking about</font>

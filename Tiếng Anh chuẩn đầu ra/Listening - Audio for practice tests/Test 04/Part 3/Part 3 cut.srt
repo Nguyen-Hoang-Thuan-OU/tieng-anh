@@ -1,0 +1,327 @@
+﻿1
+00:00:01,280 --> 00:00:04,352
+<font color="#fcfcfc">Hello all and welcome to the meeting</font>
+
+2
+00:00:04,608 --> 00:00:05,888
+<font color="#fcfcfc">Please take a seat</font>
+
+3
+00:00:06,656 --> 00:00:11,776
+<font color="#fcfcfc">Please direct your attention to the screen at the front of the room for the agenda</font>
+
+4
+00:00:12,032 --> 00:00:18,176
+<font color="#fafafa">As you can see the first item of business to discuss is the parking lot situation</font>
+
+5
+00:00:18,688 --> 00:00:24,832
+<font color="#dcdcdc">By law we are required to designate at least 10 of our parking spaces for Dish</font>
+
+6
+00:00:25,088 --> 00:00:25,856
+<font color="#fcfcfc">Disabled people</font>
+
+7
+00:00:26,368 --> 00:00:32,512
+<font color="#eeeeee">Currently we only have two so we must decide who will give up his or her</font>
+
+8
+00:00:32,768 --> 00:00:34,304
+<font color="#e6e6e6">Spot for this purpose</font>
+
+9
+00:00:34,816 --> 00:00:40,960
+<font color="#cfcfcf">Second on the agenda is a brainstorming session for the regional sales meeting that we are</font>
+
+10
+00:00:41,216 --> 00:00:42,240
+<font color="#989898">You're hosting this year</font>
+
+11
+00:00:42,752 --> 00:00:47,104
+<font color="#fcfcfc">We have a lot of details to iron out for this huge event</font>
+
+12
+00:00:47,872 --> 00:00:52,992
+<font color="#fcfcfc">Lastly I will be presenting an award to the salesperson of the month</font>
+
+13
+00:00:53,760 --> 00:00:56,064
+<font color="#e8e8e8">Okay ask for the parking</font>
+
+14
+00:00:57,600 --> 00:00:59,392
+<font color="#fcfcfc">Who is the speaker</font>
+
+15
+00:01:01,184 --> 00:01:05,280
+<font color="#fcfcfc">How many more disabled parking spaces are needed</font>
+
+16
+00:01:08,352 --> 00:01:11,680
+<font color="#fcfcfc">What is not on the agenda for today's meeting</font>
+
+17
+00:01:15,776 --> 00:01:18,336
+<font color="#fcfcfc">Thank you so much for coming to this meeting</font>
+
+18
+00:01:18,848 --> 00:01:24,992
+<font color="#eaeaea">I've invited all the small business owners in the area to attend tonight to discuss the huge chain super</font>
+
+19
+00:01:25,248 --> 00:01:28,064
+<font color="#9b9b9b">Install glamour's which just open nearby</font>
+
+20
+00:01:28,576 --> 00:01:34,720
+<font color="#ebebeb">All over the country these enormous stores have opened and soon all the surrounding independent</font>
+
+21
+00:01:34,976 --> 00:01:37,280
+<font color="#acacac">Lyon stores. Shutdown</font>
+
+22
+00:01:37,792 --> 00:01:40,352
+<font color="#a2a2a2">Glamour has stores all over the globe</font>
+
+23
+00:01:40,608 --> 00:01:43,168
+<font color="#ededed">And their purchasing power is enormous</font>
+
+24
+00:01:43,936 --> 00:01:50,080
+<font color="#e7e7e7">Therefore they can buy and sell any product at much lower prices than our smaller businesses I able to</font>
+
+25
+00:01:50,848 --> 00:01:55,968
+<font color="#dddddd">The Aloha prices coupled with offering everything a person needs in one place</font>
+
+26
+00:01:56,224 --> 00:02:00,576
+<font color="#cacaca">Guarantees that I sales will drop as glamorous flourishes</font>
+
+27
+00:02:01,344 --> 00:02:03,904
+<font color="#e8e8e8">So what are our options here</font>
+
+28
+00:02:04,416 --> 00:02:07,488
+<font color="#ededed">How can we compete in the future with glamour's</font>
+
+29
+00:02:11,328 --> 00:02:14,144
+<font color="#fcfcfc">What is the purpose of this meeting</font>
+
+30
+00:02:16,960 --> 00:02:18,496
+<font color="#fcfcfc">According to the speaker</font>
+
+31
+00:02:18,752 --> 00:02:21,568
+<font color="#ebebeb">What is the effect of a glamorous opening</font>
+
+32
+00:02:24,128 --> 00:02:26,688
+<font color="#bcbcbc">How does Klamath attract shoppers</font>
+
+33
+00:02:32,064 --> 00:02:38,208
+<font color="#f1f1f1">Today we are opening the doors of a cutting-edge project a project that does Nia and theater</font>
+
+34
+00:02:38,464 --> 00:02:42,304
+<font color="#dddddd">As I've been working on this idea for nearly a decade</font>
+
+35
+00:02:42,816 --> 00:02:48,192
+<font color="#e5e5e5">At long last the Community Technology Centre is ready to help people</font>
+
+36
+00:02:48,448 --> 00:02:54,592
+<font color="#f3f3f3">This is a place where anyone of any age race or background can learn and ask</font>
+
+37
+00:02:54,848 --> 00:02:58,176
+<font color="#f0f0f0">Floor ideas that are relevant in the modern world</font>
+
+38
+00:02:58,688 --> 00:03:04,832
+<font color="#d7d7d7">We don't offer basketball cards and a swimming pool as traditional Community Center stew</font>
+
+39
+00:03:05,088 --> 00:03:10,464
+<font color="#fcfcfc">Rather we consider ourselves more of an educational Institution</font>
+
+40
+00:03:10,976 --> 00:03:13,536
+<font color="#f7f7f7">Are you having trouble searching for jobs</font>
+
+41
+00:03:13,792 --> 00:03:19,936
+<font color="#fcfcfc">Come see our job counselor and learn how to use internet resources efficiently and</font>
+
+42
+00:03:20,192 --> 00:03:20,960
+<font color="#fcfcfc">Effectively</font>
+
+43
+00:03:21,472 --> 00:03:27,616
+<font color="#fcfcfc">Do you feel your general computer skills are not meeting today's employment requirements</font>
+
+44
+00:03:27,872 --> 00:03:33,504
+<font color="#c7c7c7">Drop in and check out our class schedule or sign up for a free private tutor</font>
+
+45
+00:03:33,760 --> 00:03:37,088
+<font color="#f3f3f3">In addition to these Services we would offer</font>
+
+46
+00:03:39,392 --> 00:03:42,464
+<font color="#fbfbfb">Why is this woman introducing the project</font>
+
+47
+00:03:45,280 --> 00:03:48,864
+<font color="#c9c9c9">9 is a facility that can be used at the center</font>
+
+48
+00:03:50,912 --> 00:03:54,496
+<font color="#fbfbfb">What group of people will likely get help at the center</font>
+
+49
+00:03:58,848 --> 00:04:04,992
+<font color="#dadada">Hi there my name is mister young and I'm going to be taking you around the showroom floor today</font>
+
+50
+00:04:05,504 --> 00:04:11,648
+<font color="#f1f1f1">I understand that you are opening a new branch office here in town and you need a great deal of new</font>
+
+51
+00:04:11,904 --> 00:04:12,928
+<font color="#fbfbfb">Office furniture</font>
+
+52
+00:04:13,440 --> 00:04:19,583
+<font color="#fafafa">Since you will be buying so many pieces from us you will be receiving a significant discount on oil</font>
+
+53
+00:04:20,863 --> 00:04:23,423
+<font color="#fcfcfc">First let's take a look at desks</font>
+
+54
+00:04:23,679 --> 00:04:26,239
+<font color="#fcfcfc">You can see we have reception desks</font>
+
+55
+00:04:26,495 --> 00:04:28,031
+<font color="#fcfcfc">L-shaped desks</font>
+
+56
+00:04:28,287 --> 00:04:31,871
+<font color="#ececec">U-shaped desks and executive desks</font>
+
+57
+00:04:32,383 --> 00:04:36,991
+<font color="#e0e0e0">Every model is available in black brown or off-white</font>
+
+58
+00:04:37,759 --> 00:04:43,903
+<font color="#efefef">Alternatively if you need to set up a room with cubicles we do off of workstations as well</font>
+
+59
+00:04:44,927 --> 00:04:46,975
+<font color="#d7d7d7">Moving onto storage</font>
+
+60
+00:04:47,231 --> 00:04:53,375
+<font color="#b4b4b4">These file cabinets are lost is modal so they are on sale now but we're guessing in new ones tomorrow</font>
+
+61
+00:04:54,399 --> 00:04:58,495
+<font color="#f3f3f3">Media storage centers are on the left in front of the bookcases</font>
+
+62
+00:04:59,007 --> 00:05:03,871
+<font color="#fcfcfc">Now let's take a look at something very important to employee health</font>
+
+63
+00:05:04,127 --> 00:05:04,895
+<font color="#cdcdcd">Chaz</font>
+
+64
+00:05:06,175 --> 00:05:07,967
+<font color="#fcfcfc">Where is the speaker</font>
+
+65
+00:05:11,039 --> 00:05:14,879
+<font color="#fbfbfb">Why is a large discount being given to these customers</font>
+
+66
+00:05:17,951 --> 00:05:19,999
+<font color="#f8f8f8">What will the speaker do now</font>
+
+67
+00:05:24,863 --> 00:05:26,655
+<font color="#fcfcfc">Attention passengers</font>
+
+68
+00:05:26,911 --> 00:05:33,055
+<font color="#fcfcfc">We are experiencing some technical problems and are being forced to make an unscheduled stop</font>
+
+69
+00:05:33,311 --> 00:05:34,335
+<font color="#efefef">In Paris</font>
+
+70
+00:05:34,591 --> 00:05:40,735
+<font color="#e1e1e1">Due to storm activity in the area The Landing may be a bit bumpy but please be</font>
+
+71
+00:05:40,991 --> 00:05:45,855
+<font color="#ededed">He advised that any turbulence is normal and by no means dangerous</font>
+
+72
+00:05:46,111 --> 00:05:51,231
+<font color="#f4f4f4">Once we land we may be grounded for quite a while because of the storms</font>
+
+73
+00:05:51,487 --> 00:05:57,631
+<font color="#fcfcfc">Although we are being allowed to land Charles de Gaulle Airport is not letting any planes take</font>
+
+74
+00:05:57,887 --> 00:05:58,655
+<font color="#d5d5d5">Kickoff tonight</font>
+
+75
+00:05:59,423 --> 00:06:05,311
+<font color="#c5c5c5">Therefore all passengers on this flight will receive a fifty-year-old food voucher</font>
+
+76
+00:06:05,567 --> 00:06:11,711
+<font color="#dfdfdf">Redeemable anywhere in the airport plus another voucher good for one night at a</font>
+
+77
+00:06:11,967 --> 00:06:13,247
+<font color="#f6f6f6">Nearby Hotel</font>
+
+78
+00:06:13,503 --> 00:06:19,647
+<font color="#dcdcdc">Please go to the MBA airdesk upon disembarking for these vouchers</font>
+
+79
+00:06:19,903 --> 00:06:23,999
+<font color="#fcfcfc">According to reports we should be able to take off in the morning</font>
+
+80
+00:06:25,279 --> 00:06:27,583
+<font color="#fafafa">Why are they Landing in Paris</font>
+
+81
+00:06:31,167 --> 00:06:35,007
+<font color="#f8f8f8">When will they most likely be able to continue their Journey</font>
+
+82
+00:06:36,799 --> 00:06:39,103
+<font color="#ececec">Where will the passengers sleep</font>

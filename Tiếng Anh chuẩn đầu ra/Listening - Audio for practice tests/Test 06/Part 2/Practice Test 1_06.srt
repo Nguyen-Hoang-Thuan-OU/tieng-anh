@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#c8c8c8">Number 6 listen to a conversation between two friends</font>
+
+2
+00:00:05,632 --> 00:00:11,776
+<font color="#fbfbfb">I tried to finish all of the math problems but I couldn't I can't figure out how to solve number 3</font>
+
+3
+00:00:12,032 --> 00:00:18,176
+<font color="#fcfcfc">3 math problems all my goodness I totally forgot about our homework</font>
+
+4
+00:00:18,432 --> 00:00:20,480
+<font color="#f6f6f6">Class starts in 10 minutes</font>
+
+5
+00:00:20,736 --> 00:00:26,880
+<font color="#d6d6d6">You have time to do it you're right thanks for reminding me I got to get going</font>
+
+6
+00:00:27,904 --> 00:00:30,720
+<font color="#fcfcfc">What will the girl probably do next</font>

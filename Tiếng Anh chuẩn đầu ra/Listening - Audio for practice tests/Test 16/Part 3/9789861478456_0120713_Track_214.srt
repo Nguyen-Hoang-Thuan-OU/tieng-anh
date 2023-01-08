@@ -1,0 +1,51 @@
+﻿1
+00:00:00,768 --> 00:00:04,864
+<font color="#e7e7e7">Questions 89 through 91 refer to the following announcement</font>
+
+2
+00:00:06,400 --> 00:00:12,544
+<font color="#f4f4f4">The Kelly Boulevard Development Corporation has agreed to provide funding to clean up Kelly Boulevard</font>
+
+3
+00:00:12,800 --> 00:00:17,408
+<font color="#d5d5d5">Help us by volunteering for our first annual spring cleaning event on May 19th</font>
+
+4
+00:00:17,664 --> 00:00:23,808
+<font color="#ebebeb">We will start by removing little reporting illegal dumps and removing shopping carts and then we</font>
+
+5
+00:00:24,064 --> 00:00:25,856
+<font color="#f0f0f0">Some simple Landscaping</font>
+
+6
+00:00:26,368 --> 00:00:32,512
+<font color="#f6f6f6">Breakfast and lunch will be served and tools will be provided every participant will receive a t-shirt but hoping</font>
+
+7
+00:00:32,768 --> 00:00:38,912
+<font color="#f0f0f0">To make this area beautiful again you must sign a waiver before taking by the Development Corporation is</font>
+
+8
+00:00:39,168 --> 00:00:42,240
+<font color="#e4e4e4">Not responsible for any injuries sustained during the cleanup</font>
+
+9
+00:00:43,776 --> 00:00:45,056
+<font color="#f7f7f7">Number 89</font>
+
+10
+00:00:45,312 --> 00:00:50,432
+<font color="#f8f8f8">What is the Kelley Boulevard Development Corporation doing on May 19th</font>
+
+11
+00:00:57,344 --> 00:00:58,624
+<font color="#fcfcfc">Number 90</font>
+
+12
+00:00:58,880 --> 00:01:01,696
+<font color="#fcfcfc">What will volunteers not receive</font>
+
+13
+00:01:08,608 --> 00:01:14,240
+<font color="#f4f4f4">Number 91 what will happen if a volunteer is injured on May 19th</font>

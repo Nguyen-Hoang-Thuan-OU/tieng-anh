@@ -1,0 +1,115 @@
+﻿1
+00:00:00,256 --> 00:00:06,400
+<font color="#e4e4e4">Questions 23 through 25 listen to a conversation between a student and a teacher</font>
+
+2
+00:00:07,680 --> 00:00:10,752
+<font color="#f4f4f4">Mrs. Campbell do you think I could have a word with you</font>
+
+3
+00:00:11,008 --> 00:00:12,800
+<font color="#fcfcfc">I need to talk to you about something</font>
+
+4
+00:00:13,312 --> 00:00:17,152
+<font color="#dfdfdf">Sure Larry are you hear about your grade on the book report</font>
+
+5
+00:00:17,664 --> 00:00:18,688
+<font color="#f8f8f8">Yes ma'am</font>
+
+6
+00:00:19,712 --> 00:00:22,528
+<font color="#f8f8f8">I'm not really sure why I got a C+ on it</font>
+
+7
+00:00:22,784 --> 00:00:25,856
+<font color="#f7f7f7">I mean I thought I followed your directions</font>
+
+8
+00:00:26,368 --> 00:00:32,512
+<font color="#c8c8c8">This is the lowest grade I've ever gotten at school will Larry there were a lot of</font>
+
+9
+00:00:32,768 --> 00:00:38,912
+<font color="#999999">Obama's with your paper I could have easily given you a lower grade but it seemed obvious to me</font>
+
+10
+00:00:39,168 --> 00:00:41,472
+<font color="#c4c4c4">That you had tried hard while writing it</font>
+
+11
+00:00:41,728 --> 00:00:43,264
+<font color="#e5e5e5">A lower grade</font>
+
+12
+00:00:44,544 --> 00:00:49,152
+<font color="#fcfcfc">Did you bring the paper with you I can show you a few things if you have it here</font>
+
+13
+00:00:49,664 --> 00:00:52,224
+<font color="#e8e8e8">Yes ma'am I got it right here just a minute</font>
+
+14
+00:00:52,736 --> 00:00:53,760
+<font color="#e8e8e8">I hear it is</font>
+
+15
+00:00:54,016 --> 00:00:55,808
+<font color="#d3d3d3">Alright let's look</font>
+
+16
+00:00:56,064 --> 00:00:58,112
+<font color="#d7d7d7">No do you see this fart</font>
+
+17
+00:00:58,368 --> 00:01:03,744
+<font color="#fcfcfc">That's a run-on sentence that's bad grammar so you lost points for that</font>
+
+18
+00:01:04,000 --> 00:01:04,768
+<font color="#fcfcfc">Okay</font>
+
+19
+00:01:05,024 --> 00:01:07,328
+<font color="#fafafa">And you didn't use quotes here</font>
+
+20
+00:01:07,584 --> 00:01:13,728
+<font color="#f4f4f4">Right here you use the wrong verb tense you know Larry you really need to work on your grass</font>
+
+21
+00:01:13,984 --> 00:01:19,872
+<font color="#cdcdcd">You had so many of those mistakes on your paper I guess I've never cared that much of a grandma</font>
+
+22
+00:01:20,128 --> 00:01:21,920
+<font color="#a4a4a4">I never seen that important</font>
+
+23
+00:01:22,176 --> 00:01:28,320
+<font color="#eeeeee">You're going to have to get a new attitude toward it now if your grammar isn't any good in my class there's</font>
+
+24
+00:01:28,576 --> 00:01:34,720
+<font color="#eeeeee">No way that you'll get an A or a B I C I'll start reviewing Grandma as soon as school is done</font>
+
+25
+00:01:34,976 --> 00:01:35,488
+<font color="#d4d4d4">And today</font>
+
+26
+00:01:35,744 --> 00:01:38,816
+<font color="#fcfcfc">That's a good attitude good luck Larry</font>
+
+27
+00:01:40,608 --> 00:01:42,656
+<font color="#fcfcfc">Now answer the questions</font>
+
+28
+00:01:43,680 --> 00:01:44,960
+<font color="#fcfcfc">Number 23</font>
+
+29
+00:01:45,216 --> 00:01:47,520
+<font color="#f8f8f8">What are the speakers talking about</font>

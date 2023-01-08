@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#b6b6b6">Number three listen to a conversation between a student and a teacher</font>
+
+2
+00:00:05,376 --> 00:00:11,520
+<font color="#f3f3f3">Kevin you haven't been speaking up much in class lately you were doing that a lot of the beginning</font>
+
+3
+00:00:11,776 --> 00:00:17,920
+<font color="#b0b0b0">This semester what's up I guess I'm having some trouble with the new material</font>
+
+4
+00:00:18,176 --> 00:00:24,064
+<font color="#fcfcfc">Everything we studied at the start of the semester was easy but the newest stuff is harder</font>
+
+5
+00:00:24,320 --> 00:00:29,440
+<font color="#fcfcfc">Feel free to ask questions in class if you don't understand something</font>
+
+6
+00:00:29,696 --> 00:00:31,488
+<font color="#f7f7f7">What is the students problem</font>

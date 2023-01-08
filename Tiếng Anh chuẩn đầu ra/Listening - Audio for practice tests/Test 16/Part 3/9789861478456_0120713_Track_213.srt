@@ -1,0 +1,59 @@
+﻿1
+00:00:01,024 --> 00:00:05,376
+<font color="#e0e0e0">Questions 86 through 88 refer to the following advertisement</font>
+
+2
+00:00:07,680 --> 00:00:13,824
+<font color="#f1f1f1">Christmas is just around the corner so it's time to choose that special gift for your loved one</font>
+
+3
+00:00:14,080 --> 00:00:18,944
+<font color="#f2f2f2">Jules has a wide selection of the finest Rings bracelets and necklaces</font>
+
+4
+00:00:19,200 --> 00:00:25,344
+<font color="#d1d1d1">We believe in elegance and excellence and we promise that all of our diamonds are sourced ethically</font>
+
+5
+00:00:25,600 --> 00:00:31,744
+<font color="#bdbdbd">We off of jewelry for all budgets and I stopped and not paid by commission this results in Astra</font>
+
+6
+00:00:32,000 --> 00:00:36,352
+<font color="#d1d1d1">Stress free no pressure shopping experience bur valleys customers</font>
+
+7
+00:00:36,864 --> 00:00:43,008
+<font color="#eeeeee">In addition to a wonderful shopping experience we are proud to serve charise famous coffee freshman</font>
+
+8
+00:00:43,264 --> 00:00:49,408
+<font color="#bdbdbd">And housemates leads to order customers stop by one of our full Chicago locations</font>
+
+9
+00:00:49,664 --> 00:00:51,712
+<font color="#c8c8c8">Both recent Louis branches</font>
+
+10
+00:00:54,272 --> 00:00:55,552
+<font color="#fcfcfc">Number 86</font>
+
+11
+00:00:55,808 --> 00:00:58,624
+<font color="#fcfcfc">What is the purpose of this advertisement</font>
+
+12
+00:01:05,536 --> 00:01:07,072
+<font color="#fcfcfc">Number 87</font>
+
+13
+00:01:07,328 --> 00:01:12,192
+<font color="#e8e8e8">What is one thing the company does to make customers feel relaxed</font>
+
+14
+00:01:19,104 --> 00:01:24,224
+<font color="#dddddd">Number 88 how many branches does shareef's Jewels have</font>
+
+15
+00:01:31,392 --> 00:01:33,696
+<font color="#e6e6e6">Go on to the next page</font>

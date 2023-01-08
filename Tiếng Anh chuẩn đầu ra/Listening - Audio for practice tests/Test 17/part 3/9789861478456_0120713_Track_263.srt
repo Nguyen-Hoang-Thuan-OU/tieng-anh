@@ -1,0 +1,51 @@
+﻿1
+00:00:00,512 --> 00:00:05,120
+<font color="#cbcbcb">Question 74 through 76 refer to the following news report</font>
+
+2
+00:00:07,680 --> 00:00:13,824
+<font color="#d2d2d2">With new warnings that Hawaii's Kilauea volcano could start to shoot out rocks the size of cars</font>
+
+3
+00:00:14,080 --> 00:00:20,224
+<font color="#f9f9f9">Many tourists are rethinking their plans to vacation on the big island but just how serious a threat</font>
+
+4
+00:00:20,480 --> 00:00:26,624
+<font color="#e8e8e8">Is this we spoke to experts from the National Geological Survey they tell us that while you should say</font>
+
+5
+00:00:26,880 --> 00:00:33,024
+<font color="#e3e3e3">Stay away from zones where volcanic activity is happening and although some people have lost their home</font>
+
+6
+00:00:33,280 --> 00:00:35,584
+<font color="#fcfcfc">Most of the island is unaffected</font>
+
+7
+00:00:35,840 --> 00:00:41,984
+<font color="#eeeeee">Local tourism officials hope Taurus will go ahead with their travel plans and enjoy some of the great Hospital</font>
+
+8
+00:00:42,240 --> 00:00:44,288
+<font color="#d9d9d9">Quality that Hawaii is known for</font>
+
+9
+00:00:45,824 --> 00:00:47,360
+<font color="#fcfcfc">Number 74</font>
+
+10
+00:00:47,616 --> 00:00:50,176
+<font color="#fcfcfc">What is this report mainly about</font>
+
+11
+00:00:57,344 --> 00:01:02,720
+<font color="#f5f5f5">Number 75 what is true about current conditions on the big island</font>
+
+12
+00:01:09,888 --> 00:01:11,424
+<font color="#fcfcfc">Number 76</font>
+
+13
+00:01:11,680 --> 00:01:16,544
+<font color="#fcfcfc">Which best represents the attitude of Hawaiian tourism officials</font>

@@ -1,0 +1,55 @@
+﻿1
+00:00:00,768 --> 00:00:05,120
+<font color="#d5d5d5">Questions 80 through 82 refer to the following excerpt from a lecture</font>
+
+2
+00:00:05,888 --> 00:00:12,032
+<font color="#fbfbfb">This lecture series is designed to give you enough information to decide whether or not this is a</font>
+
+3
+00:00:12,288 --> 00:00:15,104
+<font color="#ececec">The field you would like to enter in your future Korea</font>
+
+4
+00:00:15,616 --> 00:00:21,760
+<font color="#fbfbfb">At the end of the class last year we had several students get jobs with some major finance companies</font>
+
+5
+00:00:22,272 --> 00:00:28,416
+<font color="#e2e2e2">You are going to learn some basic background knowledge about the financial markets and become familiar with fine</font>
+
+6
+00:00:28,672 --> 00:00:34,816
+<font color="#b0b0b0">Financial terminology that you may not have had before you also going to solidify your methanol</font>
+
+7
+00:00:35,072 --> 00:00:36,864
+<font color="#dedede">And learn new content</font>
+
+8
+00:00:37,120 --> 00:00:43,264
+<font color="#e2e2e2">The prerequisite for this program is my 33a so if you have not taken that fuss or LaCroix</font>
+
+9
+00:00:43,520 --> 00:00:47,616
+<font color="#b0b0b0">Another school you will not be able to take this series</font>
+
+10
+00:00:49,664 --> 00:00:50,688
+<font color="#fafafa">Number 80</font>
+
+11
+00:00:50,944 --> 00:00:53,504
+<font color="#fcfcfc">Who is the audience for this lecture</font>
+
+12
+00:01:00,672 --> 00:01:01,952
+<font color="#fcfcfc">Number 81</font>
+
+13
+00:01:02,208 --> 00:01:06,560
+<font color="#fcfcfc">Which is not something that will be taught in this lecture series</font>
+
+14
+00:01:13,728 --> 00:01:19,872
+<font color="#f7f7f7">Number 82 what does the speaker mean when he says that there is a prerequisite for the sea</font>

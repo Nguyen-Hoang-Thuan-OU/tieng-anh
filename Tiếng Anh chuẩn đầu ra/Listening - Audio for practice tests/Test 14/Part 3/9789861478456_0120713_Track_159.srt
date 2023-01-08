@@ -1,0 +1,59 @@
+﻿1
+00:00:01,024 --> 00:00:05,120
+<font color="#dddddd">Questions 86 through 88 refer to the following message</font>
+
+2
+00:00:06,912 --> 00:00:13,056
+<font color="#dbdbdb">Hello this is Sarah at Windsor Windows calling for Bryan Adams I'm happy to report that The Purge</font>
+
+3
+00:00:13,312 --> 00:00:19,456
+<font color="#fbfbfb">Permit for your new windows has been approved by the city so we can install them whenever you are ready your quote</font>
+
+4
+00:00:19,712 --> 00:00:25,856
+<font color="#d2d2d2">Of April 5th was 43 windows with the dimensions of 24 in by 12 in</font>
+
+5
+00:00:26,112 --> 00:00:32,256
+<font color="#fcfcfc">Quoted you a price of $350 per window but our supplier is closing out that line</font>
+
+6
+00:00:32,512 --> 00:00:38,656
+<font color="#d5d5d5">We were able to purchase them we are excited to share that discount</font>
+
+7
+00:00:38,912 --> 00:00:45,056
+<font color="#d9d9d9">Installation will be $300 per window just give me a call at nine one six nine four</font>
+
+8
+00:00:45,312 --> 00:00:51,456
+<font color="#f3f3f3">63697 and I'll set up an appointment with our installers thanks</font>
+
+9
+00:00:52,992 --> 00:00:54,272
+<font color="#fcfcfc">Number 86</font>
+
+10
+00:00:54,528 --> 00:00:56,832
+<font color="#fcfcfc">What is the purpose of the message</font>
+
+11
+00:01:03,744 --> 00:01:05,280
+<font color="#fcfcfc">Number 87</font>
+
+12
+00:01:05,536 --> 00:01:09,888
+<font color="#eeeeee">How much will mr. Adams pay in total for three windows</font>
+
+13
+00:01:16,800 --> 00:01:18,080
+<font color="#f7f7f7">Number 88</font>
+
+14
+00:01:18,336 --> 00:01:21,920
+<font color="#d3d3d3">What should Mr Adams do when he gets this message</font>
+
+15
+00:01:29,088 --> 00:01:31,392
+<font color="#e6e6e6">Go on to the next page</font>

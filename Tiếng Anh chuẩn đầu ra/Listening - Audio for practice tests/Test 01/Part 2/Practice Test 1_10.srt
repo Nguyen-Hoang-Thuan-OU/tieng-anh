@@ -1,0 +1,131 @@
+﻿1
+00:00:00,256 --> 00:00:02,816
+<font color="#c0c0c0">No you will hear longer dogs or conversations</font>
+
+2
+00:00:03,328 --> 00:00:06,912
+<font color="#bdbdbd">Each talk or conversation will be followed by three or more questions</font>
+
+3
+00:00:07,424 --> 00:00:13,056
+<font color="#f3f3f3">Choose the best answer to each question and mark the letter of the correct answer on your answer sheet</font>
+
+4
+00:00:13,568 --> 00:00:16,896
+<font color="#f9f9f9">You will hear each talk or conversation only one time</font>
+
+5
+00:00:17,920 --> 00:00:19,968
+<font color="#fcfcfc">Questions 10 through 13</font>
+
+6
+00:00:20,480 --> 00:00:23,296
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+7
+00:00:24,064 --> 00:00:28,160
+<font color="#b6b6b6">Sandy I like to congratulate you on winning the election</font>
+
+8
+00:00:28,416 --> 00:00:32,256
+<font color="#fbfbfb">It's so amazing you just got voted student body president</font>
+
+9
+00:00:32,768 --> 00:00:38,144
+<font color="#efefef">Thanks for saying that Tom honestly I can't believe I won the election</font>
+
+10
+00:00:38,400 --> 00:00:41,216
+<font color="#fcfcfc">I was positive Randy was going to win</font>
+
+11
+00:00:41,472 --> 00:00:44,288
+<font color="#fbfbfb">The results were a pleasant surprise for me though</font>
+
+12
+00:00:44,544 --> 00:00:48,896
+<font color="#fcfcfc">Yeah that's what a lot of people thought since he's so popular</font>
+
+13
+00:00:49,152 --> 00:00:49,664
+<font color="#cecece">But</font>
+
+14
+00:00:49,920 --> 00:00:54,272
+<font color="#fcfcfc">Apparently more people wanted you to do the job</font>
+
+15
+00:00:54,784 --> 00:00:56,320
+<font color="#fcfcfc">I guess so</font>
+
+16
+00:00:56,576 --> 00:00:57,344
+<font color="#fcfcfc">Anyway</font>
+
+17
+00:00:58,624 --> 00:01:02,720
+<font color="#f2f2f2">Now that you just got elected what are you planning to do as president</font>
+
+18
+00:01:03,232 --> 00:01:06,560
+<font color="#fcfcfc">Do you have any big plans for the student body this year</font>
+
+19
+00:01:07,072 --> 00:01:13,216
+<font color="#fcfcfc">I sure do first of all I intend to do my best to keep every single one of my campaign</font>
+
+20
+00:01:13,472 --> 00:01:14,240
+<font color="#dbdbdb">Promises</font>
+
+21
+00:01:14,496 --> 00:01:19,360
+<font color="#fcfcfc">I'm going to start by focusing on the food selection in the cafeteria this year</font>
+
+22
+00:01:19,872 --> 00:01:25,248
+<font color="#fcfcfc">That would be great the quality of the food has really gone down the past few months</font>
+
+23
+00:01:25,760 --> 00:01:31,136
+<font color="#f8f8f8">I've been bringing my own lunch lately because I can't stand eating the food there anymore</font>
+
+24
+00:01:31,648 --> 00:01:36,768
+<font color="#d9d9d9">I know exactly what you're talkin about that's why I'm going to look into it</font>
+
+25
+00:01:37,024 --> 00:01:39,328
+<font color="#fcfcfc">That would be great good luck</font>
+
+26
+00:01:39,840 --> 00:01:40,864
+<font color="#dfdfdf">Thanks</font>
+
+27
+00:01:41,120 --> 00:01:47,264
+<font color="#c5c5c5">Well you're handling the cafeteria are you planning to take care of any of your other campaign promises as well</font>
+
+28
+00:01:48,288 --> 00:01:50,848
+<font color="#fcfcfc">I don't want to do too much at once</font>
+
+29
+00:01:51,104 --> 00:01:57,248
+<font color="#fcfcfc">Basically I need to get used to my new position when I'm more comfortable in a month or two</font>
+
+30
+00:01:57,504 --> 00:02:01,088
+<font color="#e3e3e3">I think I'll work on fulfilling my other campaign promises</font>
+
+31
+00:02:03,136 --> 00:02:04,928
+<font color="#f5f5f5">No answer the questions</font>
+
+32
+00:02:05,696 --> 00:02:06,720
+<font color="#f6f6f6">Number 10</font>
+
+33
+00:02:07,232 --> 00:02:09,280
+<font color="#f5f5f5">What are the students mainly discussing</font>

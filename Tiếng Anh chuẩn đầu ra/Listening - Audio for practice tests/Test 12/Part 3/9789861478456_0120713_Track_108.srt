@@ -1,0 +1,55 @@
+﻿1
+00:00:01,024 --> 00:00:06,144
+<font color="#d3d3d3">Questions 95 through 97 refer to the following announcement and staff memo</font>
+
+2
+00:00:07,168 --> 00:00:13,312
+<font color="#f7f7f7">Hello everyone you all received a memo last week informing you that the vacant position and our customers</font>
+
+3
+00:00:13,568 --> 00:00:19,712
+<font color="#f5f5f5">Service department has now been filled our newest team member and Horton starts tomorrow March 4th</font>
+
+4
+00:00:19,968 --> 00:00:26,112
+<font color="#d6d6d6">14th the memo listed the training schedule for Tuesday and Wednesday but due to a family emergency</font>
+
+5
+00:00:26,368 --> 00:00:32,512
+<font color="#ebebeb">Mark Wyatt will not be able to be here tomorrow Maria will be taking his place so</font>
+
+6
+00:00:32,768 --> 00:00:38,912
+<font color="#f3f3f3">Please be aware that she won't be able to accept any calls tomorrow morning from 9 to 12 she'll also be on a</font>
+
+7
+00:00:39,168 --> 00:00:45,312
+<font color="#e1e1e1">Able to cheer our weekly staff meeting so I'll be in charge about this week thanks Maria for stepping in for</font>
+
+8
+00:00:45,568 --> 00:00:46,336
+<font color="#666666">4marq</font>
+
+9
+00:00:47,872 --> 00:00:49,408
+<font color="#f2f2f2">Number 95</font>
+
+10
+00:00:49,664 --> 00:00:53,504
+<font color="#f7f7f7">What kind of work will an be performing in her new company</font>
+
+11
+00:01:00,672 --> 00:01:01,952
+<font color="#fcfcfc">Number 96</font>
+
+12
+00:01:02,208 --> 00:01:07,072
+<font color="#fcfcfc">According to the speaker who will now teach the computer system session</font>
+
+13
+00:01:13,984 --> 00:01:15,520
+<font color="#fcfcfc">Number 97</font>
+
+14
+00:01:15,776 --> 00:01:19,872
+<font color="#fcfcfc">Look at the graphic what day is this announcement being made</font>

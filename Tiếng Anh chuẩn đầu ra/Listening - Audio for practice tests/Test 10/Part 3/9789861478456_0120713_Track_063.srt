@@ -1,0 +1,31 @@
+﻿1
+00:00:01,024 --> 00:00:02,048
+<font color="#d1d1d1">Number 8</font>
+
+2
+00:00:02,560 --> 00:00:05,376
+<font color="#fcfcfc">Do you want to try the new restaurant tonight</font>
+
+3
+00:00:05,888 --> 00:00:06,656
+<font color="#fcfcfc">Hey</font>
+
+4
+00:00:06,912 --> 00:00:08,960
+<font color="#fcfcfc">Sure that sounds like fun</font>
+
+5
+00:00:09,472 --> 00:00:10,240
+<font color="#696969">Be</font>
+
+6
+00:00:10,496 --> 00:00:11,776
+<font color="#f1f1f1">Let's go in</font>
+
+7
+00:00:12,032 --> 00:00:13,056
+<font color="#cdcdcd">See</font>
+
+8
+00:00:13,568 --> 00:00:15,104
+<font color="#fcfcfc">I'm allergic to nuts</font>

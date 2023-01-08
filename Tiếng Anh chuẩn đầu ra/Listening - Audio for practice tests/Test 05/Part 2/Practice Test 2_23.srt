@@ -1,0 +1,175 @@
+﻿1
+00:00:00,256 --> 00:00:02,304
+<font color="#eeeeee">Questions 23 through 26</font>
+
+2
+00:00:02,816 --> 00:00:05,376
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+3
+00:00:06,400 --> 00:00:12,288
+<font color="#f4f4f4">I'm so relieved that we've only got one more class to go until the weekend</font>
+
+4
+00:00:12,544 --> 00:00:16,128
+<font color="#fcfcfc">You're telling me it's been a long week</font>
+
+5
+00:00:16,384 --> 00:00:17,920
+<font color="#fcfcfc">That's true</font>
+
+6
+00:00:18,176 --> 00:00:21,760
+<font color="#bfbfbf">So do you have any plans for the weekend</font>
+
+7
+00:00:22,272 --> 00:00:23,552
+<font color="#fcfcfc">Actually I do</font>
+
+8
+00:00:23,808 --> 00:00:28,416
+<font color="#d7d7d7">I've got to go to my part-time job on both Saturday and Sunday</font>
+
+9
+00:00:28,928 --> 00:00:31,232
+<font color="#fcfcfc">I didn't know you work part-time</font>
+
+10
+00:00:31,488 --> 00:00:33,280
+<font color="#fcfcfc">When did you start doing that</font>
+
+11
+00:00:33,536 --> 00:00:36,096
+<font color="#ececec">I just landed the job 2 weeks ago</font>
+
+12
+00:00:36,352 --> 00:00:39,168
+<font color="#f7f7f7">I work as a cashier at the supermarket down the street</font>
+
+13
+00:00:39,424 --> 00:00:41,216
+<font color="#f9f9f9">You know danielson's</font>
+
+14
+00:00:41,472 --> 00:00:43,008
+<font color="#fcfcfc">It's a decent job</font>
+
+15
+00:00:43,264 --> 00:00:45,312
+<font color="#fcfcfc">I make about $8 an hour</font>
+
+16
+00:00:45,568 --> 00:00:48,128
+<font color="#fcfcfc">And I only have to work on weekends</font>
+
+17
+00:00:48,384 --> 00:00:53,504
+<font color="#d9d9d9">But I do a 5-hour shift every Saturday and an 8-hour shift every Sunday</font>
+
+18
+00:00:54,016 --> 00:00:56,576
+<font color="#fdfdfd">Wow those are long shifts</font>
+
+19
+00:00:56,832 --> 00:00:59,392
+<font color="#fcfcfc">Still it must be nice to make money</font>
+
+20
+00:00:59,904 --> 00:01:00,672
+<font color="#fcfcfc">It is</font>
+
+21
+00:01:00,928 --> 00:01:07,072
+<font color="#fcfcfc">My parents want me to start saving for college because they have no desire to pay for the entire cost of tuition</font>
+
+22
+00:01:08,096 --> 00:01:11,936
+<font color="#fcfcfc">That's too bad for you but I understand them as well</font>
+
+23
+00:01:12,192 --> 00:01:17,824
+<font color="#fcfcfc">As a matter of fact I think I'm going to have to find a part-time job myself</font>
+
+24
+00:01:18,336 --> 00:01:19,616
+<font color="#fcfcfc">Find a job</font>
+
+25
+00:01:19,872 --> 00:01:21,664
+<font color="#fcfcfc">But don't you already have one</font>
+
+26
+00:01:21,920 --> 00:01:22,944
+<font color="#fcfcfc">You work at</font>
+
+27
+00:01:23,456 --> 00:01:27,040
+<font color="#fcfcfc">One of those clothing stores in the mall don't you</font>
+
+28
+00:01:27,296 --> 00:01:33,440
+<font color="#fcfcfc">I did but I quit before school began I wanted to focus on my studies this semester</font>
+
+29
+00:01:34,208 --> 00:01:36,256
+<font color="#fcfcfc">How is that been going for you</font>
+
+30
+00:01:36,768 --> 00:01:40,096
+<font color="#fcfcfc">Quite well I'm getting all A's at the moment</font>
+
+31
+00:01:40,352 --> 00:01:43,168
+<font color="#f9f9f9">That's why I'm thinking of getting another job</font>
+
+32
+00:01:43,424 --> 00:01:45,984
+<font color="#b1b1b1">There are only a few weeks left in the semester</font>
+
+33
+00:01:46,240 --> 00:01:50,080
+<font color="#f7f7f7">So I don't think that working now will harm my grades too badly</font>
+
+34
+00:01:50,592 --> 00:01:51,360
+<font color="#f2f2f2">You know</font>
+
+35
+00:01:51,616 --> 00:01:57,760
+<font color="#eaeaea">You might want to wait until the semester is over you feel awful if you bombed a final exam because</font>
+
+36
+00:01:58,016 --> 00:02:01,344
+<font color="#fcfcfc">Cuz you couldn't study the night before it since you were working</font>
+
+37
+00:02:03,392 --> 00:02:05,184
+<font color="#fcfcfc">I see what you mean</font>
+
+38
+00:02:05,440 --> 00:02:06,720
+<font color="#eaeaea">You may be right</font>
+
+39
+00:02:07,232 --> 00:02:09,536
+<font color="#dadada">That would be depressing what an ed</font>
+
+40
+00:02:10,048 --> 00:02:13,632
+<font color="#fcfcfc">I guess I can wait a little while longer to start working again</font>
+
+41
+00:02:15,680 --> 00:02:17,216
+<font color="#eeeeee">Now answer the questions</font>
+
+42
+00:02:18,240 --> 00:02:19,520
+<font color="#fcfcfc">Number 23</font>
+
+43
+00:02:19,776 --> 00:02:22,336
+<font color="#fcfcfc">What does the boy mean when he says this</font>
+
+44
+00:02:23,104 --> 00:02:24,640
+<font color="#fcfcfc">You're telling me</font>

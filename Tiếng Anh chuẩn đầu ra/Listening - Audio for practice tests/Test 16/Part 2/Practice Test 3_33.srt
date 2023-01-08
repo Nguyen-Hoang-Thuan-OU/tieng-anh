@@ -1,0 +1,195 @@
+﻿1
+00:00:00,256 --> 00:00:02,560
+<font color="#fcfcfc">Questions 33 through 37</font>
+
+2
+00:00:03,072 --> 00:00:05,376
+<font color="#fafafa">Listen to part of a radio broadcast</font>
+
+3
+00:00:06,656 --> 00:00:12,288
+<font color="#f7f7f7">We're back from our commercial break and we're talking with gemologist Sandy Wellman</font>
+
+4
+00:00:12,544 --> 00:00:15,872
+<font color="#cecece">Professor Wellman teaches geology at the local College</font>
+
+5
+00:00:16,128 --> 00:00:19,968
+<font color="#fcfcfc">And she has agreed to spend some time talking to us this evening</font>
+
+6
+00:00:20,480 --> 00:00:23,808
+<font color="#f4f4f4">Before our last break we discussed the local geology</font>
+
+7
+00:00:24,320 --> 00:00:27,392
+<font color="#e1e1e1">One thing that Professor Wellman mentioned intrigue</font>
+
+8
+00:00:27,904 --> 00:00:31,488
+<font color="#dadada">She said there used to be volcanic activity in this area</font>
+
+9
+00:00:32,000 --> 00:00:34,048
+<font color="#f9f9f9">So Professor Wellman</font>
+
+10
+00:00:34,304 --> 00:00:37,120
+<font color="#fcfcfc">Does that mean there might be diamonds in our area</font>
+
+11
+00:00:37,632 --> 00:00:41,984
+<font color="#eeeeee">If there are please let me know where so I can start digging for them</font>
+
+12
+00:00:42,240 --> 00:00:46,336
+<font color="#fcfcfc">Peter there may well be lots of diamonds in this region</font>
+
+13
+00:00:46,592 --> 00:00:49,920
+<font color="#fcfcfc">Would you like for me to explain why please go ahead</font>
+
+14
+00:00:50,176 --> 00:00:53,248
+<font color="#f9f9f9">I'm sure our listeners would love to hear this thanks</font>
+
+15
+00:00:53,760 --> 00:00:56,320
+<font color="#eeeeee">You see diamonds are simply carbon</font>
+
+16
+00:00:56,576 --> 00:00:58,368
+<font color="#f5f5f5">They're formed deep within the Earth</font>
+
+17
+00:00:58,624 --> 00:01:02,976
+<font color="#fcfcfc">Basically the combination of extreme heat and pressure under the Earth</font>
+
+18
+00:01:03,232 --> 00:01:03,744
+<font color="#fcfcfc">Surface</font>
+
+19
+00:01:04,000 --> 00:01:05,280
+<font color="#fcfcfc">Takes a lump of carbon</font>
+
+20
+00:01:05,536 --> 00:01:09,120
+<font color="#cacaca">Like coal and transforms it into a diamond</font>
+
+21
+00:01:09,632 --> 00:01:13,216
+<font color="#fcfcfc">What's the connection between diamonds and volcanoes</font>
+
+22
+00:01:13,728 --> 00:01:15,008
+<font color="#fcfcfc">Well as I said</font>
+
+23
+00:01:15,264 --> 00:01:17,824
+<font color="#fcfcfc">Diamonds are formed deep underground</font>
+
+24
+00:01:18,080 --> 00:01:20,640
+<font color="#fcfcfc">But we often find them near the surface</font>
+
+25
+00:01:20,896 --> 00:01:22,176
+<font color="#f4f4f4">How does that happen</font>
+
+26
+00:01:22,944 --> 00:01:24,224
+<font color="#fcfcfc">Most of the time</font>
+
+27
+00:01:24,480 --> 00:01:26,272
+<font color="#fcfcfc">It happens due to volcanoes</font>
+
+28
+00:01:26,784 --> 00:01:27,552
+<font color="#fcfcfc">Essentially</font>
+
+29
+00:01:27,808 --> 00:01:31,136
+<font color="#f3f3f3">Volcanic activity forces diamonds to the surface</font>
+
+30
+00:01:31,648 --> 00:01:33,696
+<font color="#d9d9d9">Aura at least close to it</font>
+
+31
+00:01:33,952 --> 00:01:38,048
+<font color="#fcfcfc">For that reason the majority of diamonds are discovered near places</font>
+
+32
+00:01:38,304 --> 00:01:41,120
+<font color="#fcfcfc">That were either volcanically active in the past</font>
+
+33
+00:01:41,376 --> 00:01:42,912
+<font color="#fcfcfc">Or have active volcanoes</font>
+
+34
+00:01:43,424 --> 00:01:48,544
+<font color="#f9f9f9">And we live in an area that once had active volcanoes right that's correct</font>
+
+35
+00:01:49,056 --> 00:01:51,360
+<font color="#d5d5d5">But the last volcanic eruption here</font>
+
+36
+00:01:51,616 --> 00:01:53,408
+<font color="#fcfcfc">Happened millions of years ago</font>
+
+37
+00:01:53,664 --> 00:01:56,480
+<font color="#fafafa">So we don't need to worry about any eruptions at all</font>
+
+38
+00:01:56,736 --> 00:01:57,504
+<font color="#fcfcfc">That's a relief</font>
+
+39
+00:01:58,016 --> 00:02:00,320
+<font color="#e1e1e1">So if I understand you correctly</font>
+
+40
+00:02:00,576 --> 00:02:06,208
+<font color="#f2f2f2">You're saying that all I need to do is go to the site of an extinct volcano and start digging</font>
+
+41
+00:02:06,720 --> 00:02:08,768
+<font color="#f3f3f3">And then I'll be able to find some diamonds</font>
+
+42
+00:02:09,280 --> 00:02:12,864
+<font color="#ebebeb">Oh I am definitely not saying that Peter</font>
+
+43
+00:02:13,120 --> 00:02:16,192
+<font color="#dbdbdb">Well some diamonds have been found in this area</font>
+
+44
+00:02:16,448 --> 00:02:19,776
+<font color="#e5e5e5">It's not as simple as grabbing a shovel in digging them up</font>
+
+45
+00:02:20,032 --> 00:02:22,592
+<font color="#ececec">If it were I'd already be rich</font>
+
+46
+00:02:23,104 --> 00:02:27,456
+<font color="#fcfcfc">Let me tell you what you need to do if you really want to find some diamonds</font>
+
+47
+00:02:28,736 --> 00:02:30,272
+<font color="#ededed">Now answer the questions</font>
+
+48
+00:02:31,552 --> 00:02:32,832
+<font color="#fcfcfc">Number 33</font>
+
+49
+00:02:33,344 --> 00:02:35,648
+<font color="#f3f3f3">What are the speakers mainly discussing</font>

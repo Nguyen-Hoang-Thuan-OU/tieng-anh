@@ -1,0 +1,31 @@
+﻿1
+00:00:00,256 --> 00:00:04,608
+<font color="#b6b6b6">Number nine listen to a teacher talking in a chemistry class</font>
+
+2
+00:00:05,632 --> 00:00:11,776
+<font color="#f7f7f7">This chart is known as the periodic table of elements it list all the elements known to man</font>
+
+3
+00:00:12,032 --> 00:00:18,176
+<font color="#e4e4e4">This includes those that appear naturally and those that are man-made look at the end of</font>
+
+4
+00:00:18,432 --> 00:00:24,576
+<font color="#f1f1f1">Visual boxes each has one or two large letters these are the symbols for</font>
+
+5
+00:00:24,832 --> 00:00:25,600
+<font color="#fcfcfc">Visual elements</font>
+
+6
+00:00:25,856 --> 00:00:32,000
+<font color="#e4e4e4">For instance hydrogen is represented by an H notice that there are numbers in</font>
+
+7
+00:00:32,256 --> 00:00:33,792
+<font color="#c4c4c4">Inside each box 2</font>
+
+8
+00:00:34,560 --> 00:00:37,376
+<font color="#fcfcfc">What will the teacher probably do next</font>

@@ -1,0 +1,619 @@
+﻿1
+00:00:00,512 --> 00:00:01,280
+<font color="#fcfcfc">Question</font>
+
+2
+00:00:01,536 --> 00:00:02,304
+<font color="#fcfcfc">1</font>
+
+3
+00:00:03,584 --> 00:00:05,376
+<font color="#fcfcfc">Listen to this news item</font>
+
+4
+00:00:06,656 --> 00:00:09,216
+<font color="#fafafa">A man has been given an award for</font>
+
+5
+00:00:09,472 --> 00:00:10,240
+<font color="#d2d2d2">Hey</font>
+
+6
+00:00:10,496 --> 00:00:12,032
+<font color="#dbdbdb">Shooting a robber</font>
+
+7
+00:00:12,800 --> 00:00:13,568
+<font color="#656565">Be</font>
+
+8
+00:00:14,336 --> 00:00:16,384
+<font color="#fcfcfc">Visiting a little Chef Restaurant</font>
+
+9
+00:00:17,408 --> 00:00:18,176
+<font color="#cdcdcd">See</font>
+
+10
+00:00:18,432 --> 00:00:19,968
+<font color="#e7e7e7">Arresting a robber</font>
+
+11
+00:00:21,504 --> 00:00:27,648
+<font color="#e7e7e7">Local newspaper reporter Alan Francis made the news</font>
+
+12
+00:00:27,904 --> 00:00:34,048
+<font color="#acacac">Robert and does not been awarded the Queen's combination for bravery is the France is so a man</font>
+
+13
+00:00:34,304 --> 00:00:38,400
+<font color="#b6b6b6">A shotgun holding up customers of the Little Chef Restaurant in Putney two years ago</font>
+
+14
+00:00:38,656 --> 00:00:44,800
+<font color="#dbdbdb">Define himself with the man wrestled him to the ground and even though the shotgun went off until the police arrived</font>
+
+15
+00:00:45,312 --> 00:00:48,128
+<font color="#cecece">The rubber Frank melon have been jailed the 80s</font>
+
+16
+00:00:53,248 --> 00:00:59,392
+<font color="#e4e4e4">Local newspaper reporter Alan Francis made the news himself</font>
+
+17
+00:00:59,648 --> 00:01:05,792
+<font color="#b3b3b3">Has not been awarded the Queen's combination for bravery is the Francis or man on</font>
+
+18
+00:01:06,048 --> 00:01:09,888
+<font color="#c6c6c6">Do the shotgun holding up customers</font>
+
+19
+00:01:10,144 --> 00:01:16,288
+<font color="#bababa">Define himself with the man wrestled him to the ground and even though the shotgun went off he had lunch with until the police arrived</font>
+
+20
+00:01:16,800 --> 00:01:19,616
+<font color="#d1d1d1">The rubber Frank Mellon has been jailed for a GS</font>
+
+21
+00:01:23,456 --> 00:01:24,992
+<font color="#c6c6c6">Question 2</font>
+
+22
+00:01:26,528 --> 00:01:30,112
+<font color="#ebebeb">You've left your car in the car park for 40 minutes</font>
+
+23
+00:01:30,368 --> 00:01:32,928
+<font color="#fafafa">You must pay a</font>
+
+24
+00:01:33,184 --> 00:01:34,464
+<font color="#e8e8e8">50 pence</font>
+
+25
+00:01:35,232 --> 00:01:36,000
+<font color="#666666">Be</font>
+
+26
+00:01:36,256 --> 00:01:37,024
+<font color="#fcfcfc">Nothing</font>
+
+27
+00:01:38,048 --> 00:01:38,816
+<font color="#c2c2c2">See</font>
+
+28
+00:01:39,072 --> 00:01:40,096
+<font color="#ededed">A pound</font>
+
+29
+00:01:41,888 --> 00:01:48,032
+<font color="#e7e7e7">Remind customers that I love</font>
+
+30
+00:01:48,288 --> 00:01:54,432
+<font color="#f4f4f4">There is no charge for any less than 30 minutes</font>
+
+31
+00:01:54,688 --> 00:02:00,832
+<font color="#c8c8c8">That time however it will be a charge of fifty Pence up to the faster and one town to any stay longer than</font>
+
+32
+00:02:01,088 --> 00:02:02,880
+<font color="#888888">In one hour thank you</font>
+
+33
+00:02:08,512 --> 00:02:14,656
+<font color="#d0d0d0">Remind customers that are large</font>
+
+34
+00:02:14,912 --> 00:02:21,056
+<font color="#b1b1b1">Pop out of the store there is no charge for any stay of less than 2:30</font>
+
+35
+00:02:21,312 --> 00:02:27,456
+<font color="#ebebeb">That time however it will be a charge of fifty Pence up to the faster and 1 lb Penny stay longer than one</font>
+
+36
+00:02:27,712 --> 00:02:29,248
+<font color="#9b9b9b">Thank you</font>
+
+37
+00:02:32,576 --> 00:02:34,112
+<font color="#c8c8c8">Question three</font>
+
+38
+00:02:35,136 --> 00:02:36,928
+<font color="#fcfcfc">Listen to this conversation</font>
+
+39
+00:02:37,696 --> 00:02:39,488
+<font color="#fcfcfc">It takes place in</font>
+
+40
+00:02:40,000 --> 00:02:41,792
+<font color="#e8e8e8">Hey a factory</font>
+
+41
+00:02:42,816 --> 00:02:44,608
+<font color="#d6d6d6">Be a garage</font>
+
+42
+00:02:45,632 --> 00:02:47,424
+<font color="#ffffff">See a supermarket</font>
+
+43
+00:02:49,472 --> 00:02:55,616
+<font color="#e0e0e0">That looks better than the last time I saw Terry</font>
+
+44
+00:02:55,872 --> 00:03:02,016
+<font color="#b9b9b9">SpongeBob thought it was bound to look bad having run into the back of the bus at 40 miles an hour</font>
+
+45
+00:03:02,272 --> 00:03:08,416
+<font color="#9d9d9d">Headlamp bands look better can I drive it away now I need to get the front wheels back on and check the alignment</font>
+
+46
+00:03:08,672 --> 00:03:11,232
+<font color="#fcfcfc">Go back in an hour no problem I'll just do some shopping</font>
+
+47
+00:03:16,864 --> 00:03:23,008
+<font color="#adadad">That looks better than the last time I saw Terry</font>
+
+48
+00:03:23,264 --> 00:03:29,408
+<font color="#ababab">Thanks Bubba. It was bound to look bad having run into the back of the bus at 40 miles an hour</font>
+
+49
+00:03:29,664 --> 00:03:35,808
+<font color="#a6a6a6">Headlamps is bound to look better can I drive it away now I need to get the front wheels back on and check the alignment</font>
+
+50
+00:03:36,064 --> 00:03:38,880
+<font color="#d4d4d4">Nickelback in an hour no problem I'll just do some shopping</font>
+
+51
+00:03:42,208 --> 00:03:43,488
+<font color="#c6c6c6">Question for</font>
+
+52
+00:03:44,512 --> 00:03:46,304
+<font color="#fcfcfc">Listen to this conversation</font>
+
+53
+00:03:47,328 --> 00:03:48,096
+<font color="#fcfcfc">Vera</font>
+
+54
+00:03:48,608 --> 00:03:49,376
+<font color="#d2d2d2">Hey</font>
+
+55
+00:03:49,888 --> 00:03:51,936
+<font color="#adadad">We'll go out with Terry bolum</font>
+
+56
+00:03:52,704 --> 00:03:53,728
+<font color="#5f5f5f">Be</font>
+
+57
+00:03:53,984 --> 00:03:56,032
+<font color="#cccccc">Don't go out with Terry Bolin</font>
+
+58
+00:03:56,800 --> 00:03:59,104
+<font color="#fcfcfc">See he's undecided</font>
+
+59
+00:04:00,640 --> 00:04:06,784
+<font color="#cbcbcb">Maybe you know that terrible with him</font>
+
+60
+00:04:07,040 --> 00:04:13,184
+<font color="#c3c3c3">He's asked me out to the cinema tomorrow OU look at things so good-looking when you get to go anywhere</font>
+
+61
+00:04:13,440 --> 00:04:19,583
+<font color="#dcdcdc">Well it was</font>
+
+62
+00:04:19,839 --> 00:04:22,655
+<font color="#fcfcfc">I don't want something like that happening to me</font>
+
+63
+00:04:23,167 --> 00:04:25,471
+<font color="#cfcfcf">But it said if you don't go out with him</font>
+
+64
+00:04:31,359 --> 00:04:37,503
+<font color="#c7c7c7">Baby you know that terrible with him</font>
+
+65
+00:04:37,759 --> 00:04:43,903
+<font color="#b3b3b3">He's asked me out to the cinema tomorrow so good-looking when you get to go next</font>
+
+66
+00:04:44,159 --> 00:04:50,303
+<font color="#e6e6e6">Well it was</font>
+
+67
+00:04:51,327 --> 00:04:53,631
+<font color="#fbfbfb">I don't want something like that happening to me</font>
+
+68
+00:04:54,143 --> 00:04:56,447
+<font color="#ececec">What it says. If you don't go out with him</font>
+
+69
+00:05:00,543 --> 00:05:01,823
+<font color="#e5e5e5">Question 5</font>
+
+70
+00:05:02,591 --> 00:05:04,639
+<font color="#f1f1f1">Listen to this lecture</font>
+
+71
+00:05:05,407 --> 00:05:06,943
+<font color="#f3f3f3">The lecture is about</font>
+
+72
+00:05:07,199 --> 00:05:07,711
+<font color="#d2d2d2">Hey</font>
+
+73
+00:05:08,223 --> 00:05:08,991
+<font color="#f4f4f4">Law</font>
+
+74
+00:05:10,015 --> 00:05:11,807
+<font color="#8a8a8a">B biology</font>
+
+75
+00:05:13,087 --> 00:05:13,855
+<font color="#cdcdcd">See</font>
+
+76
+00:05:14,111 --> 00:05:14,879
+<font color="#fcfcfc">History</font>
+
+77
+00:05:16,927 --> 00:05:23,071
+<font color="#f4f4f4">Another Factor contributing to the Industrial Revolution with the flow of people from the countryside</font>
+
+78
+00:05:23,327 --> 00:05:24,351
+<font color="#9d9d9d">To the towns</font>
+
+79
+00:05:25,375 --> 00:05:29,983
+<font color="#a5a5a5">Hello had been passed preventing people from keeping the animals on Cumberland</font>
+
+80
+00:05:30,239 --> 00:05:34,591
+<font color="#c2c2c2">And thanks together with the absence of any form of assistance for the pool</font>
+
+81
+00:05:34,847 --> 00:05:39,455
+<font color="#a4a4a4">Force country people to move to the towns to look for work</font>
+
+82
+00:05:39,711 --> 00:05:42,271
+<font color="#c4c4c4">Continue the battle for survival</font>
+
+83
+00:05:47,903 --> 00:05:53,791
+<font color="#fcfcfc">Another Factor contributing to the Industrial Revolution with the flow of people from the countryside</font>
+
+84
+00:05:54,047 --> 00:05:55,327
+<font color="#b7b7b7">To the towns</font>
+
+85
+00:05:56,351 --> 00:06:00,959
+<font color="#c4c4c4">Hello had been passed preventing people from keeping the animals on Cumberland</font>
+
+86
+00:06:01,215 --> 00:06:05,567
+<font color="#d2d2d2">And thanks together with the absence of any form of assistance for the pool</font>
+
+87
+00:06:05,823 --> 00:06:10,431
+<font color="#bebebe">Force country people to move to the towns to look for work</font>
+
+88
+00:06:10,687 --> 00:06:13,247
+<font color="#e2e2e2">Continue the battle for survival</font>
+
+89
+00:06:17,343 --> 00:06:18,623
+<font color="#cdcdcd">Question 6</font>
+
+90
+00:06:20,415 --> 00:06:22,719
+<font color="#fcfcfc">Listen to this introduction on the radio</font>
+
+91
+00:06:23,487 --> 00:06:24,767
+<font color="#ececec">Show is</font>
+
+92
+00:06:25,023 --> 00:06:25,791
+<font color="#fcfcfc">Hey</font>
+
+93
+00:06:26,303 --> 00:06:27,327
+<font color="#fcfcfc">The news</font>
+
+94
+00:06:28,095 --> 00:06:28,863
+<font color="#696969">Be</font>
+
+95
+00:06:29,631 --> 00:06:30,911
+<font color="#dddddd">A game show</font>
+
+96
+00:06:31,679 --> 00:06:32,447
+<font color="#c2c2c2">See</font>
+
+97
+00:06:32,703 --> 00:06:33,983
+<font color="#cacaca">Attract show</font>
+
+98
+00:06:35,775 --> 00:06:41,919
+<font color="#c7c7c7">And today's guest is coming long way from a humble beginnings she was</font>
+
+99
+00:06:42,175 --> 00:06:45,247
+<font color="#f2f2f2">Born in 1906 in Sunderland next to the dockyard</font>
+
+100
+00:06:45,503 --> 00:06:51,647
+<font color="#b9b9b9">When she was 8 have father joined up to fight in the first world war and was killed in the first back Levy</font>
+
+101
+00:06:51,903 --> 00:06:58,047
+<font color="#e3e3e3">Is plantae family into the deepest poverty in order to paper clothes to go to school she would get up at 4</font>
+
+102
+00:06:58,303 --> 00:07:04,447
+<font color="#ececec">Coke in the morning to deliver milk before-school and after-school can a local shop until 10 at night</font>
+
+103
+00:07:04,703 --> 00:07:09,567
+<font color="#d8d8d8">Peggy Mansfield that sounds like horrific Lee hard work how did you manage it</font>
+
+104
+00:07:14,687 --> 00:07:20,831
+<font color="#fcfcfc">And today's guest is, long way from a humble beginnings she was</font>
+
+105
+00:07:21,087 --> 00:07:27,231
+<font color="#ebebeb">Born in 1986 in Sunderland next to the dockyard when she was eight have father joined up to fight in the first</font>
+
+106
+00:07:27,487 --> 00:07:33,631
+<font color="#b0b0b0">And was killed in the Fastback Levi this plant a family into the deepest property you know</font>
+
+107
+00:07:33,887 --> 00:07:39,263
+<font color="#e9e9e9">Go to the paper clothes to go to school she would get up at 4 in the morning to deliver milk before school</font>
+
+108
+00:07:39,519 --> 00:07:45,663
+<font color="#e3e3e3">Adopt-a-school wax in a local shop until 10 at night Dame Peggy Mansfield that sounds like her</font>
+
+109
+00:07:45,919 --> 00:07:48,479
+<font color="#a6a6a6">Terrifically hard work how did you manage it</font>
+
+110
+00:07:52,063 --> 00:07:53,343
+<font color="#b5b5b5">Question 7</font>
+
+111
+00:07:54,879 --> 00:07:56,927
+<font color="#fcfcfc">Listen to this announcement</font>
+
+112
+00:07:57,951 --> 00:07:59,487
+<font color="#c3c3c3">Listerhill is</font>
+
+113
+00:08:00,255 --> 00:08:01,279
+<font color="#d2d2d2">Hey</font>
+
+114
+00:08:01,535 --> 00:08:03,071
+<font color="#fcfcfc">Dangerously ill</font>
+
+115
+00:08:03,839 --> 00:08:06,399
+<font color="#f5f5f5">Be wanted by the police</font>
+
+116
+00:08:07,167 --> 00:08:09,727
+<font color="#a3a3a3">See on holiday in Scotland</font>
+
+117
+00:08:11,007 --> 00:08:17,151
+<font color="#d8d8d8">And now here's an SOS message mister Golden Hill Ave Braintree</font>
+
+118
+00:08:17,407 --> 00:08:23,551
+<font color="#b0b0b0">In Essex will miss the Golden Hill Ave Braintree in Essex who is believed to be on a touring holiday in Scotland</font>
+
+119
+00:08:23,807 --> 00:08:27,391
+<font color="#cccccc">Please contact maidenhead hospital all the nearest police station</font>
+
+120
+00:08:27,647 --> 00:08:33,791
+<font color="#9d9d9d">Mister his mother is dangerously ill in maidenhead and the hospital would like him to get in touch with them as soon as possible</font>
+
+121
+00:08:34,047 --> 00:08:35,583
+<font color="#fcfcfc">The telephone number is</font>
+
+122
+00:08:35,839 --> 00:08:41,215
+<font color="#8b8b8b">04/12 6409 867</font>
+
+123
+00:08:41,471 --> 00:08:42,239
+<font color="#afafaf">I'll repeat that</font>
+
+124
+00:08:42,751 --> 00:08:45,823
+<font color="#f9f9f9">The telephone number of maidenhead hospital is</font>
+
+125
+00:08:46,079 --> 00:08:48,383
+<font color="#b4b4b4">Opal 126</font>
+
+126
+00:08:48,639 --> 00:08:51,199
+<font color="#f9f9f9">409 867</font>
+
+127
+00:08:51,967 --> 00:08:54,271
+<font color="#9c9c9c">Irregular 6 program</font>
+
+128
+00:08:59,391 --> 00:09:05,535
+<font color="#dddddd">And now here's an SOS message mister Golden Hill Ave Braintree in</font>
+
+129
+00:09:05,791 --> 00:09:11,935
+<font color="#a8a8a8">Golden Health Braintree in Essex who is believed to be on a touring holiday in Scotland please</font>
+
+130
+00:09:12,191 --> 00:09:15,519
+<font color="#d9d9d9">Please contact maidenhead hospital all the nearest police station</font>
+
+131
+00:09:16,031 --> 00:09:22,175
+<font color="#cacaca">Vista Hills mother is dangerously ill in maidenhead and the hospital would like him to get in touch with them as soon as possible</font>
+
+132
+00:09:22,431 --> 00:09:26,271
+<font color="#f9f9f9">The telephone number is 04126</font>
+
+133
+00:09:26,527 --> 00:09:29,599
+<font color="#f5f5f5">409 867</font>
+
+134
+00:09:29,855 --> 00:09:30,623
+<font color="#eaeaea">Repeat that</font>
+
+135
+00:09:30,879 --> 00:09:34,207
+<font color="#f9f9f9">The telephone number of maidenhead hospital is</font>
+
+136
+00:09:34,463 --> 00:09:39,583
+<font color="#8d8d8d">04/12 6409 867</font>
+
+137
+00:09:40,351 --> 00:09:42,655
+<font color="#9a9a9a">A regular 6 program</font>
+
+138
+00:09:45,983 --> 00:09:47,007
+<font color="#cacaca">Question 8</font>
+
+139
+00:09:48,799 --> 00:09:50,335
+<font color="#fcfcfc">Listen to this conversation</font>
+
+140
+00:09:51,359 --> 00:09:52,127
+<font color="#c1c1c1">Jim</font>
+
+141
+00:09:52,639 --> 00:09:53,407
+<font color="#d2d2d2">Hey</font>
+
+142
+00:09:53,919 --> 00:09:55,711
+<font color="#dddddd">Will buy dog food</font>
+
+143
+00:09:56,223 --> 00:09:56,735
+<font color="#595959">Be</font>
+
+144
+00:09:57,247 --> 00:09:59,295
+<font color="#f3f3f3">Will not buy dog food</font>
+
+145
+00:10:00,063 --> 00:10:00,831
+<font color="#cdcdcd">See</font>
+
+146
+00:10:01,087 --> 00:10:03,647
+<font color="#c9c9c9">Will by Sainsbury's cat food</font>
+
+147
+00:10:05,695 --> 00:10:11,839
+<font color="#eaeaea">Bread butter cheese vitamin tablets Cochise</font>
+
+148
+00:10:12,095 --> 00:10:18,239
+<font color="#eeeeee">Have a good maple syrup dog food</font>
+
+149
+00:10:18,495 --> 00:10:19,775
+<font color="#c7c7c7">Goodwill if it's hungry enough</font>
+
+150
+00:10:20,031 --> 00:10:26,175
+<font color="#c4c4c4">And anyway I haven't got time to go to time I need nail polish remover can you get some of that okay</font>
+
+151
+00:10:26,431 --> 00:10:27,455
+<font color="#9b9b9b">But it done</font>
+
+152
+00:10:33,087 --> 00:10:39,231
+<font color="#d8d8d8">Bread butter cheese vitamin tablets cheese</font>
+
+153
+00:10:39,487 --> 00:10:45,631
+<font color="#f5f5f5">Have a good maple syrup dog food the dog doesn't eat Sainsbury's dog food</font>
+
+154
+00:10:45,887 --> 00:10:52,031
+<font color="#c7c7c7">Will if it's hungry enough time to go into town I need nail polish remover</font>
+
+155
+00:10:52,287 --> 00:10:54,591
+<font color="#e6e6e6">Can you get some of that okay I'll put it done</font>

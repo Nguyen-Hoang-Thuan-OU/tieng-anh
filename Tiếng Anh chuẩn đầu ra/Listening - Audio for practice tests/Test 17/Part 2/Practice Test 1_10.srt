@@ -1,0 +1,179 @@
+﻿1
+00:00:00,256 --> 00:00:02,816
+<font color="#dedede">Now you will hear longer talk or conversations</font>
+
+2
+00:00:03,328 --> 00:00:06,912
+<font color="#fcfcfc">East awkward conversation will be followed by three or more questions</font>
+
+3
+00:00:07,680 --> 00:00:13,056
+<font color="#eaeaea">Choose the best answer to each question then Mark the letter of the correct answer on your answer sheet</font>
+
+4
+00:00:13,824 --> 00:00:16,640
+<font color="#d3d3d3">You will hear each talk or conversation only one time</font>
+
+5
+00:00:17,664 --> 00:00:19,200
+<font color="#fcfcfc">Questions 10 through 13</font>
+
+6
+00:00:19,456 --> 00:00:22,272
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+7
+00:00:23,040 --> 00:00:24,064
+<font color="#e8e8e8">Hey Greg</font>
+
+8
+00:00:24,320 --> 00:00:27,136
+<font color="#fcfcfc">I see you just finished up soccer practice</font>
+
+9
+00:00:27,392 --> 00:00:30,976
+<font color="#fcfcfc">Volleyball practice ended for me only a few minutes ago</font>
+
+10
+00:00:31,488 --> 00:00:32,512
+<font color="#fcfcfc">That's great</font>
+
+11
+00:00:32,768 --> 00:00:34,816
+<font color="#fcfcfc">How is the team looking this year</font>
+
+12
+00:00:35,072 --> 00:00:37,120
+<font color="#fcfcfc">Do you think you'll have a winning record</font>
+
+13
+00:00:37,632 --> 00:00:40,448
+<font color="#f9f9f9">Oh we definitely expect to do well</font>
+
+14
+00:00:40,704 --> 00:00:46,848
+<font color="#f7f7f7">All of the starters from last year's Squad are returning and that team only lost three games all year</font>
+
+15
+00:00:47,616 --> 00:00:52,736
+<font color="#e7e7e7">If you ask me I'd say we have a great shot at winning the state championship</font>
+
+16
+00:00:52,992 --> 00:00:54,784
+<font color="#fcfcfc">That's awesome news</font>
+
+17
+00:00:55,040 --> 00:00:57,344
+<font color="#fcfcfc">I hope the team meets expectations</font>
+
+18
+00:00:57,856 --> 00:01:00,928
+<font color="#fcfcfc">So what about the soccer team</font>
+
+19
+00:01:01,184 --> 00:01:03,232
+<font color="#fcfcfc">How do you guys expect to do</font>
+
+20
+00:01:03,488 --> 00:01:05,536
+<font color="#dadada">We are hoping to have a winning record</font>
+
+21
+00:01:05,792 --> 00:01:06,816
+<font color="#cecece">But</font>
+
+22
+00:01:07,072 --> 00:01:10,400
+<font color="#ededed">I don't know if I am going to be a part of the team this year</font>
+
+23
+00:01:10,912 --> 00:01:11,680
+<font color="#e6e6e6">Huh</font>
+
+24
+00:01:11,936 --> 00:01:18,080
+<font color="#fcfcfc">Tryouts are already over and you made the team coach Murphy isn't going to cut you now is he</font>
+
+25
+00:01:18,336 --> 00:01:20,896
+<font color="#bebebe">After all you are a starter</font>
+
+26
+00:01:21,152 --> 00:01:22,432
+<font color="#fcfcfc">No it's not that</font>
+
+27
+00:01:22,688 --> 00:01:26,272
+<font color="#fcfcfc">It's just that I'm having trouble keeping my grades up right now</font>
+
+28
+00:01:26,784 --> 00:01:29,088
+<font color="#dadada">I'm taking to advanced placement classes</font>
+
+29
+00:01:29,344 --> 00:01:30,624
+<font color="#eeeeee">In math and history</font>
+
+30
+00:01:30,880 --> 00:01:32,928
+<font color="#fcfcfc">And you know how much work they are</font>
+
+31
+00:01:33,440 --> 00:01:36,768
+<font color="#efefef">Since the team either practices or plays everyday</font>
+
+32
+00:01:37,280 --> 00:01:39,584
+<font color="#f5f5f5">I'm losing a lot of valuable study time</font>
+
+33
+00:01:39,840 --> 00:01:45,984
+<font color="#f8f8f8">You shouldn't quit though it's your senior year this is your last chance to be on the team</font>
+
+34
+00:01:46,240 --> 00:01:46,752
+<font color="#666666">Teen</font>
+
+35
+00:01:47,008 --> 00:01:49,056
+<font color="#fcfcfc">But what about my grades</font>
+
+36
+00:01:50,848 --> 00:01:53,408
+<font color="#fafafa">We're in the same AP classes right</font>
+
+37
+00:01:53,920 --> 00:01:58,016
+<font color="#d4d4d4">Why don't we get together after practice every day in study</font>
+
+38
+00:01:58,272 --> 00:02:02,368
+<font color="#d5d5d5">I could invite a couple other members of the team to join our study group</font>
+
+39
+00:02:02,880 --> 00:02:06,464
+<font color="#dbdbdb">Make it good grades so we could help each other</font>
+
+40
+00:02:06,976 --> 00:02:08,512
+<font color="#fcfcfc">That just might work</font>
+
+41
+00:02:08,768 --> 00:02:11,840
+<font color="#fcfcfc">What do you say to having our first meeting tomorrow</font>
+
+42
+00:02:12,096 --> 00:02:13,888
+<font color="#fcfcfc">It sounds perfect</font>
+
+43
+00:02:14,144 --> 00:02:16,960
+<font color="#fafafa">I'll talk to Jenny and Karen later tonight</font>
+
+44
+00:02:18,752 --> 00:02:20,544
+<font color="#f5f5f5">Now answer the questions</font>
+
+45
+00:02:21,568 --> 00:02:24,896
+<font color="#e8e8e8">Number 10 what are the students mainly talking about</font>

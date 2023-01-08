@@ -1,0 +1,131 @@
+﻿1
+00:00:00,256 --> 00:00:02,560
+<font color="#f0f0f0">Questions 18 through 22</font>
+
+2
+00:00:02,816 --> 00:00:06,144
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+3
+00:00:07,168 --> 00:00:12,544
+<font color="#999999">Chill right what did Mister Stevenson want to talk to you about after class today</font>
+
+4
+00:00:13,056 --> 00:00:18,176
+<font color="#f8f8f8">Oh he just told me about a science fair that's going to be held next month</font>
+
+5
+00:00:18,688 --> 00:00:24,832
+<font color="#fafafa">A science fair that's peculiar I didn't think that the school was having one this year</font>
+
+6
+00:00:25,600 --> 00:00:27,136
+<font color="#f2f2f2">You're right we're not</font>
+
+7
+00:00:27,648 --> 00:00:30,720
+<font color="#939393">Lynnwood sciencecare was he talkin about</font>
+
+8
+00:00:30,976 --> 00:00:33,536
+<font color="#f1f1f1">It's a special event sponsored by the city</font>
+
+9
+00:00:33,792 --> 00:00:38,400
+<font color="#d9d9d9">A bunch of students from all of the schools in the city are going to compete in it</font>
+
+10
+00:00:38,656 --> 00:00:41,984
+<font color="#cfcfcf">Mr. Stephenson thinks that I ought to enter the contest</font>
+
+11
+00:00:42,496 --> 00:00:44,544
+<font color="#fcfcfc">So that's why he told me about it</font>
+
+12
+00:00:44,800 --> 00:00:49,664
+<font color="#e7e7e7">Really I wonder why he told you and that the rest of the students</font>
+
+13
+00:00:49,920 --> 00:00:53,504
+<font color="#fcfcfc">Are you some kind of scientific genius or something</font>
+
+14
+00:00:53,760 --> 00:00:55,808
+<font color="#fcfcfc">I don't know about that</font>
+
+15
+00:00:56,064 --> 00:00:59,392
+<font color="#f3f3f3">But I enjoy spending lots of time in the school science lab</font>
+
+16
+00:00:59,904 --> 00:01:03,488
+<font color="#cfcfcf">Mister Stevenson and I have been doing some research in chemistry</font>
+
+17
+00:01:03,744 --> 00:01:05,024
+<font color="#fcfcfc">During my free time</font>
+
+18
+00:01:05,280 --> 00:01:08,352
+<font color="#fcfcfc">So he wants me to do something related to that research</font>
+
+19
+00:01:08,608 --> 00:01:09,632
+<font color="#fcfcfc">For the science fair</font>
+
+20
+00:01:09,888 --> 00:01:16,032
+<font color="#d5d5d5">I never knew that about you I always wondered where you went after school</font>
+
+21
+00:01:16,288 --> 00:01:18,848
+<font color="#fcfcfc">I thought you were playing sports</font>
+
+22
+00:01:19,104 --> 00:01:21,408
+<font color="#fcfcfc">No I don't really enjoy sports</font>
+
+23
+00:01:21,664 --> 00:01:23,968
+<font color="#fcfcfc">I don't have that much athletic ability</font>
+
+24
+00:01:24,224 --> 00:01:30,368
+<font color="#bfbfbf">And neither do I so I can you tell me about the experiments you're doing</font>
+
+25
+00:01:30,624 --> 00:01:33,184
+<font color="#d8d8d8">Actually kind of enjoy science myself</font>
+
+26
+00:01:33,696 --> 00:01:36,256
+<font color="#fbfbfb">It's a little hard to explain instead</font>
+
+27
+00:01:36,512 --> 00:01:39,328
+<font color="#fcfcfc">Why don't you visit the science lab after school today</font>
+
+28
+00:01:39,584 --> 00:01:41,632
+<font color="#f2f2f2">I can show you what I am working on</font>
+
+29
+00:01:42,144 --> 00:01:46,240
+<font color="#f8f8f8">Is that sounds great I'll see you at the lab then</font>
+
+30
+00:01:48,288 --> 00:01:50,336
+<font color="#fcfcfc">Now answer the questions</font>
+
+31
+00:01:51,360 --> 00:01:52,640
+<font color="#f8f8f8">Number 18</font>
+
+32
+00:01:52,896 --> 00:01:55,968
+<font color="#fcfcfc">How does the girl probably feel when she says</font>
+
+33
+00:01:56,480 --> 00:01:59,552
+<font color="#fcfcfc">A science fair that's peculiar</font>

@@ -1,0 +1,155 @@
+﻿1
+00:00:00,256 --> 00:00:02,560
+<font color="#f2f2f2">Now you will hear longer talks or conversations</font>
+
+2
+00:00:03,072 --> 00:00:06,656
+<font color="#b8b8b8">Each talk or conversation will be followed by three or more questions</font>
+
+3
+00:00:07,168 --> 00:00:09,472
+<font color="#fcfcfc">Choose the best answer to each question</font>
+
+4
+00:00:09,728 --> 00:00:12,800
+<font color="#c1c1c1">And mark the letter of the correct answer on your answer sheet</font>
+
+5
+00:00:13,056 --> 00:00:16,384
+<font color="#f0f0f0">You will hear each talk or conversation only one time</font>
+
+6
+00:00:17,408 --> 00:00:19,200
+<font color="#e6e6e6">Questions 10 through 13</font>
+
+7
+00:00:19,712 --> 00:00:22,272
+<font color="#fcfcfc">Listen to a conversation between two students</font>
+
+8
+00:00:23,040 --> 00:00:27,136
+<font color="#fbfbfb">I'm really glad that I decided to join the school band this year</font>
+
+9
+00:00:27,392 --> 00:00:33,536
+<font color="#fbfbfb">So am I this is my third year in the band and I must say it's the best one of all</font>
+
+10
+00:00:33,792 --> 00:00:37,120
+<font color="#f7f7f7">I think the fact that we have a new band director is great</font>
+
+11
+00:00:37,376 --> 00:00:41,728
+<font color="#d3d3d3">Mr. Conaway is much better than Mister Jesse ever was</font>
+
+12
+00:00:41,984 --> 00:00:46,080
+<font color="#efefef">I can't comment on that since I never got a chance to meet Mister Jesse</font>
+
+13
+00:00:46,336 --> 00:00:50,432
+<font color="#fcfcfc">But it sounds like every band member who knew both of them agrees with you</font>
+
+14
+00:00:50,944 --> 00:00:55,296
+<font color="#d9d9d9">Trust me mr. Conway is a huge Improvement</font>
+
+15
+00:00:55,552 --> 00:00:57,344
+<font color="#fcfcfc">He's a talented conductor</font>
+
+16
+00:00:57,600 --> 00:01:00,160
+<font color="#fcfcfc">And he's also an excellent teacher</font>
+
+17
+00:01:00,416 --> 00:01:04,512
+<font color="#f0f0f0">I feel that I've improved a lot as a flutist this past year</font>
+
+18
+00:01:04,768 --> 00:01:05,536
+<font color="#d5d5d5">Yeah</font>
+
+19
+00:01:05,792 --> 00:01:08,864
+<font color="#cbcbcb">I think mr. Conaway is definitely a good teacher</font>
+
+20
+00:01:09,120 --> 00:01:12,960
+<font color="#fcfcfc">He has taught me a few things about the trumpet that I never knew</font>
+
+21
+00:01:13,216 --> 00:01:15,008
+<font color="#f8f8f8">And I've been playing it for</font>
+
+22
+00:01:16,544 --> 00:01:18,336
+<font color="#9f9f9f">At least 6 years now</font>
+
+23
+00:01:18,592 --> 00:01:20,128
+<font color="#c6c6c6">Batmom huh</font>
+
+24
+00:01:20,640 --> 00:01:21,664
+<font color="#fcfcfc">Anyway</font>
+
+25
+00:01:21,920 --> 00:01:25,760
+<font color="#f9f9f9">Are you ready for the spring concert we're putting on next week</font>
+
+26
+00:01:26,016 --> 00:01:29,600
+<font color="#eaeaea">I think so I've learned most of the songs we're going to play</font>
+
+27
+00:01:29,856 --> 00:01:33,184
+<font color="#fcfcfc">There are still a couple of pieces that are giving me problems though</font>
+
+28
+00:01:33,696 --> 00:01:39,328
+<font color="#fcfcfc">I'm pretty much the same as you but I'm getting more comfortable with the difficult pieces</font>
+
+29
+00:01:39,584 --> 00:01:44,192
+<font color="#fcfcfc">I don't anticipate having any problems by the time we hold the concert</font>
+
+30
+00:01:44,448 --> 00:01:49,056
+<font color="#fcfcfc">I hope we don't have any everyone in my family is planning to be there</font>
+
+31
+00:01:49,312 --> 00:01:52,640
+<font color="#fcfcfc">So I'd hate to put on a poor performance in front of them</font>
+
+32
+00:01:53,152 --> 00:01:55,200
+<font color="#f4f4f4">That would be bad wouldn't it</font>
+
+33
+00:01:55,712 --> 00:01:58,528
+<font color="#fcfcfc">Well we better get to bed practice now</font>
+
+34
+00:01:58,784 --> 00:02:01,600
+<font color="#fcfcfc">Hopefully we can work out our problems today</font>
+
+35
+00:02:01,856 --> 00:02:02,880
+<font color="#fcfcfc">You said it</font>
+
+36
+00:02:03,136 --> 00:02:04,416
+<font color="#f7f7f7">Let's get going</font>
+
+37
+00:02:06,208 --> 00:02:08,000
+<font color="#fcfcfc">Now answer the questions</font>
+
+38
+00:02:08,768 --> 00:02:09,792
+<font color="#f6f6f6">Number 10</font>
+
+39
+00:02:10,048 --> 00:02:12,352
+<font color="#c4c4c4">Why does the girl mentioned mr. Jesse</font>

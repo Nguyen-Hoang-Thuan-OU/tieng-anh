@@ -1,0 +1,191 @@
+﻿1
+00:00:00,256 --> 00:00:02,048
+<font color="#e2e2e2">Questions 35 through 38</font>
+
+2
+00:00:02,304 --> 00:00:04,864
+<font color="#e9e9e9">Listen to a teacher talking and a chemistry class</font>
+
+3
+00:00:05,888 --> 00:00:07,936
+<font color="#f4f4f4">It's going to be cold tonight</font>
+
+4
+00:00:08,192 --> 00:00:13,568
+<font color="#fcfcfc">In fact it's going to be so cold that we're supposed to get the first Frost of the year</font>
+
+5
+00:00:13,824 --> 00:00:17,152
+<font color="#b4b4b4">No I know you've all heard that word before</font>
+
+6
+00:00:17,408 --> 00:00:21,248
+<font color="#fcfcfc">But what exactly does it mean what is Frost</font>
+
+7
+00:00:21,504 --> 00:00:22,528
+<font color="#fcfcfc">Simply put</font>
+
+8
+00:00:22,784 --> 00:00:24,832
+<font color="#fcfcfc">It's a type of Frozen water</font>
+
+9
+00:00:25,088 --> 00:00:27,648
+<font color="#f9f9f9">When the air has too much water vapor</font>
+
+10
+00:00:27,904 --> 00:00:32,256
+<font color="#fcfcfc">It condenses then it gets deposited on many surfaces</font>
+
+11
+00:00:32,512 --> 00:00:36,864
+<font color="#f0f0f0">Including the including the ground plus cars and windows</font>
+
+12
+00:00:37,632 --> 00:00:39,424
+<font color="#fcfcfc">If the temperature is cold enough</font>
+
+13
+00:00:39,680 --> 00:00:43,520
+<font color="#eaeaea">The water vapor freezes and thereby forms Frost</font>
+
+14
+00:00:44,032 --> 00:00:46,848
+<font color="#e7e7e7">Frost always appears to be white in color</font>
+
+15
+00:00:47,104 --> 00:00:50,432
+<font color="#f8f8f8">The reason is that the frost crystals contain are</font>
+
+16
+00:00:50,944 --> 00:00:52,992
+<font color="#fcfcfc">There are different types of Frost</font>
+
+17
+00:00:53,248 --> 00:00:55,040
+<font color="#fcfcfc">Let me tell you about three of them</font>
+
+18
+00:00:55,552 --> 00:00:57,600
+<font color="#f7f7f7">Hoarfrost is one that</font>
+
+19
+00:00:57,856 --> 00:01:00,160
+<font color="#f7f7f7">HOA are by the way</font>
+
+20
+00:01:00,416 --> 00:01:02,720
+<font color="#f5f5f5">It resembles loose ice crystals</font>
+
+21
+00:01:02,976 --> 00:01:06,560
+<font color="#dddddd">It can form on the ground or on virtually any object</font>
+
+22
+00:01:07,328 --> 00:01:10,912
+<font color="#e2e2e2">It often appears in the morning and after a cold clear night</font>
+
+23
+00:01:11,424 --> 00:01:16,032
+<font color="#fcfcfc">It manifests when water vapor condenses on a very cold surface</font>
+
+24
+00:01:16,544 --> 00:01:20,640
+<font color="#fcfcfc">What happens is that the water vapor freezes on contact</font>
+
+25
+00:01:21,408 --> 00:01:24,224
+<font color="#dcdcdc">A second type of frost is Rime Frost</font>
+
+26
+00:01:24,992 --> 00:01:27,552
+<font color="#e7e7e7">Spell that rime</font>
+
+27
+00:01:28,064 --> 00:01:31,392
+<font color="#fcfcfc">There's a picture of it in your books on page 194</font>
+
+28
+00:01:31,648 --> 00:01:32,160
+<font color="#fcfcfc">Take a look</font>
+
+29
+00:01:32,928 --> 00:01:36,512
+<font color="#fcfcfc">Note the ice crystals that are around the flower petals</font>
+
+30
+00:01:37,024 --> 00:01:43,168
+<font color="#e1e1e1">It forms when icy Wind Blows and water vapor freezes on flowers plants and trees</font>
+
+31
+00:01:43,424 --> 00:01:43,936
+<font color="#ebebeb">Three branches</font>
+
+32
+00:01:44,448 --> 00:01:45,216
+<font color="#fcfcfc">Pretty isn't it</font>
+
+33
+00:01:45,728 --> 00:01:50,336
+<font color="#e7e7e7">I should make an important point about Frost before we continue</font>
+
+34
+00:01:50,848 --> 00:01:52,640
+<font color="#f9f9f9">One big problem with frost</font>
+
+35
+00:01:52,896 --> 00:01:54,944
+<font color="#fcfcfc">Is that it can kill plants</font>
+
+36
+00:01:55,200 --> 00:02:01,344
+<font color="#e4e4e4">If Farmers plant their crops too early in the spring a late Frost can cause lots of damage</font>
+
+37
+00:02:01,600 --> 00:02:03,136
+<font color="#d1d1d1">And many plants can die</font>
+
+38
+00:02:03,904 --> 00:02:08,256
+<font color="#f0f0f0">In Fall if there is an early Frost like tonight's expected one</font>
+
+39
+00:02:08,768 --> 00:02:13,120
+<font color="#fbfbfb">Farmers need to harvest their crops to keep them from suffering any damage</font>
+
+40
+00:02:13,632 --> 00:02:17,472
+<font color="#eaeaea">No third type of frost is Fern Frost</font>
+
+41
+00:02:17,984 --> 00:02:20,288
+<font color="#fcfcfc">It's sometimes called window Frost</font>
+
+42
+00:02:20,544 --> 00:02:22,848
+<font color="#fcfcfc">There's a picture of it in your books as well</font>
+
+43
+00:02:23,104 --> 00:02:25,920
+<font color="#f6f6f6">It resembles the leaves of a fern doesn't it</font>
+
+44
+00:02:26,432 --> 00:02:29,504
+<font color="#fafafa">This type of frost forms when you have a window pane</font>
+
+45
+00:02:29,760 --> 00:02:33,344
+<font color="#fcfcfc">It's very warm on the inside and very cold on the outside</font>
+
+46
+00:02:35,392 --> 00:02:36,928
+<font color="#dcdcdc">No answer the questions</font>
+
+47
+00:02:37,952 --> 00:02:39,232
+<font color="#fcfcfc">Number 35</font>
+
+48
+00:02:39,744 --> 00:02:42,048
+<font color="#efefef">What is the teacher say about hoarfrost</font>

@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#cacaca">Number 8 listen to a teacher talking in an English class</font>
+
+2
+00:00:05,120 --> 00:00:11,264
+<font color="#f9f9f9">Writers often use various figures of speech these can considerably improve the quality of their</font>
+
+3
+00:00:11,520 --> 00:00:17,664
+<font color="#e5e5e5">Writing a simile is one common figure of speech a simile is a comparison between</font>
+
+4
+00:00:17,920 --> 00:00:24,064
+<font color="#dcdcdc">Two things that uses either like or as for instance he's as Brave as a lion</font>
+
+5
+00:00:24,320 --> 00:00:30,464
+<font color="#c9c9c9">Is a simile so is my love is like a rose how about coming up with two similes</font>
+
+6
+00:00:30,720 --> 00:00:35,072
+<font color="#c5c5c5">He's right now what does the teacher asked the students to do</font>

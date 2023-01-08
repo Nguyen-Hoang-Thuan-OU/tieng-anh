@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:03,840
+<font color="#d0d0d0">Number 8 listen to a teacher talking to some students</font>
+
+2
+00:00:04,608 --> 00:00:10,752
+<font color="#e8e8e8">We are going to have a new athletic team this year I think that a lot of you might be interested in participating on</font>
+
+3
+00:00:11,776 --> 00:00:17,920
+<font color="#cfcfcf">It's the cross-country team cross-country is a running sport but you don't run on a track</font>
+
+4
+00:00:18,176 --> 00:00:24,320
+<font color="#f7f7f7">Instead you run long distances Outdoors if anyone is interested let me know</font>
+
+5
+00:00:24,576 --> 00:00:26,368
+<font color="#f3f3f3">I can give you some more information</font>
+
+6
+00:00:27,136 --> 00:00:29,440
+<font color="#fcfcfc">What is the subject of the announcement</font>

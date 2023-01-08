@@ -1,0 +1,27 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#b6b6b6">Number three listen to a conversation between two friends</font>
+
+2
+00:00:05,120 --> 00:00:11,264
+<font color="#cccccc">Hey that's a nice bike your riding when did you get it my parents gave it to</font>
+
+3
+00:00:11,520 --> 00:00:12,544
+<font color="#989898">Show me yesterday</font>
+
+4
+00:00:12,800 --> 00:00:18,944
+<font color="#c9c9c9">Yesterday but isn't your birthday two months from now what was the occasion</font>
+
+5
+00:00:19,200 --> 00:00:25,344
+<font color="#f6f6f6">You didn't give it to me as a birthday present they gave it to me since I got all A's last semester</font>
+
+6
+00:00:25,600 --> 00:00:29,440
+<font color="#f1f1f1">I suppose it's kind of a reward for doing well</font>
+
+7
+00:00:29,952 --> 00:00:33,792
+<font color="#fcfcfc">According to the boy why did his parents buy him a bike</font>

@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#cacaca">Number 7 listen to a school principal making an announcement</font>
+
+2
+00:00:05,632 --> 00:00:11,776
+<font color="#fcfcfc">I'm proud to announce that our school has been selected as the best school in the city let me be the</font>
+
+3
+00:00:12,032 --> 00:00:18,176
+<font color="#cccccc">The first to congratulate you on a job well done there are 14 other schools in the city and</font>
+
+4
+00:00:18,432 --> 00:00:24,576
+<font color="#fafafa">We came out on top but don't let this go to your heads you need to keep up the good work and continue</font>
+
+5
+00:00:24,832 --> 00:00:25,600
+<font color="#fcfcfc">You working hard</font>
+
+6
+00:00:26,624 --> 00:00:28,928
+<font color="#fcfcfc">What is the purpose of the announcement</font>

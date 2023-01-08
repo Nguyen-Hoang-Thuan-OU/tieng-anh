@@ -1,0 +1,39 @@
+﻿1
+00:00:01,024 --> 00:00:01,792
+<font color="#e7e7e7">Number two</font>
+
+2
+00:00:02,560 --> 00:00:05,632
+<font color="#bcbcbc">Look at the picture marks number 2 and your test book</font>
+
+3
+00:00:08,192 --> 00:00:10,752
+<font color="#f8f8f8">A man is talking to his balls</font>
+
+4
+00:00:11,520 --> 00:00:12,544
+<font color="#696969">Be</font>
+
+5
+00:00:13,056 --> 00:00:15,360
+<font color="#9f9f9f">Scientists not measuring a product</font>
+
+6
+00:00:16,128 --> 00:00:17,152
+<font color="#cdcdcd">See</font>
+
+7
+00:00:17,920 --> 00:00:20,224
+<font color="#b5b5b5">The bikers are wearing safety gear</font>
+
+8
+00:00:20,992 --> 00:00:21,760
+<font color="#dcdcdc">D</font>
+
+9
+00:00:23,040 --> 00:00:25,088
+<font color="#949494">Liquor is taking a lunch break</font>
+
+10
+00:00:29,696 --> 00:00:32,000
+<font color="#e6e6e6">Go on to the next page</font>

@@ -1,0 +1,3 @@
+﻿1
+00:00:00,256 --> 00:00:04,352
+<font color="#ececec">Number 17 why does the boy mention math and science</font>

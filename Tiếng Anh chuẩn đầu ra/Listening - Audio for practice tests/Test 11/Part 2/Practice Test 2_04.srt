@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:05,376
+<font color="#fcfcfc">Number for listen to a conversation between a student and a teacher</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#e7e7e7">Bill I understand you saw some students bullying Tim during lunch time</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#fcfcfc">I guess so but I'm not exactly sure who they were you don't have to be afraid</font>
+
+4
+00:00:18,944 --> 00:00:25,088
+<font color="#c9c9c9">To give me their names bullying is something we need to stop but we can't do that unless</font>
+
+5
+00:00:25,344 --> 00:00:30,720
+<font color="#fcfcfc">Students have the courage to point out who the bullies are yes you're right</font>
+
+6
+00:00:31,744 --> 00:00:34,304
+<font color="#fcfcfc">What will the boy probably do next</font>

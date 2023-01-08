@@ -1,0 +1,19 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#d3d3d3">Number 8 listen to a school secretary making an announcement</font>
+
+2
+00:00:04,864 --> 00:00:11,008
+<font color="#fcfcfc">If you're ever late for school in the morning you need to do the following do not go to York</font>
+
+3
+00:00:11,264 --> 00:00:17,408
+<font color="#f8f8f8">Classroom instead come to my office you need to sign in at my desk you also need to let me</font>
+
+4
+00:00:17,664 --> 00:00:23,040
+<font color="#dddddd">Me know why you were late if you can bring a note from your parents that would be great</font>
+
+5
+00:00:23,296 --> 00:00:26,624
+<font color="#f3f3f3">What should late students do when arriving at school</font>

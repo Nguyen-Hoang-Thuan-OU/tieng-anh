@@ -1,0 +1,71 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#dddddd">Questions 80 through 82 refer to the following recorded announcement</font>
+
+2
+00:00:05,632 --> 00:00:08,192
+<font color="#e2e2e2">Thank you for calling Jetstream Airlines</font>
+
+3
+00:00:08,960 --> 00:00:10,752
+<font color="#e2e2e2">Please excuse the short delay</font>
+
+4
+00:00:11,008 --> 00:00:16,128
+<font color="#cccccc">Due to a special Logan phase olar agency busy assisting other colas</font>
+
+5
+00:00:16,896 --> 00:00:18,944
+<font color="#a7a7a7">Okoles will be answered in turn</font>
+
+6
+00:00:19,712 --> 00:00:24,064
+<font color="#fcfcfc">Please stay on the line and an airline representative will be with you shortly</font>
+
+7
+00:00:24,576 --> 00:00:26,624
+<font color="#e2e2e2">Here's a tip for busy Travelers</font>
+
+8
+00:00:26,880 --> 00:00:31,744
+<font color="#fbfbfb">When planning your trip don't forget to allow plenty of time to arrive at the airport</font>
+
+9
+00:00:32,512 --> 00:00:37,888
+<font color="#e9e9e9">Improved airport security means long lines when passing through security control</font>
+
+10
+00:00:38,656 --> 00:00:44,032
+<font color="#b5b5b5">Domestic Travelers should plan to arrive two hours before the scheduled departure time</font>
+
+11
+00:00:44,544 --> 00:00:48,896
+<font color="#e1e1e1">While International Travelers should arrive 3 hours ahead of time</font>
+
+12
+00:00:50,688 --> 00:00:51,712
+<font color="#fbfbfb">Number 80</font>
+
+13
+00:00:52,224 --> 00:00:55,040
+<font color="#fcfcfc">Who is probably listening to this announcement</font>
+
+14
+00:01:02,720 --> 00:01:04,000
+<font color="#fcfcfc">Number 81</font>
+
+15
+00:01:04,512 --> 00:01:06,304
+<font color="#fcfcfc">Why is there a delay</font>
+
+16
+00:01:13,984 --> 00:01:15,264
+<font color="#fcfcfc">Number 82</font>
+
+17
+00:01:15,520 --> 00:01:19,616
+<font color="#f6f6f6">When should travelers to other countries get to the airport</font>
+
+18
+00:01:27,296 --> 00:01:29,344
+<font color="#e6e6e6">Go on to the next page</font>

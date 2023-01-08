@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,864
+<font color="#cacaca">Number 6 listen to a conversation between two friends</font>
+
+2
+00:00:06,144 --> 00:00:12,288
+<font color="#fcfcfc">Are you going to take part in the spelling bee yes I am I signed up for it after</font>
+
+3
+00:00:12,544 --> 00:00:18,688
+<font color="#e1e1e1">Third period ended how about you I'm not that good at spelling I don't want to embarrass</font>
+
+4
+00:00:18,944 --> 00:00:25,088
+<font color="#cacaca">Where is myself in front of everyone go ahead and do it it's fun and the great</font>
+
+5
+00:00:25,344 --> 00:00:29,696
+<font color="#acacac">Variance as well and who knows you might even win</font>
+
+6
+00:00:30,464 --> 00:00:33,536
+<font color="#efefef">What are the speakers mainly discussing</font>

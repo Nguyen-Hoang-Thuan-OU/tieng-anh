@@ -1,0 +1,23 @@
+﻿1
+00:00:00,256 --> 00:00:04,096
+<font color="#cccccc">Number 8 listen to a teacher making an announcement</font>
+
+2
+00:00:04,608 --> 00:00:10,752
+<font color="#f0f0f0">There's one more thing I need to discuss it's my policy on pop quizzes I like to give at</font>
+
+3
+00:00:11,008 --> 00:00:17,152
+<font color="#c8c8c8">Least one per week anytime I give a pop quiz it will be at the start of class</font>
+
+4
+00:00:17,408 --> 00:00:23,552
+<font color="#d8d8d8">Each quiz will be worth ten points so it counts toward your final grade if you do the reading you're pretty much</font>
+
+5
+00:00:23,808 --> 00:00:26,112
+<font color="#d6d6d6">Guaranteed to get a perfect score</font>
+
+6
+00:00:27,392 --> 00:00:29,952
+<font color="#f3f3f3">What is the teacher mainly discussing</font>

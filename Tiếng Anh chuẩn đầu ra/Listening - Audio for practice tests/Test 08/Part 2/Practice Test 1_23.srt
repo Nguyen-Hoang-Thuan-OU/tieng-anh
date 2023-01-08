@@ -1,0 +1,159 @@
+﻿1
+00:00:00,256 --> 00:00:06,144
+<font color="#eaeaea">Questions 23 through 26 listen to a conversation between two friends</font>
+
+2
+00:00:07,168 --> 00:00:11,776
+<font color="#e3e3e3">Mary a few of us are going to the shopping mall to hang out after school</font>
+
+3
+00:00:12,032 --> 00:00:13,056
+<font color="#fcfcfc">Do you want to go</font>
+
+4
+00:00:13,312 --> 00:00:16,896
+<font color="#fcfcfc">We're all planning to take the bus together around 3:30</font>
+
+5
+00:00:17,408 --> 00:00:22,272
+<font color="#d5d5d5">Sorry Joe I'd really love to spend time with everyone today</font>
+
+6
+00:00:22,528 --> 00:00:26,368
+<font color="#fcfcfc">But I can't I have something else to do after school</font>
+
+7
+00:00:26,624 --> 00:00:28,928
+<font color="#f9f9f9">Do you mind if I ask what you're doing</font>
+
+8
+00:00:29,184 --> 00:00:30,208
+<font color="#8b8b8b">Not at all</font>
+
+9
+00:00:30,464 --> 00:00:32,768
+<font color="#fcfcfc">I'm going to go to the airport</font>
+
+10
+00:00:33,024 --> 00:00:34,048
+<font color="#fcfcfc">The airport</font>
+
+11
+00:00:34,304 --> 00:00:36,096
+<font color="#fcfcfc">Are you taking a trip somewhere</font>
+
+12
+00:00:36,608 --> 00:00:42,752
+<font color="#fafafa">No I'm not going anywhere but my sister and she is flying home this evening she has</font>
+
+13
+00:00:43,008 --> 00:00:45,312
+<font color="#d8d8d8">I've been in Italy for the last 6 months</font>
+
+14
+00:00:45,824 --> 00:00:47,360
+<font color="#fcfcfc">Isn't she a college student</font>
+
+15
+00:00:47,872 --> 00:00:49,408
+<font color="#fbfbfb">What was she doing in Italy</font>
+
+16
+00:00:49,920 --> 00:00:52,736
+<font color="#f6f6f6">She was in Italy as an exchange student</font>
+
+17
+00:00:52,992 --> 00:00:55,808
+<font color="#c6c6c6">She was studying at a university in Florence</font>
+
+18
+00:00:56,064 --> 00:00:57,856
+<font color="#fcfcfc">Her nature is art history</font>
+
+19
+00:00:58,112 --> 00:01:04,256
+<font color="#cacaca">So she wanted to study and Italy to get the chance to see all of the great medieval and Renaissance art that's</font>
+
+20
+00:01:04,512 --> 00:01:05,280
+<font color="#e1e1e1">In the country</font>
+
+21
+00:01:05,792 --> 00:01:06,304
+<font color="#c1c1c1">Wow</font>
+
+22
+00:01:06,560 --> 00:01:09,632
+<font color="#eaeaea">That sounds pretty cool did you have a good time</font>
+
+23
+00:01:09,888 --> 00:01:15,008
+<font color="#fcfcfc">I think so I didn't actually talk to her that much while she was gone</font>
+
+24
+00:01:15,520 --> 00:01:21,664
+<font color="#d6d6d6">Calling Italy is a little too expensive for me and my sister really text or email</font>
+
+25
+00:01:21,920 --> 00:01:23,456
+<font color="#fcfcfc">Even when she's at home</font>
+
+26
+00:01:23,712 --> 00:01:26,784
+<font color="#fcfcfc">So I only chatted with her a couple of times</font>
+
+27
+00:01:27,040 --> 00:01:29,344
+<font color="#f9f9f9">But it seems like she enjoyed herself</font>
+
+28
+00:01:29,600 --> 00:01:33,696
+<font color="#e2e2e2">She sounded rather happy in a few emails that I received from her</font>
+
+29
+00:01:34,208 --> 00:01:37,792
+<font color="#b2b2b2">She said some pictures too she looks good in them</font>
+
+30
+00:01:38,048 --> 00:01:41,120
+<font color="#f1f1f1">I can't wait to see all of the pictures that you took</font>
+
+31
+00:01:41,376 --> 00:01:42,144
+<font color="#fcfcfc">That's great</font>
+
+32
+00:01:42,400 --> 00:01:44,960
+<font color="#f1f1f1">I'd love to be an exchange student Sunday</font>
+
+33
+00:01:45,472 --> 00:01:48,032
+<font color="#fcfcfc">Well anyway I've got to get going</font>
+
+34
+00:01:48,288 --> 00:01:49,824
+<font color="#fcfcfc">Have fun meeting your sister</font>
+
+35
+00:01:50,080 --> 00:01:51,360
+<font color="#fcfcfc">Thanks I will</font>
+
+36
+00:01:51,616 --> 00:01:54,944
+<font color="#fcfcfc">And please tell everyone why I can't meet them today</font>
+
+37
+00:01:55,200 --> 00:01:57,504
+<font color="#eaeaea">I promise to be there next time</font>
+
+38
+00:01:59,552 --> 00:02:01,344
+<font color="#fcfcfc">Now answer the questions</font>
+
+39
+00:02:02,368 --> 00:02:03,648
+<font color="#fcfcfc">Number 23</font>
+
+40
+00:02:03,904 --> 00:02:06,464
+<font color="#eeeeee">What are the speakers mainly discussing</font>
